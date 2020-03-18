@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: e73b72e29cc5b953fe908623d54a9daf486a7ffc
 
 ---
 
@@ -167,6 +167,10 @@ Se [AppMeasurement for Javascript, versionsinformation](https://docs.adobe.com/c
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Nya funktioner och uppdateringar i Audience Manager:
+
+| Funktion | Beskrivning |
+| -----------| ---------- |
+| [Arbetsblad för grupphanteringsverktyg](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Det finns en ny version av kalkylbladet som åtgärdar ett problem som vissa kunder råkade ut för när de skapade algoritmiska modeller i 64-bitars operativsystemet Windows. Ladda ned den senaste versionen [här](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm). |
 
 ### Korrigeringar och förbättringar {#aam-fixes-and-improvements}
 
@@ -336,7 +340,7 @@ Nya självhjälpsartiklar och videor. <!--`https://jira.corp.adobe.com/secure/Da
 | [!DNL Adobe Campaign]- Målgrupper | Video - [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Lär dig hur du ändrar målgruppsdimensionen för en leverans för en plattformsmålgrupp utanför den primära profiltabellen i Adobe Campaign Standard. |
 | [!DNL Adobe Campaign] | Video - [Big data management på Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Dra nytta av Snowflake-kontakten i Adobe Campaign Classic. |
 | [!DNL Adobe Campaign] - Målgrupper | Artikel - [Målgrupper (BETA) - Översikt](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Lär dig utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard. |
-| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobiltjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
+| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobila tjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Se välstrukturerade klipp från den högteknologiska supersessionen på Summit 2019. |
 | Adobe Analytics | Video - [introduktion till beräknade värden i kundreseanalys](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Gå igenom grunderna för att skapa [!UICONTROL beräknade värden] i [!UICONTROL kundreseanalyser]. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Se kuraterade klipp från rese- och turismsessionen på Summit 2019. |
