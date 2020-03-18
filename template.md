@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 53e2135044074e22470887540fb641262c607bd3
+source-git-commit: 78a2b7841c4b404cc96b912cef2a3702c7e29ec8
 
 ---
 
@@ -26,18 +26,18 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 
 **Releasedatum: 2020**
 
-* [[!DNL Adobe] - systemstatus](#status)
-* [[!DNL Experience Cloud] och [!UICONTROL bastjänster]](#ecloud)
+* [Systemstatus för Adobe](#status)
+* [Experience Cloud och [!UICONTROL bastjänster]](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
-* [[!DNL Audience Manager]](#aam)
-* [[!DNL Experience Manager]](#aem)
-* [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (länkar till lösningshjälp)
-* [!DNL Advertising Cloud](#adcloud)
-* [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (länkar till lösningshjälp)
+* [Analyser](#analytics)
+* [Audience Manager](#aam)
+* [Experience Manager](#aem)
+* [Campaign](#ac)
+* [Mål](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (länkar till hjälplösningar)
+* [Advertising Cloud](#adcloud)
+* [Magento](#magento)
+* [Marketo](#marketo)
+* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (länkar till lösningshjälp)
 * [Ny dokumentation och självstudiekurser](#selfhelp)
 
 Söker du hjälp hem? Se [Adobe Experience Cloud-dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -48,7 +48,7 @@ Funktioner och korrigeringar.
 
 Se [Adobes systemstatus](https://status.adobe.com/).
 
-## [!DNL Experience Cloud] och [!UICONTROL bastjänster]{#ecloud}
+## Experience Cloud och [!UICONTROL bastjänster]{#ecloud}
 
 Nya funktioner och korrigeringar i Experience Cloud-gränssnittet, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies och så vidare).
 
@@ -113,7 +113,7 @@ Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/hel
 
 Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) och [iOS SDK 4.x för Experience CloudSolutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
-## [!DNL Analytics] {#analytics}
+## Analyser {#analytics}
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
@@ -139,7 +139,7 @@ Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Data Workbench] {#aa-dwb}
+### Data Workbench {#aa-dwb}
 
 Den senaste informationen finns i [Versionsinformation](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) för Data Workbench.
 
@@ -171,7 +171,7 @@ I Versionshistorik [för](https://docs.adobe.com/content/help/en/analytics/imple
 * PHP
 * Symbian
 
-## [!DNL Audience Manager] {#aam}
+## Audience Manager {#aam}
 
 | Funktion | Beskrivning |
 | -----------| ---------- |  
@@ -186,7 +186,7 @@ I Versionshistorik [för](https://docs.adobe.com/content/help/en/analytics/imple
 * Korrigera
 * Korrigera
 
-## [!DNL Experience Manager] {#aem}
+## Experience Manager {#aem}
 
 Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM). Adobe rekommenderar att kunder med anläggningsdistributioner driftsätter de senaste patcharna för att få bättre stabilitet, säkerhet och prestanda.
 
@@ -242,7 +242,7 @@ Följande AEM-dokumentationsuppsättningar har migrerats till en ny dokumentatio
 * Korrigera
 * Korrigera
 
-## [!DNL Social] {#soc}
+## Social {#soc}
 
 | Funktion | Beskrivning |
 | -----------| ---------- |  
@@ -257,7 +257,7 @@ Följande AEM-dokumentationsuppsättningar har migrerats till en ny dokumentatio
 * Korrigera
 * Korrigera
 
-## [!DNL Campaign] {#ac}
+## Campaign {#ac}
 
 Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga meddelanden i alla marknadsföringskanaler, både online och offline. Nu kan ni förutse vad era kunder vill ha med upplevelser som bestäms av deras vanor och önskemål.
 
@@ -267,7 +267,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) - [Versionsinformation](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Videofilmer om hur du gör](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Versionsinformation](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## [!DNL Advertising Cloud] {#adcloud}
+## Advertising Cloud {#adcloud}
 
 | Funktion | Beskrivning |
 | -----------| ---------- |  
@@ -282,18 +282,18 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 * Korrigera
 * Korrigera
 
-## [!DNL Magento] {#magento}
+## Magento {#magento}
 
-Versionsinformation [!DNL Magento] finns i:
+Versionsinformation om Magento finns i:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## Marketo {#marketo}
 
-[!DNL Marketo Engage] är en komplett lösning för lead-hantering och B2B-marknadsförare som vill omvandla kundupplevelser genom att engagera sig i alla faser av komplexa inköpsresor.
+Marketo Engage är en komplett lösning för lead-hantering och B2B-marknadsförare som vill omvandla kundupplevelser genom att engagera i alla faser av komplexa inköpsresor.
 
-### Viktiga [!DNL Marketo Engage] uppdateringar
+### Uppdateringar om Core Marketo Engage
 
 Releasedatum: 21 februari 2020
 
@@ -304,7 +304,7 @@ Releasedatum: 21 februari 2020
    * API:er för omdirigeringsregler för landningssidor
 * **Cachelagring av formulärbeskrivare:** Förbättringar av landningssidor och formulär.
 
-Mer information finns i [!DNL Marketo] versionsinformationen för [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) .
+Mer information finns i Marketo Release Notes för [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) .
 
 ### Kommande funktioner
 
