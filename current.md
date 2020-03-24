@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
+source-git-commit: 11dd1c361df84ef52b54734e2cbd231fce0cfda3
 
 ---
 
@@ -240,7 +240,7 @@ Se [När du arbetar med smart beskärning](https://docs.adobe.com/content/help/e
 
 ### Ytterligare resurser
 
-* [AEM som molntjänst](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+* [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 - startsida för utbildning och support](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 - startsida för utbildning och support](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 - startsida för utbildning och support](https://helpx.adobe.com/support/experience-manager/6-3.html)
@@ -271,9 +271,11 @@ Uppdaterad 20 mars 2020 för 21 mars:
 
 | Visa | Funktion |
 |------|---------|
-| [!UICONTROL Portföljer] | Du kan nu lägga till YDN-kampanjer ( [!DNL Yahoo!] Japan Display Network) i portföljer för att optimera kampanjbudgeten och annonserbjudanden på gruppnivå. Samma bud gäller för alla annonser i en annonsgrupp. Data för japanska Display Network-kampanjer ingår i simuleringarna för portföljen. |
-| [!UICONTROL Sök] > [!UICONTROL Bulksheets] | Nu kan du skapa, redigera och ta bort responsiva sökannonser för Google med hjälp av kalkylblad. Tidigare fanns support endast via standardgränssnittet för kampanjhantering på **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** |
-| [!UICONTROL Sök] > [!UICONTROL Kampanjer, Rapporter] | Google Ads-presentationsmått `Impr. (Abs. Top) %` och `Impr. (Top) %` finns nu i alla grundläggande rapporter och kampanjhanteringsvyer på entitetsnivå, utom för kundproduktgrupper, [!UICONTROL Campaign Daily Impression Share] och [!UICONTROL Keyword Daily Impression Share] -rapporter samt i etiketter och begränsningsvyer. |
+| [!UICONTROL Portföljer] | Kontakta din kontoansvarige om du vill ha riktlinjer för hur du hanterar dina portföljer för att ta hänsyn till trafikförändringar som följer av COVID-19. |
+|  | (Google Ads- och Microsoft Ads-kampanjer) I optimerade portföljer med alternativet Automatisk optimering av värden för budjustering optimerar inte längre Advertising Cloud automatiskt inställningarna för anbudsjustering för kampanjer med hjälp av den förbättrade anbudsstrategin för kostnaden per klick (eCPC). Sökmotorn optimerar alla offertjusteringar vid tidpunkten för auktionen. Advertising Cloud optimerar fortfarande basanbuden och - när alternativet &quot;Justera kampanjbudgetgränser automatiskt&quot; är aktiverat - kampanjbudgeten. |
+| [!UICONTROL Varningar Beta] | (Betafunktion) Du kan nu skapa varningsmallar som identifierar när en portfölj uppfyller specifika villkor - som prestandamått - under en viss period och sedan generera en avisering. Du kan skapa meddelanden på portföljnivå från **[!UICONTROL Insights &amp; Reports]** > **[!UICONTROL Alerts (Beta)]** , men inte från **[!UICONTROL Optimization]** > **[!UICONTROL Portfolios)]**. **Obs!** Varningar som skapats från den äldre versionen av Varningar Beta, som ersattes i januari, är inte längre tillgängliga. |
+|  |
+| [!UICONTROL Admin] > [!UICONTROL Transaktionsegenskaper] | En ny kolumn för egenskaps-ID visar det unika egenskaps-ID:t för varje transaktionsegenskap. Du kan söka efter alla strängar som finns i kolumnvärdena. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento]{#magento}
 
