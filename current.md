@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
+source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
 
 ---
 
@@ -60,7 +60,7 @@ Söker du hjälp hem? Se [Adobe Experience Cloud-dokumentation](https://docs.ado
 | Personaliserade upplevelser baserat på användarpreferenser | <ul><li>Tidszonsinställningen baseras på webbläsarens inställning och används i e-postmeddelanden.</li><li>E-postbekräftelse skickad vid prenumeration/avprenumeration med alla valda inställningar.</li></ul> |
 | Bättre leverans av händelsemeddelanden | <ul><li>Händelsehistorik sorterad baserat på uppdateringar av kronologiska händelser.</li><li>Tidsstämpel för händelseupplösning har lagts till i större/mindre stängda problem.</li></ul> |
 
-## ![Ikon](/assets/experience-cloud.png) för Experience Cloud-gränssnittet och bastjänsterna {#ecloud}
+## ![Ikon](/assets/ec_appicon_24.png) för Experience Cloud-gränssnittet och bastjänsterna {#ecloud}
 
 Nya funktioner och korrigeringar i Experience Cloud-gränssnittet, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies och så vidare).
 
@@ -86,7 +86,7 @@ Bland uppdateringarna finns:
 
 Produktdokumentation finns i hjälpen för [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) .
 
-## ![Icon](/assets/platform.png) Experience Platform {#platform}
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Versionsinformation om [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services och säkerhetsbulletiner.
 
@@ -320,7 +320,7 @@ Följande funktioner släpps under hela kvartalet:
 
 Information om kumulativa och historiska releaser finns i [Marketo-versionsinformation](https://docs.marketo.com/x/CgA6Ag).
 
-## ![Ikon](/assets/experience-cloud.png) Ny dokumentation och självstudiekurser {#selfhelp}
+## ![Ikon](/assets/ec_appicon_24.png) Ny dokumentation och självstudiekurser {#selfhelp}
 
 Nya självhjälpsartiklar och videor. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
