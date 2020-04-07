@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
+source-git-commit: 8858c0e35b44936624540fb10067cd9a8b1589c6
 
 ---
 
@@ -16,15 +16,12 @@ source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
 
 Nya funktioner och korrigeringar i [!DNL Adobe Experience Cloud].
 
->[!IMPORTANT]
->Den här sidan innehåller förhandsversion av innehåll som kan ändras före den planerade versionen.
-
 >[!NOTE]
 >Prenumerera på [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner. Ny information som publiceras efter publiceringen markeras med publiceringsdatumet.
 
 **Releasedatum: Mars 2020**
 
-Senaste uppdatering: 11 mars 2020
+Senaste uppdatering: 11 **mars 2020**
 
 * [Systemstatus för Adobe](#status)
 * [Experience Clouds gränssnitt och bastjänster](#ecloud)
