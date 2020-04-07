@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
+source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
 
 ---
 
@@ -29,7 +29,7 @@ Senaste uppdatering: 11 mars 2020
 * [Systemstatus för Adobe](#status)
 * [Experience Clouds gränssnitt och bastjänster](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Releasedatum: 12 **mars 2020** (uppdaterad 27 mars 2020)
+* [!DNL Analytics](#analytics) - Releasedatum: 12 **mars 2020** (uppdaterad 7 april 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -128,7 +128,7 @@ Releasedatum: 12 **mars 2020**
 Nya funktioner och korrigeringar i Adobe Analytics:
 
 * [Nya funktioner, förbättringar och korrigeringar i Adobe Analytics](#aa-features)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 27 mars 2020)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 7 april 2020)
 * [AppMeasurement](#appm)
 
 Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
@@ -153,6 +153,7 @@ Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
+| Ändra hur poster/utträden beräknas i arbetsytan | 7 april 2020 | I Analysis Workspace, från mars 2020, har vi ändrat hur värdet &quot;Ingen&quot; interagerar med poster/utträden. Eftersom du nu kan aktivera och inaktivera &quot;Inga&quot; på arbetsytan för analyser, använder vi&quot;Inget&quot; efter att du har skrivit in eller avslutat, medan (för eVars) det tidigare användes. Anta till exempel att den första träffen av ett besök inte har något värde för eVarx, men att den andra träffen gör det. I Rapporter och analyser visas det som&quot;Ospecificerad&quot; för posten, men i Analysis Workspace visas det som värdet för den andra träffen. |
 | EOL för inställning av **[!UICONTROL konverteringsnivå]** | 3 mars 2020 | Inställningen för icke fungerande [konverteringsnivå](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) i **[!UICONTROL Administratörsverktyg]>[!UICONTROL Rapportsviter]>[!UICONTROL Allmänna kontoinställningar]** kommer att tas bort från gränssnittet den 12 mars 2020. |
 | EOL för **[!UICONTROL instrumentpanelsarkiv]** | 27 mars 2020 | Inställningen **[!UICONTROL Visa arkiv]** under **[!UICONTROL Hantera instrumentpaneler]** i [!UICONTROL rapporter och analyser] är inte längre tillgänglig från och med oktober 2020. |
 | Stöd för TLS 1.1 upphör | 3 oktober 2019 | Adobe Analytics tar bort stödet för TLS 1.1 senast den 31 mars 2020. Den här förändringen är en del av våra pågående ansträngningar att upprätthålla högsta säkerhetsstandarder och främja säkerheten för kunddata. |
@@ -342,7 +343,7 @@ Nya självhjälpsartiklar och videor. <!--`https://jira.corp.adobe.com/secure/Da
 | [!DNL Adobe Campaign]- Målgrupper | Video - [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Lär dig hur du ändrar målgruppsdimensionen för en leverans för en plattformsmålgrupp utanför den primära profiltabellen i Adobe Campaign Standard. |
 | [!DNL Adobe Campaign] | Video - [Big data management på Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Dra nytta av Snowflake-kontakten i Adobe Campaign Classic. |
 | [!DNL Adobe Campaign] - Målgrupper | Artikel - [Målgrupper (BETA) - Översikt](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Lär dig utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard. |
-| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobila tjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
+| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobiltjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Se välstrukturerade klipp från den högteknologiska supersessionen på Summit 2019. |
 | Adobe Analytics | Video - [introduktion till beräknade värden i kundreseanalys](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Gå igenom grunderna för att skapa [!UICONTROL beräknade värden] i [!UICONTROL kundreseanalyser]. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Se kuraterade klipp från rese- och turismsessionen på Summit 2019. |
