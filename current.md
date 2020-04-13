@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 80852c2797ad1a26b6c4a806fa2cf3ef59f84707
+source-git-commit: 1cbba06183a2cd2897303e99dd7da89041a2d106
 
 ---
 
@@ -181,7 +181,7 @@ Nya funktioner och korrigeringar i Adobe Audience Manager:
 
 | Funktion | Beskrivning |
 | -----------| ---------- |  
-| [De vanligaste frågorna för kundsupport](../support-issues/support-issues-overview.md) | Vi har lagt till ett nytt avsnitt i vår dokumentationsportal, som innehåller svar på de vanligaste frågorna som vårt kundsupportteam har fått. |
+| De vanligaste frågorna för kundsupport | Vi har lagt till ett nytt avsnitt i vår dokumentationsportal, som innehåller svar på de vanligaste frågorna som vårt kundsupportteam har fått. |
 
 * Korrigerade ett problem som medförde att knapparna [!UICONTROL Duplicera test] och [!UICONTROL Duplicera allokeringsmall] i [!UICONTROL Audience Lab] inte fungerade. (AAM-53388)
 * Korrigerade ett problem som medförde att målgrupper [!UICONTROL som kan] matcha frekvens [!UICONTROL och] segmentadresservisas som 0 när ett mål har konfigurerats för att exportera UUID. Matchningsfrekvens [!UICONTROL och] Segmentadresserbara målgrupper  visas nu som 100 %. (AAM-51615)
