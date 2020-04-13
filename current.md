@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 87f42aedd2b8c987b092c614468d536fa48ae724
+source-git-commit: 80852c2797ad1a26b6c4a806fa2cf3ef59f84707
 
 ---
 
@@ -65,6 +65,19 @@ Nya funktioner och korrigeringar i Experience Cloud-gränssnittet, inklusive adm
 * Inloggningssidan för Experience Cloud uppdaterades för att återspegla nya varumärkeselement. (EXC-10747)
 
 Produktdokumentation finns i hjälpen för [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) .
+
+### Enhetlig produktdomän
+
+Adobe uppdaterar domänen och gränssnittshuvudet för att göra upplevelsen enhetlig och bättre i alla Experience Cloud-program. Dessa förbättringar är utformade för att förenkla din upplevelse på små men viktiga sätt. Dessa förbättringar kommer inte att ändra dina aktuella arbetsflöden.
+
+Bland uppdateringarna finns:
+
+* Nya URL:er för lösningar: `experience.adobe.com/<application name>`:
+   * Alla produkter kommer så småningom att använda det här URL-mönstret. Leta efter nya URL:er som ska gälla hela månaden.
+   * Stöd för webbläsare: De webbläsare som stöds är [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]och [!DNL Opera] (de senaste versionerna). **Obs!** Trots att Experience Cloud-gränssnittet har stöd för dessa webbläsare kanske inte enskilda lösningar har stöd för alla webbläsare. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) stöder till exempel inte [!DNL Opera]och [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) stöder inte [!DNL Safari].)
+   * ([!DNL Safari] endast) Domänändringen kan orsaka cookie-problem i [!DNL Safari]. Om du avmarkerar _Förhindra spårning_ av webbplatser i [!DNL Safari] Sekretessinställningar aktiveras cookies i domäner (och alla upplevelser på olika webbplatser), och Experience Cloud kan fungera i den nya domänen.
+* Enklare att växla mellan olika organisationer eller till olika applikationer.
+* Förbättrad produkthjälp: Experience [!UICONTROL League] är integrerat i produkten så att en hjälpsökning även innehåller resultat från communityforum och videoinnehåll. Den här ändringen förenklar åtkomsten till mer innehåll och hjälper er att få ut mesta möjliga av Experience Cloud. Klicka dessutom på **[!UICONTROL Hjälp]** > **[!UICONTROL Feedback]** för att rapportera problem eller dela med dig av dina idéer till Adobe.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
