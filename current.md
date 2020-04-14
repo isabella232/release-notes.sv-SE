@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cbba06183a2cd2897303e99dd7da89041a2d106
+source-git-commit: 26ff9349ed0c5dc19167e4d21c03f5261f802e73
 
 ---
 
@@ -181,8 +181,9 @@ Nya funktioner och korrigeringar i Adobe Audience Manager:
 
 | Funktion | Beskrivning |
 | -----------| ---------- |  
-| De vanligaste frågorna för kundsupport | Vi har lagt till ett nytt avsnitt i vår dokumentationsportal, som innehåller svar på de vanligaste frågorna som vårt kundsupportteam har fått. |
+| [De vanligaste frågorna för kundsupport](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | Vi har lagt till ett nytt avsnitt i vår dokumentationsportal, som innehåller svar på de vanligaste frågorna som vårt kundsupportteam har fått. |
 
+* Korrigerade ett problem som orsakade felaktig rapportering av [adresserbara målgrupper](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) för segment som innehåller mobila enhets-ID:n. Efter den här uppdateringen kan ni se en ökning av era [adresserbara målgrupper](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html).
 * Korrigerade ett problem som medförde att knapparna [!UICONTROL Duplicera test] och [!UICONTROL Duplicera allokeringsmall] i [!UICONTROL Audience Lab] inte fungerade. (AAM-53388)
 * Korrigerade ett problem som medförde att målgrupper [!UICONTROL som kan] matcha frekvens [!UICONTROL och] segmentadresservisas som 0 när ett mål har konfigurerats för att exportera UUID. Matchningsfrekvens [!UICONTROL och] Segmentadresserbara målgrupper  visas nu som 100 %. (AAM-51615)
 * Korrigerade ett problem som orsakade att trait-namn som innehåller specialtecken skulle HTML-kodas två gånger. (AAM-54001)
