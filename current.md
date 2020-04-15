@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 34940c585feab93f47f7915f4b45fa4a555cd235
+source-git-commit: 5f42fc9ac718298602c7c02897b38a5e6009b893
 
 ---
 
@@ -116,21 +116,26 @@ Unity 4.19.0 (10 mars 2020):
 
 >[!IMPORTANT]
 >
->Underhållsutgåvan för Adobe Analytics från april har flyttats till 21 maj 2020. Information om den senaste versionen av Analytics finns i [Mars versionsinformation](c-legacy-releases/2020/03122020.md)
-
-<!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
-* [AppMeasurement](#appm) -->
+>Huvuddelen av underhållsreleasen från Adobe Analytics har flyttats till 21 maj 2020. Information om den senaste versionen av Analytics finns i [Mars versionsinformation](c-legacy-releases/2020/03122020.md)
 
 * [Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Adobe Analytics](#aa-features)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 7 april 2020)
+* [AppMeasurement](#appm) —>
 * [Självstudiekurser om nya analyser](#tutorials-analytics)
 
-<!-- ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
+### Customer Journey Analytics {#cust-journey}
 
-| Feature    | Description  |
+| Funktion | Beskrivning |
 | -----------| ---------- |
-|Analytics support for [!UICONTROL Experience Edge] |You can now forward data that was sent to [!UICONTROL Experience Edge] to Analytics.|
-|[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
+| [!UICONTROL Customer Journey Analytics]: Automatiserad datauppsättningsbackfill | Med det nya alternativet kan du importera alla historiska data för en anslutning i [!UICONTROL kundreseanalysen]. [Läs mer](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html) |
+
+### Nya funktioner i Adobe Analytics {#aa-features}
+
+| Funktion | Beskrivning |
+| -----------| ---------- |
+| Analysstöd för [!UICONTROL Experience Edge] | Ni kan nu vidarebefordra data som skickats till [!UICONTROL Experience Edge] till Analytics. |
+<!-- |[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
 
 #### Analytics fixes
 
@@ -149,30 +154,24 @@ Unity 4.19.0 (10 mars 2020):
 
 #### Additional Analytics fixes
 
-AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-160480; AN-199299; AN-209486; AN-212961; AN-211539; AN-213095; AN-212653; AN-211826; AN-206948; AN-208607; AN-204286; AN-214401; AN-212130; AN-211943; AN-212709; AN-212833; AN-211550; AN-212977; AN-213422; AN-213450; AN-214528; AN-213827; AN-214094; AN-214153; AN-214234; AN-214355; AN-214427; AN-214642; AN-214691; AN-214924; AN-215080; AN-215212
+AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-160480; AN-199299; AN-209486; AN-212961; AN-211539; AN-213095; AN-212653; AN-211826; AN-206948; AN-208607; AN-204286; AN-214401; AN-212130; AN-211943; AN-212709; AN-212833; AN-211550; AN-212977; AN-213422; AN-213450; AN-214528; AN-213827; AN-214094; AN-214153; AN-214234; AN-214355; AN-214427; AN-214642; AN-214691; AN-214924; AN-215080; AN-215212 -->
 
-### Important notices for [!DNL Analytics] administrators {#aa-notices}
+### Viktiga meddelanden för [!DNL Analytics] administratörer {#aa-notices}
 
-| Notice | Date Added or Updated  | Description |
+| Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
-|Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace]|April 7, 2020|In [!UICONTROL Analysis Workspace], as of March 2020, we have changed how the _None_ value interacts with [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before. For example, assume the first hit of a visit has no value for eVars, but the second hit does. In [!UICONTROL Reports & Analytics] it will show up as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit.|
-|EOL of **[!UICONTROL Conversion Level]** setting|March 3, 2020|The non-functioning [Conversion Level](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** will be removed from the interface on March 12, 2020.|
-|EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
-|End of Support for TLS 1.1 | October 3, 2019 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data.|
-|New Adobe Analytics domain|Dec. 18, 2019|On January 16, 2020, Adobe Analytics began moving to a new domain - `https://experience.adobe.com/analytics.`<br>**Note:** This change applies to all users accessing Analytics with their Adobe ID or Enterprise ID. <ul><li>The domain change may cause cookie issues when loading Analytics in Safari. Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. You can use other browsers without issue because this affects only [!DNL Safari] users.</li><li>The domain change may cause [!UICONTROL Activity Map] to stop working for some customers [in specific cases](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul>|
-|End of Life - Analytics Legacy APIs|January 9, 2020|In November 2020, the following Analytics Legacy API services will reach their end-of-life and will be shutdown. Current integrations built using these services will stop working. <ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs.|
-|San Jose FTP Broker Ending for London and Singapore|July 2020|For customers in London and Singapore, we will no longer support brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>For London, use [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>For Singapore, use [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul>|
-|EOL of Ad Hoc Analysis|Aug 6, 2018|Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/).|
+| Ändra till hur [!UICONTROL inmatningar/utmatningar] beräknas i [!UICONTROL arbetsytan] | 7 april 2020 | I [!UICONTROL Analysis Workspace], från mars 2020, har vi ändrat hur värdet _None_ interagerar med [!UICONTROL Entry/Exits]. Eftersom du nu kan aktivera och inaktivera _Inga_ i [!UICONTROL Analysis Workspace], använder vi värdet _None_ efter att posten eller avslutningen har angetts, medan det (för eVars) tidigare användes. Anta till exempel att den första träffen av ett besök inte har något värde för eVars, men att den andra träffen gör det. I [!UICONTROL Rapporter och analyser] visas det som _Ospecificerat_ för posten, men i [!UICONTROL Analysis Workspace] visas det som värdet för den andra träffen. |
+| EOL för inställning av **[!UICONTROL konverteringsnivå]** | 3 mars 2020 | Den icke fungerande [inställningen för konverteringsnivå](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) i **[!UICONTROL Administratörsverktyg]** > **[!UICONTROL Rapportsviter]** > **[!UICONTROL Allmänna kontoinställningar]** kommer att tas bort från gränssnittet den 12 mars 2020. |
+| EOL för **[!UICONTROL instrumentpanelsarkiv]** | 27 mars 2020 | Inställningen **[!UICONTROL Visa arkiv]** under **[!UICONTROL Hantera instrumentpaneler]** i [!UICONTROL rapporter och analyser] är inte längre tillgänglig från och med oktober 2020. |
+| Stöd för TLS 1.1 upphör | 3 oktober 2019 | Adobe Analytics tar bort stödet för TLS 1.1 senast den 31 mars 2020. Den här förändringen är en del av våra pågående ansträngningar att upprätthålla högsta säkerhetsstandarder och främja säkerheten för kunddata. |
+| Ny Adobe Analytics-domän | 18 dec 2019 | Den 16 januari 2020 började Adobe Analytics gå över till en ny domän - `https://experience.adobe.com/analytics.`<br>**Obs!**Den här ändringen gäller alla användare som använder Analytics med sina Adobe ID:n eller Enterprise ID:n.<ul><li>Domänändringen kan orsaka cookie-problem när Analytics läses in i Safari. Om du avmarkerar _Förhindra spårning_ av webbplatser i [!DNL Safari] Sekretessinställningar aktiveras cookies i domäner (och alla upplevelser på olika webbplatser). Analytics kan dessutom användas i den nya Adobe Experience Cloud-domänen. Du kan använda andra webbläsare utan problem eftersom det bara påverkar [!DNL Safari] användare.</li><li>Domänändringen kan göra att [!UICONTROL aktivitetskartan] slutar fungera för vissa kunder [i vissa fall](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul> |
+| Slutet av livscykeln - äldre API:er för analys | 9 januari 2020 | I november 2020 kommer följande API-tjänster för Analytics Legacy att ha nått sitt slutdatum och kommer att avslutas. Aktuella integreringar som byggts med dessa tjänster kommer att sluta fungera. <ul><li>1.3 API:er för analys</li><li>1.4 API:er för SOAP-analys</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tagit fram en [äldre API EOL - Frågor och svar](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4-API:erna](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) för REST eller [2.0-API:erna](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email)för analys. Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analys och 2.0-API:er för analys. |
+| San Jose FTP Broker Ending for London and Singapore | Juli 2020 | För kunder i London och Singapore stöder vi inte längre förmedling av data mellan London eller Singapore och datacentret [ftp.omniture.com](ftp://ftp.omniture.com/)i San Jose.<br/><ul><li>För London använder du [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Använd [ftp4.omniture.com för Singapore](ftp://ftp4.omniture.com/)</li></ul> |
+| EOL för ad hoc-analys | 6 aug 2018 | Adobe har meddelat att man avser att göra en Ad hoc-analys vid slutet av livscykeln. Ett slutdatum delas så snart det är tillgängligt. Mer information finns på [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### [!DNL AppMeasurement] {#appm}
 
-See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020. -->
-
-### Customer Journey Analytics {#cust-journey}
-
-| Funktion | Beskrivning |
-| -----------| ---------- |
-| [!UICONTROL Customer Journey Analytics]: [!UICONTROL Automatiserad datauppsättningsåterfyllnad] | Med det nya alternativet kan du importera alla historiska data för en anslutning i [!UICONTROL kundreseanalysen]. (Dokumentation att följa) |
+Se [AppMeasurement for Javascript, versionsinformation](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 släpptes 5 mars 2020.
 
 ### Självstudiekurser om nya analyser {#tutorials-analytics}
 
