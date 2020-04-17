@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
+source-git-commit: 16804e8f1eeb1d836b904c85a8c538077166242b
 
 ---
 
@@ -34,10 +34,10 @@ Nya funktioner och korrigeringar i [!DNL Adobe Experience Cloud].
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (länkar till hjälpsidan för lösningen)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (länkar till målets hjälpsida)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (länkar till hjälpsidan för lösningen)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (länkar till Primetimes hjälpsida)
 
 Söker du hjälp hem? Se [Adobe Experience Cloud-dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -71,9 +71,9 @@ Adobe uppdaterar domänen och gränssnittshuvudet för att göra upplevelsen enh
 
 Bland uppdateringarna finns:
 
-* Nya URL:er för lösningar: `experience.adobe.com/<application name>`:
+* Nya program-URL:er: `experience.adobe.com/<application name>`:
    * Alla produkter kommer så småningom att använda det här URL-mönstret. Leta efter nya URL:er som ska gälla hela månaden.
-   * Stöd för webbläsare: De webbläsare som stöds är [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]och [!DNL Opera] (de senaste versionerna). **Obs!** Trots att Experience Cloud-gränssnittet har stöd för dessa webbläsare kanske inte enskilda lösningar har stöd för alla webbläsare. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) stöder till exempel inte [!DNL Opera]och [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) stöder inte [!DNL Safari].)
+   * Stöd för webbläsare: De webbläsare som stöds är [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]och [!DNL Opera] (de senaste versionerna). **Obs!** Trots att Experience Cloud-gränssnittet har stöd för dessa webbläsare kanske inte enskilda program har stöd för alla webbläsare. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) stöder till exempel inte [!DNL Opera]och [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) stöder inte [!DNL Safari].)
    * ([!DNL Safari] endast) Domänändringen kan orsaka cookie-problem i [!DNL Safari]. Om du avmarkerar _Förhindra spårning_ av webbplatser i [!DNL Safari] Sekretessinställningar aktiveras cookies i domäner (och alla upplevelser på olika webbplatser), och Experience Cloud kan fungera i den nya domänen.
 * Enklare att växla mellan olika organisationer eller till olika applikationer.
 * Förbättrad produkthjälp: Experience [!UICONTROL League] är integrerat i produkten så att en hjälpsökning även innehåller resultat från communityforum och videoinnehåll. Den här ändringen förenklar åtkomsten till mer innehåll och hjälper er att få ut mesta möjliga av Experience Cloud. Klicka dessutom på **[!UICONTROL Hjälp]** > **[!UICONTROL Feedback]** för att rapportera problem eller dela med dig av dina idéer till Adobe.
@@ -194,7 +194,7 @@ Nya funktioner och korrigeringar i Adobe Audience Manager:
 * Korrigerade ett problem som medförde att knapparna [!UICONTROL Duplicera test] och [!UICONTROL Duplicera allokeringsmall] i [!UICONTROL Audience Lab] inte fungerade. (AAM-53388)
 * Korrigerade ett problem som medförde att målgrupper [!UICONTROL som kan] matcha frekvens [!UICONTROL och] segmentadresservisas som 0 när ett mål har konfigurerats för att exportera UUID. Matchningsfrekvens [!UICONTROL och] Segmentadresserbara målgrupper  visas nu som 100 %. (AAM-51615)
 * Korrigerade ett problem som orsakade att trait-namn som innehåller specialtecken skulle HTML-kodas två gånger. (AAM-54001)
-* Korrigerade ett problem som hindrade vissa användare från att byta till andra Adobe Experience Cloud-lösningar från [!DNL Audience Manager] användargränssnittet. (AAM-52917)
+* Ett problem som hindrade vissa användare från att växla till andra Adobe Experience Cloud-program från [!DNL Audience Manager] användargränssnittet har korrigerats. (AAM-52917)
 * Korrigerade ett problem som hindrade vissa användare från att skapa en SHA256-datakälla för personbaserade mål. (AAM-53525)
 * Flera tillgänglighetsförbättringar i gränssnittet. (AAM-48986, AAM-49009, AAM-48984, AAM-48939, AAM-48940, AAM-48964, AAM-49032, AAM-493 (60)
 
@@ -307,7 +307,7 @@ Versionsinformation om Magento finns i:
 
 ## ![Ikon](/assets/marketo.png) [!DNL Marketo]{#marketo}
 
-[!DNL Marketo Engage] är en komplett lösning för lead-hantering och B2B-marknadsförare som vill omvandla kundupplevelser genom att engagera sig i alla faser av komplexa inköpsresor.
+[!DNL Marketo Engage] är en komplett tillämpning för lead-hantering och B2B-marknadsförare som vill omvandla kundupplevelser genom att engagera sig i alla faser av komplexa inköpsresor.
 
 ### Uppdateringar om Core Marketo Engage
 
