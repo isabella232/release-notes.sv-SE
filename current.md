@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
+source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 
 ---
 
@@ -29,7 +29,7 @@ Nya funktioner och korrigeringar i [!DNL Adobe Experience Cloud].
 (Vissa releasedatum kan variera.)
 
 * [Systemstatus för Adobe](#status)
-* [Experience Clouds gränssnitt och bastjänster](#ecloud)
+* [Experience Cloud-gränssnittet](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Releasedataändring - se uppdatering 15 april)**
 * [Audience Manager](#aam)
@@ -57,9 +57,9 @@ Söker du hjälp hem? Se [Adobe Experience Cloud-dokumentation](https://docs.ado
 | Personaliserade prenumerationer baserade på berättiganden | <ul><li>Förvalda prenumerationsrekommendationer baserade på användarens DX-rättigheter.</li><li>Rekommenderade prenumerationer markeras högst upp i produktlistan för snabb visualisering.</li><li>Mottagna e-postmeddelanden är relevanta för användarens produkträttigheter.</li></ul> |
 | Enklare hantering av prenumerationer | <ul><li>**[!UICONTROL Hantera prenumerationer]** har en ny användarupplevelse för att hantera både produkt- och eventprenumerationer.</li><li>Nytt alternativ för att visa och redigera prenumerationer på produkter och evenemang separat.</li><li>Med alternativet **[!UICONTROL Ta bort]** kan du avbryta prenumerationen på en produkt eller ett evenemang.</li><li>Alternativet **[!UICONTROL Avbeställ alla]** med ett klick är tillgängligt för produktprenumerationer.</li><li>UX-stöd finns för webb-/mobilsurfplattor och lokalisering på 19 språk.</li></ul> |
 
-## ![Ikon](/assets/ec_appicon_24.png) för Experience Cloud-gränssnittet och bastjänsterna {#ecloud}
+## ![Ikon](/assets/ec_appicon_24.png) i Experience Cloud-gränssnittet {#ecloud}
 
-Nya funktioner och korrigeringar i Experience Cloud-gränssnittet, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies osv.):
+Nya funktioner och korrigeringar i Experience Cloud-gränssnittet, inklusive administration och tjänster som kundattribut, målgrupper, triggers osv.):
 
 * Experience Cloud [!UICONTROL Feed] -sidan har tagits bort. (EXC-8505)
 * Inloggningssidan för Experience Cloud uppdaterades för att återspegla nya varumärkeselement. (EXC-10747)
