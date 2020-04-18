@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 14d29e8e2baf7f09929353acbb71466eee3b0de2
+source-git-commit: 2d9a0e6ae9e796bdb09ce7d27e4e4a765462283a
 
 ---
 
@@ -59,7 +59,7 @@ Nya funktioner och korrigeringar i Experience Cloud-gränssnittet:
 * Experience Cloud [!UICONTROL Feed] -sidan har tagits bort. (EXC-8505)
 * Inloggningssidan för Experience Cloud uppdaterades för att återspegla nya varumärkeselement. (EXC-10747)
 
-Produktdokumentation finns i hjälpen för [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) .
+Produktdokumentation finns i [hjälpen](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)för Experience Cloud-gränssnittet.
 
 ### Enhetlig produktdomän
 
