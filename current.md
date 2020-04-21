@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2d9a0e6ae9e796bdb09ce7d27e4e4a765462283a
+source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 
 ---
 
@@ -26,7 +26,7 @@ Nya funktioner och korrigeringar i [!DNL Adobe Experience Cloud].
 
 * [Systemstatus för Adobe](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **(Releasedataändring - se uppdatering 15 april)**
+* [!DNL Analytics](#analytics) **(Uppdaterat 16 april)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -115,7 +115,7 @@ Unity 4.19.0 (10 mars 2020):
 
 * [Customer Journey Analytics](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 7 april 2020)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 16 april 2020)
 * [AppMeasurement](#appm)
 * [Självstudiekurser om nya analyser](#tutorials-analytics)
 
@@ -155,6 +155,7 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
+| Borttagen kontrollen &quot;Segment använt i datalager&quot; | 16 april 2020 | Från och med den 16 april 2020 kontrollerar vi inte längre om ett segment används i en begäran om datalager, inifrån segmentbyggaren. Tidigare sökte den här kontrollen efter enskilda segment som tillämpades i datalagerbegäranden (flera segment uteslöts) och returnerade ett varningsmeddelande om true. Den här ändringen påverkar inte datalagrets produktkompatibilitetskontroll för segment. |
 | Ändra till hur [!UICONTROL inmatningar/utmatningar] beräknas i [!UICONTROL arbetsytan] | 7 april 2020 | I [!UICONTROL Analysis Workspace], från mars 2020, har vi ändrat hur värdet _None_ interagerar med [!UICONTROL Entry/Exits]. Eftersom du nu kan aktivera och inaktivera _Inga_ i [!UICONTROL Analysis Workspace], använder vi värdet _None_ efter att posten eller avslutningen har angetts, medan det (för eVars) tidigare användes. Anta till exempel att den första träffen av ett besök inte har något värde för eVars, men att den andra träffen gör det. I [!UICONTROL Rapporter och analyser] visas det som _Ospecificerat_ för posten, men i [!UICONTROL Analysis Workspace] visas det som värdet för den andra träffen. |
 | EOL för inställning av **[!UICONTROL konverteringsnivå]** | 3 mars 2020 | Den icke fungerande [inställningen för konverteringsnivå](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) i **[!UICONTROL Administratörsverktyg]** > **[!UICONTROL Rapportsviter]** > **[!UICONTROL Allmänna kontoinställningar]** kommer att tas bort från gränssnittet den 12 mars 2020. |
 | EOL för **[!UICONTROL instrumentpanelsarkiv]** | 27 mars 2020 | Inställningen **[!UICONTROL Visa arkiv]** under **[!UICONTROL Hantera instrumentpaneler]** i [!UICONTROL rapporter och analyser] är inte längre tillgänglig från och med oktober 2020. |
