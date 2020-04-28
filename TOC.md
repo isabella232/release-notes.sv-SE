@@ -3,7 +3,7 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Versionsinformation om Adobe Experience Cloud
 user-guide-url: https://www.adobe.com
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
 
 ---
@@ -30,7 +30,7 @@ source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
       + [Februari 2019](c-legacy-releases/2019/02072019.md)
       + [Januari 2019](c-legacy-releases/2019/01172019.md)
    + 2018 {#2018}
-      + [November2018](c-legacy-releases/2018/11012018.md)
+      + [November 2018](c-legacy-releases/2018/11012018.md)
       + [Oktober 2018](c-legacy-releases/2018/10112018.md)
       + [September 2018](c-legacy-releases/2018/09132018.md)
       + [Augusti 2018](c-legacy-releases/2018/08092018.md)
