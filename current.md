@@ -4,11 +4,11 @@ description: Mall för versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: bf3e1b2ed24c2f106ee3e6bfcc888ffa7eda7ba0
-workflow-type: ht
-source-wordcount: '3523'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 77e4ac05707d9aa42ddf2e7fb93027b3226058e9
+workflow-type: tm+mt
+source-wordcount: '3518'
+ht-degree: 99%
 
 ---
 
@@ -88,7 +88,7 @@ Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience 
 Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala över olika upplevelsekanaler genom att intelligent förutse varje enskild individs behov i realtid, oavsett vart resan bär.
 
 * [Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Versionsinformation](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+* [Versionsinformation](http://www.adobe.com/go/platform-release-notes-en)
 * [Instruktionsvideor](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services och SDK:er för mobiler {#mobile}
