@@ -4,11 +4,11 @@ description: Mall för versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 77e4ac05707d9aa42ddf2e7fb93027b3226058e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3518'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Senast uppdaterad: **30 april 2020**
 
 Letar du efter startsidan i hjälpen? Se [Adobe Experience Cloud-dokumentationen](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
-## ![Ikon](/assets/adobe.png) för Adobe System Status {#status}
+## ![Ikon för ](/assets/adobe.png)Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
@@ -194,7 +194,7 @@ Nya funktioner och korrigeringar i Adobe Audience Manager:
 | Funktion | Beskrivning |
 | -----------| ---------- |  
 | [Predictive Audiences](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | [!UICONTROL Predictive Audiences] hjälper er att klassificera en okänd målgrupp i distinkta personas med avancerade datatekniker i realtid. <br><br> I marknadsföringssammanhang är en persona ett målgruppssegment som definieras av besökare, användare eller potentiella köpare som delar en viss uppsättning egenskaper (traits) som demografi, surfvanor, shoppinghistorik osv.<br><br>[!UICONTROL Predictive Audiences]-modeller tar detta koncept ett steg längre genom att använda Audience Managers maskininlärningsfunktioner för att klassificera okända målgrupper i distinkta personas. <br><br>Audience Manager hjälper er att uppnå detta genom att beräkna köpbenägenheten hos en okända förstapartsmålgrupp i förhållande till en känd uppsättning förstapartsmålgrupper. |
-| Ytterligare[!UICONTROL Profile Merge Rules] förbättringar | [!UICONTROL Profile Merge Rules] ger Audience Manager-kunder möjlighet att definiera, hantera och aktivera målgruppssegment baserat på identitet snarare än enheter. <br><br> Från och med den 29 april kan Audience Manager-kunder bättre förstå uppdelningen av enheter och populationer på olika enhets-ID för traits och segment inom både individuell segmentering och bulkrapportering i Audience Manager-gränssnittet. <br><br> Det ger bättre insikter om identitet i Audience Manager och ger kunderna en helhetsbild av segmentets totala population per enhet, person och hushåll. Satsvis trait-export av enhets-ID och ID:n över olika enheter kommer också att uppdateras för att återspegla dessa förbättringar.<br><br>  Bland uppdateringarna finns möjligheten att: <ul><li>Rapportera [ID över enheter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) i [allmänna](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/general-reports.html) rapporter och [trendrapporter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/trend-reports.html).</li><li>Förbättra [!UICONTROL Trait Selector] i [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html) så att egenskapspopulationer med utgångspunkt i [CRM-ID:n](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) inkluderas.</li><li>Skapa korrekta trait-exporter för [ID:n över olika enheter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html).</li><li>Skapa korrekta trait-exporter för [enhets-ID:n](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) (bör inte inkludera autentiserade egenskaper).</li><li>Returnera korrekt antal för traits som är kopplade till [CRM-ID:n](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) när de efterfrågas med [BAAAM](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html)-verktyget.</li></ul> |
+| Ytterligare [!UICONTROL Profile Merge Rules] förbättringar | [!UICONTROL Profile Merge Rules] ger Audience Manager-kunder möjlighet att definiera, hantera och aktivera målgruppssegment baserat på identitet snarare än enheter. <br><br> Från och med den 29 april kan Audience Manager-kunder bättre förstå uppdelningen av enheter och populationer på olika enhets-ID för traits och segment inom både individuell segmentering och bulkrapportering i Audience Manager-gränssnittet. <br><br> Det ger bättre insikter om identitet i Audience Manager och ger kunderna en helhetsbild av segmentets totala population per enhet, person och hushåll. Satsvis trait-export av enhets-ID och ID:n över olika enheter kommer också att uppdateras för att återspegla dessa förbättringar.<br><br>  Bland uppdateringarna finns möjligheten att: <ul><li>Rapportera [ID över enheter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) i [allmänna](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/general-reports.html) rapporter och [trendrapporter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/trend-reports.html).</li><li>Förbättra [!UICONTROL Trait Selector] i [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html) så att egenskapspopulationer med utgångspunkt i [CRM-ID:n](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) inkluderas.</li><li>Skapa korrekta trait-exporter för [ID:n över olika enheter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html).</li><li>Skapa korrekta trait-exporter för [enhets-ID:n](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) (bör inte inkludera autentiserade egenskaper).</li><li>Returnera korrekt antal för traits som är kopplade till [CRM-ID:n](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html) när de efterfrågas med [BAAAM](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html)-verktyget.</li></ul> |
 | [De vanligaste supportfrågorna](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | Vi har lagt till ett nytt avsnitt i dokumentationsportalen som innehåller svar på de vanligaste frågorna som vårt supportteam får. |
 
 * Vi har korrigerat ett problem som orsakade felaktig rapportering av [adresserbara målgrupper](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) för segment som innehåller mobila enhets-ID:n. Efter den här uppdateringen kan ni se en ökning av era [adresserbara målgrupper](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html).
@@ -221,7 +221,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
    **Selektiv publicering** – När du väljer det här alternativet innebär det att resurser automatiskt publiceras för säker förhandsvisning och att de kan publiceras explicit till AEM utan att publiceras till DMS7 för distribution i den offentliga domänen.
 
-   Se [Konfigurera Dynamic Media Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services).
+   Se [Konfigurera Dynamic Media Cloud Service](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services).
 
 * **Dynamic Media – smart bildbehandling**
 
@@ -239,7 +239,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
    Du kan nu publicera resurser från AEM Assets as a Cloud Service på AEM Assets-varumärkesportalen.
 
-   Se [Konfigurera AEM Assets med varumärkesportalen](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) och [Publicera resurser på varumärkesportalen](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
+   Se [Konfigurera AEM Assets med varumärkesportalen](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) och [Publicera resurser på varumärkesportalen](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html).
 
 * **Adobe Asset Link 2.0 har lanserats**
 
@@ -270,7 +270,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
 ### Ytterligare hjälpresurser
 
-* [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+* [AEM as a Cloud Service](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 – startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-5.html)
 * [AEM 6.4 – startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-4.html)
 * [AEM 6.3 – startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-3.html)
