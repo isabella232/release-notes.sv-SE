@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
+source-git-commit: ea42901b975981a10d42b9681d494604c385018c
 workflow-type: tm+mt
-source-wordcount: '4580'
+source-wordcount: '4582'
 ht-degree: 32%
 
 ---
@@ -49,6 +49,8 @@ Behöver du hjälp? Besök [[!DNL Adobe Experience League]](https://experiencele
 ## ![Ikon för ](/assets/adobe.png)Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
+
+Releasedatum: **21 maj 2020**
 
 **Nyheter**
 
