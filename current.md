@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ea42901b975981a10d42b9681d494604c385018c
+source-git-commit: 8ed0b98440cd68357d792abaec2a99dccbfa47dc
 workflow-type: tm+mt
 source-wordcount: '4582'
 ht-degree: 32%
@@ -29,7 +29,7 @@ Den här sidan innehåller nya funktioner, korrigeringar och viktiga meddelanden
 
 **Releasedatum: Maj 2020**
 
-Senaste uppdatering: **15 maj 2020**
+Senaste uppdatering: **16 maj 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnittet](#ecloud)
