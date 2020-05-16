@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b41cdd18c7e3251218bf41aee62979e5f79a4c2a
+source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
 workflow-type: tm+mt
-source-wordcount: '4538'
-ht-degree: 33%
+source-wordcount: '4580'
+ht-degree: 32%
 
 ---
 
@@ -345,13 +345,6 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Campaign Standard
 
-Kontrollpanelen:
-
-| Funktion | Beskrivning |
-| -----------| ---------- |  
-| Hantering av GPG-nycklar | Installera och/eller generera GPG-nycklar på en marknadsinstans för att kryptera data som skickas från Campaign och för att dekryptera inkommande data. |
-| Certifikathantering för CNAME-underdomäner | Med kontrollpanelen kan du nu förnya SSL-certifikaten för dina underdomäner som har delegerats med CNAME-metoden. |
-
 * [Adobe Campaign Standard 20.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
 
 ### Campaign Classic
@@ -359,25 +352,34 @@ Kontrollpanelen:
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### Nya självstudiekurser för Campaign Standard {#tutorials-acs}
+### Kontrollpanelen för kampanj
+
+| Funktion | Beskrivning |
+| -----------| ---------- |  
+| Hantering av GPG-nycklar | Installera och/eller generera GPG-nycklar på en marknadsinstans för att kryptera data som skickas från Campaign och för att dekryptera inkommande data. |
+| Certifikathantering för CNAME-underdomäner | Med kontrollpanelen kan du nu förnya SSL-certifikaten för dina underdomäner som har delegerats med CNAME-metoden. |
+
+### Nya Campaign-självstudiekurser
+
+* Nya självstudiekurser för Campaign Standard
 
 | Innehåll | Beskrivning |
 | -----------| ---------- |  
 | [Kontrollpanelen - Google TXT-posthantering](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Lär dig hur du lägger till Google TXT-webbplatsverifieringsposter i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign-kontrollpanelen. |
 | [Konfigurera och köra ett arbetsflöde med aktiviteten Externt API](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Lär dig hur du anropar en extern REST API-slutpunkt med hjälp av Extern API-aktivitet. |
-| (ACS) [Komma igång med push-meddelanden för Android-självstudiekurs](https://jira.corp.adobe.com/browse/KT-3846) | I den här självstudiekursen beskrivs de steg som behövs för att konfigurera push-meddelanden med ACS och Android-appen. |
+| (ACS) [Komma igång med push-meddelanden för Android-självstudiekurs](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | I den här självstudiekursen beskrivs de steg som krävs för att ställa in push-meddelanden med Campaign Standard och Android-appen. |
 
-### New Campaign Classic tutorials {#tutorials-acc}
+* Nya Campaign Classic-självstudiekurser
 
 | Innehåll | Beskrivning |
 | -----------| ---------- |  
 | [Stor datahantering i Snowflake](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Lär dig hur du kan utnyttja Snowflake-kontakten i Adobe Campaign Classic. |
 | [Kontrollpanelen - Google TXT-posthantering](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Lär dig hur du lägger till Google TXT-webbplatsverifieringsposter i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign-kontrollpanelen. |
 
-### Fler hjälpresurser för Campaign
+### Kampanjhjälpresurser
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/se/support/campaign/standard.html) – [Versionsinformation](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanering](https://helpx.adobe.com/se/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/se/support/campaign/classic.html) – [Versionsinformation](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html) - [versionsinformation](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [versionsplanering](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.htmll) - [senaste dokumentationsuppdateringar] (https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html) - [versionsinformation](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)- [Senaste dokumentationsuppdateringar] (https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
