@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ed0b98440cd68357d792abaec2a99dccbfa47dc
+source-git-commit: 2cd60d72cfd5fa7d7ab0a17ba230162601f69b13
 workflow-type: tm+mt
-source-wordcount: '4582'
+source-wordcount: '4584'
 ht-degree: 32%
 
 ---
@@ -369,7 +369,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 | -----------| ---------- |  
 | [Kontrollpanelen - Google TXT-posthantering](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Lär dig hur du lägger till Google TXT-webbplatsverifieringsposter i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign-kontrollpanelen. |
 | [Konfigurera och köra ett arbetsflöde med aktiviteten Externt API](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Lär dig hur du anropar en extern REST API-slutpunkt med hjälp av Extern API-aktivitet. |
-| (ACS) [Komma igång med push-meddelanden för Android-självstudiekurs](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | I den här självstudiekursen beskrivs de steg som krävs för att ställa in push-meddelanden med Campaign Standard och Android-appen. |
+| [Komma igång med push-meddelanden för Android-självstudiekurs](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | I den här självstudiekursen beskrivs de steg som krävs för att ställa in push-meddelanden med Campaign Standard och Android-appen. |
 
 * Nya Campaign Classic-självstudiekurser
 
@@ -380,8 +380,8 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Kampanjhjälpresurser
 
-* Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html) - [versionsinformation](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [versionsplanering](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.htmll) - [senaste dokumentationsuppdateringar] (https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html) - [versionsinformation](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)- [Senaste dokumentationsuppdateringar] (https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
+* Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html) - [versionsinformation](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [versionsplanering](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.html) - [senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html) - [versionsinformation](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)- [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
