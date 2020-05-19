@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e10656f2a2d2180295c61b7aad9e75391e23ccbd
+source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
 workflow-type: tm+mt
-source-wordcount: '4601'
+source-wordcount: '4599'
 ht-degree: 32%
 
 ---
@@ -160,7 +160,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | Analysstöd för [!UICONTROL Adobe Experience Platform Edge Network] | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/en/experience-platform/edge/home.html) |
 | [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal oavsett var de är. Den ger tillgång till välstrukturerade, interaktiva styrkort och kommer att finnas tillgängliga för både operativsystemen iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från ett tomt läge | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. du var tvungen att lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, och en [!UICONTROL Freeform Table] byggs automatiskt i det format som rekommenderas. Dessutom har det gjorts förbättringar av hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de tas bort i en tom friformstabell tillsammans. |
-| [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du visa vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag är berättigat till på [!UICONTROL Admin] > [!UICONTROL Company Settings] > [!UICONTROL Feature Access Level] -sidan. |
+| [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 
 #### Adobe Analytics-korrigeringar
 
