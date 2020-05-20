@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
+source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
 workflow-type: tm+mt
-source-wordcount: '4599'
+source-wordcount: '4607'
 ht-degree: 32%
 
 ---
@@ -97,6 +97,10 @@ Följande program använder den nya domänen experience.adobe.com:
 | Platstjänst | `experience.adobe.com/places` |
 | Programvarudistribution | `experience.adobe.com/downloads` |
 | Admin Tool (beta) | `experience.adobe.com/admin` |
+
+>[!NOTE]
+>
+>**[!UICONTROL Board & Collections]**, ett äldre filter i [!UICONTROL Marketing Cloud Assets] väljaren, tas bort.
 
 ## ![Ikon för](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
