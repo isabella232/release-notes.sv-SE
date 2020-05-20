@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
+source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
 workflow-type: tm+mt
-source-wordcount: '4607'
+source-wordcount: '4631'
 ht-degree: 32%
 
 ---
@@ -165,6 +165,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal oavsett var de är. Den ger tillgång till välstrukturerade, interaktiva styrkort och kommer att finnas tillgängliga för både operativsystemen iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från ett tomt läge | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. du var tvungen att lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, och en [!UICONTROL Freeform Table] byggs automatiskt i det format som rekommenderas. Dessutom har det gjorts förbättringar av hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de tas bort i en tom friformstabell tillsammans. |
 | [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
+| Förbättringar av hjälpmedel | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. |
 
 #### Adobe Analytics-korrigeringar
 
