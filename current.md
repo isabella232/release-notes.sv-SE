@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
+source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4631'
-ht-degree: 32%
+source-wordcount: '4691'
+ht-degree: 31%
 
 ---
 
@@ -29,12 +29,12 @@ Den här sidan innehåller nya funktioner, korrigeringar och viktiga meddelanden
 
 **Releasedatum: Maj 2020**
 
-Senaste uppdatering: **19 maj 2020**
+Senaste uppdatering: **21 maj 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnittet](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Uppdaterat 21 maj 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -143,7 +143,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 * [Nya funktioner i kundreseanalys](#cust-journey)
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
 * [Självstudiekurser för nya Analytics](#tutorials-analytics)
 
@@ -161,7 +161,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Analysstöd för [!UICONTROL Adobe Experience Platform Edge Network] | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/en/experience-platform/edge/home.html) |
+| Analysstöd för [!UICONTROL Adobe Experience Platform Edge Network] | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal oavsett var de är. Den ger tillgång till välstrukturerade, interaktiva styrkort och kommer att finnas tillgängliga för både operativsystemen iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från ett tomt läge | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. du var tvungen att lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, och en [!UICONTROL Freeform Table] byggs automatiskt i det format som rekommenderas. Dessutom har det gjorts förbättringar av hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de tas bort i en tom friformstabell tillsammans. |
 | [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
@@ -210,6 +210,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
+| Förbättrad redundans för Analysis Workspace | 21 maj 2020 | För att Analysis Workspace ska vara tillgängligt lägger vi till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Ändra hur [!UICONTROL Entries/Exits] beräknas i [!UICONTROL Workspace] | 7 april 2020 | Från och med mars 2020, har vi ändrat hur värdet _Inga_ interagerar med [!UICONTROL Entries/Exits] i [!UICONTROL Analysis Workspace]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Anta till exempel att den första träffen av ett besök inte har något värde för eVars, men att den andra träffen gör det. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | Inställningen **[!UICONTROL Conversion Level]** tas bort | 3 mars 2020 | Inställningen för icke fungerande [konverteringsnivå](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) i **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** kommer att tas bort från gränssnittet den 12 mars 2020. |
 | **[!UICONTROL Dashboard Archive]** tas bort | 27 mars 2020 | Inställningen **[!UICONTROL View Archive]** under **[!UICONTROL Manage Dashboards]** i [!UICONTROL Reports & Analytics] är inte tillgänglig från och med oktober 2020. |
