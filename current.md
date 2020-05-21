@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
+source-git-commit: 2a41fbc7e69c9c2a262c71e20808e6b672037c6a
 workflow-type: tm+mt
-source-wordcount: '4691'
+source-wordcount: '4811'
 ht-degree: 31%
 
 ---
@@ -144,6 +144,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 * [Nya funktioner i kundreseanalys](#cust-journey)
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 21 maj 2020**)
+* [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
 * [Självstudiekurser för nya Analytics](#tutorials-analytics)
 
@@ -167,8 +168,10 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 | Förbättringar av hjälpmedel | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. |
 
-#### Adobe Analytics-korrigeringar
+#### Korrigeringar i Adobe Analytics (#aa-fixes)
 
+* Adobe ändrade måttet till att aldrig inkludera&quot;ingen&quot; [!UICONTROL Time Spent] . Det innebär att vi, oavsett om användargränssnittet anger att det inte ska innehålla något eller inte, gör ett särskilt undantag för att alltid exkludera&quot;ingen&quot; i [!UICONTROL Time Spent] beräkningen. Även om du har konfigurerat en rapport som innehåller [!UICONTROL Time Spent] måttet&quot;include none&quot; returnerar den därför alltid 0 tid för radobjektet&quot;none&quot;. Observera att detta kan ändra historisk rapportering i rapporter och analyser samt API:t för rapportering v1.4. (AN-197958)
+* Ett problem har korrigerats där Instance/Visit/Visitor inte räknades i nämnaren för [!UICONTROL Time Spent] måtten.  Detta inträffar när en träff utan värde för dimensionen (t.ex. [!UICONTROL Pagename]) följs i samma sekund. (AN-211074)
 * Ett problem som orsakade saknade [!DNL Analytics] segmentdata i Audience Manager har korrigerats. (AN-206221)
 * Korrigerade ett problem med [!UICONTROL Data Sources] bearbetning som visade fel datum. (AN-213604)
 * Ett problem med att klassificeringsfiler inte överfördes till FTP på rätt sätt har korrigerats. (AN-214102)
