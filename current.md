@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 36c098558e178fdaea0bab49528e54a93980ac0b
+source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
 workflow-type: tm+mt
 source-wordcount: '4785'
 ht-degree: 31%
@@ -166,7 +166,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### Korrigeringar i Adobe Analytics (#aa-fixes)
 
-* Adobe ändrade måttet till att aldrig inkludera&quot;ingen&quot; [!UICONTROL Time Spent] . Det innebär att vi, oavsett om användargränssnittet anger att det inte ska innehålla något eller inte, gör ett särskilt undantag för att alltid exkludera&quot;ingen&quot; i [!UICONTROL Time Spent] beräkningen. Även om du har konfigurerat en rapport som innehåller [!UICONTROL Time Spent] måttet&quot;include none&quot; returnerar den därför alltid 0 tid för radobjektet&quot;none&quot;. Observera att detta kan ändra historisk rapportering i rapporter och analyser samt API:t för rapportering v1.4. (AN-197958)
+* Adobe ändrade måttet så att det aldrig inkluderade &quot;Ospecificerad&quot; i beräkningen. [!UICONTROL Time Spent] Det innebär att vi, oavsett om användargränssnittet säger att det ska innehålla&quot;Ospecificerad&quot;, gör ett särskilt undantag som alltid ska utesluta&quot;Ospecificerad&quot; i [!UICONTROL Time Spent] beräkningen. Även om du har konfigurerat en rapport som innehåller måttet till att innehålla&quot; [!UICONTROL Time Spent] ospecificerad&quot; returnerar den därför alltid 0 tid för raden&quot;Ospecificerad&quot;. Observera att detta kan ändra historisk rapportering i både rapporter och analyser och API:t v1.4. (AN-197958)
 * Ett problem har korrigerats där Instance/Visit/Visitor inte räknades i nämnaren för [!UICONTROL Time Spent] måtten.  Detta inträffar när en träff utan värde för dimensionen (t.ex. [!UICONTROL Pagename]) följs i samma sekund. (AN-211074)
 * Ett problem som orsakade saknade [!DNL Analytics] segmentdata i Audience Manager har korrigerats. (AN-206221)
 * Korrigerade ett problem med [!UICONTROL Data Sources] bearbetning som visade fel datum. (AN-213604)
