@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
+source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
 workflow-type: tm+mt
-source-wordcount: '4785'
+source-wordcount: '4784'
 ht-degree: 31%
 
 ---
@@ -164,7 +164,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 | Förbättringar av hjälpmedel | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. |
 
-#### Korrigeringar i Adobe Analytics (#aa-fixes)
+#### Adobe Analytics-korrigeringar {#aa-fixes}
 
 * Adobe ändrade måttet så att det aldrig inkluderade &quot;Ospecificerad&quot; i beräkningen. [!UICONTROL Time Spent] Det innebär att vi, oavsett om användargränssnittet säger att det ska innehålla&quot;Ospecificerad&quot;, gör ett särskilt undantag som alltid ska utesluta&quot;Ospecificerad&quot; i [!UICONTROL Time Spent] beräkningen. Även om du har konfigurerat en rapport som innehåller måttet till att innehålla&quot; [!UICONTROL Time Spent] ospecificerad&quot; returnerar den därför alltid 0 tid för raden&quot;Ospecificerad&quot;. Observera att detta kan ändra historisk rapportering i både rapporter och analyser och API:t v1.4. (AN-197958)
 * Ett problem har korrigerats där Instance/Visit/Visitor inte räknades i nämnaren för [!UICONTROL Time Spent] måtten.  Detta inträffar när en träff utan värde för dimensionen (t.ex. [!UICONTROL Pagename]) följs i samma sekund. (AN-211074)
