@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
+source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
 workflow-type: tm+mt
-source-wordcount: '4784'
+source-wordcount: '4827'
 ht-degree: 31%
 
 ---
@@ -25,12 +25,12 @@ Den här sidan innehåller nya funktioner, korrigeringar och viktiga meddelanden
 
 **Releasedatum: Maj 2020**
 
-Senaste uppdatering: **21 maj 2020**
+Senaste uppdatering: **26 maj 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnittet](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Uppdaterat 21 maj 2020**)
+* [!DNL Analytics](#analytics) (**Uppdaterat 26 maj 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -139,7 +139,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 * [Nya funktioner i kundreseanalys](#cust-journey)
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 21 maj 2020**)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 26 maj 2020**)
 * [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
 * [Självstudiekurser för nya Analytics](#tutorials-analytics)
@@ -209,6 +209,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
+| Teknologi från tredje part | 12 mars 2020 (giltighetsdatum) | Adobe Analytics har börjat utnyttja tredjepartstekniker för funktionshantering och produktsupport. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg för att säkerställa fullständig funktionsåtkomst:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Förbättrad redundans för Analysis Workspace | 21 maj 2020 | För att Analysis Workspace ska vara tillgängligt lägger vi till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Ändra hur [!UICONTROL Entries/Exits] beräknas i [!UICONTROL Workspace] | 7 april 2020 | Från och med mars 2020, har vi ändrat hur värdet _Inga_ interagerar med [!UICONTROL Entries/Exits] i [!UICONTROL Analysis Workspace]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Anta till exempel att den första träffen av ett besök inte har något värde för eVars, men att den andra träffen gör det. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | Inställningen **[!UICONTROL Conversion Level]** tas bort | 3 mars 2020 | Inställningen för icke fungerande [konverteringsnivå](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) i **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** kommer att tas bort från gränssnittet den 12 mars 2020. |
