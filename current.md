@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
+source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
 workflow-type: tm+mt
-source-wordcount: '4827'
-ht-degree: 31%
+source-wordcount: '4924'
+ht-degree: 30%
 
 ---
 
@@ -25,12 +25,12 @@ Den här sidan innehåller nya funktioner, korrigeringar och viktiga meddelanden
 
 **Releasedatum: Maj 2020**
 
-Senaste uppdatering: **26 maj 2020**
+Senaste uppdatering: **27 maj 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnittet](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Uppdaterat 26 maj 2020**)
+* [!DNL Analytics](#analytics) (**Uppdaterat 27 maj 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,8 +137,11 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 ## ![Ikon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
+Uppdaterad 27 **maj 2020**
+
 * [Nya funktioner i kundreseanalys](#cust-journey)
 * [Nya funktioner i Adobe Analytics](#aa-features)
+* [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 27 maj 2020**)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 26 maj 2020**)
 * [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
@@ -163,6 +166,18 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från ett tomt läge | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. du var tvungen att lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, och en [!UICONTROL Freeform Table] byggs automatiskt i det format som rekommenderas. Dessutom har det gjorts förbättringar av hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de tas bort i en tom friformstabell tillsammans. |
 | [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
 | Förbättringar av hjälpmedel | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. |
+
+#### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
+
+Tillagt den: **27 maj 2020**
+
+**Spårning av spelarstatus:** [!UICONTROL Media Analytics] -kunder kan hämta in tittarinteraktion under uppspelning med en standarduppsättning lösningsvariabler för helskärmsläge, undertexter, ljud av, bild-i-bild och fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande:
+
+* Media [!DNL JavaScript] SDK 3.0 eller senare
+* För användning med [!DNL Adobe Experience Platform] (AEP) SDK:
+   * [!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare
+   * [!UICONTROL Media Analytics Extension] (för mobiler): [!UICONTROL Adobe Media Analytics for Audio] och Video v2.0 eller senare
+* [!UICONTROL Media Collection] API
 
 #### Adobe Analytics-korrigeringar {#aa-fixes}
 
