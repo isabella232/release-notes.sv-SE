@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5283f48c529ee5d1eca229bbd0164bb9e8864aa6
+source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
 workflow-type: tm+mt
-source-wordcount: '4964'
+source-wordcount: '4975'
 ht-degree: 88%
 
 ---
@@ -25,12 +25,12 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 **Lanseringsdatum: maj 2020**
 
-Senast uppdaterad: **27 maj 2020**
+Senast uppdaterad: **29 maj 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Uppdaterat 27 maj 2020**)
+* [!DNL Analytics](#analytics) (**Uppdaterat 29 maj 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,11 +137,11 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 ## ![Ikon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Updated **May 27, 2020**
+Updated **May 29, 2020**
 
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 27 maj 2020**)
+* [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 29 maj 2020**)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 26 maj 2020**)
 * [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
@@ -169,9 +169,9 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
-Tillagt den: **27 maj 2020**
+Uppdaterat den: **29 maj 2020**
 
-**Spårning av spelarstatus:** [!UICONTROL Media Analytics] -kunder kan hämta in tittarinteraktion under uppspelning med en standarduppsättning lösningsvariabler för helskärmsläge, undertexter, ljud av, bild-i-bild och fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande:
+**Spårning av spelarstatus:** [!UICONTROL Media Analytics] -kunder kan hämta in tittarinteraktion under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande:
 
 * Media [!DNL JavaScript] SDK 3.0 eller senare
 * För användning med [!DNL Adobe Experience Platform] (AEP) SDK:
@@ -179,7 +179,7 @@ Tillagt den: **27 maj 2020**
    * [!UICONTROL Media Analytics Extension] (för mobiler): [!UICONTROL Adobe Media Analytics for Audio] och Video v2.0 eller senare
 * [!UICONTROL Media Collection]
 
-Innehållslänken visas.
+Se [Om spårning](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)av spelartillstånd.
 
 #### Korrigeringar i Adobe Analytics {#aa-fixes}
 
