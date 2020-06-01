@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
+source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
 workflow-type: tm+mt
-source-wordcount: '4975'
-ht-degree: 88%
+source-wordcount: '5085'
+ht-degree: 86%
 
 ---
 
@@ -25,12 +25,12 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 **Lanseringsdatum: maj 2020**
 
-Senast uppdaterad: **29 maj 2020**
+Senaste uppdatering: **1 juni 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Uppdaterat 29 maj 2020**)
+* [!DNL Analytics](#analytics) (**Uppdaterat 1 juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -142,7 +142,7 @@ Updated **May 29, 2020**
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 29 maj 2020**)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 26 maj 2020**)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 1 juni 2020**)
 * [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
 * [Självstudiekurser för nya Analytics](#tutorials-analytics)
@@ -226,6 +226,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
+| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics tar bort alla domänreferenser från sin arkitektur, men det är viktigt att vitlista `omniture.com` `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen är (snart) slutförd meddelar vi dig via versionsinformationen och det här vitlistestedet kommer inte längre att behövas. [Här](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
 | Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen kommer att utföras för användare som inte tidigare har angett en anpassad landningssida. |
 | Teknologi från tredje part | (Datum för ikraftträdande: 12 mars 2020 | Adobe Analytics har börjat utnyttja tredjepartstekniker för funktionshantering och produktsupport. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg för att säkerställa fullständig funktionsåtkomst:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Förbättrad redundans för Analysis Workspace | 21 maj 2020 | För att Analysis Workspace ska vara tillgängligt lägger vi till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
