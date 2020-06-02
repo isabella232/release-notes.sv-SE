@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
+source-git-commit: 02f473e0c7908d44aa0444ce99f4540d9e79b254
 workflow-type: tm+mt
-source-wordcount: '5085'
-ht-degree: 86%
+source-wordcount: '5133'
+ht-degree: 85%
 
 ---
 
@@ -25,12 +25,12 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 **Lanseringsdatum: maj 2020**
 
-Senaste uppdatering: **1 juni 2020**
+Senaste uppdatering: **2 juni 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Uppdaterat 1 juni 2020**)
+* [!DNL Analytics](#analytics) (**Uppdaterat 2 juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -140,7 +140,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 Updated **May 29, 2020**
 
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
-* [Nya funktioner i Adobe Analytics](#aa-features)
+* [Nya funktioner i Adobe Analytics](#aa-features) (**Uppdaterat 2 juni 2020**)
 * [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 29 maj 2020**)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 1 juni 2020**)
 * [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
@@ -156,16 +156,16 @@ Updated **May 29, 2020**
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
 
-<!-- Bulk Ingest: Enables you to ingest batches of Analytics data. Useful for server-side and offline data. Learn more...
-First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
+<!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
 
-| Funktion | Beskrivning |
-| -----------| ---------- |
-| Analytics har stöd för [!UICONTROL Adobe Experience Platform Edge Network] | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
-| [!UICONTROL Adobe Analytics dashboards] | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal överallt. Den ger tillgång till insamlade, interaktiva styrkort och finns för både iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
-| [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
-| Förbättringar av hjälpmedel | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. |
+| Funktion | Allmänt tillgänglighetsdatum | Beskrivning |
+| -----------| ------------ | ---------- |
+| API för massdatainmatning | 31 maj 2020 | Gör det möjligt för er att enkelt och oberoende importera batchar med Analytics-data. Användbar för data på serversidan och offline. [Läs mer...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Analytics har stöd för [!UICONTROL Adobe Experience Platform Edge Network] | 31 maj 2020 | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics dashboards] | 31 maj 2020 | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal överallt. Den ger tillgång till insamlade, interaktiva styrkort och finns för både iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Workspace]: Bygg automatiskt [21 maj 2020!UICONTROL-friformstabeller] från ett tomt läge | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
+| [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | 21 maj 2020 | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag har rätt till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
+| Förbättringar av hjälpmedel | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. |
 
 #### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
