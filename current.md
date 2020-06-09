@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: feb921205059c7ab4ba9d59964fae9b1954d12a0
 workflow-type: tm+mt
 source-wordcount: '5370'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -30,7 +30,7 @@ Senaste uppdatering: **4 juni 2020**
 * [Adobe System Status](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Uppdaterad 4 juni 2020**)
+* [!DNL Analytics](#analytics) (**Uppdaterat 4 juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -112,7 +112,7 @@ Uppdaterat: **15 maj 2020**
 * Förbättrad användarhjälp, inklusive aktuella artiklar och sammanhangsberoende dokumentation på Hjälp-menyn.
 * Möjlighet att ge feedback om Experience Platform och skicka supportärenden.
 
-Mer information finns i [versionsinformationen för Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md).
+Mer information finns i [versionsinformationen för Experience Platform](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md).
 
 ### Customer Attributes – ny dokumentation
 
@@ -132,7 +132,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 ### Ytterligare versionsinformation om Experience Platform
 
 * [Versionsinformation om Experience Platform Launch](https://docs.adobe.com/content/help/sv-SE/launch/using/intro/release-notes/current.html)
-* [Versionsinformation om Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Versionsinformation om Experience Platform](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [Säkerhetsbulletiner och rekommendationer](https://helpx.adobe.com/se/security.html) (alla Adobe-produkter)
 
 ## ![Ikon](/assets/analytics.png) [!DNL Analytics] {#analytics}
@@ -140,7 +140,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 * [Nya funktioner i Adobe Analytics](#aa-features) (**uppdaterad 4 juni 2020**)
 * [Nya funktioner i kundreseanalys](#cust-journey) (**uppdaterad 4 juni 2020**)
 * [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 29 maj 2020**)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**uppdaterad 1 juni 2020**)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**Uppdaterad 1 juni 2020**)
 * [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
 * [Självstudiekurser för nya Analytics](#tutorials-analytics)
@@ -150,26 +150,26 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 <!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
 Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
 
-| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Måldatum | Beskrivning |
+| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) - Måldatum | Beskrivning |
 | -----------| ------------ | ---------- |
 | [!UICONTROL Analytics for Target] panel i [!UICONTROL Workspace] | 25 juni 2020 | På [!UICONTROL Analytics for Target] (A4T)-panelen kan du analysera dina Adobe Target-aktiviteter och -upplevelser i [!UICONTROL Analysis Workspace.] [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 | [!UICONTROL Quick Insights] panel i [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] ger vägledning för icke-analytiker och nya användare av [!UICONTROL Analysis Workspace] att lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| [!UICONTROL Bulk Data Insertion] API | 31 maj 2020 | Gör det möjligt för er att enkelt och oberoende importera batchar med Analytics-data. Användbar för data på serversidan och offline. [Läs mer...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| [!UICONTROL Bulk Data Insertion] API | 31 maj 2020 | Gör det möjligt för dig att enkelt och oberoende importera batcher med Analytics-data. Praktiskt för data på serversidan och offline. [Läs mer...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
 | Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 31 maj 2020 | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics dashboards] | 21 maj 2020 | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal överallt. Den ger tillgång till insamlade, interaktiva styrkort och finns för både iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | [21 maj 2020 | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
+| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | 21 maj 2020 | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
 | [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | 21 maj 2020 | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag är kvalificerad till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
-| Tillgänglighetsförbättringar | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, och har bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+| Tillgänglighetsförbättringar | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, och har bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
-| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Måldatum | Beskrivning |
+| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) - Måldatum | Beskrivning |
 | -----------| --------- | ---------- |
 | [!UICONTROL Quick Insights] panel i [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] ger vägledning för icke-analytiker och nya användare av [!UICONTROL Analysis Workspace] att lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
 | [!UICONTROL Customer Journey Analytics]: Global tillgänglighet | 21 maj 2020 | Gör [!UICONTROL Customer Journey Analytics] tillgängligt för kunder i EMEA och APAC. |
 | [!UICONTROL Customer Journey Analytics]: Stöd för [!UICONTROL Adobe Experience Platform Sandboxes] | 21 maj 2020 | Gör att du kan välja [!UICONTROL Adobe Experience Platform Sandboxes] som ska användas för att bygga CJA-anslutningar. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-connections/create-connection.html) |
-| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | [21 maj 2020 | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
-| Tillgänglighetsförbättringar | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, och har bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | 21 maj 2020 | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
+| Tillgänglighetsförbättringar | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, och har bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 #### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
@@ -183,7 +183,7 @@ Uppdaterat den: **29 maj 2020**
    * [!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare
 * [!UICONTROL Media Collection]
 
-Se [Om spårning](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)av spelartillstånd.
+Se [Om spårning av spelartillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html).
 
 #### Korrigeringar i Adobe Analytics {#aa-fixes}
 
@@ -230,8 +230,8 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
-| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics tar bort alla domänreferenser från sin arkitektur, men det är viktigt att vitlista `omniture.com` `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen är (snart) slutförd meddelar vi dig via versionsinformationen och det här vitlistestedet kommer inte längre att behövas. [Här](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
-| Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen kommer att utföras för användare som inte tidigare har angett en anpassad landningssida. |
+| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics tar bort alla `omniture.com`-domänreferenser från sin arkitektur, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen är (snart) slutförd meddelar vi dig via versionsinformationen och det här steget för vitlistning kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
+| Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen sker för användare som inte tidigare har angett en anpassad landningssida. |
 | Teknik från tredje part | (Datum för ikraftträdande: 12 mars 2020 | Adobe Analytics har börjat utnyttja teknik från tredje part för funktionshantering och produktsupport. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg för att säkerställa fullständig funktionsåtkomst:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Förbättrad redundans för Analysis Workspace | 21 maj 2020 | Vi lägger till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans och säkerställa Analysis Workspaces tillgänglighet. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Ändra hur [!UICONTROL Entries/Exits] beräknas i [!UICONTROL Workspace] | 7 april 2020 | Från och med mars 2020, har vi ändrat hur värdet _Inga_ interagerar med [!UICONTROL Entries/Exits] i [!UICONTROL Analysis Workspace]. Eftersom du nu kan aktivera och inaktivera _Inga_ i [!UICONTROL Analysis Workspace] använder vi värdet _Inga_ efter första eller sista besökssidan i stället för före (för eVars). Anta till exempel att den första träffen för ett besök inte har ett värde för eVars, men att den andra träffen har det. I [!UICONTROL Reports & Analytics] visas den första träffen som _Ospecificerat_ för första besökssidan, men i [!UICONTROL Analysis Workspace] visas det som ett värde för den andra träffen. |
@@ -397,9 +397,9 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 | Innehåll | Beskrivning |
 | -----------| ---------- |  
-| [Control Panel – hantering av Google TXT-poster](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Lär dig hur du lägger till Google TXT-poster för webbplatsverifiering på alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign Control Panel. |
-| [Konfigurera och köra ett arbetsflöde med aktiviteten Externt API](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Lär dig hur du anropar en extern REST API-slutpunkt med aktiviteten External API. |
-| [Komma igång med push-meddelanden för Android – självstudiekurs](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | I den här självstudiekursen beskrivs de steg som behövs för att konfigurera push-meddelanden med Campaign Standard och Android-appen. |
+| [Control Panel – hantering av Google TXT-poster](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Lär dig hur du lägger till Google TXT-poster för webbplatsverifiering på alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign Control Panel. |
+| [Konfigurera och köra ett arbetsflöde med aktiviteten Externt API](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Lär dig hur du anropar en extern REST API-slutpunkt med aktiviteten External API. |
+| [Komma igång med push-meddelanden för Android – självstudiekurs](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | I den här självstudiekursen beskrivs de steg som behövs för att konfigurera push-meddelanden med Campaign Standard och Android-appen. |
 
 * Nya självstudiekurser för Campaign Classic
 
@@ -410,7 +410,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Hjälpresurser för Campaign
 
-* Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)
 
