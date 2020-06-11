@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be2f2b5ad468ad63bfcb2fdd67d063203ac08654
+source-git-commit: 1afcf2185512cf05aa2fd7444c5835186681432e
 workflow-type: tm+mt
-source-wordcount: '4919'
-ht-degree: 79%
+source-wordcount: '5370'
+ht-degree: 97%
 
 ---
 
@@ -137,40 +137,41 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 ## ![Ikon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Updated **June, 2020**
-
-* [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
-* [Nya funktioner i Media Analytics](#media-aa)
-* [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
+* [Nya funktioner i Adobe Analytics](#aa-features) (**uppdaterad 4 juni 2020**)
+* [Nya funktioner i kundreseanalys](#cust-journey) (**uppdaterad 4 juni 2020**)
+* [Nya funktioner i Media Analytics](#media-aa) (**uppdaterad 29 maj 2020**)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (**Uppdaterad 1 juni 2020**)
+* [Adobe Analytics-korrigeringar](#aa-fixes) (**uppdaterad 21 maj 2020**)
 * [AppMeasurement](#appm)
 * [Självstudiekurser för nya Analytics](#tutorials-analytics)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
 
-| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html)- Måldatum | Beskrivning |
-| -----------| ---------- |-------|
-| Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditallokeringen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i så [!UICONTROL Attribution IQ] att de inkluderar kontaktytor från upp till 90 dagar före rapporttidsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
-| Första parts domäner är tillgängliga i Kinas domänkontrollant | 18 juni 2020 | Gör det möjligt för kunder med en `.cn` domän att begära en förstahandsdomän för användning i Mainland China. (Dokumentation finns vid köp av&quot;China Performance Optimization&quot; SKU.) |
-| Panelen Snabbinformation i Workspace | 25 juni 2020 | Quick Insights ger vägledning för icke-analytiker och nya användare av Analysis Workspace så att de snabbt och enkelt kan få svar på affärsfrågor. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| Analyser för målpanelen i arbetsytan | 25 juni 2020 | På A4T-panelen (Analytics for Target) kan du analysera dina Adobe Target-aktiviteter och -upplevelser i Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+<!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
+Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
+
+| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) - Måldatum | Beskrivning |
+| -----------| ------------ | ---------- |
+| [!UICONTROL Analytics for Target] panel i [!UICONTROL Workspace] | 25 juni 2020 | På [!UICONTROL Analytics for Target] (A4T)-panelen kan du analysera dina Adobe Target-aktiviteter och -upplevelser i [!UICONTROL Analysis Workspace.] [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL Quick Insights] panel i [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] ger vägledning för icke-analytiker och nya användare av [!UICONTROL Analysis Workspace] att lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Bulk Data Insertion] API | 31 maj 2020 | Gör det möjligt för dig att enkelt och oberoende importera batcher med Analytics-data. Praktiskt för data på serversidan och offline. [Läs mer...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 31 maj 2020 | Gör att du kan använda en enda tagg för att skicka data till flera Adobe-lösningar, som Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile och Experience Cloud ID Service. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics dashboards] | 21 maj 2020 | [!UICONTROL Adobe Analytics dashboards] är en mobilapp som gör att användare alltid har tillgång till insikter från Adobe Analytics. Den här appen är avsedd för chefer som vill ha tillgång till nyckeltal överallt. Den ger tillgång till insamlade, interaktiva styrkort och finns för både iOS och Android. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | 21 maj 2020 | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
+| [!UICONTROL Adobe Analytics Package] läggs till på [!UICONTROL Feature Access Level] sida | 21 maj 2020 | Nu kan du se vilken [!UICONTROL Adobe Analytics Package] (SKU) ditt företag är kvalificerad till på **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**. |
+| Tillgänglighetsförbättringar | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, och har bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
-| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html)- Måldatum | Beskrivning |
-| -----------| ---------- |-----|
-| Stöd för avvikelseidentifiering | 18 juni 2020 | Analysidentifiering är en statistisk metod för att fastställa hur ett givet mätresultat har ändrats i förhållande till tidigare data. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) - Måldatum | Beskrivning |
+| -----------| --------- | ---------- |
+| [!UICONTROL Quick Insights] panel i [!UICONTROL Workspace] | 25 juni 2020 | [!UICONTROL Quick Insights] ger vägledning för icke-analytiker och nya användare av [!UICONTROL Analysis Workspace] att lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Customer Journey Analytics]: Global tillgänglighet | 21 maj 2020 | Gör [!UICONTROL Customer Journey Analytics] tillgängligt för kunder i EMEA och APAC. |
+| [!UICONTROL Customer Journey Analytics]: Stöd för [!UICONTROL Adobe Experience Platform Sandboxes] | 21 maj 2020 | Gör att du kan välja [!UICONTROL Adobe Experience Platform Sandboxes] som ska användas för att bygga CJA-anslutningar. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-connections/create-connection.html) |
+| [!UICONTROL Workspace]: Bygg automatiskt [!UICONTROL Freeform Tables] från tomt läge | 21 maj 2020 | Tidigare gick det inte att släppa komponenter direkt i ett tomt projekt eller en tom panel. Du måste lägga till en [!UICONTROL Freeform Table] först. Nu kan du släppa komponenter direkt i ett tomt projekt eller en tom panel, då skapas en [!UICONTROL Freeform Table] automatiskt i det format som rekommenderas. Dessutom har vi förbättrat hur blandade komponenttyper (som dimensioner och mätvärden) hanteras när de släpps i en tom frihandstabell tillsammans. |
+| Tillgänglighetsförbättringar | 21 maj 2020 | Adobe Analytics-teamet har gjort flera tillgänglighetsförbättringar för Analysis Workspace, och har bland annat förbättrat stöd för tangentbordsnavigering, färgkontrast och skärmläsare. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
-### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
+#### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
 Uppdaterat den: **29 maj 2020**
 
@@ -184,41 +185,63 @@ Uppdaterat den: **29 maj 2020**
 
 Se [Om spårning av spelartillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html).
 
-### Adobe Analytics Fixes {#aa-fixes}
+#### Korrigeringar i Adobe Analytics {#aa-fixes}
 
-* Korrigerade ett problem som gjorde att segment med flerbytessökningar efter vissa rapportsviter inte matchade något. De kommer nu att matcha rätt strängar. AN-220043
-* Ett problem har korrigerats med att objektfiltret i rapporter och analyser inte fungerade. AN-206132
-* Korrigerad långsam svarstid i användargränssnittet för schemalagda projekt. AN-214837
-* Ett problem med att Analytics Reporting API 2.0 genererade ett datumintervallfel har korrigerats. AN-215087
-* Korrigerade ett fall där instansen/besökaren/besökaren inte räknades i nämnaren för tidsanvändningens mått. Detta inträffar när en träff utan värde för dimensionen (t.ex. Pagename) följs i samma sekund. AN-211074
-* Ett problem har korrigerats med användare som inte har åtkomst till arbetsyteprojekt som delas med dem. AN-217561
-* Ett problem med att nycklar inte klassificerades av klassificeringsregelbyggaren har korrigerats. AN-221538
-* Korrigerade ett problem med serveranropsanvändningen som inte rapporterade några användningsdata. AN-210452
-* Korrigerade problem med publicerade Adobe Analytics-segment som saknar data i AAM. AN-220208, AN-220659
-* Ett problem med rapporter som visar data har korrigerats, men datafeeds-loggar som anger &quot;Inga data Warehouse-data&quot;. AN-220784, AN-220858
-* Korrigerade problem som förhindrade att Ad Hoc Analysis startades från `experiencecloud.com` domänen. AN-219680, AN-221629
-* Problem med att använda snabbtangenten &quot;Ctrl (eller Kommando) + C&quot; har korrigerats. AN-221101, AN-221537
-* Ett problem med aktiveringssidan för aktivitetskartan har korrigerats. AN-222029, AN-221242
-* Korrigerade ett problem med att det inte gick att lägga till en kontaktyta mitt i en utfallsvisualisering. AN-221648
+* Adobe ändrade [!UICONTROL Time Spent]-metriken så att den aldrig inkluderade ”Ospecificerad” i beräkningen. Det innebär att vi, oavsett om användargränssnittet säger att ”Ospecificerad” ska inkluderas, gör ett särskilt undantag att alltid utesluta ”Ospecificerad” i [!UICONTROL Time Spent]-beräkningen. Även om du har konfigurerat en rapport som innehåller [!UICONTROL Time Spent]-metriken till att innehålla ”Ospecificerad” returnerar den därför alltid 0 tid för raden ”Ospecificerad”. Observera att detta kan ändra historikrapporteringen i både Reports &amp; Analytics och API:t v1.4. (AN-197958)
+* Ett problem har korrigerats där instansen/besöket/besökaren inte räknades i nämnaren för [!UICONTROL Time Spent]-metriken.  Detta inträffar när en träff utan värde för dimensionen (t.ex. [!UICONTROL Pagename]) följs i samma sekund. (AN-211074)
+* Ett problem som gjorde att [!DNL Analytics] segmentdata saknades i Audience Manager har korrigerats. (AN-206221)
+* Ett problem har korrigerats med [!UICONTROL Data Sources]-bearbetning som visade fel datum. (AN-213604)
+* Ett problem som gjorde att klassificeringsfiler inte överfördes till FTP på rätt sätt har korrigerats. (AN-214102)
+* Ett problem med att API-metoden `Segments.Get` inte returnerade ett fullständigt svar har korrigerats. (AN-206210)
+* Ett problem där tabellradsobjekt konverterades till specialtecken vid nedladdning av en [!DNL Workspace]-PDF har korrigerats. (AN-196153)
+* Ett problem med Adobe Analytics API 1.4-anropet `visattrcustomeridcustomerattributes` har korrigerats. (AN-186873)
+* Ett problem med data som visades i rapporter men saknades i [!UICONTROL Data Feed] har korrigerats. (AN-211923)
+* Ett problem med att det inte gick att kopiera [!UICONTROL Product Profile] behörigheter har korrigerats. (AN-211113)
+* Ett problem där användare med Federated ID inte kunde logga in på [!UICONTROL Report Builder] har korrigerats. (AN-207750)
+* Ett problem med att [!UICONTROL AdWords]-data inte visades i [!UICONTROL Advertising Analytics] har korrigerats. (AN-213249)
+* Ett problem där klassificeringsdata inte visades i trendvyn har korrigerats. (AN-212761)
+* Ett problem som gjorde att fel antal publicerade segment visades i [!UICONTROL Segment Manager] har korrigerats. (AN-213374)
+* Ett problem med alternativet **[!UICONTROL Show Upwards Trend As...]** i [!UICONTROL Calculated Metric Editor] har korrigerats. Det fungerade inte när filter användes. (AN-214223)
+* Flera problem med import och export i [!UICONTROL Classification] har korrigerats. (AN-213488, AN-215309, AN-216345, AN-215307, AN-216671)
+* Flera problem med [!UICONTROL Classification Rule Builder] har korrigerats. (AN-213826, AN-213550, AN-213095)
+* Problem med [!UICONTROL Data Sources]-bearbetning har korrigerats. (AN-218083, AN-213604, AN-214102, AN-215485, AN-215339, AN-212911, AN-217551, AN-217947, AN-219018, AN-214691, AN-218401)
+* Problem med FTP-anslutningar har korrigerats. (AN-115525)
+* Flera problem med [!DNL Analytics] [!UICONTROL Data Feeds] har korrigerats. (AN-176769, AN-160480, AN-211923, AN-204286, AN-212977, AN-214528, AN-215080, AN-217784, AN-219093, AN-218817, AN-217798, AN-218267, AN-218382)
+* Problem med [!UICONTROL Data Warehouse]-förfrågningar har korrigerats. (AN-181836)
+* Problem med nedladdade PDF-filer för [!UICONTROL Workspace]-projekt där värden konverterades till specialtecken har korrigerats. (AN-196153)
+* Ett problem med att det inte gick att kopiera [!UICONTROL Product Profile] behörigheter i [!UICONTROL Admin Console] har korrigerats. (AN-211113)
+* Ett problem där tidsformat i beräknade mätvärden bröts upp för negativa värden har korrigerats. (AN-210900)
+* Ett problem som hindrade användare från att ändra [!UICONTROL Attribution Model] för mätvärden på statiska rader har korrigerats. (AN-207872)
+* Ett problem som gjorde att [!UICONTROL Scheduled Report]-byggaren fastnade i köat läge har korrigerats. (AN-215317)
+* [!UICONTROL ExactTarget Data Connector] har korrigerats. (AN-210794)
+* Latensproblem i [!UICONTROL Bulk Ingestion API] har korrigerats. (AN-210165)
+* Ett problem där användare inte kunde logga in i [!UICONTROL Report Builder] med ett Federated ID har korrigerats. (AN-207750)
+* Ett problem i [!UICONTROL Advertising Analytics] som förhindrade att [!DNL Google AdWords]-data visades har korrigerats. (AN-213249)
+* Ett problem som förhindrade att [!UICONTROL Workspace] [!UICONTROL Project Viewed]-händelser visades i loggar har korrigerats. (AN-214134)
+* Ett problem som inträffade när datumintervallet i [!UICONTROL Workspace] ändrades och **[!UICONTROL Apply to all panels]** valdes har korrigerats. Datumet ändrades inte på vissa paneler. (AN-214944)
+* Ett problem som gjorde att det inte gick att skapa eller redigera aviseringar har korrigerats. (AN-215920)
+* Ett problem med dynamiska datumintervall i [!UICONTROL Workspace] som visade fel datum på grund av att den första dagen i veckan slumpmässigt ändrades till en söndag från en måndag har korrigerats. (AN-218835)
 
 #### Övriga korrigeringar i Adobe Analytics
 
-AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-220866; AN-221165; AN-221545; AN-221712; AN-221832; AN-221853; AN-222000; AN-222505; AN-222559
+AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-199299; AN-201342; AN-201397; AN-204286; AN-204518; AN-206045; AN-206948; AN-208607; AN-209486; AN-210743; AN-211550; AN-211539; AN-211826; AN-211943; AN-212130; AN-212151; AN-212653; AN-212673; AN-212709; AN-212833; AN-212961; AN-212977; AN-213095; AN-213422; AN-213450; AN-213490; AN-213752; AN-213827; AN-214094; AN-214153; AN-214214; AN-214234; AN-214253;  AN-214255; AN-214343; AN-214355; AN-214401; AN-214427; AN-214528; AN-214642; AN-214691; AN-214772; AN-214793; AN-214924; AN-215017; AN-215080; AN-215212; AN-215312; AN-215377; AN-215402; AN-215545; AN-215905; AN-215963; AN-216447; AN-216676; AN-216880; AN-216999; AN-217245; AN-218450; AN-218899; AN-219487; AN-219677
 
 ### Viktiga meddelanden för [!DNL Analytics]-administratörer {#aa-notices}
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
-| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. När den fullständiga arkitekturmigreringen är (snart) slutförd meddelar vi dig via versionsinformationen och det här steget för vitlistning kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör tillåta.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
-Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen.
-|Ny standardlandningssida för Adobe Analytics|Startdatum: 18 juni 2020|18 juni 2020 ändras standardstartsidan för Adobe Analytics från Reports till Workspace. Den här ändringen sker för användare som inte tidigare har angett en anpassad landningssida.|
-|Teknologi från tredje part|12 mars 2020 (giltighetsdatum)|Adobe Analytics har börjat utnyttja tredjepartstekniker för funktionshantering och produktsupport. Följande URL:er bör läggas till i alla nödvändiga tillståndslistor för nätverkets brandvägg för att säkerställa fullständig funktionsåtkomst:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul>|
-|Förbättrad redundans för Analysis Workspace-tillgänglighet|21 maj 2020|För att Analysis Workspace ska vara tillgängligt lägger vi till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul>|
-|Ändra till hur [!UICONTROL Entries/Exits] beräkningen görs i [!UICONTROL Workspace]|7 april 2020|I mars 2020 [!UICONTROL Analysis Workspace]har vi ändrat hur värdet _Ingen_ interagerar med [!UICONTROL Entries/Exits]. Eftersom du nu kan aktivera och inaktivera _Inga_ i [!UICONTROL Analysis Workspace] använder vi värdet _Inga_ efter första eller sista besökssidan i stället för före (för eVars). Anta till exempel att den första träffen för ett besök inte har ett värde för eVars, men att den andra träffen har det. I [!UICONTROL Reports & Analytics] visas den första träffen som _Ospecificerat_ för första besökssidan, men i [!UICONTROL Analysis Workspace] visas det som ett värde för den andra träffen.|
-|EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
-|End of Life - Analytics Legacy API:er|9 januari 2020|I november 2020 kommer följande Analytics Legacy API-tjänster att ha nått sitt slutdatum och kommer att avslutas. Aktuella integreringar som byggts med dessa tjänster kommer att sluta fungera. <ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tagit fram [vanliga frågor och svar om upphörande av äldre API:er](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att få svar på frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er.|
-|San Jose FTP Broker Ending for London and Singapore|Juli 2020|För kunder i London och Singapore stöder vi inte längre förmedling av data mellan London eller Singapore och datacentret [ftp.omniture.com](ftp://ftp.omniture.com/)i San Jose.<br/><ul><li>I London använder du [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>I Singapore använder du [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul>|
-|EOL of Ad Hoc Analysis|6 augusti 2018|Adobe meddelade sin avsikt att avsluta Ad Hoc Analysis. Ett slutdatum meddelas så snart det är tillgängligt. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/).|
+| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics tar bort alla `omniture.com`-domänreferenser från sin arkitektur, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen är (snart) slutförd meddelar vi dig via versionsinformationen och det här steget för vitlistning kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
+| Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen sker för användare som inte tidigare har angett en anpassad landningssida. |
+| Teknik från tredje part | (Datum för ikraftträdande: 12 mars 2020 | Adobe Analytics har börjat utnyttja teknik från tredje part för funktionshantering och produktsupport. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg för att säkerställa fullständig funktionsåtkomst:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
+| Förbättrad redundans för Analysis Workspace | 21 maj 2020 | Vi lägger till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans och säkerställa Analysis Workspaces tillgänglighet. Följande URL:er ska läggas till i alla nödvändiga vitlistor för nätverkets brandvägg:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| Ändra hur [!UICONTROL Entries/Exits] beräknas i [!UICONTROL Workspace] | 7 april 2020 | Från och med mars 2020, har vi ändrat hur värdet _Inga_ interagerar med [!UICONTROL Entries/Exits] i [!UICONTROL Analysis Workspace]. Eftersom du nu kan aktivera och inaktivera _Inga_ i [!UICONTROL Analysis Workspace] använder vi värdet _Inga_ efter första eller sista besökssidan i stället för före (för eVars). Anta till exempel att den första träffen för ett besök inte har ett värde för eVars, men att den andra träffen har det. I [!UICONTROL Reports & Analytics] visas den första träffen som _Ospecificerat_ för första besökssidan, men i [!UICONTROL Analysis Workspace] visas det som ett värde för den andra träffen. |
+| Inställningen **[!UICONTROL Conversion Level]** tas bort | 3 mars 2020 | Inställningen för icke fungerande [konverteringsnivå](https://docs.adobe.com/content/help/sv-SE/analytics/admin/admin-tools/general-acct-settings-admin.html) i **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** kommer att tas bort från gränssnittet den 12 mars 2020. |
+| **[!UICONTROL Dashboard Archive]** tas bort | 27 mars 2020 | Inställningen **[!UICONTROL View Archive]** under **[!UICONTROL Manage Dashboards]** i [!UICONTROL Reports & Analytics] är inte tillgänglig från och med oktober 2020. |
+| Stöd för TLS 1.1 upphör | 3 oktober 2019 | Adobe Analytics tar bort stödet för TLS 1.1 senast den 31 mars 2020. Den här ändringen är en del av våra löpande ansträngningar att upprätthålla högsta säkerhetsstandarder och skydda kunddata. |
+| Ny Adobe Analytics-domän | 18 dec 2019 | Den 16 januari 2020 började Adobe Analytics gå över till en ny domän – `https://experience.adobe.com/analytics.`<br>**Obs!** Den här ändringen gäller alla användare som använder Analytics med sina Adobe ID:n eller Enterprise ID:n.<ul><li>Domänändringen kan orsaka cookie-problem när Analytics läses in i Safari. Om du avmarkerar _Förhindra spårning över webbplatser_ i [!DNL Safari] Sekretessinställningarna aktiveras cookies i domäner (och alla upplevelser på olika webbplatser) vilket gör att Analytics kan användas i den nya Adobe Experience Cloud-domänen. Du kan använda andra webbläsare utan problem eftersom det bara påverkar [!DNL Safari]-användare.</li><li>Domänändringen kan leda till att [!UICONTROL Activity Map] slutar fungera för vissa kunder [i en del fall](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/activity-map/activity-map.html).</li></ul> |
+| Slutet av livscykeln – äldre API:er för Analytics | 9 januari 2020 | I november 2020 kommer följande äldre API-tjänster för Analytics att ha nått slutet av sina livscykler och avslutas. Aktuella integreringar som byggts med dessa tjänster kommer att sluta fungera. <ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tagit fram [vanliga frågor och svar om upphörande av äldre API:er](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att få svar på frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
+| San Jose FTP-hantering upphör för London och Singapore | Juli 2020 | För kunder i London och Singapore stöder vi inte längre datahantering mellan London eller Singapore och datacentret [ftp.omniture.com](ftp://ftp.omniture.com/) i San Jose.<br/><ul><li>I London använder du [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>I Singapore använder du [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
+| Ad Hoc Analysis upphör | 6 aug 2018 | Adobe har meddelat att man avser att dra tillbaka Ad Hoc Analysis. Ett slutdatum meddelas så snart det är tillgängligt. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### [!DNL AppMeasurement] {#appm}
 
