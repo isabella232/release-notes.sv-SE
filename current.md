@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e239cc0afb9ebde272f37fa0181b1454412ac2ae
+source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
 workflow-type: tm+mt
-source-wordcount: '6341'
+source-wordcount: '6343'
 ht-degree: 32%
 
 ---
@@ -404,7 +404,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 | [Komponenter i AEM Web Console](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | Videosjälvstudiekurs | Lär dig mer om felsökning av AEM som en molntjänst-SDK:s lokala snabbstart med webbkonsolen Komponenter. |
 | [Felsöka AEM SDK:s lokala snabbstart med hjälp av loggar](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Videosjälvstudiekurs | Lär dig mer om felsökning av AEM som en molntjänst-SDK:s lokala snabbstart med webbkonsolen Bundles. |
 | [Fjärrfelsökning av AEM som lokal snabbstart för en molntjänst-SDK](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html) | Videosjälvstudiekurs | Lär dig mer om fjärrfelsökning i Java från din utvecklingsmiljö, så att du kan stega igenom direktkörning av kod i AEM för att förstå det exakta körningsflödet. |
-| [Inställningar för smarta taggar](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Stegvisa instruktioner för att integrera Adobe Experience Manager (AEM) med Smart Content Service med hjälp av Adobe I/O. |
+| [Inställningar för smarta taggar](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Videosjälvstudiekurs | Stegvisa instruktioner för att integrera Adobe Experience Manager (AEM) med Smart Content Service med hjälp av Adobe I/O. |
 | [Batchgenerering av dokument](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html) | Artikel | Lär dig hur du använder API:t Batch för att skapa flera interaktiva dokument från en mall. |
 | [Skapa dokument för utskriftskanal i AEM-formulär](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html) | Artikel | Lär dig stegen som behövs för att skapa en interaktiv kommunikation för tryckkanalen. |
 | [Åtkomst till Adobe Asset Link](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html) | Videosjälvstudiekurs | Lär dig hur du får åtkomst till innehåll som lagras i Adobe Experience Manager Assets (AEM Assets), utan att lämna de Creative Cloud-datorprogram du är mest bekant med. |
