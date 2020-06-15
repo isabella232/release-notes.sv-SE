@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7f127b38a8c27f5e7a439d7130dd2577d987bf0d
+source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
 workflow-type: tm+mt
-source-wordcount: '6332'
+source-wordcount: '6335'
 ht-degree: 33%
 
 ---
@@ -140,7 +140,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 ### Senaste versionen
 
-Q2-versionen har publicerats. [Läs mer](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html)
+Information om de senaste versionsuppdateringarna finns i versionsinformationen för [Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html)
 
 ### Kurser och självstudiekurser för nya Journey Orchestration {#jo-tutorials}
 
