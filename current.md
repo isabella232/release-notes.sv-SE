@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 233093d41875b9fba88afefa0ecbfc9ace21a900
+source-git-commit: acbbe734e4d1e6881b32a6ef33439eeac6e92715
 workflow-type: tm+mt
-source-wordcount: '6378'
+source-wordcount: '6379'
 ht-degree: 33%
 
 ---
@@ -67,7 +67,7 @@ Släppt: **21 maj 2020**
 | Bekräftelse av händelseprenumeration | <ul><li>Du kan nu få en bekräftelse via e-post när du prenumererar på löpande uppdateringar om händelser.</li></ul> |
 | Förbättrad global navigering | <ul><li>Enhetlig användarupplevelse med `Adobe.com` på den översta nivån i navigeringsmenyn.</li></ul> |
 
-## ![Ikonen i](/assets/ec_appicon_24.png) Experience Cloud-gränssnittet {#ecloud}
+## ![Ikon](/assets/ec_appicon_24.png) för Adobe Experience Cloud-gränssnittet {#ecloud}
 
 Allmänna uppdateringar av gränssnittet i Experience Cloud.
 
@@ -171,7 +171,7 @@ Updated **June 10, 2020**
 | -----------| ---------- |-------|
 | Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i så [!UICONTROL Attribution IQ] att de inkluderar kontaktytor från upp till 90 dagar före rapporttidsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken projektupplevelse du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
