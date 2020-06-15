@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c794742334033a11c712fd6cabfcc1b382fbefce
+source-git-commit: 3dd0f7e9f8712786acc31a01dc0fdece9f4004b9
 workflow-type: tm+mt
-source-wordcount: '6378'
+source-wordcount: '6332'
 ht-degree: 33%
 
 ---
@@ -171,7 +171,7 @@ Updated **June 10, 2020**
 | -----------| ---------- |-------|
 | Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i så [!UICONTROL Attribution IQ] att de inkluderar kontaktytor från upp till 90 dagar före rapporttidsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken projektupplevelse du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
@@ -435,34 +435,21 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
 Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga meddelanden i alla marknadsföringskanaler, både online och offline. Nu kan ni förutse vad era kunder vill ha med upplevelser som bestäms av deras vanor och önskemål.
 
-### Campaign Standard
+### Nya produktreleaser
 
-#### Nya kurser och självstudiekurser i Campaign Standard
+[Adobe Campaign Classic 20.2 innehåller](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) :
+
+* _Stöd för Emoticon_ - _Azure Synapse FDA Connector_ - _Nya sekretessregler_
+* Kampanjkontrollpanelen: [Aktiv profilövervakning](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
+
+### Nya kampanjkurser och självstudiekurser
 
 | Innehåll | Innehållstyp | Beskrivning |
 | -----------| ---------- | ---------- |  
 | [Komma igång med Adobe Campaign Standard för företagsanvändare](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Kurs | Lär dig navigera i gränssnittet, arbeta med leveranser och skapa och hantera mottagardata. |
+| [Installera och konfigurera Adobe Campaign-klienten](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Video | Lär dig hur du hämtar och installerar klientkonsolen för Adobe Campaign, skapar och hanterar dina anslutningar till flera miljöer och verifierar åtkomst till klientkonsolen för Adobe Campaign |
 
-### Campaign Classic
-
-#### Senaste versionen
-
-[Adobe Campaign Classic 20.2](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html)
-
-#### Självstudiekurser för Campaign Classic
-
-| Innehåll | Innehållstyp | Beskrivning |
-| -----------| ---------- | ---------- |  
-| [Installera och konfigurera Adobe Campaign-klienten](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/install-and-setup-the-adobe-campaign-client.html) | Videosjälvstudiekurs | Lär dig hur du hämtar och installerar klientkonsolen för Adobe Campaign, skapar och hanterar dina anslutningar till flera miljöer och verifierar åtkomst till klientkonsolen för Adobe Campaign. |
-
-### Campaign Control Panel
-
-| Funktion | Beskrivning |
-| -----------| ---------- |  
-| Övervakning av aktiva profiler | Med Kontrollpanelen kan du övervaka den aktiva profilanvändningen för var och en av dina Campaign-instanser. Den här funktionen är i betaversion och tillgänglig för kunder som använder AWS från Campaign Standard 10368 build och Campaign Classic 8931 build. [Läs mer](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html) |
-
-### Hjälpresurser för Campaign
-
+### Hjälpresurser
 * Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html) - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
