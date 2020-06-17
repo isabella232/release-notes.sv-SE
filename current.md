@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
+source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
 workflow-type: tm+mt
 source-wordcount: '6335'
-ht-degree: 33%
+ht-degree: 34%
 
 ---
 
@@ -362,7 +362,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
    Core Components version 2.9.0 introducerar integrering med [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) och en ny Progress Bar-komponent och är nu tillgänglig tillsammans med [redigeringsdokumentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) och [utvecklarinformation samt nedladdning av projekt som finns på GitHub](https://github.com/adobe/aem-core-wcm-components).
 
-* **Gå till AEM som Cloud Service**
+* **Flytta till AEM as a Cloud Service**
 
    [I övergången till AEM som Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/home.html) beskrivs den rekommenderade övergångsresan för en befintlig AEM-kund som går över till Cloud Service. Målet med denna dokumentation är att förse kunderna med information, vägledning och bästa metoder för att hjälpa dem att förbereda sig för övergången och göra resan strukturerad och förutsägbar.
 
