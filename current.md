@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
+source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
 workflow-type: tm+mt
-source-wordcount: '6335'
+source-wordcount: '6334'
 ht-degree: 34%
 
 ---
@@ -360,7 +360,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
 * **Kärnkomponenter**
 
-   Core Components version 2.9.0 introducerar integrering med [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) och en ny Progress Bar-komponent och är nu tillgänglig tillsammans med [redigeringsdokumentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) och [utvecklarinformation samt nedladdning av projekt som finns på GitHub](https://github.com/adobe/aem-core-wcm-components).
+   Core Components 2.9.0 introducerar integrering med [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) och en ny Progress Bar-komponent och är nu tillgänglig tillsammans med [redigeringsdokumentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) och [utvecklarinformation samt projektnedladdning som finns på GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **Flytta till AEM as a Cloud Service**
 
