@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 05310c3c03c09918aee45015bd6c9bc341dce724
+source-git-commit: 07935d47bd84291ede7cfd2dcfab422a95b7cf71
 workflow-type: tm+mt
-source-wordcount: '6357'
+source-wordcount: '6412'
 ht-degree: 33%
 
 ---
 
 
-# Tidig åtkomst - Versionsinformation om Adobe Experience Cloud - juni 2020
+# Versionsinformation om Adobe Experience Cloud - juni 2020
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
 This page describes new features, fixes, and important notices in [!DNL Adobe Experience Cloud]. Här finns också ny dokumentation, kurser och videokurser som hjälper dig att få ut mesta möjliga av Experience Cloud.
-
->[!IMPORTANT]
->
->Den här sidan innehåller förhandsversion av innehåll som kan ändras före den planerade versionen.
 
 >[!NOTE]
 >
@@ -31,7 +27,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Produktreleasedatum kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **15 juni 2020**
+Senaste uppdatering: **18 juni 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
@@ -171,26 +167,28 @@ Updated **June 10, 2020**
 | -----------| ---------- |-------|
 | Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i så [!UICONTROL Attribution IQ] att de inkluderar kontaktytor från upp till 90 dagar före rapporttidsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken projektupplevelse du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
 | Första parts domäner är tillgängliga i Kinas domänkontrollant | 18 juni 2020 | Gör det möjligt för kunder med en `.cn` domän att begära en förstahandsdomän för användning i Mainland China. (Dokumentation finns vid köp av&quot;China Performance Optimization&quot; SKU.) |
 | Panelen Snabbinformation i Workspace | 25 juni 2020 | Quick Insights ger vägledning för icke-analytiker och nya användare av Analysis Workspace för att lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
 | Panelen Analytics för Target i arbetsytan | 25 juni 2020 | Med panelen Analytics for Target (A4T) kan du analysera dina Adobe Target aktiviteter och upplevelser, med lyft och självförtroende, i Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL About Workspace] page | Juni 18,2020 | På [!UICONTROL About Workspace] sidan finns information om Analysis Workspace-miljön, Adobe Analytics-administratörer (om du behöver support) och ett sätt att ge produktfeedback. Den finns under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-----|
-| Stöd för objektarrayer | 18 juni 2020 | CJA-kunder kan nu rapportera mått och mätvärden som visas i Object-arrayer i sina AEP-dataset-scheman. Läs mer... |
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i [!UICONTROL Analysis Workspace] används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i [!UICONTROL Attribution IQ] så att de inkluderar beröringspunkter från upp till 90 dagar före rapporteringsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Stöd för [!UICONTROL Anomaly Detection] | 18 juni 2020 | [!UICONTROL Anomaly Detection] innehåller en statistisk metod för att fastställa hur ett givet mätvärde har ändrats i förhållande till tidigare data. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| Projektroller för delade [!UICONTROL Workspace] projekt | 18 juni 2020 | När du delar ett [!UICONTROL Workspace] projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Visa endast [!UICONTROL Workspace] projekt | 18 juni 2020 | [!UICONTROL Workspace] projekt kan _[!UICONTROL Can View]_bara delas med användare. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet utan vänster spår och begränsad interaktion.[Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Möjlighet att samredigera [!UICONTROL Workspace] projekt | 18 juni 2020 | Mottagare som läggs till i rollen kan spara över ett projekt som har delats med dem. _[!UICONTROL Can Edit]_[Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Panelen Snabbinformation i [!UICONTROL Workspace] | 25 juni 2020 | Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| Stöd för objektarrayer | 18 juni 2020 | CJA-kunder kan nu rapportera mått och mätvärden som visas i Object-arrayer i Adobe Experience Platform-dataset. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
+| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i [!UICONTROL Analysis Workspace] används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
+| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i [!UICONTROL Attribution IQ] så att de inkluderar beröringspunkter från upp till 90 dagar före rapporteringsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
+| Stöd för [!UICONTROL Anomaly Detection] | 18 juni 2020 | [!UICONTROL Anomaly Detection] innehåller en statistisk metod för att fastställa hur ett givet mätvärde har ändrats i förhållande till tidigare data. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
+| Projektroller för delade [!UICONTROL Workspace] projekt | 18 juni 2020 | När du delar ett [!UICONTROL Workspace] projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| Visa endast [!UICONTROL Workspace] projekt | 18 juni 2020 | [!UICONTROL Workspace] projekt kan _[!UICONTROL Can View]_bara delas med användare. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet utan vänster spår och begränsad interaktion.[Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
+| Möjlighet att samredigera [!UICONTROL Workspace] projekt | 18 juni 2020 | Mottagare som läggs till i rollen kan spara över ett projekt som har delats med dem. _[!UICONTROL Can Edit]_[Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| Panelen Snabbinformation i [!UICONTROL Workspace] | 25 juni 2020 | Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
+| [!UICONTROL About Workspace] page | Juni 18,2020 | På [!UICONTROL About Workspace] sidan finns information om Analysis Workspace-miljön, Adobe Analytics-administratörer (om du behöver support) och ett sätt att ge produktfeedback. Den finns under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**. |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
