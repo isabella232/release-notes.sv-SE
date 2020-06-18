@@ -4,18 +4,17 @@ product: Experience Cloud
 user-guide-title: Versionsinformation om Adobe Experience Cloud
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 515812727fbc95bb787ec092eed719ad2b2d9171
+source-git-commit: 05310c3c03c09918aee45015bd6c9bc341dce724
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 96%
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
 
 # Versionsinformation om Experience Cloud {#experience-cloud}
 
-+ Versionsinformation om Adobe Experience Cloud {#exl-rns}
-   + [Senaste versionsinformation](current.md)
++ [Versionsinformation](current.md)
 + Tidigare versionsinformation {#previous}
    + 2020 {#2020}
       + [Maj 2020](c-legacy-releases/2020/05212020.md)
