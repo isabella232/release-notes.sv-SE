@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 07935d47bd84291ede7cfd2dcfab422a95b7cf71
+source-git-commit: 7901dd8a4f8a701dca516e90b72ec9e4ae0f6ded
 workflow-type: tm+mt
-source-wordcount: '6412'
-ht-degree: 33%
+source-wordcount: '6492'
+ht-degree: 32%
 
 ---
 
@@ -167,7 +167,7 @@ Updated **June 10, 2020**
 | -----------| ---------- |-------|
 | Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i så [!UICONTROL Attribution IQ] att de inkluderar kontaktytor från upp till 90 dagar före rapporttidsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken projektupplevelse du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
@@ -192,17 +192,12 @@ Updated **June 10, 2020**
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
-Uppdaterat den: **29 maj 2020**
+Uppdaterat den: **18 juni 2020**
 
-**Spårning av spelarstatus:** [!UICONTROL Media Analytics] kunder kan fånga tittarinteraktion under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och i fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande:
-
-* Media [!DNL JavaScript] SDK 3.0 eller senare
-* För användning med [!DNL Adobe Experience Platform] (AEP) SDK:
-   * [!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare
-   * [!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare
-* [!UICONTROL Media Collection]
-
-Se [Om spårning av spelartillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html).
+| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
+| -----------| ---------- | ---------- |
+| [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |  | [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
+| [Spårning av spelarens tillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 maj 2020 | [!UICONTROL Media Analytics] -kunder kan hämta in tittarinteraktion under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande: <ul><li>Media [!DNL JavaScript] SDK 3.0 eller senare</li><li>För användning med [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare</li><li>[!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare</li><li>[!UICONTROL Media Collection]</li></ul> |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
@@ -244,7 +239,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 Nya kurser, självstudiekurser, videor och artiklar i Analytics och Customer Journey Analytics.
 
 | Innehåll | Innehållstyp | Beskrivning |
-| -----------| ---------- | ---------- | 
+| -----------| ---------- | ---------- |
 | [Komma igång med Customer Journey Analytics för användare](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-U-1-2020.1) | Kurs | I den här kursen får du lära dig att använda Customer Journey Analytics (CJA) för att analysera data från många olika datakällor. Du får lära dig om skillnaderna mellan Adobe Analytics och Customer Journey Analytics och hur data hanteras i CJA. Efter den här kursen bör ni kunna skapa och anpassa visualiseringar över flera kanaler för att få en ökad förståelse för era kunder. |
 | [Komma igång med Customer Journey Analytics för administratörer](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1) | Kurs | Lär dig hur du konfigurerar och använder [!UICONTROL Journey Orchestration]. Kursen omfattar de viktigaste begreppen och de konfigurationssteg som krävs för att kunna samordna en resa. Du får lära dig att skapa, publicera och rapportera och analysera dina orkestrerade resor. |
 | [Getting Started with Customer Journey Analytics for Data Engineers](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-D-1-2020.1) | Kurs | I den här kursen får du lära dig mer om de data som kommer in i Customer Journey Analytics och hur de påverkar analytikernas rapporter. Den här kursen bygger på din allmänna kunskap om Adobe Experience Platform. |
