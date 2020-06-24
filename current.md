@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a88748f592df569028641cd53d563e3b6c1d1201
+source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
 workflow-type: tm+mt
-source-wordcount: '6520'
-ht-degree: 32%
+source-wordcount: '6906'
+ht-degree: 30%
 
 ---
 
@@ -167,7 +167,7 @@ Releasedatum: **18 juni 2020**
 | -----------| ---------- |-------|
 | Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. Tillgängligt för kunder som har Adobe Analytics Ultimate. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i så [!UICONTROL Attribution IQ] att de inkluderar kontaktytor från upp till 90 dagar före rapporttidsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). Tillgängligt för kunder som har Adobe Analytics Foundation, Select, Prime, Premium, Premium Attribution, Premium Complete och Ultimate. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken projektupplevelse du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
@@ -458,11 +458,23 @@ Updated **June 3, 2020**
 
 ### Nya funktioner i Advertising Cloud DSP {#adcloud-dsp}
 
+Updated **June 23, 2020**
+
 | Funktion | Beskrivning |
 | -----------| ---------- |
+| Domänmigrering | (22 juni) Advertising Cloud DSP har migrerats från https://www.tubemogul.com till [https://advertising.adobe.com](https://advertising.adobe.com). |
+| Integrering med Adobe Analytics | (18 juni-versionen) DSP kan nu välja att inaktivera kostnadsmätningen för AMO från data som skickas till Analytics. Kontakta din kontoansvarige på Adobe om du vill utelämna mätvärdena. |
+| Personbaserat enhetsdiagram | (22 juni) Självbetjänade DSP-kunder kan nu utnyttja ett enhetsdiagram (antingen Adobe Experience Cloud Device Co-op eller LiveRamp) för personbaserad målinriktning och frekvenshantering för alla nya kampanjer. På så sätt kan ni nå ut till era målgrupper på deras egna enheter och begränsa deras annonsexponering. |
+| CCPA Opt-Out-of-Sale | (22 juni) Du kan nu skicka CCPA-begäran om att avanmäla dig till Advertising Cloud med ett nytt CCPA-segment för avanmälan till försäljning, som du kan skapa utifrån [!UICONTROL Audiences > Segments]. Du kan också hämta månadsrapporter om ID:n som kunder har skickat in för begäran om avanmälan för kontot a) från [!UICONTROL Audiences > Segments] eller b) med hjälp av Advertising Cloud Trafficking API. Mer information finns på [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html.](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| Dubbelverifiera autentisk varumärkessäkerhet | (22 juni) Annonsörer kan nu rikta sig till ett enda DoubleVerify-segment ID före offert, med omfattande säkerhetsfilter för varumärken för att efterlikna sina regler för blockering efter bud med DoubleVerify. Du kan nu göra det i målavsnittet för mediekvalitet i inställningarna för annonseraren på [!UICONTROL Settings > Advertiser]. Om du vill veta mer om tjänsten kan du kontakta programmaticsales@doubleverify.com. Ytterligare avgifter tillkommer för den här funktionen. |
+| CPA/ROAS-optimering | (20 maj-utgåvan) Kampanjcheferna behöver inte längre begränsa antalet nya placeringar i paket för att förhindra överbeläggning av budgeten. Praktiktjänstgöring får nu en dynamisk budgettilldelning baserat på deras prestanda för CPM eller CPA/ROAS. |
 | [!UICONTROL Campaign] Start | (3 juni) Det finns nya paketeringsvärden på kampanjnivå som baseras på den kampanjbudget och förflutna tid. |
+| [!UICONTROL Placements] | (22 juni) Filtren för webbplatsmångfald och spelarstorlek togs bort för att förenkla placeringsinställningarna. |
 | Placeringsprognos | (3 juni) För CTV- och videomaterial med optimering på placeringsnivå innehåller placeringsinställningarna nu prognoser för flera annonslängder (15 sek och 30 sek). De innehåller även prognoser för både VAST- och VPAID-lager. |
 | CPA/ROAS-optimering | (20 maj-utgåvan) Kampanjcheferna behöver inte längre begränsa antalet nya placeringar i paket för att förhindra överbeläggning av budgeten. Praktiktjänstgöring får nu en dynamisk budgettilldelning baserat på deras prestanda för CPM eller CPA/ROAS. |
+| [!UICONTROL Inventory] | (22 juni-betaversion) Med ett nytt formulär för erbjudande-ID kan du snabbt skapa ett privat avtal som du redan har förhandlat fram. |
+|  | (22 juni-betaversionen) Interaktiv förregistrering finns nu tillgänglig för VAST-lager. Ni kan lägga upp en enda interaktiv pre-roll-annons och placering, vilket minskar antalet annonser och placeringar. |
+| ACTV Audience Lens | (18 juni) Med Audience Lenses kan man skapa och tillämpa läsningar från sekundära målgrupper i sina arbetsflöden för planering, beställning och rapportering. Detta gör att de kan (1) få snabba insikter i sekundära målgrupper, (2) ha flexibilitet att agera på önskade målgrupper och (3) mäta en kampanjs genomförande genom ett &quot;objektiv&quot; av flera målgrupper. |
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
