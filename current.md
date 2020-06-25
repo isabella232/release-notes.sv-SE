@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
+source-git-commit: bcf089494e56dd5ece46bd7575bf661e352dc9f0
 workflow-type: tm+mt
-source-wordcount: '6906'
-ht-degree: 30%
+source-wordcount: '6859'
+ht-degree: 31%
 
 ---
 
@@ -451,8 +451,6 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Updated **June 3, 2020**
-
 * [Nya funktioner i Advertising Cloud DSP](#adcloud-dsp)
 * [Nya funktioner i Advertising Cloud Search](#adcloud-search)
 
@@ -465,13 +463,12 @@ Updated **June 23, 2020**
 | Domänmigrering | (22 juni) Advertising Cloud DSP har migrerats från https://www.tubemogul.com till [https://advertising.adobe.com](https://advertising.adobe.com). |
 | Integrering med Adobe Analytics | (18 juni-versionen) DSP kan nu välja att inaktivera kostnadsmätningen för AMO från data som skickas till Analytics. Kontakta din kontoansvarige på Adobe om du vill utelämna mätvärdena. |
 | Personbaserat enhetsdiagram | (22 juni) Självbetjänade DSP-kunder kan nu utnyttja ett enhetsdiagram (antingen Adobe Experience Cloud Device Co-op eller LiveRamp) för personbaserad målinriktning och frekvenshantering för alla nya kampanjer. På så sätt kan ni nå ut till era målgrupper på deras egna enheter och begränsa deras annonsexponering. |
-| CCPA Opt-Out-of-Sale | (22 juni) Du kan nu skicka CCPA-begäran om att avanmäla dig till Advertising Cloud med ett nytt CCPA-segment för avanmälan till försäljning, som du kan skapa utifrån [!UICONTROL Audiences > Segments]. Du kan också hämta månadsrapporter om ID:n som kunder har skickat in för begäran om avanmälan för kontot a) från [!UICONTROL Audiences > Segments] eller b) med hjälp av Advertising Cloud Trafficking API. Mer information finns på [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html.](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| CCPA Opt-Out-of-Sale | (22 juni) Du kan nu skicka CCPA-begäran om att avanmäla dig till Advertising Cloud med ett nytt CCPA-segment för avanmälan till försäljning, som du kan skapa utifrån [!UICONTROL Audiences > Segments]. Du kan också hämta månadsrapporter om ID:n som kunder har skickat in för begäran om avanmälan för kontot a) från [!UICONTROL Audiences > Segments] eller b) med hjälp av Advertising Cloud Trafficking API. Mer information finns på https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
 | Dubbelverifiera autentisk varumärkessäkerhet | (22 juni) Annonsörer kan nu rikta sig till ett enda DoubleVerify-segment ID före offert, med omfattande säkerhetsfilter för varumärken för att efterlikna sina regler för blockering efter bud med DoubleVerify. Du kan nu göra det i målavsnittet för mediekvalitet i inställningarna för annonseraren på [!UICONTROL Settings > Advertiser]. Om du vill veta mer om tjänsten kan du kontakta programmaticsales@doubleverify.com. Ytterligare avgifter tillkommer för den här funktionen. |
 | CPA/ROAS-optimering | (20 maj-utgåvan) Kampanjcheferna behöver inte längre begränsa antalet nya placeringar i paket för att förhindra överbeläggning av budgeten. Praktiktjänstgöring får nu en dynamisk budgettilldelning baserat på deras prestanda för CPM eller CPA/ROAS. |
 | [!UICONTROL Campaign] Start | (3 juni) Det finns nya paketeringsvärden på kampanjnivå som baseras på den kampanjbudget och förflutna tid. |
 | [!UICONTROL Placements] | (22 juni) Filtren för webbplatsmångfald och spelarstorlek togs bort för att förenkla placeringsinställningarna. |
 | Placeringsprognos | (3 juni) För CTV- och videomaterial med optimering på placeringsnivå innehåller placeringsinställningarna nu prognoser för flera annonslängder (15 sek och 30 sek). De innehåller även prognoser för både VAST- och VPAID-lager. |
-| CPA/ROAS-optimering | (20 maj-utgåvan) Kampanjcheferna behöver inte längre begränsa antalet nya placeringar i paket för att förhindra överbeläggning av budgeten. Praktiktjänstgöring får nu en dynamisk budgettilldelning baserat på deras prestanda för CPM eller CPA/ROAS. |
 | [!UICONTROL Inventory] | (22 juni-betaversion) Med ett nytt formulär för erbjudande-ID kan du snabbt skapa ett privat avtal som du redan har förhandlat fram. |
 |  | (22 juni-betaversionen) Interaktiv förregistrering finns nu tillgänglig för VAST-lager. Ni kan lägga upp en enda interaktiv pre-roll-annons och placering, vilket minskar antalet annonser och placeringar. |
 | ACTV Audience Lens | (18 juni) Med Audience Lenses kan man skapa och tillämpa läsningar från sekundära målgrupper i sina arbetsflöden för planering, beställning och rapportering. Detta gör att de kan (1) få snabba insikter i sekundära målgrupper, (2) ha flexibilitet att agera på önskade målgrupper och (3) mäta en kampanjs genomförande genom ett &quot;objektiv&quot; av flera målgrupper. |
