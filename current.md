@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d081c9c185e4709eb758c1562466af2f92af593e
+source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
 workflow-type: tm+mt
-source-wordcount: '6826'
-ht-degree: 85%
+source-wordcount: '6849'
+ht-degree: 99%
 
 ---
 
 
-# Versionsinformation om Adobe Experience Cloud - juni 2020
+# Versionsinformation om Adobe Experience Cloud – juni 2020
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
@@ -33,7 +33,7 @@ Senaste uppdatering: **18 juni 2020**
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analyser](#analytics) (and [Customer Journey Analytics](#cust-journey))
+* [Analyser](#analytics) (och [Customer Journey Analytics](#cust-journey))
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -45,7 +45,7 @@ Senaste uppdatering: **18 juni 2020**
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
 
-## ![Ikon för ](/assets/adobe.png) Adobe – systemstatus {#status}
+## ![Ikon för](/assets/adobe.png) Adobe – systemstatus {#status}
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
@@ -136,7 +136,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 ### Senaste versionen
 
-Information om de senaste versionsuppdateringarna finns i versionsinformationen för [Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html)
+Information om de senaste uppdateringarna finns i [versionsinformationen för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html)
 
 ### Nya kurser och självstudiekurser i samband med samordning av resor {#jo-tutorials}
 
@@ -165,40 +165,40 @@ Releasedatum: **18 juni 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
-| Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | The [!UICONTROL Algorithmic Attribution] model in Analysis Workspace uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. Tillgängligt för kunder som har Adobe Analytics Ultimate. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/attribution/algorithmic.translate.html) |
-| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touchpoints from up to 90 days before the reporting time period. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). Tillgängligt för kunder som har Adobe Analytics Foundation, Select, Prime, Premium, Premium Attribution, Premium Complete och Ultimate. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/attribution/models.translate.html#sökfönster) |
-| Projektroller för delade arbetsyteprojekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/share-projects.translate.html) |
-| Visa endast arbetsyteprojekt | 18 juni 2020 | Arbetsyteprojekt kan bara delas till användare som&quot;Kan visa&quot;. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet, utan någon vänster spårsträcka och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/view-only-projects.translate.html) |
-| Möjlighet att samredigera projekt i arbetsytan | 18 juni 2020 | Mottagare som läggs till i rollen Kan redigera kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer.  [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/share-projects.translate.html) |
-| Uppdaterad tom panel i arbetsytan | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar, vilket gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
-| Första parts domäner är tillgängliga i Kinas domänkontrollant | 18 juni 2020 | Gör det möjligt för kunder med en `.cn` domän att begära en förstahandsdomän för användning i Fastlandskina. (Dokumentation finns vid köp av&quot;China Performance Optimization&quot; SKU.) |
-| Panelen Snabbinformation i Workspace | 25 juni 2020 | Quick Insights ger vägledning för icke-analytiker och nya användare av Analysis Workspace för att lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| Panelen Analytics för Target i arbetsytan | 25 juni 2020 | Med panelen Analytics for Target (A4T) kan du analysera dina Adobe Target aktiviteter och upplevelser, med lyft och självförtroende, i Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
-| [!UICONTROL About Workspace] page | Juni 18,2020 | På [!UICONTROL About Workspace] sidan finns information om Analysis Workspace-miljön, Adobe Analytics-administratörer (om du behöver support) och ett sätt att ge produktfeedback. Den finns under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**. |
+| Attribution IQ: Algoritmisk attribuering | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution]-modellen i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda mätvärdet. Tillgängligt för kunder som har Adobe Analytics Ultimate. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/attribution/algorithmic.translate.html) |
+| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i [!UICONTROL Attribution IQ] så att de inkluderar beröringspunkter från upp till 90 dagar före rapporteringsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). Tillgängligt för kunder som har Adobe Analytics Foundation, Select, Prime, Premium, Premium Attribution, Premium Complete och Ultimate. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/attribution/models.translate.html#sökfönster) |
+| Projektroller för delade Workspace-projekt | 18 juni 2020 | När du delar ett Workspace-projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken funktion du vill att de ska ha: Edit, Duplicate och View. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/share-projects.translate.html) |
+| Skrivskyddade Workspace-projekt | 18 juni 2020 | Skrivskyddade Workspace-projekt kan delas med användare som Can view. När mottagare med View-behörighet öppnar det delade projektet får de en begränsad upplevelse där den vänstra listen saknas och interaktionen är begränsad. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/view-only-projects.translate.html) |
+| Möjlighet att samredigera Workspace-projekt | 18 juni 2020 | Mottagare som läggs till i rollen Can edit kan spara över ett projekt som har delats med dem. Detta gäller både administratörer och icke-administratörer. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/share-projects.translate.html) |
+| Uppdaterad tom panel i Workspace | 18 juni 2020 | Den tomma panelen i Workspace innehåller nu paneler och visualiseringar som gör det enklare att välja det analysarbetsflöde som fungerar bäst för dig. |
+| Första parts domäner är tillgängliga i Kinas domänkontrollant | 18 juni 2020 | Gör det möjligt för kunder med en `.cn` domän att begära en förstahandsdomän för användning i Fastlandskina. (Dokumentation finns vid köp av SKU för prestandaoptimering i Kina.) |
+| Panelen Quick Insights i Workspace | 25 juni 2020 | Quick Insights ger vägledning till icke-analytiker och nya användare av Analysis Workspace så att de snabbt och enkelt kan lära sig att svara på affärsfrågor. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| Panelen Analytics for Target i Workspace | 25 juni 2020 | Med panelen Analytics for Target (A4T) kan du analysera dina Adobe Target aktiviteter och upplevelser i Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL About Workspace]-sida | Juni 18,2020 | På [!UICONTROL About Workspace]-sidan finns information om Analysis Workspace-miljön, Adobe Analytics-administratörerna (om du behöver support) och en funktion för att ge feedback om produkten. Den finns under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-----|
-| Stöd för objektarrayer | 18 juni 2020 | CJA-kunder kan nu rapportera mått och mätvärden som visas i Object-arrayer i Adobe Experience Platform-dataset. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i [!UICONTROL Analysis Workspace] används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. Tillgängligt för kunder som har Adobe Analytics Ultimate. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
-| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i [!UICONTROL Attribution IQ] så att de inkluderar beröringspunkter från upp till 90 dagar före rapporteringsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
-| Projektroller för delade [!UICONTROL Workspace] projekt | 18 juni 2020 | När du delar ett [!UICONTROL Workspace] projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
-| Visa endast [!UICONTROL Workspace] projekt | 18 juni 2020 | [!UICONTROL Workspace] projekt kan _[!UICONTROL Can View]_ bara delas med användare. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet utan vänster spår och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
-| Möjlighet att samredigera [!UICONTROL Workspace] projekt | 18 juni 2020 | Mottagare som läggs till i _[!UICONTROL Can Edit]_ rollen kan spara över ett projekt som har delats med dem. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
-| Panelen Snabbinformation i [!UICONTROL Workspace] | 25 juni 2020 | Snabbinformation ger vägledning till icke-analytiker och nya användare av [!UICONTROL Analysis Workspace] så att de kan lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
-| [!UICONTROL About Workspace] page | Juni 18,2020 | På [!UICONTROL About Workspace] sidan finns information om Analysis Workspace-miljön, Adobe Analytics-administratörer (om du behöver support) och ett sätt att ge produktfeedback. Den finns under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**. |
+| Stöd för objektarrayer | 18 juni 2020 | CJA-kunder kan nu rapportera dimensioner och mätvärden som visas i objektarrayer i Adobe Experience Platform-scheman för datauppsättningar. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
+| Attribution IQ: [!UICONTROL Algorithmic Attribution] | 18 juni 2020 | I [!UICONTROL Algorithmic Attribution] modellen i [!UICONTROL Analysis Workspace] används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet. Tillgängligt för kunder som har Adobe Analytics Ultimate. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
+| Attribution IQ: Anpassade uppslagsfönster | 18 juni 2020 | Du kan nu konfigurera alla attribueringsmodeller i [!UICONTROL Attribution IQ] så att de inkluderar beröringspunkter från upp till 90 dagar före rapporteringsperioden. Detta ökar vanligen attribueringens exakthet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er). [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-workspace/attribution/models.html) |
+| Projektroller för delade [!UICONTROL Workspace] projekt | 18 juni 2020 | När du delar ett [!UICONTROL Workspace] projekt kan du nu placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha: Redigera, Duplicera och Visa. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| Visa endast [!UICONTROL Workspace] projekt | 18 juni 2020 | [!UICONTROL Workspace] projekt kan _[!UICONTROL Can View]_ bara delas med användare. När en Visa-mottagare öppnar det delade projektet får de en mer restriktiv projekterfarenhet utan vänster spår och begränsad interaktion. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
+| Möjlighet att samredigera [!UICONTROL Workspace] projekt | 18 juni 2020 | Mottagare som läggs till i _[!UICONTROL Can Edit]_ rollen kan spara över ett projekt som har delats med dem. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| Panelen Snabbinformation i [!UICONTROL Workspace] | 25 juni 2020 | Snabbinformation ger vägledning till icke-analytiker och nya användare av [!UICONTROL Analysis Workspace] så att de kan lära sig att snabbt och enkelt svara på affärsfrågor. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
+| [!UICONTROL About Workspace]-sida | Juni 18,2020 | På [!UICONTROL About Workspace]-sidan finns information om Analysis Workspace-miljön, Adobe Analytics-administratörerna (om du behöver support) och en funktion för att ge feedback om produkten. Den finns under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**. |
 
 <!-->Support for [!UICONTROL Anomaly Detection] - July ??, 2020 - [!UICONTROL Anomaly Detection] provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)<-->
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
-Uppdaterat den: **18 juni 2020**
+Uppdaterad: **18 juni 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- | ---------- |
-| [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |  | [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
-| [Spårning av spelarens tillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 maj 2020 | [!UICONTROL Media Analytics] -kunder kan hämta in tittarinteraktion under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande: <ul><li>Media [!DNL JavaScript] SDK 3.0 eller senare</li><li>För användning med [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare</li><li>[!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare</li><li>[!UICONTROL Media Collection]</li></ul> |
+| [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |  | [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
+| [Spårning av spelarens tillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 maj 2020 | [!UICONTROL Media Analytics]-kunder kan samla in tittarinteraktioner under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och i fokus. Du kan också skapa anpassade spelarlägen. Variabler för spårning av spelarstatus är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande: <ul><li>Media [!DNL JavaScript] SDK 3.0 eller senare</li><li>För användning med [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare</li><li>[!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare</li><li>[!UICONTROL Media Collection]</li></ul> |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
@@ -225,7 +225,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
-| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. När den fullständiga arkitekturmigreringen (snart) är klar kommer vi att meddela dig via release-notiserna och detta tillåtelseliststeg kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
+| Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics utelämnar alla `omniture.com`-domänreferenser från arkitekturen, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen (snart) är klar kommer vi att meddela dig via release-notiserna och detta tillåtelseliststeg kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
 | Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen sker för användare som inte tidigare har angett en anpassad landningssida. |
 | Tredjepartsteknologi | 12 mars 2020 (giltighetsdatum) | Adobe Analytics har börjat utnyttja teknik från tredje part för funktionshantering och produktsupport. Följande URL:er ska läggas till alla nödvändiga nätverksbrandväggstillstånd för att säkerställa fullständig åtkomst till funktionen:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Förbättrad redundans för [!UICONTROL Analysis Workspace] tillgänglighet | 21 maj 2020 | Vi lägger till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans och säkerställa tillgänglighet till [!UICONTROL Analysis Workspace]. Följande URL:er ska läggas till alla nödvändiga nätverks brandväggstillståndslistor:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
@@ -250,6 +250,10 @@ Nya kurser, självstudiekurser och artiklar i Analytics och Customer Journey Ana
 | [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) | Kurs | Lär dig hur du kommer igång med Analysis Workspace. Bygg ditt första projekt, lär dig definiera datumintervall, tillämpa segment och dela och samarbeta i projekt. |
 | [Adobe Analytics-instrumentpaneler i Styrkort](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html) | Videosjälvstudiekurs | I den här videon får du lära dig hur du skapar och delar [!UICONTROL Scorecards] i [!UICONTROL Analysis Workspace] som ska visas på Adobe Analytics-instrumentpaneler (mobilapp). |
 | [Adobe Analytics-instrumentpaneler i appupplevelsen](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html) | Videosjälvstudiekurs | I den här videon får du lära dig hur du använder Adobe Analytics-instrumentpaneler (mobilapp) för att komma åt och visa [!UICONTROL Scorecards] som skapats av eller delats med dig. |
+
+#### AppMeasurement {#appm}
+
+De senaste uppdateringarna av AppMeasurement-versioner finns i versionsinformationen om [AppMeasurement for JavaScript](https://docs.adobe.com/content/help/sv-SE/analytics/implementation/appmeasurement-updates.html).
 
 #### Hjälpresurser för Analytics
 
@@ -353,9 +357,9 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
    https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html
 
-* **Kärnkomponenter**
+* **Core Components**
 
-   Core Components 2.9.0 introduces integration with the [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) and a new Progress Bar Component and is now available along with [authoring documentation](https://docs.adobe.com/content/help/sv-SE/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
+   Core Components 2.9.0 introducerar integrering med [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) och en ny Progress Bar-komponent och är nu tillgängligt tillsammans med [redigeringsdokumentation](https://docs.adobe.com/content/help/sv-SE/experience-manager-core-components/using/introduction.html) och [utvecklarinformation samt nedladdning av projekt som finns på GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **Flytta till AEM as a Cloud Service**
 
@@ -371,7 +375,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
    * [Adobe Experience Manager as a Cloud Service och riktlinjerna för webbtillgänglighet](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/onboarding/accessibility/web-accessibility.translate.html)
    * [En snabbguide till WCAG 2.1](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/onboarding/accessibility/quick-guide-wcag.translate.html)
-   * [Skapa tillgängligt innehåll (WCAG 2.1-överensstämmelse)](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/sites/authoring/fundamentals/accessible-content.translate.html)
+   * [Skapa tillgängligt innehåll (WCAG 2.1-överensstämmelse)](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/sites/authoring/fundamentals/accessible-content.html)
 
 * **AEM-nyhetsbrev**
 
@@ -420,7 +424,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 * [AEM 6.4 – startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-4.html)
 * [AEM 6.3 – startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-3.html)
 * [AEM 6.2 – startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-2.html)
-* [Användarhandbok för Cloud Manager](https://helpx.adobe.com/se/experience-manager/cloud-manager/user-guide.html)
+* [Användarhandbok för Cloud Manager](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [Äldre versioner av AEM-dokumentation](https://helpx.adobe.com/se/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic – startsida för hjälp](https://docs.adobe.com/content/help/sv-SE/dynamic-media-classic/using/home.html)
 * [Versionsinformation för Dynamic Media](https://docs.adobe.com/content/help/sv-SE/dynamic-media-developer-resources/release-notes/s7rn2017.translate.html)
@@ -430,14 +434,14 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
 Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga meddelanden i alla marknadsföringskanaler, både online och offline. Nu kan ni förutse vad era kunder vill ha med upplevelser som bestäms av deras vanor och önskemål.
 
-### Nya produktreleaser
+### Nya produktversioner
 
-[Adobe Campaign Classic 20.2 innehåller](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) :
+[Adobe Campaign Classic 20.2](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) inkluderar:
 
-* _Stöd för Emoticon_ - _Azure Synapse FDA Connector_ - _Nya sekretessregler_
-* Kampanjkontrollpanelen: [Aktiv profilövervakning](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
+* _Stöd för Emoticon_ – _Azure Synapse FDA-anslutning_ – _Nya sekretessbestämmelser_
+* Campaign Control Panel: [Aktiv profilövervakning](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
 
-### Nya kurser och självstudiekurser i Campaign 
+### Nya kurser och självstudiekurser i Campaign
 
 | Innehåll | Innehållstyp | Beskrivning |
 | -----------| ---------- | ---------- |  
@@ -461,18 +465,18 @@ Uppdaterat **23 juni 2020**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Domänmigrering | (22 juni) Advertising Cloud DSP har migrerats från https://www.tubemogul.com till [https://advertising.adobe.com](https://advertising.adobe.com). |
-| Integrering med Adobe Analytics | (18 juni-versionen) DSP kan nu välja att inaktivera kostnadsmätningen för AMO från data som skickas till Analytics. Kontakta din kontoansvarige på Adobe om du vill utelämna mätvärdena. |
-| Personbaserat enhetsdiagram | (22 juni) Självbetjänade DSP-kunder kan nu utnyttja ett enhetsdiagram (antingen Adobe Experience Cloud Device Co-op eller LiveRamp) för personbaserad målinriktning och frekvenshantering för alla nya kampanjer. På så sätt kan ni nå ut till era målgrupper på deras egna enheter och begränsa deras annonsexponering. |
-| CCPA Opt-Out-of-Sale | (22 juni) Du kan nu skicka CCPA-begäran om att avanmäla dig till Advertising Cloud med ett nytt CCPA-segment för avanmälan till försäljning, som du kan skapa utifrån [!UICONTROL Audiences > Segments]. Du kan också hämta månadsrapporter om ID:n som kunder har skickat in för begäran om avanmälan för kontot a) från [!UICONTROL Audiences > Segments] eller b) med hjälp av Advertising Cloud Trafficking API. Mer information finns på https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
-| Dubbelverifiera autentisk varumärkessäkerhet | (22 juni) Annonsörer kan nu rikta sig till ett enda DoubleVerify-segment ID före offert, med omfattande säkerhetsfilter för varumärken för att efterlikna sina regler för blockering efter bud med DoubleVerify. Du kan nu göra det i målavsnittet för mediekvalitet i inställningarna för annonseraren på [!UICONTROL Settings > Advertiser]. Om du vill veta mer om tjänsten kan du kontakta programmaticsales@doubleverify.com. Ytterligare avgifter tillkommer för den här funktionen. |
-| CPA/ROAS-optimering | (20 maj-utgåvan) Kampanjcheferna behöver inte längre begränsa antalet nya placeringar i paket för att förhindra överbeläggning av budgeten. Praktiktjänstgöring får nu en dynamisk budgettilldelning baserat på deras prestanda för CPM eller CPA/ROAS. |
+| Domänmigrering | (Version från den 22 juni) Advertising Cloud DSP har migrerats från https://www.tubemogul.com till [https://advertising.adobe.com](https://advertising.adobe.com). |
+| Adobe Analytics-integrering | (Version från den 18 juni) DSP kan nu välja att ta bort mätvärdet AMO Cost från data som skickas till Analytics. Kontakta din kontoansvariga på Adobe om du vill utelämna mätvärdet. |
+| Personbaserat enhetsdiagram | (Version från den 22 juni) DSP-kunder med självbetjäning kan nu utnyttja ett enhetsdiagram (antingen Adobe Experience Cloud Device Co-op eller LiveRamp) för personbaserad målinriktning och frekvenshantering för nya kampanjer. På så sätt kan ni nå ut till era målgrupper på deras egna enheter och begränsa deras annonsexponering. |
+| CCPA-avanmälan | (Version från den 22 juni) Du kan nu skicka en CCPA-avanmälan till Advertising Cloud med ett nytt CCPA-segment för avanmälan som du kan skapa i [!UICONTROL Audiences > Segments]. Du kan också hämta månadsrapporter om ID:n som kunder har skickat in för avanmälan för kontot a) från [!UICONTROL Audiences > Segments] eller b) med Advertising Cloud Traffickings API. Mer information finns i https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
+| DoubleVerify Authentic Brand Safety | (Version från den 22 juni) Annonsörer kan nu inrikta sig på ett enda DoubleVerify segment-ID i förhand med omfattande säkerhetsfilter för varumärken som efterliknar reglerna för blockering efter bud med DoubleVerify. Du kan nu göra det i målavsnittet för Media Quality i annonsörsinställningarna på [!UICONTROL Settings > Advertiser]. Om du vill veta mer om tjänsten kan du kontakta programmaticsales@doubleverify.com. Ytterligare avgifter tillkommer för den här funktionen. |
+| CPA/ROAS-optimering | (20 maj-utgåvan) Kampanjcheferna behöver inte längre begränsa antalet nya placeringar i paket för att förhindra överbeläggning av budgeten. Placeringar får nu en dynamisk budgettilldelning baserat på CPM- eller CPA/ROAS-prestanda. |
 | [!UICONTROL Campaign] Start | (3 juni) Det finns nya paketeringsvärden på kampanjnivå som baseras på kampanjbudget och förfluten tid. |
-| [!UICONTROL Placements] | (22 juni) Filtren för webbplatsmångfald och spelarstorlek togs bort för att förenkla placeringsinställningarna. |
+| [!UICONTROL Placements] | (Version från den 22 juni) Filtren Site Diversity och Player Size har tagits bort för att förenkla placeringsinställningarna. |
 | Placeringsprognos | (3 juni) För CTV- och videomaterial med optimering på placeringsnivå innehåller placeringsinställningarna nu prognoser för flera annonslängder (15 sek och 30 sek). De innehåller även prognoser för både VAST- och VPAID-lager. |
-| [!UICONTROL Inventory] | (22 juni-betaversion) Med ett nytt formulär för erbjudande-ID kan du snabbt skapa ett privat avtal som du redan har förhandlat fram. |
-|  | (22 juni-betaversionen) Interaktiv förregistrering finns nu tillgänglig för VAST-lager. Ni kan lägga upp en enda interaktiv pre-roll-annons och placering, vilket minskar antalet annonser och placeringar. |
-| ACTV Audience Lens | (18 juni) Med Audience Lenses kan man skapa och tillämpa läsningar från sekundära målgrupper i sina arbetsflöden för planering, beställning och rapportering. Detta gör att de kan (1) få snabba insikter i sekundära målgrupper, (2) ha flexibilitet att agera på önskade målgrupper och (3) mäta en kampanjs genomförande genom ett &quot;objektiv&quot; av flera målgrupper. |
+| [!UICONTROL Inventory] | (Betaversion från den 22 juni) Med ett nytt formulär för erbjudande-ID kan du snabbt skapa ett privat erbjudande som du redan har förhandlat fram. |
+|  | (Betaversion från den 22 juni) Interaktiv inledande annonsering finns nu tillgängligt för VAST-lager. Ni kan konfigurera en enda interaktiv inledande annons och placering, vilket minskar antalet annonser och placeringar. |
+| ACTV Audience Lens | (Version från den 18 juni) Med Audience Lenses kan ni skapa och avläsa sekundära målgrupper i era arbetsflöden för planering, beställning och rapportering. Det gör att ni kan (1) få snabba insikter om sekundära målgrupper, (2) flexibilitet att agera på önskade målgrupper och (3) mäta en kampanjs resultat sett från flera målgruppers perspektiv. |
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
