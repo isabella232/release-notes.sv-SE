@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
 workflow-type: tm+mt
 source-wordcount: '6849'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -253,7 +253,7 @@ Nya kurser, självstudiekurser och artiklar i Analytics och Customer Journey Ana
 
 #### AppMeasurement {#appm}
 
-De senaste uppdateringarna av AppMeasurement-versioner finns i versionsinformationen om [AppMeasurement for JavaScript](https://docs.adobe.com/content/help/sv-SE/analytics/implementation/appmeasurement-updates.html).
+Uppdaterad information om de senaste AppMeasurement-versionerna finns i [versionsinformationen för AppMeasurement för JavaScript](https://docs.adobe.com/content/help/sv-SE/analytics/implementation/appmeasurement-updates.html).
 
 #### Hjälpresurser för Analytics
 
