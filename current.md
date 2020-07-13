@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 19591a3d807cd772df0eb20e457d94cc9f7d5cfb
+source-git-commit: 5022132f52411a07b6e91a8bc0d8da400464c143
 workflow-type: tm+mt
-source-wordcount: '4123'
-ht-degree: 58%
+source-wordcount: '4201'
+ht-degree: 57%
 
 ---
 
@@ -31,13 +31,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **10 juli 2020**
+Senaste uppdatering: **13 juli 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analyser](#analytics) och [Customer Journey Analytics](#cust-journey)
+* [Analyser](#analytics) och [Customer Journey Analytics](#cust-journey) (uppdaterad 13 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -136,7 +136,7 @@ Releasedatum: **16 juli 2020**
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 13 juli 2020)
 * [Nya kurser och självstudiekurser i Adobe Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -184,6 +184,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
+| Slutet av livscykeln: Adobe Data Connectors | 13 juli 2020 | Adobe Data Connectors drivs av äldre teknik som inte längre är användbar eller stöds. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) som bör antas för alla integreringar som vill fortsätta att erbjudas och stödjas. Det officiella slutdatumet för livscykeln ska fortfarande fastställas, men vi räknar med att det kommer att vara under de kommande 12-18 månaderna (mitten av 2021 till slutet av 2021). |
 | Rapportera mappning av programsvit till IMS-organisation | Juli 2020 | Rapportsvitens mappningsverktyg kommer att upphöra i november 2020. Den här funktionen hanterar integreringar som Advertising Analytics och Experience Cloud i segmentpubliceringen i Adobe Analytics. En rapportsvit måste mappas till en IMS-organisation för att dessa och andra tjänster ska kunna aktiveras. Nyare rapportsviter mappas automatiskt när de skapas. Äldre rapportsviter måste dock mappas manuellt till en IMS-organisation. Se [Mappa rapportsviter till en organisation](https://docs.adobe.com/content/help/sv-SE/core-services/interface/about-core-services/report-suite-mapping.html) i användarhandboken för bastjänster för att se till att alla rapportsviter tillhör en IMS-organisation. |
 | Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics utelämnar alla `omniture.com`-domänreferenser från arkitekturen, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen (snart) är klar kommer vi att meddela dig via release-notiserna och detta tillåtelseliststeg kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
 | Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen sker för användare som inte tidigare har angett en anpassad landningssida. |
