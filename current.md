@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 65fea3351137d311bbda846058bea34284b0054e
+source-git-commit: 19591a3d807cd772df0eb20e457d94cc9f7d5cfb
 workflow-type: tm+mt
-source-wordcount: '4125'
+source-wordcount: '4123'
 ht-degree: 58%
 
 ---
@@ -116,7 +116,7 @@ Följande program använder den nya domänen experience.adobe.com:
 
 Versionsinformation för [!DNL Experience Platform] inklusive [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], och säkerhetsbulletiner.
 
-Inte uppdateratSenaste releasedatum: **10 juni 2020**
+Latest release date: **June 10, 2020**
 
 I versionsinformationen [för](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) Experience Platform finns den senaste informationen om Experience Platform.
 
