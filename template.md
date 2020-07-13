@@ -1,14 +1,14 @@
 ---
 title: Versionsinformation om Adobe Experience Cloud
-description: Versionsinformation för Experience Cloud
+description: Versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b99aa5d06316964f374b99547215643ad8208bbf
+source-git-commit: bd027ba7bbbfd6c8e510b48e4e0fff9168403da8
 workflow-type: tm+mt
-source-wordcount: '2461'
-ht-degree: 25%
+source-wordcount: '2458'
+ht-degree: 28%
 
 ---
 
@@ -20,19 +20,19 @@ ht-degree: 25%
 Nya funktioner och korrigeringar i Adobe Experience Cloud.
 
 >[!IMPORTANT]
->>Den här sidan innehåller förhandsversion av innehåll som kan ändras före den planerade versionen.
-
+>
+>Den här sidan innehåller innehåll som släppts i förväg och omfattas av ändringar före den planerade releasen.
 
 >[!NOTE]
->>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. Ny information som publiceras efter lanseringen markeras med publiceringsdatumet.
-
+>
+>Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner. Ny information som publiceras efter lanseringen markeras med publiceringsdatumet.
 
 **Releasedatum: 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
-* [Analytics](#analytics)
+* [Analyser](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -99,7 +99,7 @@ Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer jo
 
 #### Ytterligare resurser för [!UICONTROL Journey Orchestration]
 
-[Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) - [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) - [instruktionsvideor](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### [!UICONTROL Mobile Services] och [!UICONTROL Mobile SDK]{#mobile}
 
@@ -118,7 +118,7 @@ Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/hel
 
 Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) och [iOS SDK 4.x för Experience CloudSolutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
-## Analytics {#analytics}
+## Analyser {#analytics}
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
@@ -209,7 +209,7 @@ Beskrivning.
 
 Beskrivning.
 
-**Kärnkomponenter**
+**Core Components**
 
 Beskrivning
 
@@ -227,7 +227,7 @@ Följande AEM-dokumentationsuppsättningar har migrerats till en ny dokumentatio
 * [AEM 6.4 - startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-4.html)
 * [AEM 6.3 - startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-3.html)
 * [AEM 6.2 Learn &amp; Support - startsida](https://helpx.adobe.com/se/support/experience-manager/6-2.html)
-* [Användarhandbok för Cloud Manager](https://helpx.adobe.com/se/experience-manager/cloud-manager/user-guide.html)
+* [Användarhandbok för Cloud Manager](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [Äldre versioner av AEM-dokumentation](https://helpx.adobe.com/se/experience-manager/aem-previous-versions.html)
 * [Versionsinformation om Scene7 Publishing System](https://docs.adobe.com/content/help/sv-SE/dynamic-media-developer-resources/release-notes/s7rn2017.html)
 * [Versionsinformation för Livefyre](https://docs.adobe.com/content/help/sv-SE/livefyre/using/release-notes/c-rn.html)
@@ -353,7 +353,7 @@ Nya självhjälpsartiklar och videor. <!--`https://jira.corp.adobe.com/secure/Da
 | [!DNL Adobe Campaign]- Målgrupper | Video - [Ändra målinriktningsdimensionen för en leverans till en Platform-publik](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Lär dig hur du ändrar målinriktningsdimensionen för en leverans för en Platform-publik utanför den primära profiltabellen i Adobe Campaign Standard. |
 | [!DNL Adobe Campaign] | Video - [Big data management on Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Dra nytta av snöflingskontakten i Adobe Campaign Classic. |
 | [!DNL Adobe Campaign] - Målgrupper | Artikel - [Målgrupper (BETA) - Översikt](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Lär dig hur ni kan utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard. |
-| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobila tjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
+| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobiltjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Se välstrukturerade klipp från den högteknologiska supersessionen på Summit 2019. |
 | Adobe Analytics | Video - [Introduktion till beräknade värden i Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Gå igenom grunderna för att skapa [!UICONTROL Calculated Metrics] i [!UICONTROL Customer Journey Analytics]. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Se kuraterade klipp från rese- och turismsessionen på Summit 2019. |
