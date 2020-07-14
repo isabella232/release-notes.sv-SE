@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
+source-git-commit: 64307f885074b216956a8711384b60a4806a13a3
 workflow-type: tm+mt
-source-wordcount: '4293'
+source-wordcount: '4280'
 ht-degree: 55%
 
 ---
@@ -144,8 +144,8 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
-| Arbetsyta: Nya förinställningar för datumintervall | Lagt till fyra nya datumintervall (_Denna vecka/månad/kvartal/år_ (förutom idag)) så att användare kan välja från datumintervall som inte innehåller data för delar av dagen från och med idag. |
-| Data Repair API - public beta (uppdatering **juli 14 2020**) | Med API:t för datareparation kan du ta bort eller redigera vissa befintliga Adobe Analytics-data. Begäranden om datareparation görs genom att en jobbdefinition skickas till API:t för datareparation, som innehåller rapportsviten, datumintervall, variabler och åtgärder som ska tillämpas på data. När den offentliga betaversionen påbörjas kommer API:t för datareparation att ha stöd för borttagning av data från Activity Map. Ytterligare funktioner lanseras vid ett senare tillfälle. Kontakta kundtjänst om du vill gå med i den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
+| Arbetsyta: Nya förinställningar för datumintervall | 16 juli 2020 | Lagt till fyra nya datumintervall (_Denna vecka/månad/kvartal/år_ (förutom idag)) så att användare kan välja från datumintervall som inte innehåller data för delar av dagen från och med idag. |
+| Data Repair API public beta | 14 juli 2020 | Här [!UICONTROL Data Repair API] finns en funktion för att ta bort eller redigera vissa befintliga Adobe Analytics-data. [!UICONTROL Data Repair] -begäranden görs genom att en jobbdefinition skickas till [!UICONTROL Data Repair API], som innehåller rapportsviten, datumintervall, variabler och åtgärder som ska tillämpas på data. När den offentliga betaversionen påbörjas [!UICONTROL Data Repair API] kommer den att ha stöd för att ta bort [!UICONTROL Activity Map] data. Ytterligare funktioner lanseras vid ett senare tillfälle. Kontakta kundtjänst om du vill gå med i den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -155,7 +155,7 @@ Releasedatum: **16 juli 2020**
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
-Uppdaterat den: **16 juli 2020**
+Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- | ---------- |
