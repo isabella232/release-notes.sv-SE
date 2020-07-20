@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 156d25a099ea7bf1a0f8b7fff148dbfdd615f69e
 workflow-type: tm+mt
 source-wordcount: '4263'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Senaste uppdatering: **14 juli 2020**
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analyser](#analytics) och [Customer Journey Analytics](#cust-journey) (Uppdaterat 14 juli 2020)
+* [Analyser](#analytics)  och [Customer Journey Analytics](#cust-journey)  (Uppdaterat 14 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -112,9 +112,9 @@ Följande program använder den nya domänen experience.adobe.com:
 
 Versionsinformation för [!DNL Experience Platform] inklusive [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], och säkerhetsbulletiner.
 
-Latest release date: **June 10, 2020**
+Senaste release: **10 juni 2020**
 
-I versionsinformationen [för](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) Experience Platform finns den senaste informationen om Experience Platform.
+[Versionsinformationen för Experience Platform](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) innehåller den senaste informationen om Experience Platform.
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -132,7 +132,7 @@ Releasedatum: **16 juli 2020**
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 13 juli 2020)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)  (Uppdaterat 13 juli 2020)
 * [Nya kurser och självstudiekurser i Adobe Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -140,8 +140,8 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
-| Arbetsyta: Nya förinställningar för datumintervall | 16 juli 2020 | Fyra nya datumintervall har lagts till (_denna vecka/denna månad/detta kvartal/detta år_ (förutom idag)) så att användare kan välja bland datumintervall som inte innehåller data för delar av idag. |
-| Data Repair API public beta | 14 juli 2020 | Här [!UICONTROL Data Repair API] finns en funktion för att ta bort eller redigera vissa befintliga Adobe Analytics-data. [!UICONTROL Data Repair] -begäranden görs genom att en jobbdefinition skickas till [!UICONTROL Data Repair API], som innehåller rapportsviten, datumintervall, variabler och åtgärder som ska tillämpas på data. Upon commencement of the public beta, the [!UICONTROL Data Repair API] will support deletion of [!UICONTROL Activity Map] data. Ytterligare funktioner lanseras vid ett senare tillfälle. Kontakta kundtjänst om du vill gå med i den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
+| Workspace: Nya förinställningar för datumintervall | 16 juli 2020 | Fyra nya datumintervall har lagts till (_denna vecka/denna månad/detta kvartal/detta år_ (förutom idag)) så att användare kan välja bland datumintervall som inte innehåller data för delar av idag. |
+| API för datareparation – betaversion | 14 juli 2020 | [!UICONTROL Data Repair API] har en funktion för att ta bort eller redigera vissa befintliga Adobe Analytics-data. [!UICONTROL Data Repair]-begäranden görs genom att en jobbdefinition skickas till [!UICONTROL Data Repair API], som innehåller rapportsvit, datumintervall, variabler och åtgärder som ska användas på data. När den allmänna betaversionen släpps kommer [!UICONTROL Data Repair API] att ha stöd för att ta bort data från [!UICONTROL Activity Map]. Ytterligare funktioner kommer att släppas senare. Kontakta kundtjänst om du vill ha den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -171,7 +171,7 @@ Releasedatum: **16 juli 2020**
 * Korrigerar ett problem i [!UICONTROL Intelligent Alerts] som medförde att e-postlänken för att _avanmäla från schemat_ inte fungerade. (AN-223875)
 * Korrigerar ett problem med att fel valuta visas för en virtuell rapportsvit. (AN-224781)
 * Korrigerar ett problem med _saknade komponenter_ i virtuella rapportsviter. (AN-224782)
-* Ett problem har korrigerats där en uppdelning av en klassificering av en dimension med en annan skulle kunna returnera tomma resultat när de används med ett beräknat mätvärde med deltagarallokering. (AN-214089)
+* Korrigerar ett fel där en uppdelning av en dimensions klassificering i en annan ibland returnerade tomma resultat när det användes med ett beräknat mätvärde med deltagarallokering. (AN-214089)
 
 #### Övriga korrigeringar i Adobe Analytics
 
@@ -181,7 +181,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | -----------| ---------- | ---------- |
-| EOL för Adobe Data Connectors | 13 juli 2020 | Adobe Data Connectors drivs av äldre teknik som inte längre är användbar eller stöds. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) som bör antas för alla integreringar som vill fortsätta att erbjudas och stödjas. Det officiella slutdatumet för livscykeln ska fortfarande fastställas, men vi räknar med att det kommer att vara under de kommande 12-18 månaderna (mitten av 2021 till slutet av 2021). [Läs mer...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
+| Adobe Data Connectors upphör | 13 juli 2020 | Adobe Data Connectors drivs av äldre teknik som inte längre är användbar eller stöds. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud), som bör implementeras för alla integreringar som ska användas och stödjas framöver. Det officiella slutdatumet är ännu inte fastställt, men vi räknar med att det blir under kommande 12–18 månader (mitten/slutet av 2021). [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Mappning av rapportsvit till IMS-organisation | Juli 2020 | Mappningsverktyget för rapportsviter upphör i november 2020. Den här funktionen hanterar integreringar som Advertising Analytics och Experience Cloud-segmentpublicering i Adobe Analytics. En rapportsvit måste mappas till en IMS-organisation för att dessa och andra tjänster ska fungera. Nyare rapportsviter mappas automatiskt när de skapas. Äldre rapportsviter måste emellertid mappas manuellt till en IMS-organisation. Läs [Mappa rapportsviter till en organisation](https://docs.adobe.com/content/help/sv-SE/core-services/interface/about-core-services/report-suite-mapping.html) i användarhandboken för bastjänster för att se till att alla rapportsviter tillhör en IMS-organisation. |
 | Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics utelämnar alla `omniture.com`-domänreferenser från arkitekturen, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen (snart) är klar kommer vi att meddela dig via release-notiserna och detta tillåtelseliststeg kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
 | Ny startsida för Adobe Analytics | Startdatum: 18 juni 2020 | Den 18 juni 2020 ändras standardlandningssidan för Adobe Analytics från [!UICONTROL Reports] till [!UICONTROL Workspace]. Den här ändringen sker för användare som inte tidigare har angett en anpassad landningssida. |
@@ -189,7 +189,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 | Förbättrad redundans för [!UICONTROL Analysis Workspace] tillgänglighet | 21 maj 2020 | Vi lägger till ett sekundärt CDN (Content Delivery Network) för förbättrad redundans och säkerställa tillgänglighet till [!UICONTROL Analysis Workspace]. Följande URL:er ska läggas till alla nödvändiga nätverks brandväggstillståndslistor:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Ändra hur [!UICONTROL Entries/Exits] beräknas i [!UICONTROL Workspace] | 7 april 2020 | Från och med mars 2020, har vi ändrat hur värdet _Inga_ interagerar med [!UICONTROL Entries/Exits] i [!UICONTROL Analysis Workspace]. Eftersom du nu kan aktivera och inaktivera _Inga_ i [!UICONTROL Analysis Workspace] använder vi värdet _Inga_ efter första eller sista besökssidan i stället för före (för eVars). Anta till exempel att den första träffen för ett besök inte har ett värde för eVars, men att den andra träffen har det. I [!UICONTROL Reports & Analytics] visas den första träffen som _Ospecificerat_ för första besökssidan, men i [!UICONTROL Analysis Workspace] visas det som ett värde för den andra träffen. |
 | **[!UICONTROL Dashboard Archive]** tas bort | 27 mars 2020 | Inställningen **[!UICONTROL View Archive]** under **[!UICONTROL Manage Dashboards]** i [!UICONTROL Reports & Analytics] är inte tillgänglig från och med oktober 2020. |
-| EOL för Analytics äldre API:er | 9 januari 2020 | I november 2020 kommer följande äldre API-tjänster för Analytics att ha nått slutet av sina livscykler och avslutas. Aktuella integreringar som byggts med dessa tjänster kommer att sluta fungera. <ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tagit fram [vanliga frågor och svar om upphörande av äldre API:er](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att få svar på frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
+| Äldre Analytics-API:er upphör | 9 januari 2020 | I november 2020 kommer följande äldre API-tjänster för Analytics att ha nått slutet av sina livscykler och avslutas. Aktuella integreringar som byggts med dessa tjänster kommer att sluta fungera. <ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tagit fram [vanliga frågor och svar om upphörande av äldre API:er](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att få svar på frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
 | San Jose FTP-hantering upphör för London och Singapore | Juli 2020 | För kunder i London och Singapore stöder vi inte längre datahantering mellan London eller Singapore och datacentret [ftp.omniture.com](ftp://ftp.omniture.com/) i San Jose.<br/><ul><li>I London använder du [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>I Singapore använder du [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
 | Ad Hoc Analysis upphör | 6 aug 2018 | Adobe har meddelat att man avser att dra tillbaka Ad Hoc Analysis. Ett slutdatum meddelas så snart det är tillgängligt. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
@@ -341,7 +341,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 * Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html) - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.translate.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)  - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.translate.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
