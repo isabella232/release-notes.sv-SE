@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 156d25a099ea7bf1a0f8b7fff148dbfdd615f69e
+source-git-commit: 3947290a3d13ab4cef1d6d9ec639fa70a250c36a
 workflow-type: tm+mt
-source-wordcount: '4263'
+source-wordcount: '4284'
 ht-degree: 99%
 
 ---
@@ -140,6 +140,7 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
+| CDA: Fältbaserad stygn | 27 juli 2020 | En ny metod för Analytics för olika enheter som gör att du kan använda en anpassad variabel för att identifiera besökare. |
 | Workspace: Nya förinställningar för datumintervall | 16 juli 2020 | Fyra nya datumintervall har lagts till (_denna vecka/denna månad/detta kvartal/detta år_ (förutom idag)) så att användare kan välja bland datumintervall som inte innehåller data för delar av idag. |
 | API för datareparation – betaversion | 14 juli 2020 | [!UICONTROL Data Repair API] har en funktion för att ta bort eller redigera vissa befintliga Adobe Analytics-data. [!UICONTROL Data Repair]-begäranden görs genom att en jobbdefinition skickas till [!UICONTROL Data Repair API], som innehåller rapportsvit, datumintervall, variabler och åtgärder som ska användas på data. När den allmänna betaversionen släpps kommer [!UICONTROL Data Repair API] att ha stöd för att ta bort data från [!UICONTROL Activity Map]. Ytterligare funktioner kommer att släppas senare. Kontakta kundtjänst om du vill ha den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
