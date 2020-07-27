@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 07dd75d1b05e0768cf41934eaf40b5460ca85696
+source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
 workflow-type: tm+mt
-source-wordcount: '4295'
-ht-degree: 99%
+source-wordcount: '4467'
+ht-degree: 95%
 
 ---
 
@@ -30,12 +30,12 @@ Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 Senaste uppdatering: **21 juli 2020**
 
 * [Adobe – systemstatus](#status)
-* [Experience Cloud-gränssnitt](#ecloud)
+* [Experience Cloud-gränssnitt](#ecloud) (Uppdaterat 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) och [Customer Journey Analytics](#cust-journey) (Uppdaterat 21 juli 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Uppdaterat 27 juli 2020)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)
@@ -66,6 +66,14 @@ Släppt: **21 maj 2020**
 ## ![Ikonen i](/assets/ec_appicon_24.png) Experience Cloud-gränssnittet {#ecloud}
 
 Allmänna uppdateringar av gränssnittet i Experience Cloud.
+
+### Ny dokumentation från Adobe Summit Lab
+
+Nytt innehåll publicerat från Adobe Summit labs 2020.
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| 27 juli 2020 | [Släpp loss digitala upplevelser med Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | I det här labbet tar du produktiviteten och kreativiteten till nästa nivå genom att lära dig hur du kan bli digital och göra mer med PDF, och omvandla kundupplevelser och medarbetares upplevelser. |
 
 **Uppdaterad gränssnittsmeny**
 
@@ -267,6 +275,8 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 27 juli 2020 | [Mönsteridentifiering](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referens  | Endast tillgängligt från `upgrade.log` under en uppgradering till Experience Manager. |
+| 27 juli 2020 | [Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Från juni 2020 ersätter Experience Cloud Solution Software Distribution hämtningsplattformarna [!UICONTROL PackageShare] för AEM och [!DNL Neolane] for [!DNL Campaign] och ger en effektivare upplevelse när du söker efter och laddar ned programvara. Ett intuitivt användargränssnitt, en förenklad sökning och en avsevärt förbättrad nedladdningshastighet gör att nedladdningen av programpaket för Experience Cloud-produkter blir en bra användarupplevelse. |
 | 25 juni 2020 | [Kom igång med adaptiva formulär](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | De här självstudiekurserna vägleder dig genom de steg som krävs för att skapa anpassade formulär med flera flikar. Lär dig använda tabeller, dragspelslayout och regelredigerare för att skapa affärsregler. |
 | 25 juni 2020 | [Skapa ett granskningsarbetsflöde i AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=swe) | Video | Lär dig skapa ett arbetsflöde för att granska skickade data från ett aktivt formulärinskickande. |
 | 23 juni 2020 | [Bearbetningsprofiler](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Bearbetningsprofiler definierar de återgivningar som ska skapas för resurserna i AEM som en molntjänst. |
@@ -370,7 +380,9 @@ Versionsinformation om Magento finns i:
 
 ### Uppdateringar om Core Marketo Engage
 
-Den senaste informationen finns i [!DNL Marketo] [versionsinformationen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
+Dokumentation för [!UICONTROL Marketo Sky] finns nu på [Här](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
+
+Den senaste informationen finns i [!DNL Marketo] [versionsinformationen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720).
 
 ### Kommande funktioner
 
