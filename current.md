@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
+source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
 workflow-type: tm+mt
-source-wordcount: '4467'
+source-wordcount: '4465'
 ht-degree: 95%
 
 ---
@@ -380,8 +380,6 @@ Versionsinformation om Magento finns i:
 
 ### Uppdateringar om Core Marketo Engage
 
-Dokumentation för [!UICONTROL Marketo Sky] finns nu på [Här](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
-
 Den senaste informationen finns i [!DNL Marketo] [versionsinformationen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720).
 
 ### Kommande funktioner
@@ -401,5 +399,9 @@ Följande funktioner släpps under kvartalet:
 
 * **Resurs-API &quot;_method&quot;-parameter:** Efter september 2020 accepterar inte längre Assets API-slutpunkter `_method` för att skicka frågeparametrar i en POST-brödtext som kringgår begränsningar av URI-längd.
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
+
+>[!NOTE]
+>
+>Dokumentation för [!UICONTROL Marketo Sky] gränssnittet finns [här](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://docs.marketo.com/x/CgA6Ag).
