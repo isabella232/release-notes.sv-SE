@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
+source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
 workflow-type: tm+mt
-source-wordcount: '4465'
-ht-degree: 95%
+source-wordcount: '4522'
+ht-degree: 94%
 
 ---
 
@@ -27,13 +27,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **21 juli 2020**
+Senaste uppdatering: **29 juli 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud) (Uppdaterat 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) och [Customer Journey Analytics](#cust-journey) (Uppdaterat 21 juli 2020)
+* [Analytics](#analytics) och [Customer Journey Analytics](#cust-journey) (Uppdaterat 29 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat 27 juli 2020)
 * [Campaign](#ac)
@@ -137,7 +137,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 Releasedatum: **16 juli 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features) (uppdaterad 21 juli 2020)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey) (uppdaterad 29 juli 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
@@ -148,7 +148,7 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
-| Analys över olika enheter: fältbaserad sammanfogning | 27 juli 2020 | En ny metod för analys över olika enheter med en anpassad variabel för att identifiera besökare. &lt;!-->[Läs mer...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)&lt;--> |
+| Analys över olika enheter: fältbaserad sammanfogning | 27 juli 2020 | En ny metod för analys över olika enheter med en anpassad variabel för att identifiera besökare. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
 | Workspace: Nya förinställningar för datumintervall | 16 juli 2020 | Fyra nya datumintervall har lagts till (_denna vecka/denna månad/detta kvartal/detta år_ (förutom idag)) så att användare kan välja bland datumintervall som inte innehåller data för delar av idag. |
 | API för datareparation – betaversion | 14 juli 2020 | [!UICONTROL Data Repair API] har en funktion för att ta bort eller redigera vissa befintliga Adobe Analytics-data. [!UICONTROL Data Repair]-begäranden görs genom att en jobbdefinition skickas till [!UICONTROL Data Repair API], som innehåller rapportsvit, datumintervall, variabler och åtgärder som ska användas på data. När den allmänna betaversionen släpps kommer [!UICONTROL Data Repair API] att ha stöd för att ta bort data från [!UICONTROL Activity Map]. Ytterligare funktioner kommer att släppas senare. Kontakta kundtjänst om du vill ha den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -156,7 +156,7 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-----|
-| Inga nya funktioner den här månaden |  |  |
+| Identitetskarta, alternativ för person-ID | 26 juni 2020 | Identitetskarta är en kartdatastruktur som gör att du kan överföra nyckelvärdepar -> som en del av skapandet av en anslutning i Customer Journey Analytics. Nycklarna är identitetsnamnutrymmen och värdet är en struktur som innehåller identitetsvärdet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
@@ -276,7 +276,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | 27 juli 2020 | [Mönsteridentifiering](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referens  | Endast tillgängligt från `upgrade.log` under en uppgradering till Experience Manager. |
-| 27 juli 2020 | [Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Från juni 2020 ersätter Experience Cloud Solution Software Distribution hämtningsplattformarna [!UICONTROL PackageShare] för AEM och [!DNL Neolane] for [!DNL Campaign] och ger en effektivare upplevelse när du söker efter och laddar ned programvara. Ett intuitivt användargränssnitt, en förenklad sökning och en avsevärt förbättrad nedladdningshastighet gör att nedladdningen av programpaket för Experience Cloud-produkter blir en bra användarupplevelse. |
+| 27 juli 2020 | [Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Från och med juni 2020 ersätter Experience Cloud Solution Software Distribution hämtningsplattformarna [!UICONTROL PackageShare] för AEM och [!DNL Neolane] för [!DNL Campaign] och ger en effektivare upplevelse för att hitta och ladda ned programvaran. Ett intuitivt användargränssnitt, en förenklad sökning och en avsevärt förbättrad nedladdningshastighet gör att nedladdningen av programpaket för Experience Cloud-produkter blir en bra användarupplevelse. |
 | 25 juni 2020 | [Kom igång med adaptiva formulär](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | De här självstudiekurserna vägleder dig genom de steg som krävs för att skapa anpassade formulär med flera flikar. Lär dig använda tabeller, dragspelslayout och regelredigerare för att skapa affärsregler. |
 | 25 juni 2020 | [Skapa ett granskningsarbetsflöde i AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=swe) | Video | Lär dig skapa ett arbetsflöde för att granska skickade data från ett aktivt formulärinskickande. |
 | 23 juni 2020 | [Bearbetningsprofiler](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Bearbetningsprofiler definierar de återgivningar som ska skapas för resurserna i AEM som en molntjänst. |
