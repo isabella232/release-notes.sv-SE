@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
+source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
-source-wordcount: '4522'
-ht-degree: 94%
+source-wordcount: '4501'
+ht-degree: 95%
 
 ---
 
@@ -275,7 +275,6 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Mönsteridentifiering](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referens  | Endast tillgängligt från `upgrade.log` under en uppgradering till Experience Manager. |
 | 27 juli 2020 | [Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Från och med juni 2020 ersätter Experience Cloud Solution Software Distribution hämtningsplattformarna [!UICONTROL PackageShare] för AEM och [!DNL Neolane] för [!DNL Campaign] och ger en effektivare upplevelse för att hitta och ladda ned programvaran. Ett intuitivt användargränssnitt, en förenklad sökning och en avsevärt förbättrad nedladdningshastighet gör att nedladdningen av programpaket för Experience Cloud-produkter blir en bra användarupplevelse. |
 | 25 juni 2020 | [Kom igång med adaptiva formulär](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | De här självstudiekurserna vägleder dig genom de steg som krävs för att skapa anpassade formulär med flera flikar. Lär dig använda tabeller, dragspelslayout och regelredigerare för att skapa affärsregler. |
 | 25 juni 2020 | [Skapa ett granskningsarbetsflöde i AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=swe) | Video | Lär dig skapa ett arbetsflöde för att granska skickade data från ett aktivt formulärinskickande. |
