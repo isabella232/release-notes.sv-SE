@@ -33,7 +33,7 @@ Senaste uppdatering: **29 juli 2020**
 * [Experience Cloud-gränssnitt](#ecloud) (Uppdaterat 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) och [Customer Journey Analytics](#cust-journey) (Uppdaterat 29 juli 2020)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey)  (Uppdaterat 29 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat 27 juli 2020)
 * [Campaign](#ac)
@@ -136,7 +136,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 Releasedatum: **16 juli 2020**
 
-* [Nya funktioner i Adobe Analytics](#aa-features) (uppdaterad 21 juli 2020)
+* [Nya funktioner i Adobe Analytics](#aa-features) (uppdaterad den 21 juli 2020)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey) (uppdaterad 29 juli 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
@@ -148,7 +148,7 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
-| Analys över olika enheter: fältbaserad sammanfogning | 27 juli 2020 | En ny metod för analys över olika enheter med en anpassad variabel för att identifiera besökare. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
+| Analys över olika enheter: fältbaserad sammanfogning | 27 juli 2020 | En ny metod för analys över olika enheter med en anpassad variabel för att identifiera besökare. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/components/cda/field-based-stitching.html) |
 | Workspace: Nya förinställningar för datumintervall | 16 juli 2020 | Fyra nya datumintervall har lagts till (_denna vecka/denna månad/detta kvartal/detta år_ (förutom idag)) så att användare kan välja bland datumintervall som inte innehåller data för delar av idag. |
 | API för datareparation – betaversion | 14 juli 2020 | [!UICONTROL Data Repair API] har en funktion för att ta bort eller redigera vissa befintliga Adobe Analytics-data. [!UICONTROL Data Repair]-begäranden görs genom att en jobbdefinition skickas till [!UICONTROL Data Repair API], som innehåller rapportsvit, datumintervall, variabler och åtgärder som ska användas på data. När den allmänna betaversionen släpps kommer [!UICONTROL Data Repair API] att ha stöd för att ta bort data från [!UICONTROL Activity Map]. Ytterligare funktioner kommer att släppas senare. Kontakta kundtjänst om du vill ha den allmänna betaversionen av API:t för datareparation. [Läs mer...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -351,7 +351,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 * Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html) - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.translate.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)  - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.translate.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
