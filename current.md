@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
 source-wordcount: '4501'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Senaste uppdatering: **29 juli 2020**
 * [Experience Cloud-gränssnitt](#ecloud) (Uppdaterat 27 juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey)  (Uppdaterat 29 juli 2020)
+* [Analytics](#analytics) och [Customer Journey Analytics](#cust-journey) (Uppdaterat 29 juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat 27 juli 2020)
 * [Campaign](#ac)
@@ -69,11 +69,11 @@ Allmänna uppdateringar av gränssnittet i Experience Cloud.
 
 ### Ny dokumentation från Adobe Summit Lab
 
-Nytt innehåll publicerat från Adobe Summit labs 2020.
+Nytt innehåll publicerat från Adobe Summit Labs 2020.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Släpp loss digitala upplevelser med Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | I det här labbet tar du produktiviteten och kreativiteten till nästa nivå genom att lära dig hur du kan bli digital och göra mer med PDF, och omvandla kundupplevelser och medarbetares upplevelser. |
+| 27 juli 2020 | [Släpp loss digitala upplevelser med Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | I det här labbet tar du produktiviteten och kreativiteten till nya nivåer genom att lära dig hur du kan arbeta digitalt och göra mer med PDF-filer för att förhöja kundernas och medarbetarnas upplevelser. |
 
 **Uppdaterad gränssnittsmeny**
 
@@ -137,7 +137,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 Releasedatum: **16 juli 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features) (uppdaterad den 21 juli 2020)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey) (uppdaterad 29 juli 2020)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey) (uppdaterad den 29 juli 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
@@ -156,7 +156,7 @@ Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-----|
-| Identitetskarta, alternativ för person-ID | 26 juni 2020 | Identitetskarta är en kartdatastruktur som gör att du kan överföra nyckelvärdepar -> som en del av skapandet av en anslutning i Customer Journey Analytics. Nycklarna är identitetsnamnutrymmen och värdet är en struktur som innehåller identitetsvärdet. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
+| Identity Map-alternativ för Person ID | 26 juni 2020 | Identity Map är en kartdatastruktur som gör att du kan överföra nycklar -> värdepar när du skapar en anslutning i Customer Journey Analytics. Nycklarna är ID-namnutrymmen och värdet är den struktur som innehåller identitetsvärdet. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
@@ -275,7 +275,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juli 2020 | [Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) | Artikel | Från och med juni 2020 ersätter Experience Cloud Solution Software Distribution hämtningsplattformarna [!UICONTROL PackageShare] för AEM och [!DNL Neolane] för [!DNL Campaign] och ger en effektivare upplevelse för att hitta och ladda ned programvaran. Ett intuitivt användargränssnitt, en förenklad sökning och en avsevärt förbättrad nedladdningshastighet gör att nedladdningen av programpaket för Experience Cloud-produkter blir en bra användarupplevelse. |
+| 27 juli 2020 | [Software Distribution](https://docs.adobe.com/content/help/sv-SE/experience-cloud/software-distribution/home.html) | Artikel | Från och med juni 2020 ersätter Experience Cloud Solution Software Distribution hämtningsplattformarna [!UICONTROL PackageShare] för AEM och [!DNL Neolane] för [!DNL Campaign] vilket gör det enklare att hitta och ladda ned programvaran. Ett intuitivt användargränssnitt, en förenklad sökfunktion och avsevärt förbättrad nedladdningshastighet gör nedladdningen av programpaketen för Experience Cloud-produkterna till en bra användarupplevelse. |
 | 25 juni 2020 | [Kom igång med adaptiva formulär](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | De här självstudiekurserna vägleder dig genom de steg som krävs för att skapa anpassade formulär med flera flikar. Lär dig använda tabeller, dragspelslayout och regelredigerare för att skapa affärsregler. |
 | 25 juni 2020 | [Skapa ett granskningsarbetsflöde i AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=swe) | Video | Lär dig skapa ett arbetsflöde för att granska skickade data från ett aktivt formulärinskickande. |
 | 23 juni 2020 | [Bearbetningsprofiler](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Bearbetningsprofiler definierar de återgivningar som ska skapas för resurserna i AEM som en molntjänst. |
@@ -351,7 +351,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 * Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)  - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.translate.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html) - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.translate.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -401,6 +401,6 @@ Följande funktioner släpps under kvartalet:
 
 >[!NOTE]
 >
->Dokumentation för [!UICONTROL Marketo Sky] gränssnittet finns [här](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
+>Dokumentation för [!UICONTROL Marketo Sky]-gränssnittet finns [här](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://docs.marketo.com/x/CgA6Ag).
