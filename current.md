@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
+source-git-commit: f7bd407c120932f7c51ccc77d5e72f72a2d38014
 workflow-type: tm+mt
-source-wordcount: '4501'
+source-wordcount: '4495'
 ht-degree: 100%
 
 ---
@@ -141,7 +141,6 @@ Releasedatum: **16 juli 2020**
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
-* [Nya kurser och självstudiekurser i Adobe Analytics](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
