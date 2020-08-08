@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 94f346f9c1f7f23630c731769e4457bc5e0b7222
+source-git-commit: 4692634440160952dc46ee85c9dbdb77b9778fbf
 workflow-type: tm+mt
-source-wordcount: '6019'
+source-wordcount: '5984'
 ht-degree: 41%
 
 ---
@@ -113,7 +113,6 @@ Releasedatum: **16 juli 2020**
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- | ---------- |
 | [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/supported-devices.html) | 18 juni 2020 | I [!UICONTROL Media Launch Extension] AEP SDK finns nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
-| [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/supported-devices.html) | 18 juni 2020 | Media Launch Extension med AEP SDK har nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
 | [Spårning av spelarens tillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 maj 2020 | [!UICONTROL Media Analytics]-kunder kan samla in tittarinteraktioner under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och i fokus. Du kan också skapa anpassade spelarlägen. [!UICONTROL Player State Tracking] variabler är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande: <ul><li>Media [!DNL JavaScript] SDK 3.0 eller senare</li><li>För användning med [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare</li><li>[!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare</li><li>[!UICONTROL Media Collection]</li></ul> |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
