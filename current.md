@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dab2c3fb8b9920f079195693a584f7c48b813e23
+source-git-commit: 94f346f9c1f7f23630c731769e4457bc5e0b7222
 workflow-type: tm+mt
-source-wordcount: '6017'
+source-wordcount: '6019'
 ht-degree: 41%
 
 ---
@@ -75,9 +75,9 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 
 Nya videofilmer, självstudiekurser och kurser som publicerats den senaste månaden.
 
-| Publicerad | Namn | Beskrivning |
-| ----------- | ---------- | ---------- |  
-| 10 juli 2020 | [Rapportera händelser för kundresa till Adobe Experience Platform](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | Lär dig vilka steg som ska tas på kundresan och vilka datasteg som ska skapas automatiskt på Experience Platform och hur du utforskar dessa. |
+| Publicerad | Namn | Typ | Beskrivning |
+| ----------- | ---------- | ---------- |---------- |  
+| 10 juli 2020 | [Rapportera händelser för kundresa till Adobe Experience Platform](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | Självstudiekurs | Lär dig vilka steg som ska tas på kundresan och vilka datasteg som ska skapas automatiskt på Experience Platform och hur du utforskar dessa. |
 
 ### Ytterligare resurser för resesamordning
 
@@ -159,7 +159,7 @@ Uppdaterad information om de senaste AppMeasurement-versionerna finns i [version
 
 Nya kurser, självstudiekurser och artiklar i Analytics och Customer Journey Analytics.
 
-| Publicerad | Namn | Lösning | Beskrivning |
+| Publicerad | Namn | Typ | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |  
 | 30 juli 2020 | [Begränsa åtkomst till Report Suite i Admin Console](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html) | Självstudiekurs | Lär dig hur du använder [!UICONTROL Admin Console] för att säkerställa att användare bara kan komma åt de rapportsviter som är nödvändiga för deras roll. |
 | 24 juli 2020 | [Lägga till en administratör i Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html) | Självstudiekurs | Lär dig hur du lägger till en användare som administratör i Adobe [!UICONTROL Admin Console]. |
@@ -203,7 +203,7 @@ Releasedatum: **13 augusti 2020**
 
 ### Nya självstudiekurser för Audience Manager {#tutorials-aam}
 
-| Publicerad | Namn | Lösning | Beskrivning |
+| Publicerad | Namn | Typ | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
 | 7 augusti 2020 | [Spara pengar och optimera kundupplevelsen genom att utelämna annonser till konverterare](https://experienceleague.adobe.com/?recommended=AudienceManager-A-1-2020.1) | Självstudiekurs | I den här kursen får du lära dig alla koncept du kan gå från början till slut genom att spara pengar och optimera kundupplevelsen genom att ta bort befintliga kunder från era målgruppskampanjer. Detta inkluderar att bygga egenskaper och segment, lägga till rätt regler för profilsammanslagning, lägga till segment till mål och till och med beräkna avkastningen när du använder det här användningsexemplet. |
 | 7 augusti 2020 | [Välja rätt profilkopplingsregel](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.html) | Självstudiekurs | I den här videon får du se tre av de vanligaste användningsexemplen för [!UICONTROL Profile Merge Rules]och hur de kan hjälpa er marknadsföring. |
@@ -341,7 +341,7 @@ Versionsinformation för Campaign Classic, Campaign Standard och Kontrollpanelen
 
 Nya videofilmer, självstudiekurser och kurser som publicerats den senaste månaden.
 
-| Publicerad | Namn | Lösning | Beskrivning |
+| Publicerad | Namn | Typ | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |  
 | 10 juli 2020 | [Kontrollpanelen - Hantering av GPG-nyckel - Dekryptera data](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar den på en instans i Campaign för att dekryptera inkommande data. |
 | 10 juli 2020 | [Kontrollpanelen - Hantering av GPG-nyckel - Använda en GPG-nyckel för att kryptera data](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen. |
