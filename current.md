@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4692634440160952dc46ee85c9dbdb77b9778fbf
+source-git-commit: c3d6d35f2a56d003514549150db7b060440389f9
 workflow-type: tm+mt
-source-wordcount: '5984'
-ht-degree: 41%
+source-wordcount: '6097'
+ht-degree: 40%
 
 ---
 
@@ -228,6 +228,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
    * AEM Commerce är nu tillgänglig i Cloud Service. Se [Komma igång med AEM Commerce som Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/commerce/getting-started.html)
    * Kopplingar till förbättringarna i Adobe Target och Adobe Analytics omfattar förbättringar av användargränssnittet, ersättning av klassiskt användargränssnitt och integrering av Adobe Launch. Se [Integrera Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-analytics.html) och [Integrera Adobe Target.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html)
    * Tjänsten Asset Compute är en skalbar och utbyggbar tjänst för att bearbeta resurser. Administratörer kan konfigurera Experience Manager att anropa anpassad arbetare som skapats med tjänsten Resursberäkning. Utvecklare kan använda tjänsten för att skapa specialarbetare som klarar komplexa användningsfall. Den här webbtjänsten kan generera miniatyrbilder för olika filtyper, bildåtergivning av hög kvalitet från filformat i Adobe, koda videor (framtida), extrahera metadata, extrahera full text som prekursor för indexering och köra en resurs via alla tillgängliga Sensei-tjänster. Se [Använda resursmikrotjänster och bearbetningsprofiler.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/asset-microservices-configure-and-use.html)
+   * [Tjänsten](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) Resursberäkning är tillgänglig för utökning för att skapa ett anpassat program. Det är en skalbar och utbyggbar tjänst för [!DNL Adobe Experience Cloud] att bearbeta digitala resurser. Det kan omvandla bild, video, dokument och andra filformat till olika renderingar, bland annat miniatyrer, extraherad text och metadata, arkiv med mera. Utvecklare kan skapa anpassade program (kallas även anpassade arbetare) för anpassade användningsområden. Den är byggd med [Project Fire](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) och fungerar i [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html)utan server.
    * Flera förbättringar för arbetsflödesmodeller och Dynamic Media i AEM som Cloud Service.
    * Version 2.11.0 av [AEM Core Components](https://docs.adobe.com/content/help/sv-SE/experience-manager-core-components/using/introduction.html) finns nu som en del av AEM Sites, inklusive följande:
       * Introduktion till en ny [PDF Viewer-komponent.](https://aemcomponents.dev/content/core-components-examples/library/page-authoring/pdf-viewer.html)
@@ -241,6 +242,10 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
    * Se den [fullständiga versionsinformationen för AEM som en Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
 ### Självhjälp
+
+* **AEM Assets**
+
+   * Fler [felsökningstips](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) för datorprogrammet Experience Manager har lagts till.
 
 * **AEM Forms**
 
