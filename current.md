@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c3d6d35f2a56d003514549150db7b060440389f9
+source-git-commit: 1a9860da58454f3e23650b8cf98e20f2819ac3be
 workflow-type: tm+mt
-source-wordcount: '6097'
+source-wordcount: '6143'
 ht-degree: 40%
 
 ---
@@ -99,6 +99,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 | Förbättringar av datainsamling i Kina | 13 aug 2020 | Bland förbättringarna finns: Stöd för Experience Cloud ID-tjänst. Stöd för SSL från första part. och stöd för vidarebefordran på serversidan. Kontakta din säljare på Adobe om du vill ha mer information. |
 | [!UICONTROL Cross-Device Analytics]: Tillgänglighet i EMEA och APAC | 31 augusti 2020 | [Enhetsövergripande analyser](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) och privata diagram kommer att vara tillgängliga för kunder i EMEA och APAC. |
 | Förbättring av fältbaserad stygn i [!UICONTROL Cross-Device Analytics] (tillgänglig i Nord- och Sydamerika och EMEA) | 17 augusti 2020 | Denna förenklade implementering för nya [!UICONTROL Cross-Device Analytics] kunder ger dig möjlighet att sy ihop baserat på ett användar-ID som lagras i ett analysfält (prop eller eVar) i stället för att använda enhetsdiagram (co-op eller private). Förbättringen eliminerar kravet på att implementera ECID och eliminerar kravet på att implementera ID-synkronisering för CDA. (ECID- och ID-synkronisering krävs fortfarande för vissa andra funktioner.) |
+| Arbetsyta: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | [Tidigt meddelande] Du kan ladda ned 50 000 objekt för en enda dimension i ett frihandsritbord med segment och filter. På så sätt kan du komma åt mer än de 400 dataraderna utanför Analysis Workspace. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
