@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1a9860da58454f3e23650b8cf98e20f2819ac3be
+source-git-commit: 8eec282ba5b97526aecf904b58819b446be35db0
 workflow-type: tm+mt
-source-wordcount: '6143'
+source-wordcount: '6147'
 ht-degree: 40%
 
 ---
@@ -31,13 +31,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **7 augusti 2020**
+Senaste uppdatering: **11 augusti 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) och [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Uppdaterat 11 augusti 2020) och [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -93,6 +93,8 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 * [AppMeasurement](#appm)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
+
+(Uppdaterat 11 augusti 2020)
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
