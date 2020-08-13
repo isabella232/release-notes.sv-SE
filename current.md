@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8eec282ba5b97526aecf904b58819b446be35db0
+source-git-commit: 287bdc8c8460e9700474bb0bf1e79631182945bb
 workflow-type: tm+mt
-source-wordcount: '6147'
-ht-degree: 40%
+source-wordcount: '6210'
+ht-degree: 39%
 
 ---
 
@@ -190,6 +190,7 @@ Releasedatum: **13 augusti 2020**
 
 ### Nya funktioner och korrigeringar i Adobe Audience Manager
 
+* Du kan nu använda [personbaserade mål](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) för att rikta in användare via [!DNL Google Customer Match]. Innan du kan använda för [!UICONTROL People-Based Destinations] att skicka egna målgruppssegment till en [!DNL Google Customer Match] destination är det obligatoriskt att lägga till [!DNL Google] dig i tillåtelselista. Mer information finns i dokumentationen för [personbaserade mål](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) . (PLAT-53962)
 * [Prediktiva målgrupper](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) har nu stöd för val av en [!UICONTROL Profile Merge Rule] per modell när en modell skapas. (AAM-55178)
 * Startdatum och slutdatum för målmappning visas nu på varje segmentsida. (AAM-40056)
 * Ett problem har korrigerats där värdet [!UICONTROL Device Type] för ett trait automatiskt ställdes in på [!UICONTROL Cross-Device] när ett nytt trait skapades. (AAM-55368)
@@ -381,7 +382,7 @@ Versionsinformation för Adobe Advertising Cloud.
 | Funktion | Beskrivning |
 | -----------| ---------- |
 | [!UICONTROL Portfolios] | Positionsgränser på Portfolio-nivå är inte längre tillgängliga i portföljinställningarna. Eventuella tidigare placeringsbegränsningar har tagits bort. |
-| [!UICONTROL Constraints] | Positionsbaserade begränsningar och begränsningsvillkor stöds inte längre:<br/><ul><li>Min pos och Max pos-begränsningar är inte längre tillgängliga och har tagits bort från alla tidigare skapade begränsningar för bud- och positionsbegränsningar och Impression-delning.</li><li>Befintliga bud- och positionsbegränsningar som innehöll positionsbegränsningar men inga anbudsbegränsningar pausades. De finns fortfarande i användargränssnittet och i rapporter.</li><li>Bid- och positionsbegränsningarna döptes om till Bid-begränsningar.</li><li>Alla positionsbaserade villkor (med medelposition, viktad genomsnittlig position eller senaste kända pos-mått) i någon typ av begränsning togs bort.</li></ul><br/>**Obs!**Positionsdata fylls i så länge de är tillgängliga från sökmotorerna. Microsoft Ads upphör i september 2020. |  |
+| [!UICONTROL Constraints] | Positionsbaserade begränsningar och begränsningsvillkor stöds inte längre:<br/><ul><li>Min pos och Max pos-begränsningar är inte längre tillgängliga och har tagits bort från alla tidigare skapade begränsningar för bud- och positionsbegränsningar och Impression-delning.</li><li>Befintliga bud- och positionsbegränsningar som innehöll positionsbegränsningar men inga anbudsbegränsningar pausades. De finns fortfarande i användargränssnittet och i rapporter.</li><li>Bid- och positionsbegränsningarna döptes om till Bid-begränsningar.</li><li>Alla positionsbaserade villkor (med medelposition, viktad genomsnittlig position eller senaste kända pos-mått) i någon typ av begränsning togs bort.</li></ul><br/>**Obs!** Positionsdata fylls i så länge de är tillgängliga från sökmotorerna. Microsoft Ads upphör i september 2020. |  |
 | [!UICONTROL Campaigns] | (Google Ads-kampanjer) Advertising Cloud Search har nu stöd för annonsanpassare i responsiva sökannonser (RSA). Tidigare stöddes de i alla annonstyper utom RSA. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
