@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bc30808217e8734e639246602be45efd02d2dc60
+source-git-commit: 5fa62cfefa6118c72d3c997c198f9f5ad7123b6d
 workflow-type: tm+mt
-source-wordcount: '6210'
-ht-degree: 39%
+source-wordcount: '6179'
+ht-degree: 40%
 
 ---
 
@@ -31,13 +31,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **11 augusti 2020**
+Senaste uppdatering: **13 augusti 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Uppdaterat 11 augusti 2020) och [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Uppdaterat 13 augusti 2020) och [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -94,13 +94,12 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
 
-(Uppdaterat 11 augusti 2020)
+(Uppdaterat 13 augusti 2020)
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | -----------| ---------- |-------|
-| Förbättringar av datainsamling i Kina | 13 aug 2020 | Bland förbättringarna finns: Stöd för Experience Cloud ID-tjänst. Stöd för SSL från första part. och stöd för vidarebefordran på serversidan. Kontakta din säljare på Adobe om du vill ha mer information. |
 | [!UICONTROL Cross-Device Analytics]: Tillgänglighet i EMEA och APAC | 31 augusti 2020 | [Enhetsövergripande analyser](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) och privata diagram kommer att vara tillgängliga för kunder i EMEA och APAC. |
-| Förbättring av fältbaserad stygn i [!UICONTROL Cross-Device Analytics] (tillgänglig i Nord- och Sydamerika och EMEA) | 17 augusti 2020 | Denna förenklade implementering för nya [!UICONTROL Cross-Device Analytics] kunder ger dig möjlighet att sy ihop baserat på ett användar-ID som lagras i ett analysfält (prop eller eVar) i stället för att använda enhetsdiagram (co-op eller private). Förbättringen eliminerar kravet på att implementera ECID och eliminerar kravet på att implementera ID-synkronisering för CDA. (ECID- och ID-synkronisering krävs fortfarande för vissa andra funktioner.) |
+| Förbättring av fältbaserad stygn i [!UICONTROL Cross-Device Analytics] (tillgänglig i Nord- och Sydamerika och EMEA) | 31 augusti 2020 | Denna förenklade implementering för nya [!UICONTROL Cross-Device Analytics] kunder ger dig möjlighet att sy ihop baserat på ett användar-ID som lagras i ett analysfält (prop eller eVar) i stället för att använda enhetsdiagram (co-op eller private). Förbättringen eliminerar kravet på att implementera ECID och eliminerar kravet på att implementera ID-synkronisering för CDA. (ECID- och ID-synkronisering krävs fortfarande för vissa andra funktioner.) |
 | Arbetsyta: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. På så sätt kan du komma åt mer än de 400 dataraderna utanför Analysis Workspace. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
