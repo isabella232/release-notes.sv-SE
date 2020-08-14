@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
+source-git-commit: 1fc011a1dbdc71052547679e69ac4f853f7fa4c2
 workflow-type: tm+mt
-source-wordcount: '6180'
+source-wordcount: '6244'
 ht-degree: 39%
 
 ---
@@ -369,6 +369,15 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Versionsinformation för Adobe Advertising Cloud.
+
+* [Nya funktioner i Advertising Cloud DSP](#adcloud-dsp)
+* [Nya funktioner i Advertising Cloud Search](#adcloud-search)
+
+### Nya funktioner i [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+
+| Funktion | Beskrivning |
+| -----------| ---------- |
+| Interaktiv pre-roll utökad till VAST-lager | Alla interaktiva pre-roll-placement och annonser har nu stöd för både VPAID och VAST-lager. **Obs!** Om din primära KPI är synlig fortsätter du att skapa separata VPAID- och VAST-placeringar och annonser eftersom visningsbara visningar inte är tillgängliga för VAST-annonser. |
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
