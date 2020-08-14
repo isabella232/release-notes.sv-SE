@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5fa62cfefa6118c72d3c997c198f9f5ad7123b6d
+source-git-commit: dc785dde4088570baa004f5296d134d16a503562
 workflow-type: tm+mt
-source-wordcount: '6179'
-ht-degree: 40%
+source-wordcount: '6180'
+ht-degree: 39%
 
 ---
 
 
-# Tidig åtkomst - Adobe Experience Cloud versionsinformation - augusti 2020
+# Versionsinformation om Adobe Experience Cloud - augusti 2020
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
 Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i [!DNL Adobe Experience Cloud]. Här finns också ny dokumentation, kurser och videokurser som hjälper dig att få ut mesta möjliga av Experience Cloud.
-
->[!IMPORTANT]
->
->Den här sidan innehåller innehåll som släppts i förväg och omfattas av ändringar före den planerade releasen.
 
 >[!NOTE]
 >
@@ -241,7 +237,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
    * Molnhanterarens pipelines har nu stöd för kundspecifika variabler och hemligheter. Se [Förvandlingsvariabler.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/getting-access/creating-aem-application-project.html#pipeline-variables)
    * [Loggar kan vidarebefordras till Splunk-konton](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/logging.html#splunk-logs), vilket gör att organisationer kan utnyttja sin [!DNL Splunk] investering.
    * Du kan tilldela [en statisk, dedikerad IP-adress](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/development-guidelines.html#dedicated-egress-ip-address) för utgående trafik som programmeras i Java-kod, vilket kan vara användbart för vissa integreringar.
-   * Cloud Readiness Analyzer v1.0.2 har släppts. Se [Installera CRA på AEM 6.1.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html#installing-on-aem61)
+   * [!UICONTROL Cloud Readiness Analyzer] v1.0.2 släpptes. See detailed [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) for more information. Information om hur du kommer igång med [!UICONTROL Cloud Readiness Analyzer]finns i [Använda Cloud Readiness Analyzer](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html).
    * Se den [fullständiga versionsinformationen för AEM som en Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
 ### Självhjälp
