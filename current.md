@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dc785dde4088570baa004f5296d134d16a503562
+source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
 workflow-type: tm+mt
 source-wordcount: '6180'
 ht-degree: 39%
@@ -93,7 +93,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 (Uppdaterat 13 augusti 2020)
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
-| -----------| ---------- |-------|
+| ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Tillgänglighet i EMEA och APAC | 31 augusti 2020 | [Enhetsövergripande analyser](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) och privata diagram kommer att vara tillgängliga för kunder i EMEA och APAC. |
 | Förbättring av fältbaserad stygn i [!UICONTROL Cross-Device Analytics] (tillgänglig i Nord- och Sydamerika och EMEA) | 31 augusti 2020 | Denna förenklade implementering för nya [!UICONTROL Cross-Device Analytics] kunder ger dig möjlighet att sy ihop baserat på ett användar-ID som lagras i ett analysfält (prop eller eVar) i stället för att använda enhetsdiagram (co-op eller private). Förbättringen eliminerar kravet på att implementera ECID och eliminerar kravet på att implementera ID-synkronisering för CDA. (ECID- och ID-synkronisering krävs fortfarande för vissa andra funktioner.) |
 | Arbetsyta: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. På så sätt kan du komma åt mer än de 400 dataraderna utanför Analysis Workspace. |
@@ -101,7 +101,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
-| -----------| ---------- |-----|
+| ----------- | ---------- | ----- |
 | [!UICONTROL Identity Map] alternativ för person-ID | 26 juni 2020 | [!UICONTROL Identity Map] är en kartdatastruktur som gör att du kan överföra nyckelvärdepar som en del av skapandet av en anslutning i [!UICONTROL Customer Journey Analytics]. Nycklarna är ID-namnutrymmen och värdet är den struktur som innehåller identitetsvärdet. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
@@ -109,7 +109,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 Releasedatum: **16 juli 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
-| -----------| ---------- | ---------- |
+| ----------- | ---------- | ---------- |
 | [Enheter och plattformar som stöds](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/supported-devices.html) | 18 juni 2020 | I [!UICONTROL Media Launch Extension] AEP SDK finns nu stöd för följande OTT-enheter:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
 | [Spårning av spelarens tillstånd](https://docs.adobe.com/content/help/sv-SE/media-analytics/using/player-state-tracking/player-state-overview.html) | 29 maj 2020 | [!UICONTROL Media Analytics]-kunder kan samla in tittarinteraktioner under uppspelning med en standarduppsättning lösningsvariabler för helskärmsvisning, undertexter, ljud av, bild-i-bild och i fokus. Du kan också skapa anpassade spelarlägen. [!UICONTROL Player State Tracking] variabler är nu tillgängliga för rapportering i [!UICONTROL Analysis Workspace]. Den här funktionen kräver något av följande: <ul><li>Media [!DNL JavaScript] SDK 3.0 eller senare</li><li>För användning med [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (för webb): [!UICONTROL Adobe Media Analytics] (3.x SDK) för ljud och video v1.0 eller senare</li><li>[!UICONTROL Media Analytics Extension] (för mobil): [!UICONTROL Adobe Media Analytics for Audio] och video v2.0 eller senare</li><li>[!UICONTROL Media Collection]</li></ul> |
 
@@ -135,7 +135,7 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 ### Viktiga meddelanden för [!DNL Analytics]-administratörer {#aa-notices}
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
-| -----------| ---------- | ---------- |
+| ----------- | ---------- | ---------- |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud), som bör implementeras för alla integreringar som ska användas och stödjas framöver. Det officiella slutdatumet är ännu inte fastställt, men vi räknar med att det blir under kommande 12–18 månader (mitten/slutet av 2021). [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Mappning av rapportsvit till IMS-organisation | Juli 2020 | Mappningsverktyget för rapportsviter upphör i november 2020. Den här funktionen hanterar integreringar som Advertising Analytics och Experience Cloud-segmentpublicering i Adobe Analytics. En rapportsvit måste mappas till en IMS-organisation för att dessa och andra tjänster ska fungera. Nyare rapportsviter mappas automatiskt när de skapas. Äldre rapportsviter måste emellertid mappas manuellt till en IMS-organisation. See [Map report suites to an organization](https://docs.adobe.com/content/help/sv-SE/core-services/interface/about-core-services/report-suite-mapping.html) in the Experience Cloud interface (Core Services) user guide to make sure all report suites belong to an IMS org. |
 | Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics utelämnar alla `omniture.com`-domänreferenser från arkitekturen, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen (snart) är klar kommer vi att meddela dig via release-notiserna och detta tillåtelseliststeg kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
@@ -157,7 +157,7 @@ Uppdaterad information om de senaste AppMeasurement-versionerna finns i [version
 Nya kurser, självstudiekurser och artiklar i Analytics och Customer Journey Analytics.
 
 | Publicerad | Namn | Typ | Beskrivning |
-| ----------- | ----------- | ---------- | ---------- |  
+| ----------- | ----------- | ---------- | ---------- |
 | 30 juli 2020 | [Begränsa åtkomst till Report Suite i Admin Console](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html) | Självstudiekurs | Lär dig hur du använder [!UICONTROL Admin Console] för att säkerställa att användare bara kan komma åt de rapportsviter som är nödvändiga för deras roll. |
 | 24 juli 2020 | [Lägga till en administratör i Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html) | Självstudiekurs | Lär dig hur du lägger till en användare som administratör i Adobe [!UICONTROL Admin Console]. |
 | 17 juli 2020 | [Panelen Quick Insights i Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.html) | Självstudiekurs | Quick Insights ger vägledning till icke-analytiker och nya användare av Analysis Workspace så att de snabbt och enkelt kan lära sig att svara på affärsfrågor. |
@@ -269,7 +269,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 Nya videofilmer, självstudiekurser och kurser som publicerats den senaste månaden.
 
 | Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
+| ----------- | ---------- | ---------- | ---------- |
 | 7 augusti 2020 | [Komma igång med hantering av flera webbplatser för företagsanvändare](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm) | Kurs | Lär dig skapa en stabil grund för implementeringen av AEM Assets genom att konfigurera kärnproblemen, från att skapa en grundläggande innehållsarkitektur och taxonomi till att anpassa metadata och materialbearbetning. |
 | 7 augusti 2020 | [Konfigurera AEM Assets för administratörer](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.assets) | Självstudiekurs | Beskrivning |
 | 19 juli 2020 | [Använda verktyget Innehållsöverföring](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/migration/content-transfer-tool.html) | Självstudiekurs | Verktyget [!UICONTROL Content Transfer] är det rekommenderade sättet att migrera innehåll från en lokal eller AMS-värdbaserad version av Experience Manager till en [!UICONTROL AEM as a Cloud Service] miljö. |
@@ -293,7 +293,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 | 21 juli 2020 | [AEM](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/inbox-customization/introduction.html) | Självstudiekurs | [!UICONTROL AEM Inbox] konsoliderar meddelanden och uppgifter från olika AEM, inklusive Forms-arbetsflöden. |
 | 21 juli 2020 | [Felsöka AEM SDK:s lokala snabbstart med hjälp av loggar](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Självstudiekurs | Loggar fungerar som en frontlinje för felsökning AEM program, men är beroende av korrekt inloggning i det distribuerade AEM. |
 | 21 juli 2020 | [Introduktion till SPA Editor](https://video.tv.adobe.com/v/37705?quality=12&learn=on&captions=swe) | Självstudiekurs | En introduktion till Getting started with AEM SPA Editor for developers. |
-| 2020 | [Baslinjebehörigheter](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/baseline-permissions.html) | Självstudiekurs | Hantering av användaråtkomst i resursmappar är en viktig aspekt när det gäller styrning och säkerställer att processerna stöds på rätt sätt. |
+| 21 juli 2020 | [Baslinjebehörigheter](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/baseline-permissions.html) | Självstudiekurs | Hantering av användaråtkomst i resursmappar är en viktig aspekt när det gäller styrning och säkerställer att processerna stöds på rätt sätt. |
 | 21 juli 2020 | [Starta arbetsflöden automatiskt](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/auto-start-workflows.html) | Självstudiekurs | Autostart-arbetsflöden utökar materialbearbetningen i AEM som en Cloud Service genom att automatiskt anropa ett anpassat arbetsflöde vid överföring eller ombearbetning. |
 | 21 juli 2020 | [Felsöka AEM SDK:s lokala snabbstart med hjälp av loggar](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | Självstudiekurs | Loggar fungerar som en frontlinje för felsökning AEM program, men är beroende av korrekt inloggning i det distribuerade AEM. |
 | 21 juli 2020 | [Skapa adaptiv formulärmall](https://video.tv.adobe.com/v/37324?captions=swe) | Självstudiekurs | När författare använder mallen för att skapa ett anpassat formulär ärver det nya formuläret strukturen och komponenterna som du har angett i mallen. |
@@ -345,7 +345,7 @@ Versionsinformation för Campaign Classic, Campaign Standard och Kontrollpanelen
 Nya videofilmer, självstudiekurser och kurser som publicerats den senaste månaden.
 
 | Publicerad | Namn | Typ | Beskrivning |
-| ----------- | ----------- | ---------- | ---------- |  
+| ----------- | ----------- | ---------- | ---------- |
 | 10 juli 2020 | [Kontrollpanelen - Hantering av GPG-nyckel - Dekryptera data](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar den på en instans i Campaign för att dekryptera inkommande data. |
 | 10 juli 2020 | [Kontrollpanelen - Hantering av GPG-nyckel - Använda en GPG-nyckel för att kryptera data](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen. |
 | 10 juli 2020 | [Kontrollpanelen - Generera och installera GPG-nycklar för datakryptering](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html) | Campaign Classic | Lär dig hur du genererar ett offentligt/privat GPG-nyckelpar och installerar den offentliga nyckeln på Kontrollpanelen för att kunna kryptera data innan du skickar dem från din instans. |
@@ -375,9 +375,9 @@ Versionsinformation för Adobe Advertising Cloud.
 **8 augusti** -versionen
 
 | Funktion | Beskrivning |
-| -----------| ---------- |
+| ----------- | ---------- |
 | [!UICONTROL Portfolios] | Positionsgränser på Portfolio-nivå är inte längre tillgängliga i portföljinställningarna. Eventuella tidigare placeringsbegränsningar har tagits bort. |
-| [!UICONTROL Constraints] | Positionsbaserade begränsningar och begränsningsvillkor stöds inte längre:<br/><ul><li>Min pos och Max pos-begränsningar är inte längre tillgängliga och har tagits bort från alla tidigare skapade begränsningar för bud- och positionsbegränsningar och Impression-delning.</li><li>Befintliga bud- och positionsbegränsningar som innehöll positionsbegränsningar men inga anbudsbegränsningar pausades. De finns fortfarande i användargränssnittet och i rapporter.</li><li>Bid- och positionsbegränsningarna döptes om till Bid-begränsningar.</li><li>Alla positionsbaserade villkor (med medelposition, viktad genomsnittlig position eller senaste kända pos-mått) i någon typ av begränsning togs bort.</li></ul><br/>**Obs!** Positionsdata fylls i så länge de är tillgängliga från sökmotorerna. Microsoft Ads upphör i september 2020. |  |
+| [!UICONTROL Constraints] | Positionsbaserade begränsningar och begränsningsvillkor stöds inte längre: <br/> <ul><li>Min pos och Max pos-begränsningar är inte längre tillgängliga och har tagits bort från alla tidigare skapade begränsningar för bud- och positionsbegränsningar och Impression-delning.</li><li>Befintliga bud- och positionsbegränsningar som innehöll positionsbegränsningar men inga anbudsbegränsningar pausades. De finns fortfarande i användargränssnittet och i rapporter.</li><li>Bid- och positionsbegränsningarna döptes om till Bid-begränsningar.</li><li>Alla positionsbaserade villkor (med medelposition, viktad genomsnittlig position eller senaste kända pos-mått) i någon typ av begränsning togs bort.</li></ul> <br/> **Obs!** Positionsdata fylls i så länge de är tillgängliga från sökmotorerna. Microsoft Ads upphör i september 2020. |
 | [!UICONTROL Campaigns] | (Google Ads-kampanjer) Advertising Cloud Search har nu stöd för annonsanpassare i responsiva sökannonser (RSA). Tidigare stöddes de i alla annonstyper utom RSA. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
@@ -400,7 +400,7 @@ Den senaste informationen finns i [!DNL Marketo] [versionsinformationen](https
 Följande funktioner släpps under kvartalet:
 
 | Funktion | Beskrivning |
-|------|---------|
+| ------ | --------- |
 | [!DNL Bizible] | <ul><li>Ny kontobaserad segmentering</li><li>Spara instrumentpanelsspecifika filter</li><li>Exportera Bizible-instrumentpaneler som PDF-filer</li></ul> |
 | Sales Connect | Uppdateringar/förbättringar av kompositionsfönster och kommandocentral |
 
