@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d88e6054e3a1c93d7c867dd1ee6de0c67bc2eaf5
+source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
 workflow-type: tm+mt
-source-wordcount: '6253'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,10 +27,10 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **13 augusti 2020**
+Senaste uppdatering: **19 augusti 2020**
 
 * [Adobe – systemstatus](#status)
-* [Experience Cloud-gränssnitt](#ecloud)
+* [Experience Cloud-gränssnitt](#ecloud) (uppdaterad 19 **augusti 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  (Uppdaterat 13 augusti 2020) och [Customer Journey Analytics](#cust-journey)
@@ -52,6 +52,12 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 Information om den senaste versionen finns i [21 maj 2020](c-legacy-releases/2020/05212020.md#status).
 
 ## ![Ikonen i ](/assets/ec_appicon_24.png){#ecloud}
+
+Uppdaterat: **19 augusti 2020**
+
+| Funktion | Beskrivning |
+| -----------| ---------- |
+| Administratörsverktyg - funktioner- och prestandaförbättringar | Augustiversionen 2020 av [!UICONTROL Admin Tool] kan systemadministratörer visa en lista med produktprofiler och se eller exportera en detaljerad vy över varje produktprofil. Prestandaförbättringar för inläsning av senaste inloggningsdata lades till, vilket åtgärdar timeoutproblem. Mer information finns i hjälpen för [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) . |
 
 I julis [tidigare versionsinformation](c-legacy-releases/2020/07162020.md#ecloud) finns den senaste versionsinformationen om det uppdaterade gränssnittet och den enhetliga produktdomänen.
 
