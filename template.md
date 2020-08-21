@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 949872e465b54e68051c62f61530591117f54a6a
+source-git-commit: d714bd852687c7121f44bc31e35fe1ccc0eef43a
 workflow-type: tm+mt
 source-wordcount: '2447'
 ht-degree: 29%
@@ -97,7 +97,7 @@ Se [Experience Platform Launch](https://docs.adobe.com/content/help/sv-SE/launch
 
 Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Ytterligare resurser för [!UICONTROL Journey Orchestration]
+#### Additional resources for [!UICONTROL Journey Orchestration]
 
 [Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
@@ -116,9 +116,9 @@ Beskrivning av nya funktioner. Använd rubriker eller en tabell.
 
 Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
-Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/) och [iOS SDK 4.x för Experience CloudSolutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
+Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
-## Analytics {#analytics}
+## Analytics{#analytics}  
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
@@ -203,11 +203,11 @@ Beskrivning av funktioner.
 
 **Funktionsnamn**
 
-Beskrivning.
+Beskrivning
 
 **Funktionsnamn**
 
-Beskrivning.
+Beskrivning
 
 **Core Components**
 
@@ -354,7 +354,7 @@ Nya självhjälpsartiklar och videor. <!--`https://jira.corp.adobe.com/secure/Da
 | [!DNL Adobe Campaign] - Målgrupper | Video - [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Lär dig hur du ändrar målgruppsdimensionen för en leverans för en plattformsmålgrupp utanför den primära profiltabellen i Adobe Campaign Standard. |
 | [!DNL Adobe Campaign] | Video - [Big data management on Snowflake](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Dra nytta av Snowflake-kontakten i Adobe Campaign Classic. |
 | [!DNL Adobe Campaign] - Målgrupper | Artikel - [Målgrupper (BETA) - Översikt](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Lär dig utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard. |
-| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobila tjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
+| [!DNL Adobe Target] - Mobile SDK | Självstudiekurs - [Anpassa appupplevelser med Adobe Target](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Implementera Adobe Target i din egen Android-app. Validera konfigurationen av SDK för mobiltjänster och implementera [!DNL Target] förfrågningar som förhämtning av innehåll, blockeringsförfrågningar och mycket annat. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html) | Se välstrukturerade klipp från den högteknologiska supersessionen på Summit 2019. |
 | Adobe Analytics | Video - [Introduktion till beräknade värden i Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/introduction-to-calculated-metrics-in-customer-journey-analytics.html) | Gå igenom grunderna för att skapa [!UICONTROL Calculated Metrics] i [!UICONTROL Customer Journey Analytics]. |
 | Adobe Analytics | Video - [Adobe Summit 2019 Super Session](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html) | Se kuraterade klipp från rese- och turismsessionen på Summit 2019. |
