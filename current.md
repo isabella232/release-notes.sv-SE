@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
+source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
 workflow-type: tm+mt
-source-wordcount: '6319'
-ht-degree: 98%
+source-wordcount: '6424'
+ht-degree: 97%
 
 ---
 
@@ -27,13 +27,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **19 augusti 2020**
+Senaste uppdatering: **21 augusti 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud) (uppdaterad 19 **augusti 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)   (Uppdaterat den 13 augusti 2020) och [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics)   (Uppdaterat den 21 augusti 2020) och [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -91,7 +91,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat den 21 augusti 2020)
 * [AppMeasurement](#appm)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
@@ -142,6 +142,8 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Migrering från `omniture.com` till `adobe.com` domän | 21 augusti 2020 | 13 augusti 2020 migrerade Adobe Analytics sin frontarkitektur från `omniture.com|http://omniture.com/` till `adobe.com|http://adobe.com/` domänen. Den här ändringen bör mildra problem med cookies från tredje part som uppstod efter den ursprungliga ändringen av produktdomänen 28 maj 2020. Som ett resultat av den här uppdateringen kan webbläsaren uppmana användare att lita på den nya `an.adobe.com|http://an.adobe.com/` eller `experience.adobe.com|http://experience.adobe.com/` domänen. |
+| Uppdatera kompatibiliteten med Ad Hoc Analysis Java 8 | 21 augusti 2020 | Ad Hoc Analysis är för närvarande inte kompatibelt med Java 8 version 1.8.0_261+. För att säkerställa att åtkomsten till det här verktyget inte avbryts innan [slutdatumet](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) har nåtts rekommenderar vi att du har en Java 8-version som är tidigare än 1.8.0_261. |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud), som bör implementeras för alla integreringar som ska användas och stödjas framöver. Det officiella slutdatumet är ännu inte fastställt, men vi räknar med att det blir under kommande 12–18 månader (mitten/slutet av 2021). [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Mappning av rapportsvit till IMS-organisation | Juli 2020 | Mappningsverktyget för rapportsviter upphör i november 2020. Den här funktionen hanterar integreringar som Advertising Analytics och Experience Cloud-segmentpublicering i Adobe Analytics. En rapportsvit måste mappas till en IMS-organisation för att dessa och andra tjänster ska fungera. Nyare rapportsviter mappas automatiskt när de skapas. Äldre rapportsviter måste emellertid mappas manuellt till en IMS-organisation. Läs [Mappa rapportsviter till en organisation](https://docs.adobe.com/content/help/sv-SE/core-services/interface/about-core-services/report-suite-mapping.html) i Experience Cloud-gränssnittet (kärnenheter) användarhandboken för bastjänster för att se till att alla rapportsviter tillhör en IMS-organisation. |
 | Migrering till den enhetliga produktdomänen | Datum för ikraftträdande: 28 maj 2020 | Övergången till en enhetlig produktdomän för Adobe Analytics, som började i januari 2020, slutfördes den 28 maj 2020. Adobe Analytics utelämnar alla `omniture.com`-domänreferenser från arkitekturen, men det är viktigt att vitlista `omniture.com` som en cookie från tredje part. När den fullständiga arkitekturmigreringen (snart) är klar kommer vi att meddela dig via release-notiserna och detta tillåtelseliststeg kommer inte längre att behövas. [Här](https://helpx.adobe.com/se/analytics/kb/adobe-ip-addresses.html) är en fullständig lista över rekommenderade IP-adresser och domäner som du bör vitlista.<br>Om din organisation blockerar cookies från tredje part kan du kontakta kundtjänst för att få tillgång till Adobe Analytics igen. |
