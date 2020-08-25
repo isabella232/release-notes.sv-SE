@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
 workflow-type: tm+mt
 source-wordcount: '6424'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -30,15 +30,15 @@ Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 Senaste uppdatering: **21 augusti 2020**
 
 * [Adobe – systemstatus](#status)
-* [Experience Cloud-gränssnitt](#ecloud) (uppdaterad 19 **augusti 2020**)
+* [Experience Cloud-gränssnitt](#ecloud)  (uppdaterades **19 augusti 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)   (Uppdaterat den 21 augusti 2020) och [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics)    (Uppdaterat den 21 augusti 2020) och [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [[!DNL-mål]](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/sv-SE/primetime/release-notes/home.html)
@@ -53,11 +53,11 @@ Information om den senaste versionen finns i [21 maj 2020](c-legacy-releases/202
 
 ## ![Ikon](/assets/ec_appicon_24.png) Experience Cloud-gränssnitt {#ecloud}
 
-Uppdaterat: **19 augusti 2020**
+Uppdaterades: **19 augusti 2020**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Administratörsverktyg - funktioner- och prestandaförbättringar | Augustiversionen 2020 av [!UICONTROL Admin Tool] kan systemadministratörer visa en lista med produktprofiler och se eller exportera en detaljerad vy över varje produktprofil. Prestandaförbättringar för inläsning av senaste inloggningsdata lades till, vilket åtgärdar timeoutproblem. Mer information finns i hjälpen för [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) . |
+| Admin Tool – funktions- och prestandaförbättringar | Med augustiversionen 2020 av [!UICONTROL Admin Tool] kan systemadministratörer visa en lista med produktprofiler och se eller exportera en detaljerad vy över varje produktprofil. Prestandan vid inläsning av senaste inloggningsdata har förbättrats vilket åtgärdar timeoutproblem. Mer information finns i hjälpen för [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/sv-SE/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
 
 I julis [tidigare versionsinformation](c-legacy-releases/2020/07162020.md#ecloud) finns den senaste versionsinformationen om det uppdaterade gränssnittet och den enhetliga produktdomänen.
 
@@ -372,7 +372,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 * Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)   - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)    - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
