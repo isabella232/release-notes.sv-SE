@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d714bd852687c7121f44bc31e35fe1ccc0eef43a
+source-git-commit: 2a73b43fedf1c745f89640a11b7aa64244a78bc4
 workflow-type: tm+mt
-source-wordcount: '2447'
+source-wordcount: '2445'
 ht-degree: 29%
 
 ---
@@ -51,7 +51,7 @@ Funktioner och korrigeringar.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud-gränssnitt{#ecloud}
+## Experience Cloud-gränssnitt{#ecloud} 
 
 Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies osv.).
 
@@ -118,7 +118,7 @@ Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/hel
 
 Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
-## Analytics{#analytics}  
+## Analytics{#analytics}   
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
@@ -366,7 +366,7 @@ Nya självhjälpsartiklar och videor. <!--`https://jira.corp.adobe.com/secure/Da
 | Adobe Analytics | Video - [hur Adobe Analysis Workspace kan förändra ert företag](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Lär dig hur du kan utföra ad hoc-analyser, flexibel analys, kohortanalys och utfallsanalys med [!UICONTROL Analysis Workspace]. Du kan också dela analysarbetsmiljön med alla på företaget, och med dra-och-släpp-funktionen kan alla enkelt analysera data och få insikter snabbt. |
 | Adobe Analytics | Video - [kundens användningsfall: Home Depot Innovates med Customer Experience Management](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | Läs om hur ni [!DNL Home Depot] använder Adobe lösningar för att skapa varumärkeslojalitet och kundnöjdhet med en personaliserad, anpassad shoppingupplevelse. |
 | Adobe Analytics | Presentation - [Förstå Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Läs om hur Adobe [!UICONTROL Customer Journey Analytics], en applikationstjänst som byggs på [!DNL Adobe Experience Platform], tar sig [!UICONTROL Analysis Workspace] in i Experience Platform. Med den här funktionen kan du göra flerkanalsanalyser av alla dina [!DNL Adobe Experience Platform] datauppsättningar. |
-| Adobe Analytics | Video - [Cross-Channel Attribution i CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Lär dig hur du kan använda visualiseringar för att visa attribuering (ge kredit) över olika kanaler i [!UICONTROL Customer Journey Analytics]. |
+| Adobe Analytics | Video - [Flerkanalsattribuering i CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Lär dig hur du kan använda visualiseringar för att visa attribuering (ge kredit) över olika kanaler i [!UICONTROL Customer Journey Analytics]. |
 | Adobe Analytics | Artikel - [Kundtips för att fortsätta din Adobe Analytics Learning Journey](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Träffa tre Adobe-kunder som har tips och tricks om hur du får ut det mesta av Adobe Analytics. |
 | Adobe Analytics | Video - [Skapa visualiseringar över flera kanaler i CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Upptäck hur [!UICONTROL Customer Journey Analytics] ni kan skapa visualiseringar som inkluderar data från flera datauppsättningar över flera kanaler, inklusive att sammanfoga data per besökare. |
-| Adobe Analytics | Video - [Flytta dina beräknade värden från Adobe Analytics till Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Hitta tips för att återskapa [!UICONTROLCberäknade analysvärden] i [!UICONTROL Customer Journey Analytics]. |
+| Adobe Analytics | Video - [Flytta dina beräknade värden från Adobe Analytics till Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Hitta tips för att återskapa Analytics [!UICONTROL Calculated Metrics] i [!UICONTROL Customer Journey Analytics]. |
