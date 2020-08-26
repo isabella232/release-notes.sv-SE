@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
+source-git-commit: 97082d9f11c29deee363e000e0bb6db422d6fbe8
 workflow-type: tm+mt
-source-wordcount: '6424'
+source-wordcount: '6436'
 ht-degree: 98%
 
 ---
@@ -383,8 +383,11 @@ Versionsinformation för Adobe Advertising Cloud.
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
 
+**Uppdaterad 20 augusti**
+
 | Funktion | Beskrivning |
 | -----------| ---------- |
+| Prognos för Roku | Prognoser finns nu tillgängliga för Roku-placeringar. |
 | Interaktiv förrullning utökades för att inkludera VAST-arkiv | Alla interaktiva förrullningsplaceringar och annonser har nu stöd för både VPAID- och VAST-arkiv. **Obs!** Om din primära KPI är synlig ska du skapa separata VPAID- och VAST-placeringar och annonser eftersom visningsbara intryck inte är tillgängliga för VAST-annonser. |
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
