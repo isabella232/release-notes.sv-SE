@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 97082d9f11c29deee363e000e0bb6db422d6fbe8
+source-git-commit: 7349731bb72163473efc26069df9f1d77f0f7c23
 workflow-type: tm+mt
-source-wordcount: '6436'
+source-wordcount: '6448'
 ht-degree: 98%
 
 ---
@@ -102,7 +102,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Tillgänglighet i EMEA och APAC | 31 augusti 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/sv-SE/analytics/components/cda/overview.html) och privata diagram kommer att vara tillgängliga för kunder i EMEA och APAC. |
 | Förbättring av suturering på fältet i [!UICONTROL Cross-Device Analytics] (tillgänglig i Nord- och Sydamerika och EMEA) | 31 augusti 2020 | Denna förenklade implementering för nya [!UICONTROL Cross-Device Analytics]-kunder ger dig möjlighet att suturera baserat på ett användar-ID som lagras i ett Analytics-fält (prop eller eVar) i stället för att använda enhetsdiagram (samarbete eller privat). Förbättringen eliminerar kravet på att implementera ECID och eliminerar kravet på att implementera ID-synkronisering för CDA. (ECID- och ID-synkronisering krävs fortfarande för vissa andra funktioner.) |
-| (Tidigt meddelande) Workspace: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. Det ger dig åtkomst till mer än de 400 dataraderna utanför Analysis Workspace. |
+| (Tidigt meddelande) Workspace: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. Det ger dig åtkomst till mer än de 400 dataraderna utanför Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
