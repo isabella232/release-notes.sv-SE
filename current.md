@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
+source-git-commit: c6a071b2e8946d2b7fcfe20f835354ca6d552575
 workflow-type: tm+mt
-source-wordcount: '6503'
-ht-degree: 96%
+source-wordcount: '6515'
+ht-degree: 95%
 
 ---
 
@@ -110,7 +110,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
-| Arbetsyta: Förbättrad linjevisualisering | 17 sept 2020 | <ul><li>Du kan visa eller dölja x-axeln och y-axeln för alla linjevisualiseringar. Detta kan vara praktiskt när linjevisualiseringarna är mer kompakta.</li><li>Du kan lägga över en etikett för minsta och högsta värde på alla rader för att snabbt markera toppar och dalar i ett mätresultat.</li><li>Du kan täcka över olika regressionstrendlinjer för olika linjavisualiseringar för att lättare se trenden i data. Du kan välja mellan Linear, Logarithmic, Exponential, Power och Quadratic.</li></ul> |
+| Arbetsyta: Förbättrad linjevisualisering | 17 sept 2020 | <ul><li>Du kan visa eller dölja x-axeln och y-axeln för alla linjevisualiseringar. Detta kan vara praktiskt när linjevisualiseringarna är mer kompakta.</li><li>Du kan lägga över en etikett för minsta och högsta värde på alla rader för att snabbt markera toppar och dalar i ett mätresultat.</li><li>Du kan täcka över olika regressionstrendlinjer för olika linjavisualiseringar för att lättare se trenden i data. Du kan välja mellan Linear, Logarithmic, Exponential, Power och Quadratic.</li></ul>[Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
