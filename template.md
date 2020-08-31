@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a73b43fedf1c745f89640a11b7aa64244a78bc4
+source-git-commit: 1ec71f66a34b17fb62831973cd46426ecc9f0d10
 workflow-type: tm+mt
-source-wordcount: '2445'
+source-wordcount: '2446'
 ht-degree: 29%
 
 ---
@@ -51,7 +51,7 @@ Funktioner och korrigeringar.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud-gränssnitt{#ecloud} 
+## Experience Cloud-gränssnitt{#ecloud}
 
 Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies osv.).
 
@@ -87,7 +87,7 @@ Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience 
 
 Funktioner och korrigeringar.
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+For product documentation, see [Experience Cloud ID service](https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -116,9 +116,9 @@ Beskrivning av nya funktioner. Använd rubriker eller en tabell.
 
 Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
-Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
+Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/overview.html) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
-## Analytics{#analytics}   
+## Analytics {#analytics}
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
