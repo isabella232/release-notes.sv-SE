@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bae18faf738a3750ceb63a3048750e77c1ebfa5c
+source-git-commit: 9e8ab72d5c5ac0db9cde3ca99013a42e33251aa0
 workflow-type: tm+mt
-source-wordcount: '6517'
+source-wordcount: '6518'
 ht-degree: 95%
 
 ---
@@ -73,7 +73,7 @@ Senaste release: **15 juli 2020**
 
 Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala över olika upplevelsekanaler genom att intelligent förutse varje enskild individs behov i realtid, oavsett vart resan bär.
 
-### Nya kurser och självstudiekurser i Campaign
+### Nya kurser och självstudiekurser i samband med samordning av resor
 
 Nya videofilmer, självstudiekurser och kurser som publicerats den senaste månaden.
 
