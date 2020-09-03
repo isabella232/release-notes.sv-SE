@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9e8ab72d5c5ac0db9cde3ca99013a42e33251aa0
 workflow-type: tm+mt
 source-wordcount: '6518'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -30,10 +30,10 @@ Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 Senaste uppdatering: **31 augusti 2020**
 
 * [Adobe – systemstatus](#status)
-* [Experience Cloud-gränssnitt](#ecloud) (uppdaterades **19 augusti 2020**)
+* [Experience Cloud-gränssnitt](#ecloud)  (uppdaterades **19 augusti 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Uppdaterat den 31 augusti 2020) och [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics)  (Uppdaterat den 31 augusti 2020) och [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -91,7 +91,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat den 21 augusti 2020)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)  (Uppdaterat den 21 augusti 2020)
 * [AppMeasurement](#appm)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
@@ -102,7 +102,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Tillgänglighet i EMEA och APAC | 31 augusti 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/sv-SE/analytics/components/cda/overview.html) och privata diagram kommer att vara tillgängliga för kunder i EMEA och APAC. |
 | Förbättring av suturering på fältet i [!UICONTROL Cross-Device Analytics] (tillgänglig i Nord- och Sydamerika och EMEA) | 31 augusti 2020 | Denna förenklade implementering för nya [!UICONTROL Cross-Device Analytics]-kunder ger dig möjlighet att suturera baserat på ett användar-ID som lagras i ett Analytics-fält (prop eller eVar) i stället för att använda enhetsdiagram (samarbete eller privat). Förbättringen eliminerar kravet på att implementera ECID och eliminerar kravet på att implementera ID-synkronisering för CDA. (ECID- och ID-synkronisering krävs fortfarande för vissa andra funktioner.) |
-| Arbetsyta: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. Det ger dig åtkomst till mer än de 400 dataraderna utanför Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Arbetsyta: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. Det ger dig åtkomst till mer än de 400 dataraderna utanför Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 | Arbetsyta: Förbättrad linjevisualisering | 17 sept 2020 | <ul><li>Du kan visa eller dölja x-axeln och y-axeln för alla linjevisualiseringar. Detta kan vara praktiskt när linjevisualiseringarna är mer kompakta.</li><li>Du kan lägga över en etikett för minsta och högsta värde på alla rader för att snabbt markera toppar och dalar i ett mätresultat.</li><li>Du kan täcka över olika regressionstrendlinjer på alla linjvisualiseringar för att lättare se trenden i data. Du kan välja mellan Linear, Logarithmic, Exponential, Power och Quadratic.</li></ul> [Läs mer...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 
@@ -373,7 +373,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 * Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html) - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)  - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -388,7 +388,7 @@ Versionsinformation för Adobe Advertising Cloud.
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Prognos för Roku | Prognoser finns nu tillgängliga för Roku-placeringar. |
+| Prognoser för Roku | Prognoser finns nu tillgängliga för Roku-placeringar. |
 | Interaktiv förrullning utökades för att inkludera VAST-arkiv | Alla interaktiva förrullningsplaceringar och annonser har nu stöd för både VPAID- och VAST-arkiv. **Obs!** Om din primära KPI är synlig ska du skapa separata VPAID- och VAST-placeringar och annonser eftersom visningsbara intryck inte är tillgängliga för VAST-annonser. |
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
