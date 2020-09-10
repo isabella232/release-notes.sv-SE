@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 113528f8e43d06e75d9fbb9db8bc229056e6f0f2
+source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
 workflow-type: tm+mt
 source-wordcount: '6426'
 ht-degree: 39%
@@ -31,7 +31,7 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **4 september 2020**
+Senaste uppdatering: **10 september 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
@@ -63,7 +63,7 @@ I [Cumulative release notes](https://docs.adobe.com/content/help/en/core-service
 
 Versionsinformation för [!DNL Experience Platform] inklusive [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], och säkerhetsbulletiner.
 
-Releasedatum: **12 augusti 2020**
+Releasedatum: **9 september 2020**
 
 Uppdateringar av befintliga funktioner i Adobe Experience Platform:
 
