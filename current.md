@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
+source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
 workflow-type: tm+mt
-source-wordcount: '6426'
+source-wordcount: '6409'
 ht-degree: 39%
 
 ---
 
 
-# Tidig åtkomst - Adobe Experience Cloud versionsinformation - september 2020
+# Versionsinformation om Adobe Experience Cloud - september 2020
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
 Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i [!DNL Adobe Experience Cloud]. Här finns också ny dokumentation, kurser och videokurser som hjälper dig att få ut mesta möjliga av Experience Cloud.
-
->[!IMPORTANT]
->
->Den här sidan innehåller innehåll som släppts i förväg och omfattas av ändringar före den planerade releasen.
 
 >[!NOTE]
 >
