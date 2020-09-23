@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
+source-git-commit: d2be5336caa039c540df6076bef876dc1384cab2
 workflow-type: tm+mt
-source-wordcount: '6409'
-ht-degree: 39%
+source-wordcount: '6577'
+ht-degree: 38%
 
 ---
 
@@ -27,13 +27,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **10 september 2020**
+Senaste uppdatering: **23 september 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics)  (Updated Sept. 23, 2020) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -111,7 +111,7 @@ Nya videor, självstudiekurser och kurser som publicerats för [!UICONTROL Journ
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)  (Uppdaterat 23 september 2020)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -164,6 +164,7 @@ AN-215683; AN-216894; AN-226370; AN-227138; AN-227154; AN-227328; AN-227486; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Ändra till inställningen för ECID-cookie | 22 september 2020 | En uppdatering av sekretessinställningarna för Chrome version 80 påverkade Adobe Analytics förmåga att spåra vissa användare som tittar på Google AMP-sidor. Det förhindrar i synnerhet spårning över domäner för användare som visar Google-värdbaserade AMP-sidor. Detta kan leda till ett ökat antal unika besökare. Med den här korrigeringen kan användare åtgärda problemet genom att ändra inställningarna för sina ECID-cookies. För närvarande ställer Analytics in ECID-cookies med den inställning `SameSite = Lax` som, före version 80 av Chrome, tillät spårning över domäner. Detta är inte längre fallet. Med den här ändringen kan användare uppdatera inställningen SameSite för ECID-cookies till `None`. Observera att detta tillåter att Analytics-cookien delas i fler situationer, men Analytics-cookies innehåller ingen känslig information. När du väljer den här inställningen måste dessutom cookies anges till `Secure` så att data bara kan skickas via HTTPS-anslutningar. Om du vill göra den här ändringen ber vi en användare som stöds att öppna en biljett med Kundtjänst. |
 | Domänmigrering från `omniture.com` till `adobe.com` | 21 augusti 2020 | 13 augusti 2020 migrerade Adobe Analytics klientarkitekturen från `omniture.com|http://omniture.com/` till `adobe.com|http://adobe.com/`-domänen. Den här ändringen bör avhjälpa problem med cookies från tredje part som uppstod efter den ursprungliga ändringen av produktdomänen 28 maj 2020. As a result of this update, the browser may prompt users to trust the new an `.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
 | Uppdatering om Ad Hoc Analysis-kompatibilitet med Java 8 | 21 augusti 2020 | Ad Hoc Analysis är för närvarande inte kompatibelt med Java 8 version 1.8.0_261+. För att säkerställa att åtkomsten till verktyget inte avbryts innan [slutdatumet](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) har nåtts rekommenderar vi att du har en Java 8-version som är tidigare än 1.8.0_261. |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud), som bör implementeras för alla integreringar som ska användas och stödjas framöver. Det officiella slutdatumet är ännu inte fastställt, men vi räknar med att det blir under kommande 12–18 månader (mitten/slutet av 2021). [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
