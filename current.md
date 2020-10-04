@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
+source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
 workflow-type: tm+mt
-source-wordcount: '6394'
+source-wordcount: '6391'
 ht-degree: 32%
 
 ---
@@ -298,13 +298,13 @@ Dokumentationen för RTF-redigeraren har uppdaterats för att visa alla [protoko
 
 * Om användare har ändrat [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) för att ange att timeout-konfigurationen ska vara mindre än den tid det tar för en resurs att överföra, kan användaren träffa på en timeout-situation för sessionen.Användare måste därför ändra `chunkUploadMinFileSize` och `chunksize`, så att varje segmentbegäran uppdaterar sessionen. Mer information finns i [Överföra resurser](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
-* Resurser kan [flyttas in till jämställda mappar med dra-åtgärden](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , förutom den åtgärd som [!UICONTROL Move (m)] öppnar [!UICONTROL Move Assets] guiden.
+* Resurser kan [flyttas in till jämställda mappar med dra-åtgärden](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , förutom den åtgärd som [!UICONTROL Move(m)] öppnar [!UICONTROL Move Assets] guiden.
 
 * Använd [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)för resursinsikter. [DTM-integrering](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) anropas som en borttagen metod i dokumenten.
 
 **[!DNL Adobe Experience Manager]datorprogram**
 
-* Användare som loggar in på skrivbordsappen efter att ha loggat ut eller loggat in för första gången bör ange sin [!DNL Experience Manager] server-URL i formatet https://[aem-server-url]:[port]/ och sedan välja [!UICONTROL Connect] alternativ, för att undvika felmeddelandet&quot;Det uppstod ett okänt fel i programmet&quot;. Mer information finns i [Använda Adobe Experience Manager-datorprogrammet](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
+* Användare som loggar in på skrivbordsappen efter att ha loggat ut eller loggat in för första gången bör ange sin [!DNL Experience Manager] server-URL i formatet `https://[aem-server-url]:[port]/` och sedan välja [!UICONTROL Connect] ett alternativ, för att undvika felmeddelandet&quot;Ett okänt fel uppstod i programmet&quot;. Mer information finns i [Använda Adobe Experience Manager-datorprogrammet](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
 
 ### Community
 
