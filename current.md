@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
+source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
 workflow-type: tm+mt
-source-wordcount: '6309'
+source-wordcount: '6394'
 ht-degree: 32%
 
 ---
@@ -282,7 +282,13 @@ See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/h
 
 ### Självhjälp
 
+**[!DNL Experience Manager]Sites**
+
+Dokumentationen för RTF-redigeraren har uppdaterats för att visa alla [protokoll som stöds för länkar i RTE](https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles).
+
 **[!DNL Experience Manager]Assets**
+
+* Nytt hjälpmaterial om [hur AEM Assets är tillgängligt](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) för alla användare.
 
 * **[Parametern](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html#assetpicker)** Viewmode läggs till i resursväljaren (resursväljaren) för att öppna resursväljaren i sökningsläget. Om du vill öppna resursväljaren i sökningsläget och använda med `assettype` och `mimetype`måste användaren suffix till `viewmode=search` parametern i url `https://[aem-server]:[port]/aem/assetpicker.html`. Exempel, `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
@@ -293,6 +299,8 @@ See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/h
 * Om användare har ändrat [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) för att ange att timeout-konfigurationen ska vara mindre än den tid det tar för en resurs att överföra, kan användaren träffa på en timeout-situation för sessionen.Användare måste därför ändra `chunkUploadMinFileSize` och `chunksize`, så att varje segmentbegäran uppdaterar sessionen. Mer information finns i [Överföra resurser](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
 * Resurser kan [flyttas in till jämställda mappar med dra-åtgärden](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , förutom den åtgärd som [!UICONTROL Move (m)] öppnar [!UICONTROL Move Assets] guiden.
+
+* Använd [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)för resursinsikter. [DTM-integrering](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) anropas som en borttagen metod i dokumenten.
 
 **[!DNL Adobe Experience Manager]datorprogram**
 
