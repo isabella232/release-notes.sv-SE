@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
+source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
 workflow-type: tm+mt
-source-wordcount: '6391'
-ht-degree: 32%
+source-wordcount: '6398'
+ht-degree: 33%
 
 ---
 
@@ -64,7 +64,7 @@ Tidigare kallades _Experience Cloud bastjänster_, [Experience Cloud tjänster o
 
 Inte uppdaterat i september.
 
-See [Cumulative release notes](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.
+Information om den senaste releasen finns i [Cumulative Release Notes för Experience Cloud-tjänster](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) .
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -105,6 +105,8 @@ September-version - Se [versionsinformation för Journey Orchestration](https://
 [Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ## ![Ikon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+
+Releasedatum: **8 oktober 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
@@ -397,9 +399,9 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
-| 22 september 2020 | [Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du visar sändningstidsresultat på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning. |
-| 22 september 2020 | [Resa-AI - Prediktiv poängsättning för engagemang - video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Lär dig hur du kan se engagemangsmusik på individuell profilnivå, använda poäng för att målinrikta engagerade användare och hindra trötta användare och hur du skapar typologiregler för att hantera kundtrötthet. |
-| 22 september 2020 | [Lägga till kontroll av en grupp i en leverans - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Lär dig hur du definierar en kontrollgrupp för leveransen och hur du extraherar profilerna som tilldelats kontrollgruppen när leveransen har skickats. |
+| 22 september 2020 | [Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du ser en tidspoäng för sändning på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning. |
+| 22 september 2020 | [Resa-AI - Prediktiv poängsättning för engagemang - video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet. |
+| 22 september 2020 | [Lägga till en kontrollgrupp i en leverans - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Lär dig hur du definierar en kontrollgrupp för leveransen och hur du extraherar profilerna som har tilldelats kontrollgruppen när leveransen har skickats. |
 | 11 sept 2020 | [Delegera underdomäner](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Med Kontrollpanelen i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign. |
 | 3 sept 2020 | [Lägga till IP-adresser till tillåtelselista](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. |
 | 3 sept 2020 | [Kontrollpanelen - Lägga till URL-behörigheter](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. |
