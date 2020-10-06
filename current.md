@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f7fd84dcf6c1edcee352fd1c7592d1a0f36ed36
+source-git-commit: 8d32193d5e42d33f9ca087154da628fa83f607b4
 workflow-type: tm+mt
-source-wordcount: '6480'
+source-wordcount: '6472'
 ht-degree: 33%
 
 ---
@@ -52,7 +52,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 >[!NOTE]
 >
->Dokumentationen för Experience Cloud flyttas till Experience League. Under oktober kommer alla versionsinformation, artiklar, videoklipp och självstudiekurser att flyttas från sin nuvarande plats `docs.adobe.com` och vara tillgängliga som en del av Experience League. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från en och samma plats: Experience League. När den här ändringen görs finns det inget du behöver göra eftersom alla länkar dirigeras om till den nya platsen. Vi uppdaterar versionsinformationen när hämtningen börjar.
+>Dokumentationen för Experience Cloud flyttas till Experience League. Under oktober kommer alla versionsinformation, artiklar, videoklipp och självstudiekurser att flyttas från sin nuvarande plats till `docs.adobe.com` Experience League. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från ett och samma ställe. När den här ändringen inträffar behöver du inte göra något eftersom alla länkar kommer att omdirigeras till Experience League. Vi uppdaterar versionsinformationen när hämtningen börjar.
 
 ## ![Ikon](/assets/adobe.png) Adobe – systemstatus {#status}
 
