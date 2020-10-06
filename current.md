@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
+source-git-commit: b3ba9bfac88074b9dd5838acd086bade5a43b734
 workflow-type: tm+mt
-source-wordcount: '6398'
+source-wordcount: '6478'
 ht-degree: 33%
 
 ---
@@ -49,6 +49,10 @@ Senaste uppdatering: **2 oktober 2020**
 * [Document Cloud](#doc-cloud)
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
+
+>[!NOTE]
+>
+>Dokumentationen flyttas till Experience League. Under oktober kommer alla versionsinformation, artiklar, videoklipp och självstudiekurser att flyttas från sin nuvarande plats `docs.adobe.com` och vara tillgängliga som en del av Experience League. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från en och samma plats: Experience League. När den här ändringen görs finns det inget du behöver göra eftersom alla länkar dirigeras om till den nya platsen. Vi uppdaterar versionsinformationen när hämtningen börjar.
 
 ## ![Ikon](/assets/adobe.png) Adobe – systemstatus {#status}
 
@@ -399,7 +403,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
-| 22 september 2020 | [Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du ser en tidspoäng för sändning på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning. |
+| 22 september 2020 | [Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du ser en tidspoäng för sändning på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning. |
 | 22 september 2020 | [Resa-AI - Prediktiv poängsättning för engagemang - video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet. |
 | 22 september 2020 | [Lägga till en kontrollgrupp i en leverans - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Lär dig hur du definierar en kontrollgrupp för leveransen och hur du extraherar profilerna som har tilldelats kontrollgruppen när leveransen har skickats. |
 | 11 sept 2020 | [Delegera underdomäner](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Med Kontrollpanelen i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign. |
