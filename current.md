@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 70f1d8589fe94f37a3f9edc375f9efbf2b6d1c26
+source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
 workflow-type: tm+mt
-source-wordcount: '6626'
+source-wordcount: '6636'
 ht-degree: 33%
 
 ---
@@ -137,7 +137,7 @@ Releasedatum: **8 oktober 2020**
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
 | Customer Journey Analytics dokumentation | Oktober 2020 | Dokumentationen för Customer Journey Analytics flyttas till Experience League. Under oktober kommer alla artiklar, videoklipp, versionsinformation och självstudiekurser att flyttas från sin aktuella plats `docs.adobe.com` till `experienceleague.adobe.com`. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från ett och samma ställe. När den här ändringen inträffar behöver du inte göra något eftersom alla länkar kommer att omdirigeras till Experience League. Vi uppdaterar versionsinformationen när hämtningen börjar. |
-| [!UICONTROL Workspace]: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. Det ger dig åtkomst till mer än de 400 dataraderna utanför Analysis Workspace. [Läs mer...] |
+| [!UICONTROL Workspace]: Ladda ned 50 000 artiklar för en enda dimension | 17 september 2020 | Du kan ladda ned 50 000 objekt för en enda dimension i en friformstabell med segment och filter. Det ger dig åtkomst till mer än de 400 dataraderna utanför Analysis Workspace. [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/download-send.html) |
 | [!UICONTROL Workspace]: Förbättringar av [!UICONTROL Line] visualisering | 17 september 2020 | <ul><li>Du kan visa eller dölja X-axeln och Y-axeln för alla [!UICONTROL Line] visualiseringar. Detta kan vara praktiskt när dina [!UICONTROL Line] visualiseringar är mer kompakta.</li><li>Du kan täcka över en etikett för minsta och högsta värde för alla [!UICONTROL Line] visualiseringar för att snabbt markera toppar och dalar i ett mätresultat.</li><li>Du kan täcka över olika regressionstrendlinjer för alla [!UICONTROL Line] visualiseringar för att lättare se trenden i data. Alternativen är [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential]och [!UICONTROL Power] [!UICONTROL Quadratic].</li></ul> [Läs mer...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/visualizations/line.html) |
 | Hjälpsidan för Analysis Workspace Prestanda | 22 okt 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Line] visualisering: Alternativ för glidande medeltrendlinje | 8 okt 2020 | Ett rörligt genomsnitt har lagts till i trendlinjeinställningarna för linjevisualisering. Ett glidande medelvärde beräknar medelvärdet för en angiven tidigare period och använder det som trendlinjedatapunkt, och går sedan vidare till nästa period. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
