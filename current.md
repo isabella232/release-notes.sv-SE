@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
+source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
 workflow-type: tm+mt
-source-wordcount: '6636'
-ht-degree: 33%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
 
-Senaste uppdatering: **2 oktober 2020**
+Senaste uppdatering: **7 oktober 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 2 oktober 2020)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 7 okt 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -113,7 +113,7 @@ September-version - Se [versionsinformation för Journey Orchestration](https://
 Releasedatum: **8 oktober 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 7 okt 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
@@ -142,6 +142,7 @@ Releasedatum: **8 oktober 2020**
 | Hjälpsidan för Analysis Workspace Prestanda | 22 okt 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Line] visualisering: Alternativ för glidande medeltrendlinje | 8 okt 2020 | Ett rörligt genomsnitt har lagts till i trendlinjeinställningarna för linjevisualisering. Ett glidande medelvärde beräknar medelvärdet för en angiven tidigare period och använder det som trendlinjedatapunkt, och går sedan vidare till nästa period. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Ta bort begränsning av bakåtfyllnad | 19 okt 2020 | Tidigare kunde du fylla i högst 2,5 miljarder rader bakåt när du skapade en anslutning. Vi tar bort begränsningarna för bakgrundsfyllning så att du kan säkerhetskopiera upp till 13 månaders data, oavsett storlek. |
+| CJA fältbaserad sammanfogning | 30 okt 2020 | CJA fältbaserad sammanfogning gör det möjligt för kunder att ändra inmatningen i en Adobe Analytics-händelsedatamängd (eller annan) i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
