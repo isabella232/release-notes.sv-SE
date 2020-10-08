@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 390f9884c84130f67cb494b6e30b473e122840d9
+source-git-commit: 40d088f169d1b0849a65ccfb42f3af8749005684
 workflow-type: tm+mt
-source-wordcount: '6721'
+source-wordcount: '6740'
 ht-degree: 32%
 
 ---
 
 
-# Tidig åtkomst - Adobe Experience Cloud versionsinformation - oktober 2020
+# Versionsinformation om Adobe Experience Cloud - oktober 2020
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
@@ -21,23 +21,19 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 >[!IMPORTANT]
 >
->Den här sidan innehåller innehåll som släppts i förväg och omfattas av ändringar före den planerade releasen.
+>Den här sidan kan innehålla förhandsversioner av vissa produkter och kan komma att ändras före releasedatum. Leta ofta efter uppdateringar.
 
 >[!NOTE]
 >
 >Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner.
 
-**Releasedatum: 8 oktober 2020**
-
-Datum för produktreleaser kan variera. Leta ofta efter uppdateringar.
-
-Senaste uppdatering: **7 oktober 2020**
+Senaste uppdatering: **8 oktober 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 7 okt 2020)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -74,7 +70,7 @@ Information om den senaste releasen finns i [Cumulative Release Notes för Exper
 
 Versionsinformation för [!DNL Experience Platform].
 
-Releasedatum: **9 september 2020**
+Släppt: **9 september 2020**
 
 Se versionsinformationen [för](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) Experience Platform för mer information om uppdateringar av:
 
@@ -110,7 +106,7 @@ September-version - Se [versionsinformation för Journey Orchestration](https://
 
 ## ![Ikon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Releasedatum: **8 oktober 2020**
+Releasedatum: 8 **oktober 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 7 okt 2020)
@@ -208,7 +204,7 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 
 Nya funktioner, korrigeringar, dokumentation och självstudiekurser för Audience Manager.
 
-Releasedatum: **8 oktober 2020**
+Releasedatum: 8 **oktober 2020**
 
 ### Nya funktioner och korrigeringar i Adobe Audience Manager
 
@@ -234,6 +230,10 @@ Nya videor, självstudiekurser eller kurser som publicerats för Audience Manage
 ## ![Ikon](/assets/aem.png) Adobe Experience Manager {#aem}
 
 Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM). Adobe rekommenderar att kunder med lokala distributioner driftsätter de senaste korrigeringarna för bättre stabilitet, säkerhet och prestanda.
+
+>[!NOTE]
+>
+>Adobe rekommenderar att du regelbundet besöker uppdateringar och färdplan [för](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html) Experience Manager för att få aktuell information om releaser.
 
 ### Produktreleaser
 
@@ -435,7 +435,7 @@ Versionsinformation för Adobe Advertising Cloud.
 
 ### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
-Version från **8 augusti**
+Releasedatum: **8 augusti 2020**
 
 | Funktion | Beskrivning |
 | ----------- | ---------- |
