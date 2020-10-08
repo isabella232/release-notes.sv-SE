@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 40d088f169d1b0849a65ccfb42f3af8749005684
+source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
 workflow-type: tm+mt
 source-wordcount: '6740'
 ht-degree: 32%
@@ -21,7 +21,7 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 
 >[!IMPORTANT]
 >
->Den här sidan kan innehålla förhandsversioner av vissa produkter och kan komma att ändras före releasedatum. Leta ofta efter uppdateringar.
+>Den här sidan kan innehålla förhandsversion av innehåll för vissa produkter och kan ändras före releasedatum. Leta ofta efter uppdateringar.
 
 >[!NOTE]
 >
