@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
+source-git-commit: 390f9884c84130f67cb494b6e30b473e122840d9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6721'
+ht-degree: 32%
 
 ---
 
@@ -360,6 +360,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 All versionsinformation för Experience Manager finns på följande sidor:
 
+* [Uppdateringar och färdplan för lanseringen av Experience Manager](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)
 * [Versionsinformation för AEM som en molntjänst](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/release-notes/home.html)
 * [Versionsinformation för AEM Cloud Manager](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://docs.adobe.com/content/help/sv-SE/aem-forms-automated-conversion-service/using/release-notes.html)
