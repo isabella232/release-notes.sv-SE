@@ -7,7 +7,7 @@ author: mfrei
 translation-type: tm+mt
 source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
 workflow-type: tm+mt
-source-wordcount: '6740'
+source-wordcount: '6731'
 ht-degree: 32%
 
 ---
@@ -242,7 +242,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
    Nyheter i AEM som molntjänst?
 
    * **Adobe Experience Manager Sites som Cloud Service**
-      * SPA-redigeraren (Single Page Application) JavaScript SDK är [nu öppen källkod.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html)
+      * JavaScript SDK för Single Page Application (SPA) Editor är [nu öppen källkod.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html)
    * **Adobe Experience Manager Assets as a Cloud Service**
 
       * Vattenstämplingsbildfiler stöds för återgivningar som genereras med Asset Microservices. Den kan konfigureras som en bearbetningsprofil och använder en PNG-fil som vattenstämpel. Se [vattenstämpla dina resurser.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/watermark-assets.html)
@@ -411,7 +411,7 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 | 22 september 2020 | [Resa-AI - Prediktiv poängsättning för engagemang - video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet. |
 | 22 september 2020 | [Lägga till en kontrollgrupp i en leverans - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Lär dig hur du definierar en kontrollgrupp för leveransen och hur du extraherar profilerna som har tilldelats kontrollgruppen när leveransen har skickats. |
 | 11 sept 2020 | [Delegera underdomäner](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Med Kontrollpanelen i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign. |
-| 3 sept 2020 | [Lägga till IP-adresser till tillåtelselista](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. |
+| 3 sept 2020 | [Lägga till IP-adresser på tillåtelselistor](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. |
 | 3 sept 2020 | [Kontrollpanelen - Lägga till URL-behörigheter](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. |
 
 ### Hjälpresurser
