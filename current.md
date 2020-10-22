@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e3cd66e2ec665be1583b0a3ee3aaba05462c8407
+source-git-commit: e2e01fa323e54614f8b5719252e672183dbb006d
 workflow-type: tm+mt
-source-wordcount: '6698'
+source-wordcount: '6788'
 ht-degree: 30%
 
 ---
@@ -204,9 +204,15 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 
 Nya funktioner, korrigeringar, dokumentation och självstudiekurser för Audience Manager.
 
-Releasedatum: 8 **oktober 2020**
+Uppdaterad 22 **oktober 2020**
 
-### Nya funktioner och korrigeringar i Adobe Audience Manager
+### New features, enhancements, and fixes in Audience Manager {#aam-features}
+
+| Funktion | Datum tillagt eller uppdaterat | Beskrivning |
+|----|----|----|
+| [Predictive Audiences](https://docs.adobe.com/content/help/sv-SE/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21 oktober 2020 | <ul><li>**Modellkloning för prediktiva målgrupper**: Nu kan du klona befintliga modeller och ändra deras konfiguration utifrån dina behov. Läs [Kloning and Editing Predictive Audience Models](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) om du vill ha mer information.</li><li>**Batchklassificering** för prediktiva målgrupper: Förutom att klassificera besökare i distinkta personligheter i realtid har Predictive Audiences nu stöd för gruppklassificering, vilket hjälper er att klassificera onboardanvändare och aktivera för gruppdestinationer.</li></ul> |
+
+### Korrigeringar och förbättringar {#aam-fixes-and-improvements}
 
 * Korrigerade ett problem med Audience Manager REST API, där slutpunkten för traits inte returnerade enhetsövergripande värden när egenskaper filtrerades i begäran. (AAM-55878)
 * Korrigerade ett problem i personbaserade destinationer, där e-postmeddelanden med åtkomsttoken för Facebook-integreringar inte skickades till rätt mottagare. (AAM-56215)
