@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
+source-git-commit: e3cd66e2ec665be1583b0a3ee3aaba05462c8407
 workflow-type: tm+mt
-source-wordcount: '6731'
-ht-degree: 32%
+source-wordcount: '6698'
+ht-degree: 30%
 
 ---
 
@@ -427,21 +427,24 @@ Versionsinformation för Adobe Advertising Cloud.
 * [Nya funktioner i Advertising Cloud DSP](#adcloud-dsp)
 * [Nya funktioner i Advertising Cloud Search](#adcloud-search)
 
-### Nya funktioner i [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Releasedatum: 15 oktober 2020
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Interaktiv förrullning utökades för att inkludera VAST-arkiv | Alla interaktiva förrullningsplaceringar och annonser har nu stöd för både VPAID- och VAST-arkiv. **Obs!** Om din primära KPI är visningsmöjlighet fortsätter du att skapa separata VPAID- och VAST-placeringar och annonser eftersom visningsbara visningar inte är tillgängliga för VAST-annonser. |
+| Privat lager | Alla användare kan nu konfigurera och redigera information om avtal-ID med ett nytt formulär för avtal-ID, som är en förenklad version av det äldre [!UICONTROL Smart Ad Serving] formuläret. Om du vill ange ny information om ett avtal-ID går du till **[!UICONTROL Inventory > Deals]**, klickar **[!UICONTROL Create]** och sedan på **[!UICONTROL Deal ID Beta]**. |
+| Placeringsprognos | För placeringar med placeringsnivåpaketering innehåller avsnittet med placeringsinställningarna ett nytt [!UICONTROL Forecast] [!UICONTROL Estimated Maximums] avsnitt som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. |
 
-### Nya funktioner i [!UICONTROL Advertising Cloud Search] {#adcloud-search}
+### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Releasedatum: **8 augusti 2020**
+Releasedatum: 17 oktober 2020
 
 | Funktion | Beskrivning |
-| ----------- | ---------- |
-| [!UICONTROL Portfolios] | Positionsgränser på portföljnivå är inte längre tillgängliga i portföljinställningarna. Alla tidigare positionsbegränsningar har tagits bort. |
-| [!UICONTROL Constraints] | Positionsbaserade begränsningar och begränsningsvillkor stöds inte längre: <br/> <ul><li>[!UICONTROL Min Pos] och [!UICONTROL Max Pos] begränsningar är inte längre tillgängliga och har tagits bort från alla tidigare skapade [!UICONTROL Bid & Position] begränsningar och [!UICONTROL Impression Share] begränsningar.</li><li>Existing [!UICONTROL Bid & Position] constraints that included position constraints but no bid constraints were paused. De finns fortfarande i användargränssnittet och i rapporter.</li><li>[!UICONTROL Bid & Position] begränsningar har ändrat namn på [!UICONTROL Bid] begränsningar.</li><li>Alla positionsbaserade villkor (med [!UICONTROL Average Position], [!UICONTROL Weighted Average Position]eller [!UICONTROL Last Known Pos] mått) i någon typ av begränsning togs bort.</li></ul> <br/> **Obs!** Positionsdata fylls i så länge de är tillgängliga från sökmotorerna. Microsoft Ads fasar ut positioner under september 2020. |
-| [!UICONTROL Campaigns] | (Google Ads-kampanjer) Advertising Cloud Search har nu stöd för annonsanpassare i responsiva sökannonser (RSA). Tidigare stöddes de i alla annonstyper utom RSA. |
+| -----------| ---------- |
+| Sökkampanjer | I [!UICONTROL Accounts] vyn visar [!UICONTROL Access] kolumnen nu när [!DNL Advertising Cloud Search] det inte går att logga in på ett aktiverat sökmotorkonto. Håll markören över varningsikonen om du vill se orsaken till felet. |
+| [!UICONTROL Custom Alerts] | Den första [!UICONTROL Alerts Beta] heter nu [!UICONTROL Custom Alerts]. |
+|  | I anpassade aviseringar förenklades arbetsflödet för att identifiera när mätvärden för det angivna datumintervallet har ökat eller minskat från mätvärden för föregående period och flyttades till [!UICONTROL Filters] fliken. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
 
