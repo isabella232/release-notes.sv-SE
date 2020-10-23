@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e2e01fa323e54614f8b5719252e672183dbb006d
+source-git-commit: c1750aa7321e0eb6b929119f5c22101772af5a68
 workflow-type: tm+mt
-source-wordcount: '6788'
+source-wordcount: '6870'
 ht-degree: 30%
 
 ---
@@ -204,13 +204,14 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 
 Nya funktioner, korrigeringar, dokumentation och självstudiekurser för Audience Manager.
 
-Uppdaterad 22 **oktober 2020**
+Uppdaterad 23 **oktober 2020**
 
 ### New features, enhancements, and fixes in Audience Manager {#aam-features}
 
 | Funktion | Datum tillagt eller uppdaterat | Beskrivning |
 |----|----|----|
 | [Predictive Audiences](https://docs.adobe.com/content/help/sv-SE/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21 oktober 2020 | <ul><li>**Modellkloning för prediktiva målgrupper**: Nu kan du klona befintliga modeller och ändra deras konfiguration utifrån dina behov. Läs [Kloning and Editing Predictive Audience Models](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) om du vill ha mer information.</li><li>**Batchklassificering** för prediktiva målgrupper: Förutom att klassificera besökare i distinkta personligheter i realtid har Predictive Audiences nu stöd för gruppklassificering, vilket hjälper er att klassificera onboardanvändare och aktivera för gruppdestinationer.</li></ul> |
+| [Överlappa rapporter](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html) | 23 oktober 2020 | Vi har uppdaterat den metod vi använder för att beräkna överlappningsrapporter ([Trait-to-Trait](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/trait-trait-overlap-report.html), [Segment-to-Trait](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-trait-overlap-report.html), [Segment-till-segment](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-segment-overlap-report.html)). Beräkningen av överlappningsrapporter baseras nu på rapportuniviteter och MinHash-signaturer (i stället för [1/54-datainsamling](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/report-sampling.html#data-sampling-ratio)). |
 
 ### Korrigeringar och förbättringar {#aam-fixes-and-improvements}
 
