@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dba5bf9afced03536adb857f879bd1df349ebbbc
+source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
 workflow-type: tm+mt
-source-wordcount: '6862'
+source-wordcount: '6926'
 ht-degree: 23%
 
 ---
@@ -338,6 +338,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 27 oktober 2020 | [Introduktion till AEM Document Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | Adobe Experience Manager Document Security Extension för Microsoft Office säkerställer att endast de personer du har behörighet att använda Word-, Excel- och PowerPoint-filer som innehåller dina immateriella rättigheter. Genom att använda Document Security Extension för Microsoft Office kan du använda fördefinierade sekretessinställningar för dina filer. |
 | 7 oktober 2020 | [Visa sidmått i Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Läs om hur du mappar data som samlats in från en Adobe Experience Manager-webbplats till mätvärden och dimensioner i Adobe Analytics rapporteringsprogram. |
 | 8 oktober 2020 | [Personalisering av fullständiga webbsidesupplevelser](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | Video | Lär dig hur du skapar en aktivitet som dirigerar om de webbsidor som finns på AEM till en ny sida med Adobe Target. |
 | 8 oktober 2020 | [Personalisering med Visual Experience Composer](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-using-vec.html) | Video | Lär dig hur du skapar en A/B Test Target-aktivitet med Visual Experience Composer (VEC). |
@@ -411,7 +412,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Versionsinformation för Campaign Classic, Campaign Standard och Kontrollpanelen.
 
-#### Kontrollpanelen
+#### Kontrollpanelen 
 
 * Underdomänskonfiguration med CNAME - [Läs mer](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html#use-cnames)
 
