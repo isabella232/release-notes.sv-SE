@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
+source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
 workflow-type: tm+mt
-source-wordcount: '7046'
+source-wordcount: '7222'
 ht-degree: 22%
 
 ---
@@ -203,6 +203,10 @@ Nya videor, självstudiekurser eller kurser som publicerats för Audience Manage
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 28 oktober 2020 | [Förstå siffror i Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information. |
+| 23 oktober 2020 | [Skapande av planeringsegenskaper från analysdata](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Lär dig några tips och tricks som kan hjälpa dig när du tänker använda Adobe Analytics-data i dina egenskaper i Audience Manager. |
+| 23 oktober 2020 | [Välja en datakälla när egenskaper skapas](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Ett av de viktiga fälten som ska fyllas i när egenskaper skapas är fältet Datakälla. Tips om hur du väljer rätt datakälla för regelbaserade och inbyggda egenskaper. |
+| 14 september 2020 | [Använda kodvyn för att skapa och redigera egenskaper](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.html?lang=en#build-and-manage-audiences) | Video | Lär dig hur du använder kodvyn när du skapar nya egenskaper eller redigerar befintliga egenskaper. Kodvyn är ett alternativ till uttrycksverktyget när du anger ett trait-uttryck. |
 | 10 oktober 2020 | [Förstå prediktiva målgrupper](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | Video | I den här videon ska vi diskutera vilka Audience Manager Predictive Audiences är, presentera detaljer om hur de fungerar och visa upp användningsexempel. |
 
 ## ![Ikon](/assets/aem.png) Adobe Experience Manager {#aem}
