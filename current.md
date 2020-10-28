@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
+source-git-commit: 2fc4753b488ce356018ad91b8933f49d101700fd
 workflow-type: tm+mt
-source-wordcount: '7377'
+source-wordcount: '7447'
 ht-degree: 21%
 
 ---
@@ -37,7 +37,7 @@ Senaste uppdatering: **28 oktober 2020**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat: **10/28/2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
+* [Advertising Cloud](#adcloud) (Uppdaterat: **10/28/2020**)
 * [[!DNL Target]](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -458,12 +458,14 @@ Versionsinformation för Adobe Advertising Cloud.
 
 ### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Releasedatum: 15 oktober 2020
+Uppdaterat: 28 oktober 2020
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Privat lager | Alla användare kan nu konfigurera och redigera information om avtal-ID med ett nytt formulär för avtal-ID, som är en förenklad version av det äldre [!UICONTROL Smart Ad Serving] formuläret. Om du vill ange ny information om ett avtal-ID går du till **[!UICONTROL Inventory > Deals]**, klickar **[!UICONTROL Create]** och sedan på **[!UICONTROL Deal ID Beta]**. |
-| Placeringsprognos | För placeringar med placeringsnivåpaketering innehåller avsnittet med placeringsinställningarna ett nytt [!UICONTROL Forecast] [!UICONTROL Estimated Maximums] avsnitt som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. |
+| Ny hjälp | (28 oktober) Den gamla hjälpen ersattes med uppdaterade sidor, som är tillgängliga via hjälplänken på DSP huvudmeny och som alltid är tillgängliga från [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Kampanjer | (28 oktober) De tidigare betavyer för kampanjer är nu standardvyer för kampanjer, för snabbare insikter, förenklade arbetsflöden och anpassade vyer. |
+| Privat lager | (15 oktober) Alla användare kan nu konfigurera och redigera information om avtal-ID med ett nytt formulär för avtal-ID, som är en förenklad version av det äldre [!UICONTROL Smart Ad Serving] formuläret. Om du vill ange ny information om ett avtal-ID går du till **[!UICONTROL Inventory > Deals]**, klickar **[!UICONTROL Create]** och sedan på **[!UICONTROL Deal ID Beta]**. |
+| Placeringsprognos | (15 oktober) För placeringar på placeringsnivå innehåller avsnittet i placeringsinställningarna ett nytt [!UICONTROL Forecast] [!UICONTROL Estimated Maximums] avsnitt som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. |
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
