@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
+source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
 workflow-type: tm+mt
-source-wordcount: '6926'
-ht-degree: 23%
+source-wordcount: '7046'
+ht-degree: 22%
 
 ---
 
@@ -27,7 +27,7 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner.
 
-Senaste uppdatering: **23 oktober 2020**
+Senaste uppdatering: **28 oktober 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
@@ -35,7 +35,7 @@ Senaste uppdatering: **23 oktober 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 22 oktober 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Uppdaterat: **10/28/2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)
@@ -290,6 +290,15 @@ Dokumentationen för RTF-redigeraren har uppdaterats för att visa alla [protoko
 * Resurser kan [flyttas in till jämställda mappar med dra-åtgärden](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) , förutom den åtgärd som [!UICONTROL Move(m)] öppnar [!UICONTROL Move Assets] guiden.
 
 * Använd [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)för resursinsikter. [DTM-integrering](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) anropas som en borttagen metod i dokumenten.
+
+Uppdaterat: **2020-10-28**
+
+* **Förbättringar** i varumärkesportalen: Följande nya funktioner och mer finns i [!DNL Brand Portal]:
+
+   * [Förbättrad nedladdning](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html) för enklare, snabba nedladdningar. Ytterligare hämtningskonfigurationer kan konfigureras av administratörer för att ge en upplevelse som passar användare och företag.
+   * Navigera till [!UICONTROL Files], [Samlingar](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/share/brand-portal-share-collection.html)och [!UICONTROL Shared Links] är nu möjligt från vilken sida som helst med ett klick.
+   * Användarna kan [välja och hämta specifika renderingar](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html#download-assets-from-asset-details-page) nu. Det nya alternativet för hämtning av återgivning finns på panelen [!UICONTROL Renditions] Resursinformation.
+   * En tidsgräns på 15 minuter för gästanvändarsessioner ger en bättre upplevelse för alla samtidiga användare.
 
 ### [!DNL Experience Manager] Forms
 
