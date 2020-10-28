@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
+source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
 workflow-type: tm+mt
-source-wordcount: '7251'
-ht-degree: 22%
+source-wordcount: '7377'
+ht-degree: 21%
 
 ---
 
@@ -83,6 +83,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 26 oktober 2020 | [Introduktion till Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Den här videon ger en översikt över Offer Decisioning, en programtjänst som är byggd ovanpå Adobe Experience Platform. Videon handlar om de affärsutmaningar Offer Decisioning klarar, nyckelfunktioner, grundläggande arkitektur och de huvudsakliga användningsområdena. |
 | 14 september 2020 | [Affärsvärde för Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], som en del av [!UICONTROL Intelligent Services], är en flerkanalig, algoritmisk attribueringstjänst som beräknar påverkan och inkrementell påverkan av kundinteraktioner mot angivna resultat. Med [!UICONTROL Attribution AI]kan marknadsförarna mäta och optimera marknadsförings- och annonsutgifterna genom att förstå effekten av varje enskild kundinteraktion i varje fas av kundresan. |
 | 14 september 2020 | [Affärsvärde för kundens AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Video | I den här videon visas hur [!UICONTROL Customer AI] förbättrar kundprofiler med AI-baserade egenskaper och stärker kundsegmenterings- och målinriktningsarbetet. |
 | 14 september 2020 | [Affärsvärde för Platform och Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Video | Den här videon visar att Adobe Experience Platform kan användas tillsammans med [!DNL Magento] Commerce för att skapa en enda bild av kunderna och på ett intelligent sätt personalisera upplevelser i en digital butik och i olika kanaler. |
@@ -437,6 +438,8 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
+| 19 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
+| 19 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
 | 16 oktober 2020 | [Kontrollpanelen - Delegera underdomäner med CNAME (beta) - video med funktioner](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Lär dig hur du konfigurerar och skickar en underdomän med CNAMEs på kontrollpanelen. |
 | 16 oktober 2020 | [Kontrollpanelen - Delegera underdomäner med CNAME (beta) - video med funktioner](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | Lär dig hur du konfigurerar och skickar en underdomän med CNAMEs på kontrollpanelen. |
 
