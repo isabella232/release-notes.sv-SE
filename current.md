@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
+source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
 workflow-type: tm+mt
-source-wordcount: '7222'
+source-wordcount: '7251'
 ht-degree: 22%
 
 ---
@@ -33,7 +33,7 @@ Senaste uppdatering: **28 oktober 2020**
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 22 oktober 2020)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 28 oktober 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat: **10/28/2020**)
 * [Campaign](#ac)
@@ -100,7 +100,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 Releasedatum: **29 oktober 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 28 oktober 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
@@ -111,7 +111,7 @@ Releasedatum: **29 oktober 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
-| Adobe Analytics-dokumentation | Oktober 2020 | Adobe Analytics dokumentation flyttas till Experience League. Under oktober kommer alla artiklar, videoklipp, versionsinformation och självstudiekurser att flyttas från sin aktuella plats `docs.adobe.com` till `experienceleague.adobe.com`. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från ett och samma ställe. När den här ändringen inträffar behöver du inte göra något eftersom alla länkar kommer att omdirigeras till Experience League. Vi uppdaterar versionsinformationen när hämtningen börjar. |
+| Adobe Analytics-dokumentation | Oktober/nov 2020 | Adobe Analytics dokumentation flyttas till Experience League. Under oktober kommer alla artiklar, videoklipp, versionsinformation och självstudiekurser att flyttas från sin aktuella plats `docs.adobe.com` till `experienceleague.adobe.com`. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från ett och samma ställe. När den här ändringen inträffar behöver du inte göra något eftersom alla länkar kommer att omdirigeras till Experience League. Vi uppdaterar versionsinformationen när hämtningen börjar. |
 | [!UICONTROL Workspace] [!UICONTROL Line] visualisering: Alternativ för glidande medeltrendlinje | 8 okt 2020 | Ett glidande medelvärde har lagts till i inställningarna för [!UICONTROL Line] visualiseringstrendlinje. Ett glidande medelvärde kallas även för ett rullande medelvärde och använder ett visst antal datapunkter (som bestäms av ett [!UICONTROL Periods] urval), ett genomsnittsvärde för dem och ett medelvärde används som en punkt på raden. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Data Repair] API | 8 okt 2020 | API:t [!UICONTROL Data Repair] är ett verktyg som du kan använda för att ta bort data från rapportsviter i Analytics. Oktober-versionen innehåller funktioner för att ta bort angivna eVars, props och [!UICONTROL Activity Map] variabler för ett visst datumintervall. Ytterligare funktioner kommer att släppas i framtiden. Om du använder API:t tas befintliga Adobe Analytics-data bort permanent. [!UICONTROL Data Repair] Vi rekommenderar att du kör reparationen noggrant för att minimera oavsiktlig borttagning. Åtkomst till [!UICONTROL Data Repair] API kräver ett kontrakt - kontakta ditt kontoteam för mer information. [Läs mer](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | [!UICONTROL Workspace]: Hjälpsida för prestanda | 22 okt 2020 | På hjälpsidan för [!UICONTROL Analysis Workspace] prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -121,9 +121,9 @@ Releasedatum: **29 oktober 2020**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics dokumentation | Oktober 2020 | Dokumentationen för Customer Journey Analytics flyttas till Experience League. Under oktober kommer alla artiklar, videoklipp, versionsinformation och självstudiekurser att flyttas från sin aktuella plats `docs.adobe.com` till `experienceleague.adobe.com`. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från ett och samma ställe. När den här ändringen inträffar behöver du inte göra något eftersom alla länkar kommer att omdirigeras till Experience League. Vi uppdaterar versionsinformationen när hämtningen börjar. |
+| Customer Journey Analytics dokumentation | Oktober/nov 2020 | Dokumentationen för Customer Journey Analytics flyttas till Experience League. Under oktober kommer alla artiklar, videoklipp, versionsinformation och självstudiekurser att flyttas från sin aktuella plats `docs.adobe.com` till `experienceleague.adobe.com`. Detta säkerställer att allt utbildningsmaterial, självhjälp, hjälpmedel och communityinnehåll hanteras från ett och samma ställe. När den här ändringen inträffar behöver du inte göra något eftersom alla länkar kommer att omdirigeras till Experience League. Vi uppdaterar versionsinformationen när hämtningen börjar. |
 | [!UICONTROL Line] visualisering: Alternativ för glidande medeltrendlinje | 8 okt 2020 | Ett rörligt genomsnitt har lagts till i trendlinjeinställningarna för linjevisualisering. Ett glidande medelvärde beräknar medelvärdet för en angiven tidigare period och använder det som trendlinjedatapunkt, och går sedan vidare till nästa period. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
-| Ta bort begränsning av bakåtfyllnad | 19 okt 2020 | Tidigare kunde du fylla i högst 2,5 miljarder rader bakåt när du skapade en anslutning. Vi tar bort begränsningarna för bakgrundsfyllning så att du kan säkerhetskopiera upp till 13 månaders data, oavsett storlek. |
+| Ta bort begränsning av bakåtfyllnad | 19 okt 2020 | För att ge en förbättrad CJA-upplevelse har vi tagit bort begränsningen för bakåtfyllnad (import av historiska data). Tidigare kunde ni fylla upp maximalt 2,5 miljarder rader på egen hand och på annat sätt kräva konstruktionsarbete. Nu kan ni fylla i data på egen hand utan begränsningar. [Läs mer](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Hjälpsidan för Analysis Workspace Prestanda | 22 okt 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Komponenter > Användarinställningar som har lagts till i CJA-arbetsytan | 29 okt. 2020 | På sidan Komponenter > Användarinställningar kan du hantera Analysis Workspace-inställningar (och tillhörande komponenter) för din användare. För närvarande innehåller detta tusentalsavgränsare och CSV-avgränsare. |
 | Resa-IQ: Flerkanalsanalys | 30 okt 2020 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. |
