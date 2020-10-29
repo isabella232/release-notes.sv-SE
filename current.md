@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
+source-git-commit: 48d79544adc9225c086b7574d522622df084623b
 workflow-type: tm+mt
-source-wordcount: '7562'
+source-wordcount: '7526'
 ht-degree: 21%
 
 ---
@@ -127,7 +127,6 @@ Releasedatum: **29 oktober 2020**
 | [!UICONTROL Line] visualisering: Alternativ för glidande medeltrendlinje | 8 okt 2020 | Ett rörligt genomsnitt har lagts till i trendlinjeinställningarna för linjevisualisering. Ett glidande medelvärde beräknar medelvärdet för en angiven tidigare period och använder det som trendlinjedatapunkt, och går sedan vidare till nästa period. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Ta bort begränsning av bakåtfyllnad | 19 okt 2020 | För att ge en förbättrad CJA-upplevelse har vi tagit bort begränsningen för bakåtfyllnad (import av historiska data). Tidigare kunde ni fylla upp maximalt 2,5 miljarder rader på egen hand och på annat sätt kräva konstruktionsarbete. Nu kan ni fylla i data på egen hand utan begränsningar. [Läs mer](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Hjälpsidan för Analysis Workspace Prestanda | 22 okt 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| Komponenter > Användarinställningar som har lagts till i CJA-arbetsytan | 29 okt 2020 | På sidan Komponenter > Användarinställningar kan du hantera Analysis Workspace-inställningar (och tillhörande komponenter) för din användare. För närvarande innehåller detta tusentalsavgränsare och CSV-avgränsare. |
 | Resa-IQ: Flerkanalsanalys | 30 okt 2020 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
