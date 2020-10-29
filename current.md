@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f3ee5a99df82abf91e09a74f3f808f8ab8cf177e
+source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
 workflow-type: tm+mt
-source-wordcount: '7448'
+source-wordcount: '7562'
 ht-degree: 21%
 
 ---
@@ -83,7 +83,8 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| 26 oktober 2020 | [Introduktion till Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Den här videon ger en översikt över Offer Decisioning, en programtjänst som är byggd ovanpå Adobe Experience Platform. Videon handlar om de affärsutmaningar Offer Decisioning klarar, nyckelfunktioner, grundläggande arkitektur och de huvudsakliga användningsområdena. |
+| 26 oktober 2020 | [Introduktion till Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Den här videon ger en översikt över [!UICONTROL Offer Decisioning]en programtjänst som är byggd ovanpå Adobe Experience Platform. Videon handlar om utmaningarna, [!UICONTROL Offer Decisioning] lösningen, nyckelfunktionerna, den grundläggande arkitekturen och de huvudsakliga användningsområdena. |
+| 29 oktober 2020 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | Video | Läs om hur varumärken kan använda Adobe nya [!UICONTROL Offer Decisioning] tjänst för att definiera och hantera sina erbjudanden, utnyttja kunddata i realtid och leverera rätt upplevelser som kunderna förväntar sig. |
 | 14 september 2020 | [Affärsvärde för Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], som en del av [!UICONTROL Intelligent Services], är en flerkanalig, algoritmisk attribueringstjänst som beräknar påverkan och inkrementell påverkan av kundinteraktioner mot angivna resultat. Med [!UICONTROL Attribution AI]kan marknadsförarna mäta och optimera marknadsförings- och annonsutgifterna genom att förstå effekten av varje enskild kundinteraktion i varje fas av kundresan. |
 | 14 september 2020 | [Affärsvärde för kundens AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Video | I den här videon visas hur [!UICONTROL Customer AI] förbättrar kundprofiler med AI-baserade egenskaper och stärker kundsegmenterings- och målinriktningsarbetet. |
 | 14 september 2020 | [Affärsvärde för Platform och Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Video | Den här videon visar att Adobe Experience Platform kan användas tillsammans med [!DNL Magento] Commerce för att skapa en enda bild av kunderna och på ett intelligent sätt personalisera upplevelser i en digital butik och i olika kanaler. |
@@ -204,6 +205,7 @@ Nya videor, självstudiekurser eller kurser som publicerats för Audience Manage
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 29 oktober 2020 | [Förstå siffror i Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information. |
 | 28 oktober 2020 | [Förstå siffror i Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information. |
 | 23 oktober 2020 | [Skapande av planeringsegenskaper från analysdata](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Lär dig några tips och tricks som kan hjälpa dig när du tänker använda Adobe Analytics-data i dina egenskaper i Audience Manager. |
 | 23 oktober 2020 | [Välja en datakälla när egenskaper skapas](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Ett av de viktiga fälten som ska fyllas i när egenskaper skapas är fältet Datakälla. Tips om hur du väljer rätt datakälla för regelbaserade och inbyggda egenskaper. |
@@ -352,6 +354,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 28 oktober 2020 | [Smarta taggar för video](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Video | Experience Manager Assets använder Adobe Sensei för att på ett intelligent sätt tagga upp videomaterial med nyckelord som beskriver nyckelelementen i videon, så att de enkelt kan identifieras med nyckelordssökning AEM användare. |
 | 27 oktober 2020 | [Introduktion till AEM Document Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | Adobe Experience Manager Document Security Extension för Microsoft Office säkerställer att endast de personer du har behörighet att använda Word-, Excel- och PowerPoint-filer som innehåller dina immateriella rättigheter. Genom att använda Document Security Extension för Microsoft Office kan du använda fördefinierade sekretessinställningar för dina filer. |
 | 7 oktober 2020 | [Visa sidmått i Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Läs om hur du mappar data som samlats in från en Adobe Experience Manager-webbplats till mätvärden och dimensioner i Adobe Analytics rapporteringsprogram. |
 | 8 oktober 2020 | [Personalisering av fullständiga webbsidesupplevelser](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | Video | Lär dig hur du skapar en aktivitet som dirigerar om de webbsidor som finns på AEM till en ny sida med Adobe Target. |
