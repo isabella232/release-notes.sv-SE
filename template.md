@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ac62e2402e3d41cbcea6670b8e482bc295b9a14
+source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
 workflow-type: tm+mt
 source-wordcount: '1322'
 ht-degree: 61%
@@ -51,7 +51,7 @@ Funktioner och korrigeringar.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud-gränssnitt{#ecloud}
+## Experience Cloud-gränssnitt{#ecloud} 
 
 Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies osv.).
 
@@ -69,8 +69,6 @@ For product documentation, see [Experience Cloud interface](https://docs.adobe.c
 Funktioner och korrigeringar.
 
 Produktdokumentation finns i [Hantera användare och produkter](https://docs.adobe.com/content/help/sv-SE/core-services/interface/manage-users-and-products/admin-getting-started.html).
-
-## [!UICONTROL Experience Platform] {#platform}
 
 ## ![Ikon för](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -118,13 +116,13 @@ Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/hel
 
 Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/overview.html) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
-## Analytics {#analytics}
+## Analytics{#analytics} 
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Media Analytics SDK för iOS och Android (tidigare VHL SDK)](#aa-va)
-* [Viktiga meddelanden för Analytics-administratörer](analytics-important-notices.md)
+* [Viktiga meddelanden för Analytics-administratörer](analytics-important-notices.md) 
 
 Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html).
 
@@ -302,7 +300,7 @@ Marketo Engage är en komplett lösning för lead-hantering och B2B-marknadsför
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft Dynamics _Change Owner i Microsoft_Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
+* **Microsoft Dynamics _Change Owner i Microsoft_ Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
 * **Förbättringar av API-anrop:**
    * API:er för användarhantering
    * API:er för anpassade objektscheman
