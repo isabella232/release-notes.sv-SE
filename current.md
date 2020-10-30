@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 48d79544adc9225c086b7574d522622df084623b
+source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
 workflow-type: tm+mt
-source-wordcount: '7526'
+source-wordcount: '7561'
 ht-degree: 21%
 
 ---
@@ -68,6 +68,8 @@ Information om den senaste releasen finns i [Cumulative Release Notes för Exper
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
+Innehåller uppdateringsinformation för Experience Platform och Experience Platform Launch,
+
 Släppt: **14 oktober 2020**
 
 Se versionsinformationen [för](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) Experience Platform för mer information om uppdateringar av:
@@ -76,6 +78,10 @@ Se versionsinformationen [för](https://docs.adobe.com/content/help/sv-SE/experi
 * Kundprofil i realtid
 * Segmenteringstjänst
 * Källor
+
+### Experience Platform Launch
+
+Se [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/launch/using/intro/release-notes/current.html) för Experience Platform Launch om du vill ha mer information om Platform Launch.
 
 ### Självstudiekurser och kurser för Experience Platform och tjänster
 
