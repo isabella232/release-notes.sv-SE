@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
+source-git-commit: 5050a05473619e75107b0874d592322ee5a70d44
 workflow-type: tm+mt
-source-wordcount: '7786'
+source-wordcount: '7839'
 ht-degree: 21%
 
 ---
@@ -27,7 +27,7 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner.
 
-Senaste uppdatering: **28 oktober 2020**
+Senaste uppdatering: **2 november 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
@@ -35,10 +35,10 @@ Senaste uppdatering: **28 oktober 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 28 oktober 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) (Uppdaterat: **10/28/2020**)
+* [Experience Manager](#aem) (Uppdaterat: **28 oktober 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Uppdaterat: **10/28/2020**)
-* [[!DNL Target]](#target)
+* [Advertising Cloud](#adcloud) (Uppdaterat: **28 oktober 2020**)
+* [[!DNL Target]](#target) (Uppdaterat: **2 november 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/sv-SE/primetime/release-notes/home.html)
@@ -358,6 +358,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 2 november 2020 | [Läsa in och utlösa ett Target-anrop](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Video | Lär dig hur du läser in, skickar parametrar till sidförfrågningar och startar ett Target-anrop från webbplatssidan med en startregel. Sidinformation hämtas och skickas som parametrar med hjälp av Adobe klientdatalager, som du kan använda för att samla in och lagra data om besökarnas upplevelse på en webbsida och sedan göra det enkelt att komma åt dessa data. |
 | 28 oktober 2020 | [Smarta taggar för video](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Video | Experience Manager Assets använder Adobe Sensei för att på ett intelligent sätt tagga upp videomaterial med nyckelord som beskriver nyckelelementen i videon, så att de enkelt kan identifieras med nyckelordssökning AEM användare. |
 | 27 oktober 2020 | [Introduktion till AEM Document Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | Adobe Experience Manager Document Security Extension för Microsoft Office säkerställer att endast de personer du har behörighet att använda Word-, Excel- och PowerPoint-filer som innehåller dina immateriella rättigheter. Genom att använda Document Security Extension för Microsoft Office kan du använda fördefinierade sekretessinställningar för dina filer. |
 | 7 oktober 2020 | [Visa sidmått i Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Läs om hur du mappar data som samlats in från en Adobe Experience Manager-webbplats till mätvärden och dimensioner i Adobe Analytics rapporteringsprogram. |
@@ -385,7 +386,6 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | 30 september 2020 | [Utforska datalagret för Adobe-klienten](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Artikel | Utforska funktioner och funktioner i det händelsestyrda Adobe Client Data-lagret och dess integrering med AEM Sites Core Components. Lär dig hur du lyssnar efter händelser, hämtar det aktuella läget och ändrar datalagret. |
 | 30 september 2020 | [Introduktion till Adobe-klientdatalagret](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Video | Lär dig hur det händelsestyrda Adobe Client Data-lagret visar data från AEM Sites Core Components. Med Adobe Client Data Layer kan tagghanteringslösningar som Experience Platform Launch överföra webbplatsdata till program som Analytics och Target. |
 | 8 oktober 2020 | [Lägg till måltillägg i startegenskapen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Video | Lär dig hur du läser in, skickar parametrar till sidförfrågningar och startar ett Target-anrop från webbplatssidan med en startregel. Sidinformation hämtas och skickas som parametrar med hjälp av Adobe klientdatalager, som du kan använda för att samla in och lagra data om besökarnas upplevelse på en webbsida och sedan göra det enkelt att komma åt dessa data. |
-| 8 oktober 2020 | [Lägg till måltillägg i startegenskapen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Video | Lär dig hur du lägger till Adobe Target-tillägg i Launch-egenskapen |
 | 7 oktober 2020 | [Skapa Adobe Target Cloud Service-konto](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) | Video | Lär dig hur du integrerar Adobe Experience Manager som en Cloud Service med Adobe Target med hjälp av Cloud Service och Adobe IMS-autentisering. |
 | 2 oktober 2020 | [Översikt över AEM och Adobe Target](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/overview.html) | Video | AEM och Target är båda kraftfulla lösningar med synbarligen överlappande funktioner. Kunderna kämpar ibland med att förstå hur och när de ska använda dessa produkter tillsammans för att leverera personaliserade upplevelser. För att leverera optimerad upplevelse för alla slutanvändare bör olika team i organisationen ha ett nära samarbete och definiera vem som ska göra vad. |
 | 2 oktober 2020 | [Integrera AEM Forms och Adobe Sign](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) | Kurs | Genom att samarbeta kan Adobe Sign och AEM Forms automatisera komplexa transaktioner och inkludera säkra, juridiskt bindande e-signaturer som en del av en sömlös digital upplevelse. |
@@ -445,8 +445,8 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
-| 20 oktober 2020 | [Kontrollpanelen - Generera en SSH-nyckel - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
-| 20 oktober 2020 | [Kontrollpanelen - Ansluta till en SFTP-server - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
+| 2 november 2020 | [Kontrollpanelen - Generera en SSH-nyckel - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
+| 2 november 2020 | [Kontrollpanelen - Ansluta till en SFTP-server - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
 | 20 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
 | 20 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
 | 19 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
@@ -500,6 +500,8 @@ Versionsinformation om Magento finns i:
 Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html).
 
 ### Nya Adobe Target-kurser och självstudiekurser
+
+Uppdaterat: **2 november 2020**
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
