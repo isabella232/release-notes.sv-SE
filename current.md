@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1dec5a72cc3a6c3592544ab198516f6253f5c50a
+source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
 workflow-type: tm+mt
-source-wordcount: '7527'
+source-wordcount: '7786'
 ht-degree: 21%
 
 ---
@@ -38,7 +38,7 @@ Senaste uppdatering: **28 oktober 2020**
 * [Experience Manager](#aem) (Uppdaterat: **10/28/2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud) (Uppdaterat: **10/28/2020**)
-* [[!DNL Target]](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/sv-SE/primetime/release-notes/home.html)
@@ -445,6 +445,10 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
+| 20 oktober 2020 | [Kontrollpanelen - Generera en SSH-nyckel - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
+| 20 oktober 2020 | [Kontrollpanelen - Ansluta till en SFTP-server - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
+| 20 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
+| 20 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
 | 19 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
 | 19 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
 | 16 oktober 2020 | [Kontrollpanelen - Delegera underdomäner med CNAME (beta) - video med funktioner](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Lär dig hur du konfigurerar och skickar en underdomän med CNAMEs på kontrollpanelen. |
@@ -490,6 +494,16 @@ Versionsinformation om Magento finns i:
 
 * [Magento Commerce 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 * [Magento Open Source 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
+
+## ![Ikon](/assets/target.png)[!DNL Target] {#target}
+
+Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html).
+
+### Nya Adobe Target-kurser och självstudiekurser
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| 11 oktober 2020 | [Distributionsmodell för hybridanpassning](https://docs.adobe.com/content/help/en/target-learn/tutorials/implementation/hybrid-deployment.html) | Video | Adobe Target erbjuder en unik hybriddriftsättningsmodell för personalisering - som kombinerar implementeringar på både klient- och serversidan. Med denna hybridmodell kan icke-tekniska användare skapa ett experiment eller en personaliseringsaktivitet med WYSIWYG Visual Experience Composer och få upplevelsen utförd, levererad och renderad av servern för en mycket prestandaoptimerad leverans. |
 
 ## ![Ikon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
