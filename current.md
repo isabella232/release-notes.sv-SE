@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
+source-git-commit: 1dec5a72cc3a6c3592544ab198516f6253f5c50a
 workflow-type: tm+mt
-source-wordcount: '7561'
+source-wordcount: '7527'
 ht-degree: 21%
 
 ---
@@ -210,7 +210,6 @@ Nya videor, självstudiekurser eller kurser som publicerats för Audience Manage
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| 29 oktober 2020 | [Förstå siffror i Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information. |
 | 28 oktober 2020 | [Förstå siffror i Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information. |
 | 23 oktober 2020 | [Skapande av planeringsegenskaper från analysdata](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Lär dig några tips och tricks som kan hjälpa dig när du tänker använda Adobe Analytics-data i dina egenskaper i Audience Manager. |
 | 23 oktober 2020 | [Välja en datakälla när egenskaper skapas](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Ett av de viktiga fälten som ska fyllas i när egenskaper skapas är fältet Datakälla. Tips om hur du väljer rätt datakälla för regelbaserade och inbyggda egenskaper. |
