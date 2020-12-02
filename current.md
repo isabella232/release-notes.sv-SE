@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: cc49396194cb768b6d4d3fc7f3967afb65636188
+source-git-commit: 73caf10aa872e7b98875bdd0b8050cc301e3d500
 workflow-type: tm+mt
 source-wordcount: '7889'
 ht-degree: 21%
@@ -27,13 +27,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner.
 
-Senaste uppdatering: **10 november 2020**
+Senaste uppdatering: **2 december 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 10 **november 2020**)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 2 **december 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat: **28 oktober 2020**)
 * [Campaign](#ac)
@@ -108,7 +108,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 Releasedatum: **29 oktober 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 10 november 2020)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 2 december 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
@@ -135,7 +135,7 @@ Releasedatum: **29 oktober 2020**
 | Hjälpsidan för Analysis Workspace Prestanda | 22 oktober 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Time Spent] mått | 30 oktober 2020 | [!UICONTROL Time Spent] mätvärden och dimensioner gör att ni kan se hur mycket tid konsumenterna tillbringar i olika aspekter av kundresan, vilket ger er en mer fullständig bild av engagemang och flaskhalsar över olika kanaler. |
 | [!UICONTROL Device] och [!UICONTROL Geography] dimensioner | 30 oktober 2020 | [!UICONTROL Device] och [!UICONTROL Geography] dimensionerna är nu som standard tillgängliga som en del av projektet&quot;Global Lookup support&quot; i [Adobe Analytics Source Connector](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Detta efterfrågade tillägg ökar [pariteten mellan Adobe Analytics och CJA](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-aa.html). |
-| Resa-IQ: Flerkanalsanalys | 22 november 2020 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
+| Resa-IQ: Flerkanalsanalys | 11 december 2020 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
@@ -230,9 +230,9 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
 ### Produktreleaser
 
-* **AEM som molntjänst**
+* **AEM as a Cloud Service**
 
-   Nyheter i AEM som molntjänst?
+   Nyheter i AEM as a Cloud Service
 
    * **Adobe Experience Manager Sites som Cloud Service**
       * JavaScript SDK för Single Page Application (SPA) Editor är [nu öppen källkod.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html)
@@ -378,11 +378,11 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | 25 september 2020 | [Använda Asset compute Dev-verktyget](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/development-tool.html) | Artikel | Asset compute Dev Tool är en lokal webbenhet som gör det möjligt för utvecklare att konfigurera och köra Asset Computer-arbetare lokalt, utanför AEM SDK mot Asset compute-resurserna i Adobe I/O Runtime. |
 | 27 september 2020 | [Utveckla en Asset compute-arbetare](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/worker.html) | Artikel | asset compute-arbetare är kärnan i ett Asset compute-program och tillhandahåller anpassade funktioner som utför, eller koordinerar, det arbete som utförs på en resurs för att skapa en ny återgivning. |
 | 25 september 2020 | [Konfigurera manifest.yml](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/manifest.html) | Artikel | Asset compute projekts manifest.yml beskriver alla arbetare i det här programmet som ska distribueras. |
-| 14 september 2020 | [Konfigurera miljövariabler](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/environment-variables.html) | Video | Miljövariabler bevaras i .env-filen för lokal utveckling, och används för att ange Adobe I/O-autentiseringsuppgifter och autentiseringsuppgifter för molnlagring som krävs för lokal utveckling. |
-| 14 september 2020 | [Skapa ett Asset compute-projekt](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/project.html) | Artikel | asset compute är Node.js-projekt som genereras med Adobe I/O CLI och som följer en viss struktur så att de kan driftsättas i Adobe I/O Runtime och integreras med AEM som en Cloud Service. |
+| 14 september 2020 | [Konfigurera miljövariabler](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/environment-variables.html) | Video | Miljövariabler bevaras i .env-filen för lokal utveckling och används för att ange Adobe I/O-autentiseringsuppgifter och molnlagringsreferenser som krävs för lokal utveckling. |
+| 14 september 2020 | [Skapa ett Asset compute-projekt](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/project.html) | Artikel | asset compute är Node.js-projekt som genereras med Adobe I/O CLI och som följer en viss struktur som gör att de kan användas i Adobe I/O Runtime och integreras med AEM som Cloud Service. |
 | 14 september 2020 | [Konfigurera miljövariabler](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/environment-variables.html) | Artikel | Miljövariabler bevaras i .env-filen för lokal utveckling och används för att ange Adobe I/O-autentiseringsuppgifter och autentiseringsuppgifter för molnlagring som krävs för lokal utveckling |
-| 14 september 2020 | [Skapa ett Asset compute-projekt](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/project.html) | Video | asset compute är Node.js-projekt som genereras med Adobe I/O CLI och som följer en viss struktur så att de kan driftsättas i Adobe I/O Runtime och integreras med AEM som en Cloud Service. |
-| 14 september 2020 | [Konfigurera Adobe I/O-projekt felfritt](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/firefly.html) | Självstudiekurs | asset compute-program är särskilt definierade Adobe Project Fire-program, och därför krävs åtkomst till Adobe Project Fire i Adobe Developer Console för att de ska kunna installeras och distribueras. |
+| 14 september 2020 | [Skapa ett Asset compute-projekt](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/develop/project.html) | Video | asset compute är Node.js-projekt som genereras med Adobe I/O CLI och som följer en viss struktur som gör att de kan användas i Adobe I/O Runtime och integreras med AEM som Cloud Service. |
+| 14 september 2020 | [Konfigurera Adobe I/O Project Fire](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/firefly.html) | Självstudiekurs | asset compute-program är särskilt definierade Adobe Project Fire-program, och därför krävs åtkomst till Adobe Project Fire i Adobe Developer Console för att de ska kunna installeras och distribueras. |
 | 25 september 2020 | [Konfigurera en lokal utvecklingsmiljö](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/development-environment.html) | Artikel | För att kunna utveckla Asset compute-arbetare, som är Node.js JavaScript-program, krävs särskilda utvecklingsverktyg som skiljer sig från traditionell AEM, från Node.js och olika npm-moduler till Docker Desktop och Microsoft Visual Studio Code. |
 | 25 september 2020 | [Ställ in konton och tjänster](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/accounts-and-services.html) | Artikel | För att kunna utveckla Asset compute-arbetare måste du ha tillgång till konton och tjänster, inklusive AEM som Cloud Service, Adobe Project Fire och molnlagring från Microsoft eller Amazon. |
 | 30 september 2020 | [Utforska datalagret för Adobe-klienten](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Artikel | Utforska funktioner och funktioner i det händelsestyrda Adobe Client Data-lagret och dess integrering med AEM Sites Core Components. Lär dig hur du lyssnar efter händelser, hämtar det aktuella läget och ändrar datalagret. |
@@ -404,7 +404,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 All versionsinformation för Experience Manager finns på följande sidor:
 
 * [Uppdateringar och färdplan för lanseringen av Experience Manager](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)
-* [Versionsinformation för AEM som en molntjänst](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/release-notes/home.html)
+* [Versionsinformation för AEM as a Cloud Service](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/release-notes/home.html)
 * [Versionsinformation för AEM Cloud Manager](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://docs.adobe.com/content/help/sv-SE/aem-forms-automated-conversion-service/using/release-notes.html)
 * [Versionsinformation för AEM 6.5 Service Pack](https://docs.adobe.com/content/help/sv-SE/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
