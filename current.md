@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 73caf10aa872e7b98875bdd0b8050cc301e3d500
+source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
 workflow-type: tm+mt
-source-wordcount: '7889'
-ht-degree: 21%
+source-wordcount: '9718'
+ht-degree: 19%
 
 ---
 
@@ -66,6 +66,17 @@ Inte uppdaterad.
 
 Information om den senaste releasen finns i [Cumulative Release Notes för Experience Cloud-tjänster](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) .
 
+### Självstudiekurser för Experience Cloud
+
+Uppdaterat: **2 december 2020**
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| 4 november 2020 | [Insikter som inte täcks av DDOM](https://experienceleague.adobe.com/docs/csuite/using/ddom-insights.html) | Video | Hör om några av de insikter som DDOM hjälpte Adobe att hitta och lära sig mer om några av de överväganden som måste göras för att konfigurera din egen version av DDOM. |
+| 4 november 2020 | [DDOM:s tre pelare](https://experienceleague.adobe.com/docs/csuite/using/ddom-components.html) | Video | Läs om hur Adobe använde data, nyckeltal och Process &amp; Org för att få en bättre kundanpassning. |
+| 4 november 2020 | [Adobe Digital Transformation Story ](https://experienceleague.adobe.com/docs/csuite/using/transformation-story.html) | Video | Läs mer om den roll DDOM spelade i den digitala omvandlingen i Adobe för att skapa kundcentrerade flerkanalsupplevelser. |
+| 4 november 2020 | [Introduktion till datadriven operativmodell](https://experienceleague.adobe.com/docs/csuite/using/ddom-introduction.html) | Video | En översikt över Adobe datadriven operativmodell som ger en djupare förståelse för kundresan. |
+
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 Innehåller uppdateringsinformation för Experience Platform och Experience Platform Launch,
@@ -87,8 +98,11 @@ Se [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/launch/using/
 
 Nya videor, självstudiekurser eller kurser publicerade för Experience Platform och tjänster.
 
+Uppdaterat: **2 december 2020**
+
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 23 november 2020 | [Konfigurera filbaserad molnlagring eller mål för e-postmarknadsföring](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html?lang=en#destinations) | Video | Få tips under genomgången av konfigurationen av ett filbaserat mål i Adobe’s Real-time CDP. Detta gäller molnlagringsdestinationer (t.ex. S3 eller SFTP) och även mål för e-postmarknadsföring. |
 | 26 oktober 2020 | [Introduktion till Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Den här videon ger en översikt över [!UICONTROL Offer Decisioning] – en programtjänst som är byggd ovanpå Adobe Experience Platform. Videon handlar om de affärsutmaningar som [!UICONTROL Offer Decisioning] löser, dess nyckelfunktioner, grundläggande arkitektur och huvudsakliga användningsområden. |
 | 29 oktober 2020 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | Video | Learn how brands can use Adobe’s new [!UICONTROL Offer Decisioning] service to define and manage their offers,leverage real-time customer data, and deliver the right experiences their customers expect. |
 | 14 september 2020 | [Affärsvärde för Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], som en del av [!UICONTROL Intelligent Services], är en flerkanalig, algoritmisk attribueringstjänst som beräknar påverkan och inkrementell påverkan av kundinteraktioner mot angivna resultat. Med [!UICONTROL Attribution AI]kan marknadsförarna mäta och optimera marknadsförings- och annonsutgifterna genom att förstå effekten av varje enskild kundinteraktion i varje fas av kundresan. |
@@ -176,6 +190,7 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 10 november 2020 | [Introduktion till grupphantering (BAAAM)](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=en#build-and-manage-audiences) | Video | Läs mer om&quot;BAAAM&quot;, ett verktyg för masshantering av traits och segment i Audience Manager, inklusive hur du konfigurerar det så att det blir klart för användning. |
 | 8 oktober 2020 | [Frihandsritningar, grunden för analys](https://video.tv.adobe.com/v/41766?captions=swe) | Video | Lär dig vad du bör veta och vad du kommer att lära dig när du startar kursresan. |
 | 5 oktober 2020 | [Använda deltagandemått i Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.html) | Video | Använd det här enkla tricket för att få mätvärden för deltagande [!UICONTROL Analysis Workspace] när som helst. |
 | 5 oktober 2020 | [Skapa frihandstabeller i Analysis Workspace automatiskt](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.html) | Video | Släpp komponenter direkt i ett tomt projekt, en panel eller en frihandstabell så skapas en tabell automatiskt i det format som rekommenderas. |
@@ -210,8 +225,13 @@ Releasedatum: 8 **oktober 2020**
 
 Nya videor, självstudiekurser eller kurser som publicerats för Audience Manager.
 
+Uppdaterad 2 **december 2020**
+
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 25 november 2020 | [Använda trendrapporter med egenskaper och segment](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=en#reports) | Video | Lär dig hur du använder trendrapporterna i Audience Manager för att se hur egenskaper och segment fungerar över tid. |
+| 25 november 2020 | [Använda allmänna rapporter med egenskaper och segment](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=en#reports) | Video | I den här videon får du se hur du använder de allmänna rapporterna i Audience Manager för att få siffror för egenskaper och segment. |
+| 2 november 2020 | [Konfigurera och rapportera om prediktiva målgrupper](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=en#build-and-manage-audiences) | Video | I den här videon går vi igenom konfigurationen för prediktiva målgrupper i Audience Manager. Vi kommer också att se rapporter som visar modellens resultat. |
 | 28 oktober 2020 | [Förstå siffror i Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information. |
 | 23 oktober 2020 | [Skapande av planeringsegenskaper från analysdata](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Lär dig några tips och tricks som kan hjälpa dig när du tänker använda Adobe Analytics-data i dina egenskaper i Audience Manager. |
 | 23 oktober 2020 | [Välja en datakälla när egenskaper skapas](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Ett av de viktiga fälten som ska fyllas i när egenskaper skapas är fältet Datakälla. Tips om hur du väljer rätt datakälla för regelbaserade och inbyggda egenskaper. |
@@ -354,12 +374,32 @@ Dessutom innehåller databasen andra viktiga artiklar, till exempel [AEM uppdate
 
 ### Nya Experience Manager-kurser och självstudiekurser
 
-Uppdaterat: **21 oktober 2020**
+Uppdaterat: **2 december 2020**
 
 Nya videor, självstudiekurser och kurser som publicerats under den senaste månaden.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 2 december 2020 | [Hämta innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | Video | En videoöversikt över nedladdningsfunktionerna i Content Fragments. |
+| 2 december 2020 | [Funktioner för redigering av innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | Video | En videoöversikt över de avancerade funktionerna i Content Fragment Editor. Lär dig använda anteckningar och versionsjämförelse med innehållsfragment. |
+| 9 november 2020 | [Distribuera resurserna på den lokala AEM-servern](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/deploy-this-sample.html?lang=en#store-and-retrieve-af-with-2fa) | Video | Skapa databasen, distribuera det anpassade OSGi-paketet och importera de olika artefakterna på klientsidan för att få användningsfallet att köras på den lokala AEM instansen. |
+| 2 november 2020 | [Skapa formuläret MyApplication](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-myaccount-form.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Skapa formuläret MyApplication. Det här formuläret används för att bekräfta det unika program-id och telefonnummer som den person som försöker hämta det delvis ifyllda anpassningsbara formuläret har. |
+| 10 november 2020 | [Konfigurera åtkomst till AEM för administratörer](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.aem) | Kurs | Se hur användare autentiserar med Adobe IMS för att AEM som Cloud Service och hur Adobe IMS-användare, användargrupper och produktprofiler används för att styra åtkomsten till AEM och dess funktioner och funktioner. |
+| 11 november 2020 | [Skapa klientbibliotek som ska associeras med formulären](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-client-lib.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Lär dig hur du skapar två bibliotek: En som innehåller `bootbox.js` att visa dialogrutan. Och ett klientbibliotek som hanterar klickhändelsen på [!UICONTROL Save And Exit button]. |
+| 11 november 2020 | [Skapa integreringen med kommunikationstjänstleverantören med hjälp av integreringar med datamodeller](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/verify-users-with-otp.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Integrera AEM Forms med Nexmo REST API genom att definiera swagger-filen för att beskriva REST API, skapa en datakälla och en formulärdatamodell. |
+| 11 november 2020 | [Skapa en servlet för att återge formuläret med sparade data](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/retrieve-saved-form.html?lang=en#store-and-retrieve-af-with-2fa) | Video | Den här servern anropas när telefonnumret har verifierats. |
+| 2 november 2020 | [Skapa formuläret StoreAFWithAttachments](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-main-adaptive-form.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Skapa formuläret StoreAFWithAttachments. Det här är huvudprogramformuläret som samlar in användarens information, inklusive telefonnummer, med möjlighet att lägga till bilagor. |
+| 2 november 2020 | [Integrera Adobe Experience Manager och Adobe Analytics för att samla in siddata](https://video.tv.adobe.com/v/327293?captions=swe) | Video | Den här kursen vägleder dig genom en stegvis självstudiekurs om hur du integrerar Adobe Analytics med Adobe Experience Manager Sites för att förstå användarbeteendet på en sida genom att samla in siddata med hjälp av klientdatalagret och sedan skapa ett Analysis Workspace-projekt i Adobe Analytics. |
+| 11 november 2020 | [Skapa tabellen MySQL-databas och en AEM datakälla](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/configure-data-source.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Skapa MySQL-databastabell med lämpliga kolumner och Apache Sling Connection Pooled Datasource som pekar mot den här databasen. |
+| 11 november 2020 | [Skapa serverutrymme för att hantera POSTER](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-servlet.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Skapa en serverlet i AEM genom att utöka `SlingAllMethodsServlet` och visa en REST-slutpunkt för godkännande av begäranden om POST. |
+| 11 november 2020 | [Lagra formulärdata med den nya bilagefilkartan](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-data.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Infoga en ny rad i databasen som identifieras av det unika GUID:t. |
+| 11 november 2020 | [Lagra formulärbilagor på en ny plats i CRX](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-attachments.html?lang=en#store-and-retrieve-af-with-2fa) | Artikel | Standardplatsen för de bifogade filerna finns i den tillfälliga mappen som tas bort efter en viss tid. |
+| 4 november 2020 | [Asset compute metadataåtergivningar](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/advanced/metadata.html) | Självstudiekurs | Lägg till ett avancerat kapitel i självstudiekursen för Asset compute som handlar om att generera metadataåtergivningar. |
+| 21 oktober 2020 | [Sammanställa formulärbilagor](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/document-services/assemble-form-attachments.html) | Video | Sammanställ bilagor i en och samma PDF i en viss ordning. |
+| 9 november 2020 | [Lägg till demoverktyg för WKND-resurser](http://bit.ly/demoAEM) | Demo | Lägg till WKND Asset Demo som ett kort till Demo Utils som befordrar dess existens/tillgänglighet/installationsinstruktioner. |
+| 2 november 2020 | [Skapa innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | Video | En videoöversikt över hur du skapar ett innehållsfragment i Adobe Experience Manager (AEM) Assets. |
+| 2 november 2020 | [Använda innehållsfragment på webbplatssidor](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html) | Video | Lär dig hur du använder innehållsfragment på en AEM Sites-sida. Innehållsfragmentskomponenter kan formateras med AEM Style System för att visa innehållet efter behov. |
+| 2 november 2020 | [Formatsystem](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html) | Video | Skapa en Style System-video för AEM 6.4 med komponenten We.Retail List. |
 | 2 november 2020 | [Läsa in och utlösa ett Target-anrop](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Video | Lär dig hur du läser in, skickar parametrar till sidförfrågningar och startar ett Target-anrop från webbplatssidan med en startregel. Sidinformation hämtas och skickas som parametrar med hjälp av Adobe klientdatalager, som du kan använda för att samla in och lagra data om besökarnas upplevelse på en webbsida och sedan göra det enkelt att komma åt dessa data. |
 | 28 oktober 2020 | [Smarta taggar för video](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Video | Experience Manager Assets använder Adobe Sensei för att på ett intelligent sätt tagga upp videomaterial med nyckelord som beskriver nyckelelementen i videon, så att de enkelt kan identifieras med nyckelordssökning AEM användare. |
 | 27 oktober 2020 | [Introduktion till AEM Document Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | Adobe Experience Manager Document Security Extension för Microsoft Office säkerställer att endast de personer du har behörighet att använda Word-, Excel- och PowerPoint-filer som innehåller dina immateriella rättigheter. Genom att använda Document Security Extension för Microsoft Office kan du använda fördefinierade sekretessinställningar för dina filer. |
@@ -397,7 +437,6 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | 6 oktober 2020 | [Skapa ditt första adaptiva formulär](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.4.forms) | Kurs | Med AEM Forms kan du skapa formulär som är engagerande, responsiva, dynamiska och anpassningsbara. Kursen börjar med att skapa en anpassad, anpassningsbar formulärmall och leder dig genom processen att skapa ett anpassat formulär med de olika formulärkomponenterna. |
 | 21 oktober 2020 | [Local Dispatcher Tools](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | Artikel | AEM Dispatcher är en Apache HTTP-webbservermodul som tillhandahåller ett säkerhets- och prestandalager mellan CDN- och AEM-publiceringsnivån. Lär dig hur du konfigurerar Dispatcher som en del av en lokal utvecklingsmiljö. |
 | 14 oktober 2020 | [Komma igång med AEM Sites för utvecklare](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided) | Kurs | Kursen uppdaterar en [befintlig kurs](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided) på Experience League. |
-| 7 oktober 2020 | [AEM-projektstruktur](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | Video | I den här artikeln beskrivs de ändringar som krävs för Adobe Experience Manager Maven-projekt som ska AEM som en Cloud Service-kompatibel genom att säkerställa att de respekterar uppdelningen av muterbart och oföränderligt innehåll, att beroenden etableras för att skapa icke-konfliktskapande, deterministiska distributioner och att de paketeras i en installerbar struktur. |
 
 ### Versionsinformation för Experience Manager
 
@@ -445,10 +484,23 @@ Versionsinformation för Campaign Classic, Campaign Standard och Kontrollpanelen
 
 Nya videofilmer, självstudiekurser och kurser som publicerats den senaste månaden.
 
+Uppdaterad 2 **december 2020**
+
 | Publicerad | Namn | Lösning | Beskrivning |
 | ----------- | ----------- | ---------- | ---------- |
-| 2 november 2020 | [Kontrollpanelen - Generera en SSH-nyckel - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
-| 2 november 2020 | [Kontrollpanelen - Ansluta till en SFTP-server - funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
+| 23 november 2020 | [Konfigurera och skicka push-meddelanden](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html) | Campaign Classic | Lär dig hur du konfigurerar och skickar ett push-meddelande till android-appanvändare. |
+| 19 november 2020 | [Konfigurera en Android-tjänst och skapa ett Android-mobilprogram i Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html) | Campaign Classic | Lär dig hur du konfigurerar en Android-tjänst och skapar ett Android-mobilprogram i Campaign. |
+| 2 november 2020 | [Kontrollpanelen - Generera en SSH-nyckel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
+| 28 oktober 2020 | [Kontrollpanelen - Övervaka databasanvändning](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html) | Campaign Classic | Lär dig hur du övervakar databasanvändningen för dina instanser med Kontrollpanelen. |
+| 28 oktober 2020 | [Kontrollpanelen - övervakningsdatabaser](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html) | Campaign Standard | Lär dig hur du övervakar databasanvändningen för dina instanser med Kontrollpanelen. |
+| 12 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
+| 7 oktober 2020 | [Kontrollpanelen - Generera en SSH-nyckel](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
+| 2 oktober 2020 | [Kontrollpanelen - Ansluta till en SFTP-server](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
+| 2 oktober 2020 | [Kontrollpanelen - Ansluta till en SFTP-server](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Standard | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
+| 2 oktober 2020 | [Kontrollpanelen - Generera en SSH-nyckel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Standard | Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen. |
+| 2 november 2020 | [Kontrollpanelen - Ansluta till en SFTP-server](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. |
+| 6 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
+| 6 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
 | 20 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
 | 20 oktober 2020 | [Kontrollpanelen - Komma igång med Kontrollpanelen - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. |
 | 19 oktober 2020 | [Kontrollpanelen - Lägga till ett IP-intervall i tillåtelselista](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Lär dig hur du lägger till ett IP-adressintervall till tillåtelselista på Kontrollpanelen. |
@@ -489,6 +541,21 @@ Releasedatum: **17 oktober 2020**
 | Sökkampanjer | I [!UICONTROL Accounts] vyn visar [!UICONTROL Access] kolumnen nu när [!DNL Advertising Cloud Search] det inte går att logga in på ett aktiverat sökmotorkonto. Håll markören över varningsikonen om du vill se orsaken till felet. |
 | [!UICONTROL Custom Alerts] | Den första [!UICONTROL Alerts Beta] heter nu [!UICONTROL Custom Alerts]. |
 |  | I anpassade aviseringar förenklades arbetsflödet för att identifiera när mätvärden för det angivna datumintervallet har ökat eller minskat från mätvärden för föregående period och flyttades till [!UICONTROL Filters] fliken. |
+
+### Ad Cloud självstudiekurser och kurser
+
+Uppdaterat: **2 december 2020**
+
+| Publicerad | Namn | Lösning | Beskrivning |
+| ----------- | ----------- | ---------- | ---------- |
+| 14 november 2020 | [Skapa Advertising Cloud-instrumentpaneler med Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html?lang=en) | Video | Tekniker för att skapa en Advertising Cloud-instrumentpanel för övervakning av livekampanjer. |
+| 14 november 2020 | [Skapa Advertising Cloud Site Entry-rapporter](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html?lang=en#analytics) | Video | Skapa en rapport från Advertising Cloud webbplats för att övervaka veckodag, tidpunkt på dagen, webbläsare och geografisk påverkan. |
+| 14 november 2020 | [Skapa anpassade Analytics-värden med Advertising Cloud-data](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en#analytics) | Video | Användbara anpassade mätvärden för att skapa när du använder Advertising Cloud-data i Adobe Analytics. |
+| 14 november 2020 | [Skapa Analytics-segment för aktivering och rapportering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-segments-a4adc.html?lang=en#analytics) | Video | Använda Advertising Cloud-dimensioner för att skapa segment för tydligare rapportering och analys. |
+| 14 november 2020 | [Förstå prediktiva målgrupper](https://experienceleague.corp.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html?lang=en#build-and-manage-audiences) | Video | I den här videon ska vi diskutera vilka Audience Manager Predictive Audiences är, presentera detaljer om hur de fungerar och visa upp användningsexempel. |
+| 14 november 2020 | [Skapa analysprofiler för aktivering och rapportering av Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en#analytics) | Video | Så här använder du Adobe Analytics för att skapa stabila pooler för återmarknadsföring av webbplatser på Advertising Cloud. |
+| 14 november 2020 | [Rapportering med Advertising Cloud marknadsföringskanaler](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=en#analytics) | Video | Hur Advertising Cloud-data för genomskinlig och klickbar post fungerar tillsammans med Adobe Analytics Marketing Channel. |
+| 14 november 2020 | [Skapa en kampanjanalys före lansering med Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-pre-launch-a4adc.html?lang=en) | Video | Så här använder du Adobe Analytics för att lägga grunden till en mediekampanj som betalas av Advertising Cloud. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -543,6 +610,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 2 november 2020 | [Samla dokument i stora volymer med GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en#gather-high-volume-documents-using-gigasign) | Video | Med Gigasign kan du skicka, samla in och spåra dokument för signering till tusentals personer samtidigt. Det är utformat för stora mängder kommunikation med anställda och kunder. GigaSign utnyttjar Adobe Sign API för att ge samma funktioner som MegaSign, men har ytterligare stöd för flera signerare, mottagargrupper, mottagarroller, avtalsnamn, kopia med mera. |
 | 29 september 2020 | [Demo av Adobe Sign](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/quick-tour.html) | Video | I den här videon ska vi göra en snabb rundtur i Adobe Sign med början på hemskärmen. |
 
 Mer information om Document Cloud finns i:
