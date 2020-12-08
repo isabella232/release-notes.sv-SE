@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
+source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9718'
 ht-degree: 19%
@@ -27,13 +27,13 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner.
 
-Senaste uppdatering: **2 december 2020**
+Senaste uppdatering: **8 december 2020**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 2 **december 2020**)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat 8 **december 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Uppdaterat: **28 oktober 2020**)
 * [Campaign](#ac)
@@ -122,7 +122,7 @@ Med Adobe Experience Platform kan ni orkestrera enskilda kundresor i stor skala 
 Releasedatum: **29 oktober 2020**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 2 december 2020)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey) (Uppdaterat 8 december 2020)
 * [Nya funktioner i Media Analytics](#media-aa)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
@@ -149,7 +149,7 @@ Releasedatum: **29 oktober 2020**
 | Hjälpsidan för Analysis Workspace Prestanda | 22 oktober 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Time Spent] mått | 30 oktober 2020 | [!UICONTROL Time Spent] mätvärden och dimensioner gör att ni kan se hur mycket tid konsumenterna tillbringar i olika aspekter av kundresan, vilket ger er en mer fullständig bild av engagemang och flaskhalsar över olika kanaler. |
 | [!UICONTROL Device] och [!UICONTROL Geography] dimensioner | 30 oktober 2020 | [!UICONTROL Device] och [!UICONTROL Geography] dimensionerna är nu som standard tillgängliga som en del av projektet&quot;Global Lookup support&quot; i [Adobe Analytics Source Connector](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Detta efterfrågade tillägg ökar [pariteten mellan Adobe Analytics och CJA](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-aa.html). |
-| Resa-IQ: Flerkanalsanalys | 11 december 2020 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
+| Resa-IQ: Flerkanalsanalys | 11 januari 2021 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
 
@@ -260,7 +260,7 @@ Nya funktioner, korrigeringar och uppdateringar i Adobe Experience Manager (AEM)
 
       * Vattenstämplingsbildfiler stöds för återgivningar som genereras med Asset Microservices. Den kan konfigureras som en bearbetningsprofil och använder en PNG-fil som vattenstämpel. Se [vattenstämpla dina resurser.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/watermark-assets.html)
       * Förbättringar i Dynamic Media:
-         * Selektiv publicering - ett marknadsföringsteam kan nu få tillgång till smarta beskärningsbilder och dynamiska renderingar som synkroniseras med Dynamic Media så att de kan skapa marknadsföringsmaterial, allt utan att behöva publicera dessa till Dynamic Media för global leverans. [!UICONTROL Dynamic Media] Experience Manager och [!UICONTROL Dynamic Media] publicering är fristående och kan ske separat för att uppnå detta. Se [Selektiv publicering.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html)
+         * Selektiv publicering - Nu kan marknadsföringsteamet få tillgång till smarta beskärningsbilder och dynamiska återgivningar som synkroniseras med Dynamic Media så att de kan skapa marknadsföringsmaterial, utan att behöva publicera dessa till Dynamic Media för global leverans. [!UICONTROL Dynamic Media] Experience Manager och [!UICONTROL Dynamic Media] publicering är fristående och kan ske separat för att uppnå detta. Se [Selektiv publicering.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html)
          * Lösenordsåterställning - Administratörer kan nu återställa det lösenord för Cloud Servicen som tas emot vid etablering. [!UICONTROL Dynamic Media] Återställningen kan göras i användargränssnittet i Experience Manager utan att du behöver använda det [!UICONTROL Dynamic Media] klassiska datorprogrammet. Se [Ändra lösenordet till Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password)
       * Om du vill veta mer om följande förbättringar kan du läsa [vad som är nytt i varumärkesportalen.](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html)
          * Förbättrad PDF-förhandsgranskning med integrering med Adobe Document Cloud View SDK.
