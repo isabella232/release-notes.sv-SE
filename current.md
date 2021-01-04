@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2f04d1dd4487a4e169360c0b23cdbef257121794
+source-git-commit: ec98405c2e3d4a712d42487917029dae7aa454f3
 workflow-type: tm+mt
-source-wordcount: '9695'
+source-wordcount: '9696'
 ht-degree: 19%
 
 ---
@@ -144,7 +144,7 @@ Releasedatum: **29 oktober 2020**
 | Ta bort begränsning av bakåtfyllnad | 19 oktober 2020 | För att ge en förbättrad CJA-upplevelse har vi tagit bort begränsningen för bakåtfyllnad (import av historiska data). Tidigare kunde ni fylla upp maximalt 2,5 miljarder rader på egen hand och på annat sätt kräva konstruktionsarbete. Nu kan ni fylla i data på egen hand utan begränsningar. [Läs mer](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Hjälpsidan för Analysis Workspace Prestanda | 22 oktober 2020 | På hjälpsidan för Analysis Workspace prestanda visas olika faktorer som påverkar projektets prestanda och länkar till tips för optimering. [Läs mer](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Time Spent] mått | 30 oktober 2020 | [!UICONTROL Time Spent] mätvärden och dimensioner gör att ni kan se hur mycket tid konsumenterna tillbringar i olika aspekter av kundresan, vilket ger er en mer fullständig bild av engagemang och flaskhalsar över olika kanaler. |
-| [!UICONTROL Device] och  [!UICONTROL Geography] dimensioner | 30 oktober 2020 | [!UICONTROL Device] och  [!UICONTROL Geography] dimensionerna är nu som standard tillgängliga som en del av projektet&quot;Global Lookup support&quot; i  [Adobe Analytics Source Connector](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). Detta efterfrågade tillägg ökar [pariteten mellan Adobe Analytics och CJA](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-aa.html). |
+| [!UICONTROL Device] och  [!UICONTROL Geography] dimensioner | 30 oktober 2020 | [!UICONTROL Device] och  [!UICONTROL Geography] dimensionerna är nu som standard tillgängliga som en del av  [Global ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#cja-usecases) Lookupsupport-projektet i Adobe Analytics Source Connector. Detta efterfrågade tillägg ökar [pariteten mellan Adobe Analytics och CJA](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-aa.html). |
 | Resa-IQ: Flerkanalsanalys | 11 januari 2021 | Resa-IQ: Med flerkanalsanalys kan kunderna ändra inmatningen i en Adobe Analytics (eller annan) händelsedatamängd i Adobe Experience Platform datasjön från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör analys över olika enheter/kanaler i Analysis Workspace. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
 
 ### Nya funktioner i [!UICONTROL Media Analytics] {#media-aa}
