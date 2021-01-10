@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1beba26ad3096758512a7efbf5454012b686f007
+source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
 workflow-type: tm+mt
 source-wordcount: '6014'
 ht-degree: 26%
@@ -132,10 +132,8 @@ Releasedatum: **14 januari 2021**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
-<!-- * [New features in Media Analytics](#media-aa) -->
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
-<!-- * [Analytics courses and tutorials](#tutorials-analytics) -->
 * [AppMeasurement](#appm)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
@@ -312,7 +310,7 @@ Dokumentation om följande funktioner i version 6.5.7.0 finns:
 
 ### Nya Experience Manager-kurser och självstudiekurser
 
-Uppdaterat: **2 december 2020**
+Uppdaterat: **10 januari 2021**
 
 Nya videor, självstudiekurser och kurser som publicerats under den senaste månaden.
 
