@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
+source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
 workflow-type: tm+mt
-source-wordcount: '6014'
-ht-degree: 26%
+source-wordcount: '6013'
+ht-degree: 25%
 
 ---
 
@@ -453,7 +453,7 @@ Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https
 
 ### Uppdateringar om Core Marketo Engage
 
-Den senaste informationen finns i [!DNL Marketo] [versionsinformationen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720).
+Den senaste informationen finns i [!DNL Marketo] [versionsinformationen](https://docs.marketo.com/display/public/DOCS/Jan+%2721).
 
 ### Kommande funktioner
 
@@ -469,7 +469,7 @@ Följande funktioner släpps under kvartalet:
 * **Resurs-API &quot;_method&quot;-parameter:** Efter september 2020 accepterar inte längre Assets API-slutpunkter `_method` för att skicka frågeparametrar i en POST-brödtext som kringgår begränsningar av URI-längd.
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
 
-Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://docs.marketo.com/x/CgA6Ag).
+Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://docs.marketo.com/display/public/DOCS/Release+Notes).
 
 ## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
 
