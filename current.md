@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
+source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
 workflow-type: tm+mt
-source-wordcount: '6013'
+source-wordcount: '6015'
 ht-degree: 25%
 
 ---
@@ -23,7 +23,7 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation.
 
-Senaste uppdatering: **10 januari 2020**
+Senaste uppdatering: **11 januari 2020**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
 * [Experience Cloud och administration](#ecloud)
@@ -36,7 +36,7 @@ Senaste uppdatering: **10 januari 2020**
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Marketo Engage]](#marketo) (Uppdaterat:  **11 januari 2021**)
 * [Document Cloud](#doc-cloud)
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning. Innehållet har flyttats till den här platsen från `docs.adobe.com`. Uppdatera bokmärkena därefter.
