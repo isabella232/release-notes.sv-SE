@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
+source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
 workflow-type: tm+mt
-source-wordcount: '6015'
+source-wordcount: '6231'
 ht-degree: 25%
 
 ---
@@ -135,6 +135,7 @@ Releasedatum: **14 januari 2021**
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
 * [AppMeasurement](#appm)
+* [Report Builder](#arb)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
 
@@ -181,6 +182,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Nödvändig [!UICONTROL Report Builder]-uppdatering | 8 januari 2021 | Senast den 30 april 2021 måste alla [!UICONTROL Report Builder]-användare uppdatera tillägget [!UICONTROL Report Builder] till version 5.6.47 eller senare. Den här versionen innehåller en viktig uppdatering av inloggningsprocessen. Användare som inte uppdaterar till version 5.6.47 eller senare kommer inte att kunna logga in efter den 30 april 2021. [!UICONTROL Report Builder] version 5.6.47 och senare stöder endast inloggning med Experience Cloud och stöder inte äldre inloggningar som SiteCatalyst Single Sign-on eller standardinloggningen. Mer information finns i [Report Builder-inloggning](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Slutet av livscykeln för tre API-tjänster för analys | 6 januari 2021 | Den 30 april 2021 kommer följande API-tjänster för Analytics Legacy att anges för att nå sitt slutdatum och kommer att avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tillhandahållit en [Vanliga frågor och svar om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) och/eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
 | Lägga till HSTS-huvud i alla inkommande HTTPS-begäranden | 29 september 2020 | Den 29 september 2020 började vi lägga till HSTS-huvudet i alla inkommande begäranden som använder HTTPS. Detta instruerar webbläsaren/klienten att göra alla framtida förfrågningar i HTTPS, vilket anses vara en god säkerhetsrutin. Vi kommer inte att tillämpa detta för inkommande begäranden med HTTP. |
 | Ändra till cookie-inställning för [!UICONTROL Experience Cloud ID Service] | 22 september 2020 | En uppdatering av sekretessinställningarna för Chrome version 80 påverkade Adobe Analytics förmåga att spåra vissa användare som tittar på Google AMP-sidor. Det förhindrar i synnerhet spårning över domäner för användare som visar Google-värdbaserade AMP-sidor. Detta kan leda till ett ökat antal unika besökare. Med den här korrigeringen kan användare åtgärda problemet genom att ändra inställningarna för sina ECID-cookies.<br>För närvarande ställer Analytics in  [!UICONTROL Experience Cloud ID Service] (ECID)-cookies med den inställning  `SameSite = Lax` som, före version 80 av Chrome, tillät spårning mellan domäner. Detta är inte längre fallet. Med den här ändringen kan användare uppdatera inställningen SameSite för ECID-cookies till `None`.<br>Observera att detta gör att Analytics-cookie kan delas i fler situationer, men Analytics-cookies innehåller inte känslig information. När du väljer den här inställningen måste dessutom cookies anges till `Secure` så att data bara kan skickas via HTTPS-anslutningar. Om du vill göra den här ändringen ber vi en användare som stöds att öppna en biljett med Kundtjänst. |
@@ -192,6 +194,12 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 ### AppMeasurement {#appm}
 
 Uppdaterad information om de senaste AppMeasurement-versionerna finns i [versionsinformationen för AppMeasurement för JavaScript](https://docs.adobe.com/content/help/sv-SE/analytics/implementation/appmeasurement-updates.html).
+
+### Report Builder {#arb}
+
+| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
+| ----------- | ---------- | ----- |
+| Inloggningsuppdatering till analys [!UICONTROL Report Builder] | 14 januari 2021 | Förbättringarna i [!UICONTROL Report Builder]-inloggningsprocessen tar bort beroenden till äldre tekniker och justerar inloggningsprocessen med Adobe Experience Cloud. Med Experience Cloud-inloggningen kan du använda din Adobe ID eller ditt Enterprise ID (enkel inloggning) för att logga in på Adobe Experience Cloud. Senast den 30 april 2021 måste alla [!UICONTROL Report Builder]-användare uppdatera tillägget [!UICONTROL Report Builder] till version 5.6.47 eller senare. [!UICONTROL Report Builder] version 5.6.47 och senare stöder endast inloggning med Experience Cloud och stöder inte äldre inloggningar, som SiteCatalyst Single Sign-on eller standardinloggningen. Mer information finns i [Report Builder-inloggning](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 
 ### Hjälpresurser för Analytics
 
