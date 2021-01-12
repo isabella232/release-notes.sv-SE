@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 783d8abc85c468f18d599d5ff5782dd01cb07e78
+source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
 workflow-type: tm+mt
-source-wordcount: '6240'
-ht-degree: 25%
+source-wordcount: '6330'
+ht-degree: 24%
 
 ---
 
@@ -29,7 +29,7 @@ Senaste uppdatering: **12 januari 2021**
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Releasedatum: **14 januari 2021**)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **12 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)  (uppdaterad  **12 januari 2021**)
@@ -141,8 +141,9 @@ Releasedatum: **14 januari 2021**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
+| Analysis Workspace - bild-URL:er | 14 januari 2021 | Du kan lägga till bilder i [!UICONTROL Workspace]-projekt genom att referera till en offentlig bild-URL. [Läs mer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
+| Analysis Workspace - hanteraren för kombinerade käll- och inställningar | 14 januari 2021 | Datakällhanteraren (punkt) och inställningshanteraren (kugghjulet) för visualiseringar har kombinerats till en enda dialogruta, så att du enkelt kan hantera källan och inställningarna från samma plats. |
 | Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
-| Analysis Workspace - bild-URL:er | 14 januari 2021 | Du kan lägga till bilder i [!UICONTROL Workspace]-projekt genom att referera till en offentlig bild-URL. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -150,8 +151,9 @@ Releasedatum: **14 januari 2021**
 | ----------- | ---------- | ----- |
 | [!UICONTROL Device] och [!UICONTROL Geography] dimensioner | 30 oktober 2020 | Dessa mått är nu tillgängliga som standard som en del av [Global Lookup](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#use-global-lookups-with-adobe-data-connector-datasets)-supportprojektet i Adobe Analytics [!UICONTROL Source Connector]. Detta efterfrågade tillägg ökar [pariteten mellan Adobe Analytics och CJA](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=en#cja-overview). |
 | Resa-IQ: [!UICONTROL Cross-Channel Analytics] | 11 januari 2021 | Resa-IQ: Med [!UICONTROL Cross-Channel Analytics] kan du ändra inmatningen för en Adobe Analytics-händelsedatamängd (eller annan) i Experience Platform Data Lake från ett ID-namnområde till ett annat. Vanligtvis innebär det att du måste skriva in händelsedatamängden på nytt från ett cookie-baserat ID till ett personbaserat ID. På så sätt kan den inmatade datauppsättningen kombineras med andra personbaserade data i en CJA-anslutning, vilket möjliggör enhets- och kanalövergripande analys i Analysis Workspace. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections) |
-| Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
 | Analysis Workspace - bild-URL:er | 14 januari 2021 | Du kan lägga till bilder i arbetsyteprojekt genom att referera till en offentlig bild-URL. |
+| Analysis Workspace - hanteraren för kombinerade käll- och inställningar | 14 januari 2021 | Datakällhanteraren (punkt) och inställningshanteraren (kugghjulet) för visualiseringar har kombinerats till en enda dialogruta, så att du enkelt kan hantera källan och inställningarna från samma plats. |
+| Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
