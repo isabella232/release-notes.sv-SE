@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
+source-git-commit: d5d885d83774f8160e77ec34ddc4cfa92b7f10f4
 workflow-type: tm+mt
-source-wordcount: '6231'
+source-wordcount: '6226'
 ht-degree: 25%
 
 ---
@@ -67,7 +67,7 @@ Innehåller uppdateringsinformation för Experience Platform och Experience Plat
 
 Senaste uppdatering: **9 december 2020**
 
-I [Versionsinformation för Experience Platform](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) finns de senaste uppdateringarna som gäller för:
+I [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=en) finns de senaste uppdateringarna som gäller för:
 
 * [!UICONTROL Dataflows]
 * [!UICONTROL Data Science Workspace]
@@ -81,7 +81,7 @@ Se [Versionsinformation för Experience Platform Launch](https://experienceleagu
 
 iOS Version 4.21.0
 
-Allmänt - SDK distribueras nu med [!DNL XCFrameworks] för att stödja maskinvara med den nya Apple M1-arkitekturen samtidigt som stödet för den befintliga Intel-arkitekturen bibehålls.
+Allmänt - SDK distribueras nu med [!DNL XCFrameworks] som stöd för maskinvara med den nya Apple M1-arkitekturen samtidigt som stödet för den befintliga Intel-arkitekturen bibehålls.
 
 * VIKTIGT! Uppgradering till AdobeMobile [!DNL XCFrameworks] kräver Xcode 12.0 eller senare.
 * VIKTIGT! Om du använder [!DNL Cocoapods] måste du [!DNL Cocoapods] 1.10.0 eller senare för att uppgradera till AdobeMobile [!DNL XCFrameworks].
