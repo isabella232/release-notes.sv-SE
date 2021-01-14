@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
+source-git-commit: d6693c587c6622105b13410dad58ad28232388cc
 workflow-type: tm+mt
-source-wordcount: '6410'
+source-wordcount: '6427'
 ht-degree: 24%
 
 ---
@@ -23,11 +23,11 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation.
 
-Senaste uppdatering: **12 januari 2021**
+Senaste uppdatering: **14 januari 2021**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
 * [Experience Cloud och administration](#ecloud)
-* [Experience Platform](#platform)  (uppdaterad  **13 januari 2021**)
+* [Experience Platform](#platform)  (uppdaterad  **14 januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **12 januari 2021**)
 * [Audience Manager](#aam)
@@ -89,9 +89,15 @@ Releasedatum: **13 januari 2021**
 
 ### Adobe Mobile
 
+Uppdaterad **14 januari 2021**
+
+iOS Version 4.21.1
+
+* Allmänt - Korrigerade ett fel som kunde orsaka ett sqlite-undantag när appen stängdes.
+
 iOS Version 4.21.0
 
-Allmänt - SDK distribueras nu med [!DNL XCFrameworks] som stöd för maskinvara med den nya Apple M1-arkitekturen samtidigt som stödet för den befintliga Intel-arkitekturen bibehålls.
+* Allmänt - SDK distribueras nu med [!DNL XCFrameworks] som stöd för maskinvara med den nya Apple M1-arkitekturen samtidigt som stödet för den befintliga Intel-arkitekturen bibehålls.
 
 * VIKTIGT! Uppgradering till AdobeMobile [!DNL XCFrameworks] kräver Xcode 12.0 eller senare.
 * VIKTIGT! Om du använder [!DNL Cocoapods] måste du [!DNL Cocoapods] 1.10.0 eller senare för att uppgradera till AdobeMobile [!DNL XCFrameworks].
