@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 026ae3842b9683ac8c55658964969d5deca75340
+source-git-commit: 579b634c53f1a04a5c75f66e31de0dde5e5d1352
 workflow-type: tm+mt
-source-wordcount: '6427'
-ht-degree: 24%
+source-wordcount: '6600'
+ht-degree: 23%
 
 ---
 
@@ -32,7 +32,7 @@ Senaste uppdatering: **14 januari 2021**
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **12 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)  (uppdaterad  **12 januari 2021**)
+* [Campaign](#ac)  (uppdaterad  **14 januari 2021**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -417,7 +417,13 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | Publicerad | Namn | Lösning | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | 23 december 2020 | [Konfigurera dynamiskt innehåll](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configuring-dynamic-content.html#sending-messages) | Campaign Classic | (Video) Förstå de olika typerna av dynamiskt innehåll och lär dig hur du skapar och använder personaliseringsblock och villkorssatser i en leverans. |
-| 9 december 2020 | [Control Panel – hantering av Google TXT-poster](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/subdomains-and-certificates/google-txt-record-management.html#subdomains-and-certificates) | Campaign Standard | (Video) Lär dig hur du kan lägga till Google TXT-webbplatsverifieringsposter i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med [!UICONTROL Campaign Control Panel]. |
+| 23 december 2020 | [Konfigurera och hantera prenumerationstjänster](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html) | Campaign Classic | (Video) Lär dig hur du konfigurerar och hanterar prenumerationer och målprenumeranter. |
+| 22 december 2020 | [Åtkomst till inbyggda rapporter](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html) | Campaign Classic | (Video)  Förstå  inbyggd rapportering och analys i Campaign Classic och lär dig hur man skapar en leveransrapport. |
+| 22 december 2020 | [Felsöka e-postleveransproblem](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html) | Campaign Classic | (Video)Lär dig hur du felsöker leveransproblem. |
+| 18 december 2020 | [Skapar direktreklam](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | (Video) Lär dig hur du skapar en direktutskick och använder dirigerade adresser i en kampanj. |
+| 18 december 2020 | [Hantera godkännanden i en kampanj  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html) | Campaign Classic | (Video) Lär dig hur du ställer in godkännanden och en kampanj och hur du skiljer mellan leverans- och arbetsflödesgodkännanden. |
+| 18 december 2020 | [Köra en kampanj](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html) | Campaign Classic | (Video)Lär dig hur du kör en kampanj, granskar en e-postleverans och leveransegenskaperna. |
+| 15 december 2020 | [Utöka appprenumerationsschemat för att anpassa push-meddelanden](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html) | Campaign Classic | (Video) Lär dig hur du utökar appens prenumerationsschema för att kunna lagra personaliseringsvärden som Campaign tar emot från en mobilapp. |
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
