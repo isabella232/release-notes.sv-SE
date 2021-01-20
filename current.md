@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 579b634c53f1a04a5c75f66e31de0dde5e5d1352
+source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
 workflow-type: tm+mt
-source-wordcount: '6600'
+source-wordcount: '6608'
 ht-degree: 23%
 
 ---
@@ -29,7 +29,7 @@ Senaste uppdatering: **14 januari 2021**
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)  (uppdaterad  **14 januari 2021**)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **12 januari 2021**)
+* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **20 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)  (uppdaterad  **14 januari 2021**)
@@ -149,7 +149,7 @@ Releasedatum: **14 januari 2021**
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 20 januari 2021)
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
@@ -200,6 +200,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Ad Hoc Analysis upphör | 21 januari 2021 | Den 1 mars 2021 upphör Ad Hoc Analysis. Då kommer alla projekt och scheman som utnyttjar produkten att sluta fungera. Mer information finns i [Discover Workspace](https://adobe.ly/discoverworkspace). |
 | Nödvändig [!UICONTROL Report Builder]-uppdatering | 8 januari 2021 | Senast den 30 april 2021 måste alla [!UICONTROL Report Builder]-användare uppdatera tillägget [!UICONTROL Report Builder] till version 5.6.47 eller senare. Den här versionen innehåller en viktig uppdatering av inloggningsprocessen. Användare som inte uppdaterar till version 5.6.47 eller senare kommer inte att kunna logga in efter den 30 april 2021. [!UICONTROL Report Builder] version 5.6.47 och senare stöder endast inloggning med Experience Cloud och stöder inte äldre inloggningar som SiteCatalyst Single Sign-on eller standardinloggningen. Mer information finns i [Report Builder-inloggning](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Slutet av livscykeln för tre API-tjänster för analys | 6 januari 2021 | Den 30 april 2021 kommer följande API-tjänster för Analytics Legacy att anges för att nå sitt slutdatum och kommer att avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tillhandahållit en [Vanliga frågor och svar om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) och/eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
 | Lägga till HSTS-huvud i alla inkommande HTTPS-begäranden | 29 september 2020 | Den 29 september 2020 började vi lägga till HSTS-huvudet i alla inkommande begäranden som använder HTTPS. Detta instruerar webbläsaren/klienten att göra alla framtida förfrågningar i HTTPS, vilket anses vara en god säkerhetsrutin. Vi kommer inte att tillämpa detta för inkommande begäranden med HTTP. |
@@ -207,7 +208,6 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 | Domänmigrering från `omniture.com` till `adobe.com` | 21 aug 2020 | 13 augusti 2020 migrerade Adobe Analytics klientarkitekturen från `omniture.com|http://omniture.com/` till `adobe.com|http://adobe.com/`-domänen. Den här ändringen bör avhjälpa problem med cookies från tredje part som uppstod efter den ursprungliga ändringen av produktdomänen 28 maj 2020. Som ett resultat av den här uppdateringen kan webbläsaren uppmana användare att lita på den nya domänen `.adobe.com|http://an.adobe.com/` eller `experience.adobe.com|http://experience.adobe.com/`. |
 | Uppdatering om Ad Hoc Analysis-kompatibilitet med Java 8 | 21 aug 2020 | Ad Hoc Analysis är för närvarande inte kompatibelt med Java 8 version 1.8.0_261+. För att säkerställa att åtkomsten till verktyget inte avbryts innan [slutdatumet](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) har nåtts rekommenderar vi att du har en Java 8-version som är tidigare än 1.8.0_261. |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. Vi har en ny standard i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud), som bör implementeras för alla integreringar som ska användas och stödjas framöver. Det officiella slutdatumet är ännu inte fastställt, men vi räknar med att det blir under kommande 12–18 månader (mitten/slutet av 2021). [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
-| Ad Hoc Analysis upphör | 6 aug 2018 | Adobe tillkännagav sin avsikt att köpa Ad Hoc Analysis i slutet av livscykeln den 1 mars 2021. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 
 ### AppMeasurement {#appm}
 
