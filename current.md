@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
+source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
 workflow-type: tm+mt
-source-wordcount: '6593'
+source-wordcount: '6595'
 ht-degree: 23%
 
 ---
@@ -23,20 +23,20 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation.
 
-Senaste uppdatering: **14 januari 2021**
+Senaste uppdatering: **22 januari 2021**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
 * [Experience Cloud och administration](#ecloud)
-* [Experience Platform](#platform)  (uppdaterad  **14 januari 2021**)
+* [Experience Platform](#platform)  (uppdaterad 14 januari 2021)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **20 januari 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)  (uppdaterad  **14 januari 2021**)
-* [Advertising Cloud](#adcloud)
+* [Campaign](#ac)  (uppdaterad 14 januari 2021)
+* [Advertising Cloud](#adcloud)  (uppdaterad  **22 januari 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (Uppdaterat:  **11 januari 2021**)
+* [[!DNL Marketo Engage]](#marketo) (Uppdaterat: 11 januari 2021)
 * [Document Cloud](#doc-cloud)
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning. Innehållet har flyttats till den här platsen från `docs.adobe.com`. Uppdatera bokmärkena därefter.
