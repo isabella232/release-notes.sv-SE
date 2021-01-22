@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
+source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
 workflow-type: tm+mt
-source-wordcount: '6608'
+source-wordcount: '6593'
 ht-degree: 23%
 
 ---
@@ -438,22 +438,20 @@ Senast uppdaterad: **28 oktober 2020**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Ny hjälp | (28 oktober) Den gamla hjälpen ersattes med uppdaterade sidor som är tillgängliga via hjälplänken på DSP huvudmeny och som alltid är tillgängliga från [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
-| Kampanjer | (28 oktober) De tidigare betavyer för kampanjer är nu standardvyer för kampanjer, för snabbare insikter, förenklade arbetsflöden och anpassade vyer. |
+| Ny hjälp | (28 oktober-versionen) Den gamla hjälpen ersattes med uppdaterade sidor som är tillgängliga via hjälplänken på DSP huvudmeny och som alltid är tillgängliga från [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Kampanjer | (28 oktober-versionen) De tidigare betavyer för kampanjer är nu standardvyer för kampanjer, för snabbare insikter, förenklade arbetsflöden och anpassade vyer. |
 | Privat lager | (15 oktober) Alla användare kan nu konfigurera och redigera information om avtal-ID med ett nytt formulär för avtal-ID, som är en förenklad version av det äldre [!UICONTROL Smart Ad Serving]-formuläret. Om du vill konfigurera ny information om avtal-ID går du till **[!UICONTROL Inventory > Deals]**, klickar på **[!UICONTROL Create]** och sedan på **[!UICONTROL Deal ID Beta]**. |
 | Placeringsprognos | (15 oktober) För placeringar med placeringsnivåpaketering innehåller [!UICONTROL Forecast]-avsnittet i placeringsinställningarna ett nytt [!UICONTROL Estimated Maximums]-avsnitt, som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. |
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **17 oktober 2020**
+Senast uppdaterad: **22 januari 2021, för 23 januari-versionen**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns] | I vyn [!UICONTROL Accounts] anger kolumnen [!UICONTROL Access] nu när [!DNL Advertising Cloud Search] inte kan logga in på ett aktiverat sökmotorkonto. Håll markören över varningsikonen om du vill se orsaken till felet. |
-| [!UICONTROL Custom Alerts] | Den tidigare [!UICONTROL Alerts Beta] heter nu [!UICONTROL Custom Alerts]. |
-| [!UICONTROL Custom Alerts] | I anpassade aviseringar förenklades arbetsflödet för att identifiera när mätvärden för det angivna datumintervallet har ökat eller minskat från mätvärden för föregående period och flyttades till fliken [!UICONTROL Filters]. |
+| [!UICONTROL Search Campaigns]<br> Rapporter | Advertising Cloud Search rapporterar inte längre nya genomsnittliga positionsdata för Microsoft Advertising-kampanjer. Kolumnen för genomsnittlig position visar värden på noll (0) för datum som börjar den 23 januari. Detta är en förberedelse för Microsofts utfasning av data om genomsnittlig position i januari 2021.<br>De genomsnittliga positionsdata som samlats in fram till den 22 januari finns fortfarande tillgängliga i rapporter. |
 
-### Ad Cloud självstudiekurser och kurser
+### Advertising Cloud självstudiekurser och kurser
 
 Uppdaterat: **2 december 2020**
 
