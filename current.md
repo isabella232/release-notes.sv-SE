@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
+source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
 workflow-type: tm+mt
-source-wordcount: '6595'
+source-wordcount: '6599'
 ht-degree: 23%
 
 ---
@@ -146,10 +146,10 @@ Använd Adobe Experience Platform för att samordna en kunds resa i stor skala �
 
 Releasedatum: **14 januari 2021**
 
-* [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Adobe Analytics](#aa-features)  (uppdaterad 25 januari 2021)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey)  (uppdaterad 25 januari 2021)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 20 januari 2021)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)  (Uppdaterat 20 januari 2021)
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
