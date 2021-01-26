@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
+source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
 workflow-type: tm+mt
-source-wordcount: '6599'
+source-wordcount: '6625'
 ht-degree: 23%
 
 ---
@@ -23,11 +23,11 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation.
 
-Senaste uppdatering: **22 januari 2021**
+Senaste uppdatering: **25 januari 2021**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
 * [Experience Cloud och administration](#ecloud)
-* [Experience Platform](#platform)  (uppdaterad 14 januari 2021)
+* [Experience Platform](#platform)  (uppdaterad  **25 januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **25 januari 2021**)
 * [Audience Manager](#aam)
@@ -52,8 +52,6 @@ Information om den senaste versionen finns i [Adobe-systemstatus - 21 maj 2020](
 ## ![](/assets/ec_appicon_24.png) IkonTjänster och administration i Experience Cloud  {#ecloud}
 
 [Experience Cloud tjänster och ](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html) administrationsdokumentation innehåller kundattribut, målgruppsbibliotek ([!UICONTROL People] tjänst), aktivering, användar- och produkthantering samt cookies från Experience Cloud.
-
-Har inte uppdaterats den här månaden.
 
 **Se även**
 
@@ -82,10 +80,14 @@ Releasedatum: **13 januari 2021**
 
 **[!UICONTROL Launch Server Side]:** Skicka data på händelsenivå till AEP Edge Network och använd sedan Launch Server Side för att omvandla, förbättra och skicka data till en slutpunkt som inte är Adobe med hjälp av Adobe:s servrar, inte klienten, med låg latens. [Mer...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
 
+Uppdaterad **25 januari 2021**:
+
+Tjänsttillägget för Experience Cloud ID **5.1.1** har släppts. Mer information finns i [Versionsinformation för Experience Cloud ID-tjänsttillägget](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html).
+
 **Se även**
 
 * [Experience Platform Launch släpper ](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) kommentarer om Experience Platform Launch.
-* [Versionsinformation om ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) tillägg för tjänsten Experience Cloud ID
+* [Versionsinformation om ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) tillägg till tjänsten Experience Cloud ID.
 
 ### Adobe Mobile
 
