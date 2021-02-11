@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
+source-git-commit: e396ac53948a2ea163b09f0545de994c0d7ef001
 workflow-type: tm+mt
-source-wordcount: '6625'
+source-wordcount: '6654'
 ht-degree: 23%
 
 ---
@@ -26,7 +26,7 @@ Den här sidan beskriver nya funktioner, korrigeringar och viktiga meddelanden i
 Senaste uppdatering: **25 januari 2021**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
-* [Experience Cloud och administration](#ecloud)
+* [Experience Cloud och administration](#ecloud)  (uppdaterad  **10 februari 2021**)
 * [Experience Platform](#platform)  (uppdaterad  **25 januari 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey) (Uppdaterat: **25 januari 2021**)
@@ -53,7 +53,11 @@ Information om den senaste versionen finns i [Adobe-systemstatus - 21 maj 2020](
 
 [Experience Cloud tjänster och ](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html) administrationsdokumentation innehåller kundattribut, målgruppsbibliotek ([!UICONTROL People] tjänst), aktivering, användar- och produkthantering samt cookies från Experience Cloud.
 
-**Se även**
+**4 februari 2021**
+
+* En uppdatering till Experience Cloud tar bort den inledande introduktionsskärmen för Experience Cloud. Från och med den 4 februari skickas du direkt från `https://experience.adobe.com/login` till inloggningsskärmen för Adobe.
+
+**Ytterligare resurser**
 
 * [Kumulativ versionsinformation för Experience Cloud-](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) tjänster för den senaste versionsinformationen.
 * [Experience Cloud ID ](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) Servicerelease notes
