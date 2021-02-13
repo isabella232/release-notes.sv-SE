@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
+source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
 workflow-type: tm+mt
-source-wordcount: '1322'
-ht-degree: 61%
+source-wordcount: '1321'
+ht-degree: 59%
 
 ---
 
@@ -21,7 +21,7 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
->Den här sidan innehåller innehåll som släppts i förväg och omfattas av ändringar före den planerade releasen.
+>Den här sidan innehåller innehåll före lansering och kan komma att ändras före releasedatum.
 
 >[!NOTE]
 >
@@ -36,11 +36,11 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Mål](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html) (länkar till hjälplösningar)
+* [Mål](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)  (länkar till lösningshjälp)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
-* [Primetime](https://helpx.adobe.com/se/primetime/user-guide.html) (länkar till lösningshjälp)
+* [Primetime](https://helpx.adobe.com/se/primetime/user-guide.html)  (länkar till lösningshjälp)
 * [Ny dokumentation och självstudiekurser](#selfhelp)
 
 Letar du efter startsidan i hjälpen? Se [Adobe Experience Cloud-dokumentationen](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -49,7 +49,7 @@ Letar du efter startsidan i hjälpen? Se [Adobe Experience Cloud-dokumentationen
 
 Funktioner och korrigeringar.
 
-See [Adobe System Status](https://status.adobe.com/).
+Se [Systemstatus för Adobe](https://status.adobe.com/).
 
 ## Experience Cloud-gränssnitt{#ecloud} 
 
@@ -62,7 +62,7 @@ Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive a
 
 Funktioner och korrigeringar.
 
-For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html)
+Produktdokumentation finns i [Experience Cloud interface](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html)
 
 ### Administration och utvecklare {#admin}
 
@@ -85,7 +85,7 @@ Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience 
 
 Funktioner och korrigeringar.
 
-For product documentation, see [Experience Cloud ID service](https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html).
+Mer produktdokumentation finns i [Experience Cloud ID-tjänst](https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -93,9 +93,9 @@ Se [Experience Platform Launch](https://docs.adobe.com/content/help/sv-SE/launch
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
+Med Adobe [!UICONTROL Experience Platform,] kan du samordna enskilda kundresor i stor skala över olika upplevelsekanaler genom att intelligent förutse varje enskild individs behov i realtid, oavsett vart resan tar dem.
 
-#### Additional resources for [!UICONTROL Journey Orchestration]
+#### Ytterligare resurser för [!UICONTROL Journey Orchestration]
 
 [Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
@@ -112,7 +112,7 @@ Beskrivning av nya funktioner. Använd rubriker eller en tabell.
 * Korrigera
 * Korrigera
 
-Produktdokumentation finns i [Mobiltjänster](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
+Produktdokumentation finns i [Mobila tjänster](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
 Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/overview.html) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
@@ -134,7 +134,7 @@ Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK för [!DNL iOS] &amp; [!DNL Android] (tidigare VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK för  [!DNL iOS] &amp;  [!DNL Android] (tidigare VHL SDK)  {#aa-va}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
@@ -144,7 +144,7 @@ Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/
 
 ### Data Workbench {#aa-dwb}
 
-See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for the latest information.
+Den senaste informationen finns i [Versionsinformation för Data Workbench](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html).
 
 ### AppMeasurement {#appm}
 
@@ -161,7 +161,7 @@ See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-w
 * Korrigera
 * Korrigera
 
-I Versionshistorik [för](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) AppMeasurement finns en versionshistorik för AppMeasurement på följande plattformar:
+I [AppMeasurement-versionshistorik](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) finns en versionshistorik för AppMeasurement på följande plattformar:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
@@ -245,7 +245,7 @@ Följande AEM dokumentationsuppsättningar har migrerats till en ny dokumentatio
 * Korrigera
 * Korrigera
 
-## Social {#soc}
+## Socialt {#soc}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
@@ -300,14 +300,14 @@ Marketo Engage är en komplett lösning för lead-hantering och B2B-marknadsför
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft Dynamics _Change Owner i Microsoft_ Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
+* **Microsoft Dynamics  _Change Owner i_ Microsoft Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
 * **Förbättringar av API-anrop:**
    * API:er för användarhantering
    * API:er för anpassade objektscheman
    * API:er för omdirigeringsregler för landningssidor
-* **Cachelagring av formulärbeskrivare:** Förbättringar av landningssidor och Forms.
+* **Cachelagring av formulärbeskrivare:** förbättringar av landningssidor och Forms.
 
-Mer information finns i Marketo Release Notes för [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) .
+Mer information finns i Marketos versionsinformation för [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
 
 ### Kommande funktioner
 
@@ -325,7 +325,7 @@ Följande funktioner släpps under kvartalet:
 
 ### Utgånget
 
-* **Resurs-API &quot;_method&quot;-parameter:** Efter september 2020 kommer Resurs-API-slutpunkter inte längre att acceptera &quot;_method&quot; för att skicka Query Parameters i en POST för att kringgå URI-längdbegränsningar.
+* **Parametern &quot;_method&quot; för resurs-API:t:** Efter september 2020 kommer Resurs-API-slutpunkter inte längre acceptera &quot;_method&quot; för att skicka frågeparametrar i en POST för att kringgå URI-längdbegränsningar.
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
 
 Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://docs.marketo.com/x/CgA6Ag).
