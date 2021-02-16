@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 150911084be7da0d1f3c887d76a7b897ac94a173
+source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
 workflow-type: tm+mt
-source-wordcount: '6272'
+source-wordcount: '6226'
 ht-degree: 18%
 
 ---
@@ -120,14 +120,14 @@ Releasedatum: **18 februari 2021**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
-| Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. En självstudievideo finns i [Media Concurrent Viewer Panel i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace). |
+| Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
 | Val av språk på kontrollpaneler för analyser | 14 januari 2021 | Nu kan du välja ett språk på kontrollpanelen för Analytics. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
-| Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. En självstudievideo finns i [Media Concurrent Viewer Panel i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace). |
+| Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
 | CJA API | 18 februari 2021 | CJA API:erna är nu tillgängliga. Med dessa API:er kan du programmässigt redigera komponenter och hämta rapporter. Mer information finns i CJA API-dokumentationen (länk). |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
