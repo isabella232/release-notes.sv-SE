@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
+source-git-commit: 1ed740f01fa639793c4694d206c07728f523a4a5
 workflow-type: tm+mt
-source-wordcount: '6226'
+source-wordcount: '6227'
 ht-degree: 18%
 
 ---
@@ -128,7 +128,7 @@ Releasedatum: **18 februari 2021**
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
 | Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
-| CJA API | 18 februari 2021 | CJA API:erna är nu tillgängliga. Med dessa API:er kan du programmässigt redigera komponenter och hämta rapporter. Mer information finns i CJA API-dokumentationen (länk). |
+| CJA API | 18 februari 2021 | CJA API:erna är nu tillgängliga. Med dessa API:er kan du programmässigt redigera komponenter och hämta rapporter. Mer information finns i [API-dokumentationen för CJA](https://adobe.io/cja-apis/docs). |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
