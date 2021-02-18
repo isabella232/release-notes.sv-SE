@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
+source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
 workflow-type: tm+mt
 source-wordcount: '6226'
 ht-degree: 18%
@@ -182,7 +182,7 @@ Nya funktioner, korrigeringar, dokumentation och självstudiekurser i Audience M
 
 | Funktion | Datum tillagt eller uppdaterat | Beskrivning |
 |----|----|----|
-| [migrering från Audience Manager till Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 1 februari 2020 | Audience Manager användarkontohantering övergår till Adobe Admin Console för en smidigare upplevelse över alla era Adobe-lösningar. <br>Följ stegen som beskrivs i den här artikeln för att underlätta användarmigrering. Alla Audience Manager-administratörer bör börja migrera sina användarkonton till Adobe Admin Console så snart som möjligt. |
+| [migrering från Audience Manager till Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 1 februari 2021 | Audience Manager användarkontohantering övergår till Adobe Admin Console för en smidigare upplevelse över alla era Adobe-lösningar. <br>Följ stegen som beskrivs i den här artikeln för att underlätta användarmigrering. Alla Audience Manager-administratörer bör börja migrera sina användarkonton till Adobe Admin Console så snart som möjligt. |
 
 ### Korrigeringar och förbättringar {#aam-fixes-and-improvements}
 
