@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1ed740f01fa639793c4694d206c07728f523a4a5
+source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
 workflow-type: tm+mt
-source-wordcount: '6227'
+source-wordcount: '6296'
 ht-degree: 18%
 
 ---
@@ -33,7 +33,8 @@ Senaste uppdatering: **12 februari 2021**
 * [Experience Cloud och administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)  och [Customer Journey Analytics](#cust-journey)`
+* [Analytics](#analytics)   **Uppdaterad 19 februari 2021**
+* [Customer Journey Analytics](#cust-journey)`
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -112,7 +113,7 @@ Releasedatum: **18 februari 2021**
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)   **Uppdaterad 19 februari 2021**
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -152,6 +153,7 @@ AN-224987; AN-229009; AN-239750; AN-239765; AN-241620; AN-242996; AN-243577; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Alternativ för landningssidor för rapporter och analyser | 19 februari 2021 | Den 25 mars 2021 tas alternativen för att ställa in nya paneler för rapporter och analyser eller annat innehåll när Adobe Analytics landningssida tas bort. Om du tidigare har angett en rapport- och analyssida som din anpassade landningssida kommer den att fortsätta att fungera tills landningssidan ändras i [!UICONTROL User Preferences]. Från och med den 25 mars 2021 kan du inte längre definiera anpassade landningssidor för rapporter och analyser. |
 | Ad Hoc Analysis upphör | Jan 2021 | [!UICONTROL Ad Hoc Analysis] når sitt utgångsdatum den 1 mars 2021. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Slutet av livscykeln för tre API-tjänster för analys | 6 januari 2021 | Den 30 april 2021 kommer följande API-tjänster för Analytics Legacy att anges för att nå sitt slutdatum och kommer att avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tillhandahållit en [Vanliga frågor och svar om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. En ny standard finns i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). Du kan använda den standarden för alla integreringar för att fortsätta att erbjudas och få support. Det officiella slutdatumet är 1 augusti 2021. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
