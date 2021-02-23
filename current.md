@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
+source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
 workflow-type: tm+mt
 source-wordcount: '6296'
 ht-degree: 18%
@@ -81,7 +81,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 | 3 februari 2021 | [Översikt över batchdataöverföring](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Översikt över batchdatainmatning i Adobe Experience Platform. Lär dig hur du importerar batchdata med API:t. |
 | 3 februari 2021 | [Aktivera data till program utanför Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Video | Läs om hur Adobe’s Real-Time CDP hjälper er att skapa sanna personaliseringsstrategier med era målgrupper. Lär dig även hur det passar in i ditt befintliga ekosystem och andra program än Adobe från Microsoft, Google och Facebook. |
 | 21 januari 2021 | [Course Intro for Getting Started with Intelligent Services for Marketers](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Video | En introduktion till kursen Getting Started with Intelligent Services for Marketers. |
-| 13 januari 2021 | [Introduktion till Getting Started with Offer Decisioning for Marketers](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Och introduktion till kursen Getting Started with Offer Decisioning for Marketers. |
+| 13 januari 2021 | [Introduktion till Offret Decisioning Komma igång med för marknadsförare](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Och introduktion till Offret Decisioning Komma igång med marknadsförare. |
 | 31 januari 2021 | [Utbilda, poängsätta och producera modeller med mallen för receptbyggaren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Video | Lär dig hur du använder den uppdaterade mallen för receptframtagning för att skapa ett recept med hjälp av försäljningsschemat och datauppsättningar. |
 | 31 januari 2021 | [Läs in data i JupyterLab-anteckningsböcker](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Video | Läs mer om JupyterLab i arbetsytan Data Science. |
 | 12 januari 2021 | [Skapa kopplingsprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Video | Lär dig hur du skapar sammanfogningsprinciper i Adobe Experience Platform. |
@@ -122,7 +122,7 @@ Releasedatum: **18 februari 2021**
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
 | Analysis Workspace - komponentval | 4 februari 2021 | Den nedrullningsbara zonkomponenten i [!UICONTROL Quick Insights] har lagts till i alla släppzoner i [!UICONTROL Workspace]. Den här förbättringen gör att du kan välja från en nedrullningsbar lista med kompatibla komponenter eller fortsätta att använda utrymmet som en släppzon. |
-| Val av språk på kontrollpaneler för analyser | 14 januari 2021 | Nu kan du välja ett språk på kontrollpanelen för Analytics. |
+| Val av språk på kontrollpaneler för analyser | 14 januari 2021 | Navigera till **[!UICONTROL Settings]** > **[!UICONTROL Preferences]** > **[!UICONTROL Language]** för att välja ett språk på kontrollpanelen för Analytics. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -171,7 +171,7 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | 8 februari 2021 | [Lägga till trendlinjer i linjevisualiseringar](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Video | I Visualiseringsinställningar kan du välja att lägga till en regression eller en glidande medeltrendlinje i din radserie. Den här funktionen hjälper till att skildra ett tydligare mönster i data. |
-| 8 februari 2021 | [Lägga till implementeringsplugin-program i plattformsstart](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Implementeringsplugins är JavaScript-kod som du kan lägga till i Analytics-implementeringen för att spåra ytterligare, anpassade data. I den här videon får du lära dig hur och var koden ska läggas till i Platform Launch. |
+| 8 februari 2021 | [Lägga till implementeringsplugin-program i Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Implementeringsplugins är JavaScript-kod som du kan lägga till i Analytics-implementeringen för att spåra ytterligare, anpassade data. I den här videon får du lära dig hur och var du ska lägga till koden i Platform Launch. |
 | 6 januari 2021 | [Media Concurrent Viewer Panel i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Video | Förstå var maximal samtidighet inträffade eller var bortfall inträffade. Få värdefulla insikter om innehållets och tittarnas engagemang och hjälp med felsökning eller planering av volym och skala. |
 
 ### Hjälpresurser för Analytics
