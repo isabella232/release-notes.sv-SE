@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
+source-git-commit: c7220fd5298c74ac555ba9d1799194d794b81271
 workflow-type: tm+mt
-source-wordcount: '6296'
+source-wordcount: '6317'
 ht-degree: 18%
 
 ---
@@ -81,7 +81,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 | 3 februari 2021 | [Översikt över batchdataöverföring](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Översikt över batchdatainmatning i Adobe Experience Platform. Lär dig hur du importerar batchdata med API:t. |
 | 3 februari 2021 | [Aktivera data till program utanför Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Video | Läs om hur Adobe’s Real-Time CDP hjälper er att skapa sanna personaliseringsstrategier med era målgrupper. Lär dig även hur det passar in i ditt befintliga ekosystem och andra program än Adobe från Microsoft, Google och Facebook. |
 | 21 januari 2021 | [Course Intro for Getting Started with Intelligent Services for Marketers](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Video | En introduktion till kursen Getting Started with Intelligent Services for Marketers. |
-| 13 januari 2021 | [Introduktion till Offret Decisioning Komma igång med för marknadsförare](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Och introduktion till Offret Decisioning Komma igång med marknadsförare. |
+| 13 januari 2021 | [Introduktion till Offera decisioningen Komma igång med marknadsförare](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Och introduktion till Offera decisioningen Getting Started with för marknadsförare. |
 | 31 januari 2021 | [Utbilda, poängsätta och producera modeller med mallen för receptbyggaren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Video | Lär dig hur du använder den uppdaterade mallen för receptframtagning för att skapa ett recept med hjälp av försäljningsschemat och datauppsättningar. |
 | 31 januari 2021 | [Läs in data i JupyterLab-anteckningsböcker](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Video | Läs mer om JupyterLab i arbetsytan Data Science. |
 | 12 januari 2021 | [Skapa kopplingsprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Video | Lär dig hur du skapar sammanfogningsprinciper i Adobe Experience Platform. |
@@ -171,7 +171,7 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | 8 februari 2021 | [Lägga till trendlinjer i linjevisualiseringar](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Video | I Visualiseringsinställningar kan du välja att lägga till en regression eller en glidande medeltrendlinje i din radserie. Den här funktionen hjälper till att skildra ett tydligare mönster i data. |
-| 8 februari 2021 | [Lägga till implementeringsplugin-program i Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Implementeringsplugins är JavaScript-kod som du kan lägga till i Analytics-implementeringen för att spåra ytterligare, anpassade data. I den här videon får du lära dig hur och var du ska lägga till koden i Platform Launch. |
+| 8 februari 2021 | [Lägga till implementeringsplugin-program i Platforma launchen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Implementeringsplugins är JavaScript-kod som du kan lägga till i Analytics-implementeringen för att spåra ytterligare, anpassade data. I den här videon får du lära dig hur och var koden ska läggas till i Platforma launchen. |
 | 6 januari 2021 | [Media Concurrent Viewer Panel i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Video | Förstå var maximal samtidighet inträffade eller var bortfall inträffade. Få värdefulla insikter om innehållets och tittarnas engagemang och hjälp med felsökning eller planering av volym och skala. |
 
 ### Hjälpresurser för Analytics
@@ -409,15 +409,20 @@ Senast uppdaterad: **28 oktober 2020**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **22 januari 2021, för 23 januari-versionen**
+Senast uppdaterad: **23 februari 2021, för 20 februari-utgåvan**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]<br> Rapporter | Advertising Cloud Search rapporterar inte längre nya genomsnittliga positionsdata för Microsoft Advertising-kampanjer. Kolumnen för genomsnittlig position visar värden på noll (0) för datum som börjar den 23 januari. Detta är en förberedelse för Microsofts utfasning av data om genomsnittlig position i januari 2021.<br>De genomsnittliga positionsdata som samlats in fram till den 22 januari finns fortfarande tillgängliga i rapporter. |
+| Alla | Verktyg > &quot;Adwords Conversion Tags&quot; är nu &quot;Google Ads Conversion Tags.&quot; |
+| Alla | I april kommer följande funktioner och vyer att vara inaktuella:<br><ul><li>Optimering > Portfolio-kort</li><li>Optimering > Anbudsregler</li><li>Insikter och rapporter > Kontrollpanel</li><li>Kampanjer:  Väntande och schemalagt stöd för massredigeringar</li></ul> |
 
-### Ad Cloud självstudiekurser och kurser
+### Advertising Cloud självstudiekurser och kurser
 
-Uppdaterat: **2 december 2020**
+Uppdaterat: **23 februari 2021**
+
+| Självstudiekurs | Beskrivning |
+| -----------| ---------- |
+| [Introduktion till arbetsyta och rapportering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Lär dig hur du kan använda dina Advertising Cloud-data för att skapa visuella rapporter i Adobe Analytics Analysis Workspace. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
 
