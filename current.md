@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c7220fd5298c74ac555ba9d1799194d794b81271
+source-git-commit: d22f8bc718976f3aad6673473c4df66246f58022
 workflow-type: tm+mt
 source-wordcount: '6317'
 ht-degree: 18%
@@ -154,7 +154,7 @@ AN-224987; AN-229009; AN-239750; AN-239765; AN-241620; AN-242996; AN-243577; AN-
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
 | Alternativ för landningssidor för rapporter och analyser | 19 februari 2021 | Den 25 mars 2021 tas alternativen för att ställa in nya paneler för rapporter och analyser eller annat innehåll när Adobe Analytics landningssida tas bort. Om du tidigare har angett en rapport- och analyssida som din anpassade landningssida kommer den att fortsätta att fungera tills landningssidan ändras i [!UICONTROL User Preferences]. Från och med den 25 mars 2021 kan du inte längre definiera anpassade landningssidor för rapporter och analyser. |
-| Ad Hoc Analysis upphör | Jan 2021 | [!UICONTROL Ad Hoc Analysis] når sitt utgångsdatum den 1 mars 2021. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+| Ad Hoc Analysis upphör | Jan 2021 | [!UICONTROL Ad Hoc Analysis] nådde sitt utgångsdatum den 1 mars 2021. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Slutet av livscykeln för tre API-tjänster för analys | 6 januari 2021 | Den 30 april 2021 kommer följande API-tjänster för Analytics Legacy att anges för att nå sitt slutdatum och kommer att avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tillhandahållit en [Vanliga frågor och svar om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. En ny standard finns i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). Du kan använda den standarden för alla integreringar för att fortsätta att erbjudas och få support. Det officiella slutdatumet är 1 augusti 2021. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Lägga till HSTS-huvud i alla inkommande HTTPS-begäranden | 29 september 2020 | Den 29 september 2020 började Adobe lägga till HSTS-huvudet i alla inkommande begäranden som använder HTTPS. Den här rubriken instruerar webbläsaren eller klienten att göra alla framtida förfrågningar i HTTPS, vilket anses vara en god säkerhetsrutin. I nuläget kommer Adobe inte att tillämpa detta för inkommande begäranden med HTTP. |
