@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d22f8bc718976f3aad6673473c4df66246f58022
+source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
 workflow-type: tm+mt
-source-wordcount: '6317'
-ht-degree: 18%
+source-wordcount: '6342'
+ht-degree: 17%
 
 ---
 
@@ -19,19 +19,15 @@ ht-degree: 18%
 
 Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sidan är din centrala plats där du kan hitta de senaste versionsuppdateringarna, dokumentationen och självstudiekurserna för [!DNL Experience Cloud] och Experience Platform. Du kan även hitta ny dokumentation för [!DNL Creative Cloud for Enterprise] och [!DNL Document Cloud].
 
->[!IMPORTANT]
->
->Den här sidan innehåller förhandsversion och kan komma att ändras före releasedatum.
-
 >[!NOTE]
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och Experience League-dokumentationen.
 
-Senaste uppdatering: **12 februari 2021**
+Senaste uppdatering: **21 februari 2021**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud och administration](#ecloud)
-* [Experience Platform](#platform)
+* [Experience ](#platform) **PlatformUppdaterad 21 februari 2021**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics)   **Uppdaterad 19 februari 2021**
 * [Customer Journey Analytics](#cust-journey)`
@@ -76,6 +72,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 26 februari 2021 | [Övervaka dataflödet i Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/data-monitoring.html?lang=en#data-ingestion) | Lär dig övervaka och spåra data som hämtas in till Adobe Experience Platform med hjälp av plattformens gränssnitt och API. |
 | 10 februari 2021 | [Konfigurera Azure Blob-målet](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) | Video | Lär dig hur du går igenom de steg som krävs för att konfigurera och konfigurera Azure Blob Storage-destinationen i kunddataplattformen i realtid (CDP i realtid). |
 | 4 februari 2021 | [Visa identitetsdiagram](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/view-identity-graphs.html) | Video | Så här använder du identitetsdiagramvisningsfunktionen för att söka, utforska och filtrera identitetsdiagram för validering och felsökning. |
 | 3 februari 2021 | [Översikt över batchdataöverföring](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Översikt över batchdatainmatning i Adobe Experience Platform. Lär dig hur du importerar batchdata med API:t. |
