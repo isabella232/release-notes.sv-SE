@@ -1,13 +1,13 @@
 ---
-title: Versionsinformation för Experience Cloud och Experience Platform
-description: Läs mer om den senaste versionsinformationen, nya funktioner och ny dokumentation för Experience Cloud och Experience Platform. Hitta ny hjälp och självstudiekurser om Creative Cloud för företag och Document Cloud.
+title: Senaste versionsinformation
+description: '"Läs mer om den senaste releaseversionen, nya funktioner och ny dokumentation för Experience Cloud produkter och tjänster. Hitta ny hjälp och självstudiekurser om Experience Cloud, Creative Cloud för företag och Document Cloud."'
 doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
+source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
 workflow-type: tm+mt
-source-wordcount: '6342'
+source-wordcount: '6339'
 ht-degree: 17%
 
 ---
