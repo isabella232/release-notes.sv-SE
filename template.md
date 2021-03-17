@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
+source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
 workflow-type: tm+mt
-source-wordcount: '1321'
-ht-degree: 59%
+source-wordcount: '1318'
+ht-degree: 60%
 
 ---
 
@@ -161,7 +161,7 @@ Den senaste informationen finns i [Versionsinformation för Data Workbench](http
 * Korrigera
 * Korrigera
 
-I [AppMeasurement-versionshistorik](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) finns en versionshistorik för AppMeasurement på följande plattformar:
+I [AppMeasurement-versionshistorik](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) finns en versionshistorik för AppMeasurement på följande plattformar:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
