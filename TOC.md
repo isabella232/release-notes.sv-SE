@@ -1,24 +1,25 @@
 ---
 cloud: experience-cloud
 product: Experience Cloud
-user-guide-title: Versionsinformation om Experience Cloud
+user-guide-title: Versionsinformation om Adobe Experience Cloud
 breadcrumb-title: Versionsinformation
 user-guide-description: Läs om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 8969be7e515af56d4cc1729377d1f6ebe33369f8
+source-git-commit: 80757abb3aea503ca34100807bc8542b15883c08
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 60%
+source-wordcount: '65'
+ht-degree: 55%
 
 ---
 
 
-# Versionsinformation om Adobe Experience Cloud {#experience-cloud}
+# Nyheter i Adobe Experience Cloud {#experience-cloud}
 
 + [Aktuella versionsinformation](current.md)
 + Tidigare versionsinformation {#previous}
    + 2021 {#2021}
+      + [Februari 2021](c-legacy-releases/2021/02182021.md)
       + [Januari 2021](c-legacy-releases/2021/01142021.md)
    + 2020 {#2020}
       + [November 2020](c-legacy-releases/2020/10292020.md)
@@ -45,5 +46,4 @@ ht-degree: 60%
       + [Februari 2019](c-legacy-releases/2019/02072019.md)
       + [Januari 2019](c-legacy-releases/2019/01172019.md)
    + 2018 och tidigare {#legacy-rns}
-      + 2018 och tidigare {#2018-earlier}
-         + [2014 och tidigare](c-legacy-releases/2018-earlier.md)
+      + [2018 och tidigare](c-legacy-releases/2018-earlier.md)
