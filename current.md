@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d0896f5a62cb6491ca26fb52b68d93014cab5e22
+source-git-commit: 35b3735f74ec51bcdb850bbb5b03df823c9e0f38
 workflow-type: tm+mt
-source-wordcount: '5780'
+source-wordcount: '5778'
 ht-degree: 18%
 
 ---
 
 
-# INTERN GRANSKNING - Adobe Experience Cloud Versionsinformation - mars 2021
+# Versionsinformation om Adobe Experience Cloud - mars 2021
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
@@ -27,7 +27,7 @@ Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sida
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och Experience League-dokumentationen.
 
-Senaste uppdatering: **18 mars 2021**
+Senaste uppdatering: **19 mars 2021**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
 * [Komponenter, tjänster och administration i Experience Cloud](#ecloud)
