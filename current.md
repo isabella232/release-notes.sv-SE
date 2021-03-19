@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 35b3735f74ec51bcdb850bbb5b03df823c9e0f38
+source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
 workflow-type: tm+mt
-source-wordcount: '5778'
+source-wordcount: '5792'
 ht-degree: 18%
 
 ---
@@ -224,7 +224,7 @@ AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 släppt 25 februari 2021
       * [Redigera en extern SPA i Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/editing-external-spa.html?lang=en): Lagt till möjlighet att ladda upp ett fristående enkelsidigt program till en Experience Manager-instans, lägga till redigerbara innehållsavsnitt och aktivera redigering.
    * **Experience Manager Assets as a Cloud Service**
 
-      * Experience Manager Assets som Cloud Service har rätt att ha en förkonfigurerad Brand Portal-instans. Cloud Manager-användaren kan aktivera varumärkesportalen på Experience Manager Assets som en Cloud Service.
+      * Experience Manager Assets som Cloud Service har rätt att ha en förkonfigurerad Brand Portal-instans. Cloud Manager-användaren kan aktivera varumärkesportalen på Experience Manager Assets som en Cloud Service. Se [Aktivera varumärkesportalen med hjälp av varumärkesportalen](https://experienceleague.corp.adobe.com/docs/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html).
       * Företag kan nu skaffa resurser via Brand Portal. Funktionen för resurskälla använder Brand Portal för att hjälpa kunderna att interagera med byråanvändare för att hämta resurser för nya marknadsföringskampanjer, foton och projekt. Se [Översikt över Resurser](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) i varumärkesportalguiden.
       * I användningsrapporten för varumärkesportalen visas nu endast de aktiva användarna. De inaktiva användarna visas inte nu. Aktiva användare är de vars konto har tilldelats en produktprofil i Admin Console. Se [Arbeta med rapporter](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) i varumärkesportalguiden.
       * I varumärkesportalen finns en ny hämtningsinställning som gör att du kan skapa separata mappar för varje resurs när du hämtar mappar, samlingar och så vidare. Se [Hämta resurser](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) i **Hämta resurser från varumärkesportalen** i varumärkesportalguiden.
