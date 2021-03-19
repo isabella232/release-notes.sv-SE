@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
+source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
 workflow-type: tm+mt
-source-wordcount: '5997'
+source-wordcount: '6029'
 ht-degree: 17%
 
 ---
@@ -55,7 +55,7 @@ De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systems
 
 ## ![](/assets/ec_appicon_24.png) IkonAnvändargränssnittskomponenter, tjänster och administration i Experience Cloud  {#ecloud}
 
-Inte uppdaterad.
+**Enhetlig sökning:** Enhetlig sökning, som för närvarande är tillgänglig för Experience Platform, stöder nu sökning på källor och mål för Experience Platform. Med den här funktionen kan du söka efter segment, datauppsättningar, scheman, källor och mål.
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
