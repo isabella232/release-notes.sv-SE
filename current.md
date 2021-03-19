@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
+source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
 workflow-type: tm+mt
-source-wordcount: '5792'
+source-wordcount: '5805'
 ht-degree: 18%
 
 ---
@@ -117,26 +117,27 @@ Releasedatum: **25 mars 2021**
 | ----------- | ---------- | ------- |
 | API-uppdateringar för datareparation | 25 mars 2021 | API:t för datareparation har nu stöd för standardvariabler som [!UICONTROL Page] och [!UICONTROL IP address], mobil- och videovariabler samt anpassade props och eVars.  Värden inom variabler kan tas bort eller nya värden kan anges. API:t erbjuder nu även filtrering av URL:er, frågesträngar, signaturer med mera. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. **Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Rapportinställningar: Tusentalsavgränsare (kallas nu&quot;nummerformat&quot;)</li><li>Rapportinställningar: CSV-avgränsare</li><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Tom panel&quot;Starta nya projekt med den här panelen&quot;, alternativ</li></ul> |
-| Analysis Workspace: Histogram: Förutsägelse av smart pyts | 25 mars 2021 | Histogram Smart Bucket Predication hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal bucklar för ditt datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
+| Analysis Workspace: [!UICONTROL Histogram] Förutsägelse av smart pyts | 25 mars 2021 | [!UICONTROL Histogram] Smart Bucket Predication hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal bucklar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
+| [!UICONTROL Usage Log] API | 25 mars 2021 | Detta är ett nytt v2.0 Analytics-API som ger programmatisk åtkomst till samma användningsloggdata som finns under [!UICONTROL Admin] > [!UICONTROL Log] > [!UICONTROL Usage and Access Log]. Ytterligare information om autentisering, schema och exempelsvar finns [här](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md). |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
-| Stöd för Analytics Dashboard | 25 mars 2021 | CJA har nu stöd för Mobile Scorecard Builder och Mobile App. På så sätt kan chefer och företagsanvändare se sina nyckeltal för olika kanaler från CJA-data, med samma app som de redan använder för Adobe Analytics. |
+| Stöd för [!UICONTROL Adobe Analytics dashboards] | 25 mars 2021 | [!UICONTROL Customer Journey Analytics] (CJA) har nu stöd för  [!UICONTROL Adobe Analytics dashboards Scorecard Builder] och mobilappen. På så sätt kan chefer och företagsanvändare se sina nyckeltal för olika kanaler baserat på CJA-data, med samma app som de redan använder för Adobe Analytics. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. **Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Tom panel&quot;Starta nya projekt med den här panelen&quot;, alternativ</li></ul> |
-| Analysis Workspace: Histogram: Förutsägelse av smart pyts | 25 mars 2021 | Histogram Smart Bucket Predication hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal bucklar för ditt datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
+| Analysis Workspace: [!UICONTROL Histogram] Förutsägelse av smart pyts | 25 mars 2021 | [!UICONTROL Histogram] Smart Bucket Predication hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal bucklar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
 * Ett problem har korrigerats där den nya ägaren inte återspeglades i segmentgränssnittet när ett segment redigerades och sparades. (AN-234502) AN-250970; AN-250286)
 * Korrigerade ett problem som gjorde att en programrapportsserie förbrukade både primära serversamtal och primära mobilserversamtal. (AN-244029)
-* Korrigerade ett problem med långsam svarstid i användargränssnittet när arbetsyteprojekt öppnades. (AN-242553)
-* Ett problem har korrigerats där det inte gick att logga in på Report Builder efter uppgradering till den senaste versionen. (AN-248825)
-* Korrigerat och utfärdat med användarbehörigheter för icke-administratörsanvändare: En användare bör ha en behörighet så länge den har lagts till i minst en av sina profiler i Admin Console. Om du lägger till användare i profiler bör du bara lägga till dem och inte ta bort något som de redan är berättigade till via andra produktprofiler. (AN-242723)
-* Ett språkkodningsproblem med datafeeds har korrigerats. (AN-249862)
-* Ett problem har korrigerats med att användare inte har åtkomst till delade arbetsyteprojekt. (AN-247814)
-* Ett problem med förhandsgranskningar av aviseringar som inte matchar antalet utlösta aviseringar har korrigerats. (AN-249392) AN-250804)
+* Korrigerade ett problem med långsam UI-svarstid när [!UICONTROL Workspace]-projekt öppnades. (AN-242553)
+* Korrigerade ett problem med att inte kunna logga in på [!UICONTROL Report Builder] efter uppgradering till den senaste versionen. (AN-248825)
+* Korrigerat och utfärdat med användarbehörigheter för icke-administratörsanvändare: En användare bör ha en behörighet så länge den har lagts till i minst en av deras profiler i [!UICONTROL Admin Console]. Om du lägger till användare i profiler bör du bara lägga till dem och inte ta bort något som de redan är berättigade till via andra produktprofiler. (AN-242723)
+* Korrigerade ett språkkodningsproblem med [!UICONTROL Data Feeds]. (AN-249862)
+* Ett problem har korrigerats där användare inte kunde komma åt delade [!UICONTROL Workspace]-projekt. (AN-247814)
+* Korrigerade ett problem med [!UICONTROL Alert Previews] som inte matchade antalet utlösta [!UICONTROL Alerts]. (AN-249392) AN-250804)
 
 #### Övriga korrigeringar i Adobe Analytics
 
@@ -146,8 +147,8 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
-| Bearbetning av VISTA-SiteCatalyst PÅ | 17 mars 2021 | 17 juni 2021 uppdateras alla rapportsviter till att ha [!UICONTROL Same-as-SiteCatalyst VISTA Processing] inställt på ON.  Den här förändringen påverkar Data warehouse-rapporteringen genom att data bearbetas enligt bearbetningsreglerna.  Om du har frågor eller klargöranden kan du kontakta kundtjänst. |
-| EOL för datakällor med fullständig databehandling | 10 mars 2021 | Adobe planerar att i framtiden ta bort alla datakällor för bearbetning. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. |
+| [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 mars 2021 | 17 juni 2021 uppdateras alla rapportsviter till att ha [!UICONTROL Same-as-SiteCatalyst VISTA Processing] inställt på ON.  Den här ändringen påverkar [!UICONTROL Data Warehouse]-rapportering genom att bearbeta data så att de matchar bearbetningsreglerna.  Om du har frågor eller klargöranden kan du kontakta Adobe kundtjänst. |
+| [!UICONTROL Full Processing] tas bort[!UICONTROL Data Sources] | 10 mars 2021 | Adobe planerar att ersätta [!UICONTROL Full Processing] [!UICONTROL Data Sources] i framtiden. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. |
 | Alternativ för landningssidor för rapporter och analyser | 19 februari 2021 | Den 25 mars 2021 tas alternativen för att ställa in nya paneler för rapporter och analyser eller annat innehåll när Adobe Analytics landningssida tas bort. Om du tidigare har angett en rapport- och analyssida som din anpassade landningssida kommer den att fortsätta att fungera tills landningssidan ändras i [!UICONTROL User Preferences]. |
 | Ad Hoc Analysis upphör | Jan 2021 | [!UICONTROL Ad Hoc Analysis] nådde sitt utgångsdatum den 1 mars 2021. Mer information finns i [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Slutet av livscykeln för tre API-tjänster för analys | 6 januari 2021 | Den 30 april 2021 kommer följande API-tjänster för Analytics Legacy att anges för att nå sitt slutdatum och kommer att avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tillhandahållit en [Vanliga frågor och svar om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-integreringskonto som kan användas för att få tillgång till både 1.4 Analytics API:er och 2.0 Analytics API:er. |
