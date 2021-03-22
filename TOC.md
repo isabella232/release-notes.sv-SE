@@ -8,8 +8,8 @@ user-guide-url: https://www.adobe.com
 translation-type: tm+mt
 source-git-commit: 80757abb3aea503ca34100807bc8542b15883c08
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 55%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
