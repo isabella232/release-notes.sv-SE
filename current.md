@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cde3fd4f91f53c6f2281b95397257bbcf1f5672
+source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
 workflow-type: tm+mt
-source-wordcount: '6018'
+source-wordcount: '6029'
 ht-degree: 17%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 17%
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
-Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sidan är din centrala plats där du kan hitta de senaste versionsuppdateringarna, dokumentationen och självstudiekurserna för [!DNL Experience Cloud] och Experience Platform. Du kan även hitta ny dokumentation för [!DNL Creative Cloud for Enterprise] och [!DNL Document Cloud].
-
->[!IMPORTANT]
->
->Den här sidan innehåller förhandsversion och kan komma att ändras före releasedatum.
+Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sidan är din centrala plats där du kan hitta de senaste versionsuppdateringarna, dokumentationen och självstudiekurserna för [!DNL Experience Cloud] produkter och tjänster. Du kan även hitta ny dokumentation för [!DNL Creative Cloud for Enterprise] och [!DNL Document Cloud].
 
 >[!NOTE]
 >
->Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och Experience League-dokumentationen.
+>Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan bevaras under hela månaden och kan innehålla innehåll som kan ändras före ett publiceringsdatum. Uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation kommer regelbundet tillbaka.
 
-Senaste uppdatering: **19 mars 2021**
+Senaste uppdatering: **22 mars 2021**
 
 * [Adobe systemstatus](#status)  (ej uppdaterad)
 * [Komponenter, tjänster och administration i Experience Cloud](#ecloud)
@@ -51,7 +47,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
-De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systemstatus - 21 maj 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) för den senaste versionsinformationen.
+De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systemstatus - 21 maj 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status).
 
 ## ![](/assets/ec_appicon_24.png) IkonAnvändargränssnittskomponenter, tjänster och administration i Experience Cloud  {#ecloud}
 
@@ -335,7 +331,11 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
 * [Versionsinformation om Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html)
-* [Versionsinformation för Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html)
+* [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html) för Campaign Classic.
+
+>[!IMPORTANT]
+>
+>Läs mer om [nödvändiga konfigurationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/acc-config-updates.html?lang=en) för Adobe Campaign Classic.
 
 ### Nya kurser och självstudiekurser i Campaign
 
