@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
+source-git-commit: ffd0377c6309d206bbb98ddc9c7e74f938ad4081
 workflow-type: tm+mt
-source-wordcount: '6029'
+source-wordcount: '6151'
 ht-degree: 17%
 
 ---
@@ -57,8 +57,8 @@ De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systems
 
 Innehåller uppdateringsinformation för Experience Platform och Experience Platform Launch.
 
-* [Versionsinformation om Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (24 februari 2021)
-* [Versionsinformation om Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html). (13 januari 2021)
+* [Versionsinformation om Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Uppdaterat 24 februari 2021)
+* [Versionsinformation om Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html). (Uppdaterat 18 februari 2021)
 
 ### Självstudiekurser och kurser för Experience Platform
 
@@ -115,6 +115,7 @@ Releasedatum: **25 mars 2021**
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. **Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Rapportinställningar: Tusentalsavgränsare (kallas nu&quot;nummerformat&quot;)</li><li>Rapportinställningar: CSV-avgränsare</li><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Tom panel&quot;Starta nya projekt med den här panelen&quot;, alternativ</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram] Förutsägelse av smart pyts | 25 mars 2021 | [!UICONTROL Histogram] Smart Bucket Predication hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal bucklar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
 | [!UICONTROL Usage Log] API | 25 mars 2021 | Detta är ett nytt v2.0 Analytics-API som ger programmatisk åtkomst till samma användningsloggdata som finns under [!UICONTROL Admin] > [!UICONTROL Log] > [!UICONTROL Usage and Access Log]. Ytterligare information om autentisering, schema och exempelsvar finns [här](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md). |
+| Kontrollpaneler för analyser har stöd för anpassade datumintervall | 25 mars 2021 | Styrkortskreatörer kan skapa och använda anpassade datumintervall i mobila styrkortsprojekt. Skaparna kan välja mellan välkända förinställningar för arbetsyta och mobildatumintervall eller skapa ett anpassat datumintervall. Den här funktionen börjar lanseras den 25 mars. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -123,6 +124,7 @@ Releasedatum: **25 mars 2021**
 | Stöd för [!UICONTROL Adobe Analytics dashboards] | 25 mars 2021 | [!UICONTROL Customer Journey Analytics] (CJA) har nu stöd för  [!UICONTROL Adobe Analytics dashboards Scorecard Builder] och mobilappen. På så sätt kan chefer och företagsanvändare se sina nyckeltal för olika kanaler baserat på CJA-data, med samma app som de redan använder för Adobe Analytics. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. **Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Tom panel&quot;Starta nya projekt med den här panelen&quot;, alternativ</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram] Förutsägelse av smart pyts | 25 mars 2021 | [!UICONTROL Histogram] Smart Bucket Predication hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal bucklar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
+| Stöd för kontrollpaneler i Analytics för Customer Journey Analytics | 25 mars 2021 | Analysappen har nu stöd för Customer Journey Analytics. Användare med Customer Journey Analytics kan visa KPI:er från alla data som hämtas till Adobe Experience Platform i kontrollpanelsappen för Analytics. Med Customer Journey Analytics kan ni kombinera flera datakällor för att få en helhetsbild av kundupplevelsen i flera kanaler. Med kontrollpanelsappen Analytics kan ni nu få en uppdaterad helhetsbild av ert företag, när som helst, var som helst. |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
