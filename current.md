@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bb6a42b34458a8f1959d4206f546992f4c8e5747
+source-git-commit: b563bfd3582fbbf197dbe3b6590b1f681b7e38cc
 workflow-type: tm+mt
-source-wordcount: '6986'
+source-wordcount: '6911'
 ht-degree: 16%
 
 ---
@@ -451,13 +451,6 @@ Följande funktioner släpps under kvartalet:
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
 
 ## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
-
-Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Cloud.
-
-| Publicerad | Namn | Lösning | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| 25 februari 2021 | [Första intrycket - välkomstmeddelande](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/welcome-emails.html) | Video | Lär dig vilka de viktigaste elementen i er välkomststrategi bör vara. |
-| 25 februari 2021 | [Första intrycket - adresssamling och listökning](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/address-collection-and-list-growth.html) | Video | Lär dig vilka de bästa källorna för nya e-postadresser är, hur du säkerställer hög datakvalitet och hur du anpassar dig till juridiska riktlinjer. |
 
 Mer information om Document Cloud finns i:
 
