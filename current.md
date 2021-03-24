@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
+source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
 workflow-type: tm+mt
-source-wordcount: '6954'
+source-wordcount: '7346'
 ht-degree: 16%
 
 ---
@@ -23,9 +23,10 @@ Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sida
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan bevaras under hela månaden och kan innehålla innehåll som kan ändras före ett publiceringsdatum. Uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation kommer regelbundet tillbaka.
 
-Senaste uppdatering: **22 mars 2021**
+Senaste uppdatering: **24 mars 2021**
 
-* [Adobe systemstatus](#status)  (ej uppdaterad)
+* [Digital Experience Blueprints](#blueprints)  (new implementation documentation)
+* [Adobe – systemstatus](#status)
 * [Komponenter, tjänster och administration i Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -43,6 +44,23 @@ Senaste uppdatering: **22 mars 2021**
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
 
+## ![](/assets/adobe.png) IconDigital Experience Blueprints  {#blueprints}
+
+Digital Experience Blueprints är repeterbara implementeringar för att hantera strategier och lösa etablerade affärsproblem. Med skisser går det snabbare att skapa värdefullt material och du får en snabb väg till framgång.
+
+| Publicerad | Beskrivning |
+| -----------| ---------- |
+| [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | Översikt över [!UICONTROL Digital Blueprints]. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation. |
+| [Audience Activation Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | Aktiveringen innebär att varumärken kan koppla samman kundinteraktioner över flera kanaler för att leverera en centraliserad målgrupp som kan aktiveras i alla kanaler. |
+| [Kundaktivitetshubbsknapp - översikt](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | Lär dig hur externa program kan komma åt Adobe Experience Platform [!UICONTROL Real-time Customer Profile]. |
+| [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | Läs om hur varumärken kan sammanställa kunddata och kundbeteenden från olika interaktionskanaler och källor och skapa en resebaserad bild av alla kundinteraktioner. |
+| [Custom Data Science for Profile Enrichment Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html) | Lär dig hur data i Adobe Experience Platform används av [!UICONTROL Data Science Workspace] för att utbilda, driftsätta och poängsätta modeller för maskininlärningsinsikter. |
+| [Dataförberedelse och matningsutkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html) | Lär dig hur du mappar källdata till XDM-schemat ([!UICONTROL Experience Data Model]). I den här översikten ingår även konvertering av data, inklusive datumformatering, fältdelning, sammanfogning och konverteringar samt sammanfogning, sammanfogning och inskrivning av poster. |
+| [Enterprise Data Exploration &amp; Reporting Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html) | Med Experience Platform [!UICONTROL Query Service] kan SQL-frågor utföras på data. Lär dig hur [!UICONTROL Data Science Workspace] gör det möjligt att utföra datautforskande, datavetenskap och maskininlärningsarbetsbelastningar på data. |
+| [Flerkanals meddelandesamordning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html) | Läs om hur varumärken aktivt kan interagera med och kommunicera med sina kunder via kanaler som e-post, SMS och mobilaviseringar. |
+| [Design för serversidan Enterprise Data Collection](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html) | Lär dig hur data som samlats in med Adobe Experience Platform Web och Mobile SDK kan vidarebefordras från Experience Platform [!UICONTROL Edge Network] till önskad destination. |
+| [Anpassningsutkast för webb och mobiler](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html) | Lär dig hur du använder målgruppssegmentering i flera olika tillämpningar för att personalisera och optimera kundupplevelser. Ni kan använda kundbeteenden, demografi, lojalitetsnivå och tidigare transaktioner för att personalisera layouter, call-to-actions och innehåll. |
+
 ## ![Ikon](/assets/adobe.png) Adobe – systemstatus {#status}
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
@@ -51,7 +69,9 @@ De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systems
 
 ## ![](/assets/ec_appicon_24.png) IkonAnvändargränssnittskomponenter, tjänster och administration i Experience Cloud  {#ecloud}
 
-**Enhetlig sökning:** Enhetlig sökning, som för närvarande är tillgänglig för Experience Platform, stöder nu sökning på källor och mål för Experience Platform. Med den här funktionen kan du söka efter segment, datauppsättningar, scheman, källor och mål.
+| Funktion | Beskrivning |
+| -----------| ---------- |
+| Enhetlig sökning | Enhetlig sökning, som för närvarande är tillgänglig för Experience Platform, har nu stöd för sökning på källor och mål för Experience Platform. Med den här funktionen kan du söka efter segment, datauppsättningar, scheman, källor och mål. |
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
