@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d7c6508201971164b63a0d0d9490f66a2a87adf6
+source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
 workflow-type: tm+mt
-source-wordcount: '6892'
-ht-degree: 17%
+source-wordcount: '6954'
+ht-degree: 16%
 
 ---
 
@@ -128,7 +128,7 @@ Releasedatum: **25 mars 2021**
 
 | Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
-| API-uppdateringar för datareparation | 25 mars 2021 | API:t för datareparation har nu stöd för standardvariabler som [!UICONTROL Page] och [!UICONTROL IP address], mobil- och videovariabler samt anpassade props och eVars.  Värden inom variabler kan tas bort eller nya värden kan anges. API:t erbjuder nu även filtrering av URL:er, frågesträngar, signaturer med mera. |
+| API-uppdateringar för datareparation | 25 mars 2021 | API:t för datareparation har nu stöd för standardvariabler som [!UICONTROL Page] och [!UICONTROL IP address], mobil- och videovariabler samt anpassade [!UICONTROL props] och [!UICONTROL eVars].  Värden inom variabler kan tas bort eller nya värden kan anges. API:t erbjuder nu även filtrering av URL:er, frågesträngar, signaturer med mera. |
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. <br>**Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Rapportinställningar: Tusentalsavgränsare (kallas nu _Nummerformat_)</li><li>Rapportinställningar: CSV-avgränsare</li><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Panelen Tom _Starta nya projekt med det här panelalternativet_</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram Smart Bucket Prediction] | 25 mars 2021 | [!UICONTROL Histogram Smart Bucket Prediction] hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal buckar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
 | [!UICONTROL Usage Log] API | 25 mars 2021 | Detta är ett nytt v2.0 Analytics-API som ger programmatisk åtkomst till samma användningsloggdata som finns under **[!UICONTROL Admin]** > **[!UICONTROL Log]** > **[!UICONTROL Usage and Access Log]**. Ytterligare information om autentisering, schema och exempelsvar finns [här](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md). |
@@ -162,6 +162,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Meddelande om kommande ändringar på Analytics-menyn | 24 mars 2021 | Den 22 april 2021 uppdaterar vi listrutorna **[!UICONTROL Components]**, **[!UICONTROL Tools]** och **[!UICONTROL Admin]** för att uppnå vissa prestandavinster. Alla dessa sidor är fortfarande tillgängliga under länkarna **[!UICONTROL All Components]**, **[!UICONTROL All Tools]** och **[!UICONTROL All Admin]** - de tas helt enkelt bort från listrutan. Här är de menyalternativ som kommer att tas bort från listrutan och placeras på respektive länksida:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 mars 2021 | 17 juni 2021 uppdateras alla rapportsviter till att ha [!UICONTROL Same-as-SiteCatalyst VISTA Processing] inställt på ON. Den här förändringen påverkar [!UICONTROL Data Warehouse]-rapportering genom att bearbeta data för att matcha bearbetningsreglerna. Om du har frågor eller klargöranden kan du kontakta Adobe kundtjänst. |
 | [!UICONTROL Full Processing] tas bort[!UICONTROL Data Sources] | 10 mars 2021 | Adobe planerar att ersätta [!UICONTROL Full Processing] [!UICONTROL Data Sources] i framtiden. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. [Läs mer](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
 | Alternativ för landningssidor för rapporter och analyser | 19 februari 2021 | Den 25 mars 2021 tas alternativen för att ställa in nya paneler för rapporter och analyser eller annat innehåll när Adobe Analytics landningssida tas bort. Om du tidigare har angett en rapport- och analyssida som din anpassade landningssida kommer den att fortsätta att fungera tills landningssidan ändras i [!UICONTROL User Preferences]. |
