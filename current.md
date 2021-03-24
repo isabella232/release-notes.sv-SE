@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
+source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
 workflow-type: tm+mt
-source-wordcount: '7346'
+source-wordcount: '7331'
 ht-degree: 16%
 
 ---
@@ -87,8 +87,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Mars 2021 | [Kontrollpanel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/monitoring-dashboard.html) | Video | Lär dig hur du övervakar och spårar data som hämtas till Adobe Experience Platform med hjälp av Kontrollpanelen. Den här kontrollpanelen ger en översta vy över källdatabearbetning via datasjön till Profile och Identity Services på källnivå, dataflöde och dataflödesnivå, med åtgärdbara anvisningar i rätt tid. |
-| Mars 2021 | [Infoga data med serverserveranslutningar för direktuppspelning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | Video | Den här videon visar hur du direktuppspelar data i realtid från en molnlagringskälla till Platform och använder data i realtid för kundengagemang. |
-| Mars 2021 | [Datainmatning för datatekniker](https://video.tv.adobe.com/v/331971?quality=12&learn=on) | Video | Översikt över dataöverföringskursen. |
+| Mars 2021 | [Direktuppspela data med hjälp av källanslutningar](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | Video | Den här videon visar hur du direktuppspelar data i realtid från en molnlagringskälla till Platform och använder data i realtid för kundengagemang. |
 | 5 mars 2021 | [Datainmatning för datatekniker](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion) | Kurs | Hur man lägger in data från olika källor i Adobe Experience Platform, med mera. |
 | Mars 2021 | [Konfigurera Azure Blob-målet](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) | Video | Lär dig hur du går igenom de steg som krävs för att konfigurera och konfigurera Azure Blob Storage-målet i [!UICONTROL Real-time Customer Data Platform] (CDP i realtid). |
 | 5 mars 2021 | [Komma igång med Offer decisioning för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Kurs | Läs mer om [!UICONTROL Offer Decisioning]-programtjänsten som är byggd på Adobe Experience Platform. Kursen är utformad för marknadsförare som vill öka intäkterna, kundupplevelsen och lojaliteten genom att leverera de bästa erbjudandena till sina kunder. |
