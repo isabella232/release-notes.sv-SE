@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b563bfd3582fbbf197dbe3b6590b1f681b7e38cc
+source-git-commit: d7c6508201971164b63a0d0d9490f66a2a87adf6
 workflow-type: tm+mt
-source-wordcount: '6911'
-ht-degree: 16%
+source-wordcount: '6892'
+ht-degree: 17%
 
 ---
 
@@ -204,7 +204,6 @@ Nya videor, självstudiekurser eller kurser som publicerats för Audience Manage
 | 12 mars 2021 | [Förstå inmatning av webbdata i CDP för Audience Manager i realtid](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.html) | Video | Lär dig begreppen för att föra in webbplatsdata i kunddataplattformen i realtid (CDP i realtid) och innehåller en högnivåtouch om var Audience Manager Data Connector passar samt hur data kan flyttas från webbplatsen direkt via Web SDK till CDP i realtid. |
 | 3 mars 2021 | [Förstå segment i CDP för Audience Manager i realtid](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations) | Video | Lär dig skillnaderna mellan Audience Manager och CDP i realtid när det gäller att skapa segment och segment. |
 | 3 mars 2021 | [Understanding Traits in Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations) | Video | Lär dig egenskaperna i Audience Manager och vad motsvarigheten är i CDP i realtid. |
-| 3 mars 2021 | [Introduktion till kurser - Avancerade färdigheter i Audience Manager](https://video.tv.adobe.com/v/331788/?quality=12&learn=on) | Video | Lär dig vad som väntar dig i Audience Manager-kursen Avancerade färdigheter. |
 | 3 mars 2021 | [Förstå datainmatning från första part i CDP för Audience Manager i realtid](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.html?lang=en#other-integrations) | Video | Lär dig mer om dataöverföring från första part till kunddataplattformen i realtid (CDP). Lär dig mer om några av de viktigaste skillnaderna mellan de två produkterna när det gäller datainmatning och visar hur Audience Manager Data Connector kan användas som en stopplucka tills processerna har flyttats över till CDP i realtid. |
 | 1 mars 2021 | [Commercialize your Owned Auditions by Offering on Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.html?lang=en#audience-marketplace) | Video | Lär dig hur du konfigurerar data som en privat eller offentlig dataström på Audience Marketplace, vilket gör dig till en DataProvider för data från andra eller tredje part. |
 | Mars 2021 | [Skapa och hantera dataaktivering i Audience Manager](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.4) | Kurs | I den här kursen lär du dig allt om att aktivera era målgrupper, till exempel skicka målgruppsdata till målpartners för att anpassa upplevelsen för slutanvändarna. Lär dig grunderna om destinationer, hur du väljer rätt destination och hur du förbereder och skickar målgruppsdata till mål för sociala nätverk baserat på människor, inte cookies. |
@@ -365,10 +364,10 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | Publicerad | Namn | Lösning | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | 23 februari 2021 | [Leverans - Mätvärden för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/metrics-overview.html) | Campaign Classic/Standard | Lär dig mer om viktiga mätvärden för leveransförmåga som ska övervakas och hur du använder dem för att identifiera ett problem med anseende. |
-| 23 februari 2021 | [Leverans - studsar](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/bounces.html) | Campaign Classic/Standard | Lär dig mer om de olika typerna av studsar. |
+| 23 februari 2021 | [Leverans - studsar](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/bounces.html) | Campaign Classic/Standard | Lär dig mer om olika typer av studsar. |
 | 23 februari 2021 | [Leverans - klagomål](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/complaints.html) | Campaign Classic/Standard | Lär dig mer om klagomål som registreras när en användare anger att ett e-postmeddelande är oönskat eller oväntat. |
-| 23 februari 2021 | [Leverans - Spam Traps](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/spam-traps.html) | Campaign Classic/Standard | Lär dig mer om de olika typerna av studsar. |
-| 23 februari 2021 | [Leverans - massutskick och blockering](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/bulking-and-blocking.html) | Campaign Classic/Standard | Lär dig varför Internet-leverantörer placerar e-postmeddelanden i massmappar eller blockerar dem. |
+| 23 februari 2021 | [Leverans - Spam Traps](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/spam-traps.html) | Campaign Classic/Standard | Lär dig mer om olika typer av studsar. |
+| 23 februari 2021 | [Leverans - massutskick och blockering](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/bulking-and-blocking.html) | Campaign Classic/Standard | Lär dig varför internetleverantörer placerar e-postmeddelanden i mappar för massutskick eller blockerar dem. |
 | 23 februari 2021 | [Leverans - Övergångsprocess - Infrastruktur](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/infrastructure.html) | Campaign Classic/Standard | Lär dig vad som krävs för att skapa en e-postinfrastruktur på rätt sätt. |
 | 23 februari 2021 | [Leverans - engagemang](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/engagement.html) | Campaign Classic/Standard | Lär dig mer om de olika typerna av engagemang och varför engagemang är viktigt för leveransen. |
 | 23 februari 2021 | [Leverans - Övergångsprocess: Målkriterier](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria.html) | Campaign Classic/Standard | Lär dig hur ni kan etablera ett gott rykte från er resa för att effektivt bygga upp förtroende innan ni kan introducera era era mindre engagerade målgrupper. |
@@ -382,7 +381,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | 26 februari 2021 | [Leverans - avsändarens varaktighet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/sender-permanence.html) | Campaign Classic/Standard | Lär dig varför det är viktigt att skapa en konsekvent sändningsvolym. |
 | 26 februari 2021 | [Leverans - Pågående övervakning](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/ongoing-monitoring.html) | Campaign Classic/Standard | Ta reda på vilka problem ni behöver ta hänsyn till när ni övervakar era leveranser. |
 | 26 februari 2021 | [Leverans - Gör det till verklighet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/putting-it-in-practice.html) | Campaign Classic/Standard | Fyra nyckelpelare till framgång. |
-| 10 mars 2021 | [Bästa praxis för leverans för chefer, företagsanvändare och administratörer](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.deliverability) | Campaign Classic | Lär dig viktiga termer, koncept och metoder för leverans för att säkerställa att ert marknadsföringsprogram lyckas. |
+| 10 mars 2021 | [Bästa praxis för leverans för chefer, företagsanvändare och administratörer](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.deliverability) | Campaign Classic | Lär dig viktiga termer, koncept och metoder för levererbarhet för att säkerställa att ert marknadsföringsprogram blir framgångsrikt. |
 
 ### Hjälpresurser
 
