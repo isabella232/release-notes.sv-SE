@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
+source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
 workflow-type: tm+mt
-source-wordcount: '7331'
+source-wordcount: '7353'
 ht-degree: 16%
 
 ---
@@ -151,7 +151,7 @@ Releasedatum: **25 mars 2021**
 | Analysis Workspace: [!UICONTROL Components] > [!UICONTROL User preferences] | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. <br>**Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Rapportinställningar: Tusentalsavgränsare (kallas nu _Nummerformat_)</li><li>Rapportinställningar: CSV-avgränsare</li><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Panelen Tom _Starta nya projekt med det här panelalternativet_</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram Smart Bucket Prediction] | 25 mars 2021 | [!UICONTROL Histogram Smart Bucket Prediction] hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal buckar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
 | [!UICONTROL Usage Log] API | 25 mars 2021 | Detta är ett nytt v2.0 Analytics-API som ger programmatisk åtkomst till samma användningsloggdata som finns under **[!UICONTROL Admin]** > **[!UICONTROL Log]** > **[!UICONTROL Usage and Access Log]**. Ytterligare information om autentisering, schema och exempelsvar finns [här](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md). |
-| Kontrollpaneler för analyser har stöd för anpassade datumintervall | 25 mars 2021 | Styrkortskreatörer kan skapa och använda anpassade datumintervall i mobila styrkortsprojekt. Skaparna kan välja mellan välkända förinställningar för arbetsyta och mobildatumintervall eller skapa ett anpassat datumintervall. |
+| Kontrollpaneler för analyser har stöd för anpassade datumintervall | 22 april 2021 | Styrkortskreatörer kan skapa och använda anpassade datumintervall i mobila styrkortsprojekt. Skaparna kan välja mellan välkända förinställningar för arbetsyta och mobildatumintervall eller skapa ett anpassat datumintervall. [Läs mer](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html#mobapp). |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -160,7 +160,7 @@ Releasedatum: **25 mars 2021**
 | Stöd för [!UICONTROL Adobe Analytics dashboards] | 25 mars 2021 | [!UICONTROL Customer Journey Analytics] (CJA) har nu stöd för  [!UICONTROL Adobe Analytics dashboards Scorecard Builder] och mobilappen. På så sätt kan chefer och företagsanvändare se sina nyckeltal för olika kanaler baserat på CJA-data, med samma app som de redan använder för Adobe Analytics. |
 | Analysis Workspace: **[!UICONTROL Components]** > **[!UICONTROL User preferences]** | 25 mars 2021 | På sidan [!UICONTROL Components] > [!UICONTROL User preferences] kan du hantera [!UICONTROL Analysis Workspace]-inställningar och relaterade komponenter för din användare. [!UICONTROL User preferences] gäller för alla nya projekt och paneler. <br>**Obs!** Följande inställningar har flyttats till  [!UICONTROL User preferences] sidan:<ul><li>Arbetsyteprojekt: Hjälp > Aktivera tips</li><li>Arbetsyteprojekt: Panelen Tom _Starta nya projekt med det här panelalternativet_</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogram Smart Bucket Prediction] | 25 mars 2021 | [!UICONTROL Histogram Smart Bucket Prediction] hjälper till med histogram med höga kardinalitetsmått genom att automatiskt identifiera rätt bredd och antal buckar för ert datauppslag. För lågkardinalitetsmått fungerar visualiseringen på samma sätt som tidigare. |
-| Stöd för kontrollpaneler i Analytics för Customer Journey Analytics | 25 mars 2021 | Analysappen har nu stöd för Customer Journey Analytics. Användare med Customer Journey Analytics kan visa KPI:er från alla data som hämtas till Adobe Experience Platform i kontrollpanelsappen för Analytics. Med Customer Journey Analytics kan ni kombinera flera datakällor för att få en helhetsbild av kundupplevelsen i flera kanaler. Med kontrollpanelsappen Analytics kan ni nu få en uppdaterad helhetsbild av ert företag, när som helst, var som helst. |
+| Stöd för kontrollpaneler i Analytics för Customer Journey Analytics | 25 mars 2021 | Analysappen har nu stöd för Customer Journey Analytics. Användare med Customer Journey Analytics kan visa KPI:er från alla data som hämtas till Adobe Experience Platform i kontrollpanelsappen för Analytics. Med Customer Journey Analytics kan ni kombinera flera datakällor för att få en helhetsbild av kundupplevelsen i flera kanaler. Med kontrollpanelsappen Analytics kan ni nu få en uppdaterad helhetsbild av ert företag, när som helst, var som helst. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/curator.html?lang=en#cja-dashboards). |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
