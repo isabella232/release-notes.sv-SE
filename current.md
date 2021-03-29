@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
+source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
 workflow-type: tm+mt
-source-wordcount: '7353'
-ht-degree: 16%
+source-wordcount: '7542'
+ht-degree: 15%
 
 ---
 
@@ -429,15 +429,21 @@ Senast uppdaterad: **28 oktober 2020**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **22 januari 2021, för 23 januari-versionen**
+Senast uppdaterad: **29 mars 2022, för 27 mars-utgåvan**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]<br> Rapporter | Advertising Cloud Search rapporterar inte längre nya genomsnittliga positionsdata för Microsoft® Advertising-kampanjer. Kolumnen för genomsnittlig position visar värden på noll (0) för datum som börjar den 23 januari. Detta är en förberedelse för Microsofts utfasning av data om genomsnittlig position i januari 2021.<br>De genomsnittliga positionsdata som samlats in fram till den 22 januari finns fortfarande tillgängliga i rapporter. |
+| [!UICONTROL Search Campaigns]<br> Rapporter | (Microsoft Ads-kampanjer) Nu finns det stöd för Microsofts utökade anbudsstrategi för kostnad per klick (eCPC), som är standardanbudsstrategin för Microsoft Advertising-kampanjer. Nu kan du ange en kampanjnivå [!UICONTROL Bid Strategy] för dina kampanjer. Alternativen är [!UICONTROL Manual CPC] och [!UICONTROL Enhanced CPC]. Du kan använda [!UICONTROL Enhanced CPC] med sökannonser, befintliga dynamiska sökannonser och shoppingkampanjer.<br>När ni lägger till en kampanj med eCPC i en optimerad Advertising Cloud-portfölj optimerar Advertising Cloud basanbuden och - när alternativet &quot;Justera kampanjens budgetgränser automatiskt&quot; är aktiverat - kampanjbudgeten. Microsoft tillämpar alla offertjusteringar och kan ändra de Advertising Cloud-genererade anbuden vid tidpunkten för användarfrågan baserat på egna data och insikter.<br>Den  [!UICONTROL Bid Strategy] anpassade kolumnen är tillgänglig i  [!UICONTROL Campaigns] vyn och i rapporter. |
+| [!UICONTROL Search Campaigns]<br> [!UICONTROL Bulksheets] | (Microsoft Advertising-kampanjer) För expanderade textannonser finns nu stöd för en valfri tredje rubrik ([!UICONTROL Ad Title 3]) och en valfri andra beskrivning ([!UICONTROL Description 2]). Stöd finns i vyn [!UICONTROL Ads] och i [!UICONTROL Bulksheets]. |
+| [!UICONTROL Advertising Insights] | Två nya [!UICONTROL Advertising Insights] är tillgängliga:<ul><li>[!UICONTROL Delayed Revenue]: Mäter konverteringsfördröjningen (den tid som förflutit mellan ett SEM-klick och en efterföljande konvertering) för en portfölj och visar eventuella skillnader i viktad intäkt, avkastning och modellprecision på grund av fördröjningen.</li><li>[!UICONTROL Query Cross Matching]: Söker efter förekomster av sökfrågor som Google matchade med mer än ett nyckelord och ger förslag på var trafiken ska dirigeras.</li></ul> |
 
-### Ad Cloud självstudiekurser och kurser
+### Advertising Cloud självstudiekurser och kurser
 
-Uppdaterat: **2 december 2020**
+Uppdaterat: **23 februari 2021**
+
+| Självstudiekurs | Beskrivning |
+| -----------| ---------- |
+| [Introduktion till arbetsyta och rapportering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Lär dig hur du kan använda dina Advertising Cloud-data för att skapa visuella rapporter i Adobe Analytics Analysis Workspace. |
 
 ## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
 
