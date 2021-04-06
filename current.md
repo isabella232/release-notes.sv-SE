@@ -4,14 +4,14 @@ description: Läs mer om den senaste versionsinformationen, nya funktioner och n
 doc-type: release notes
 last-update: March 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
+source-git-commit: 6146981c558499f22dbdc56bc12e2ebce2d00439
 workflow-type: tm+mt
-source-wordcount: '7542'
+source-wordcount: '7641'
 ht-degree: 15%
 
 ---
-
 
 # Versionsinformation om Adobe Experience Cloud - mars 2021
 
@@ -23,7 +23,7 @@ Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sida
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan bevaras under hela månaden och kan innehålla innehåll som kan ändras före ett publiceringsdatum. Uppdateringar av Adobe Enterprise-produkter och Experience League-dokumentation kommer regelbundet tillbaka.
 
-Senaste uppdatering: **24 mars 2021**
+Senast uppdaterad: **6 april 2021**
 
 * [Digital Experience Blueprints](#blueprints)  (new implementation documentation)
 * [Adobe – systemstatus](#status)
@@ -31,7 +31,7 @@ Senaste uppdatering: **24 mars 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [](#analytics) Analyser och  [Customer Journey Analytics](#cust-journey)
+* [Analyser](#analytics) **(uppdaterad 6 april 2021)** och  [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -140,7 +140,7 @@ Releasedatum: **25 mars 2021**
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices)   **(uppdaterad 6 april 2021)**
 * [AppMeasurement](#appm)
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
@@ -181,6 +181,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| Ändringar i datafeed och IP-adress för Data warehouse | 6 april 2021 | Från och med den 17 juni kommer dataflödena och leveranssystemet Data warehouse att flyttas inom våra datacenter, vilket kan leda till att externa IP-adresser ändras som är synliga för dig.  Du bör bekräfta att alla IP CIDR-block för datacentret där rapporter och feeds finns tillgängliga finns i alla brandväggar, för alla målsystem som du kontrollerar. [Här är en fullständig lista över IP-adressintervall som ska placeras i brandväggens tillåtelselista](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks). |
 | Meddelande om kommande ändringar på Analytics-menyn | 24 mars 2021 | Den 22 april 2021 uppdaterar vi listrutorna **[!UICONTROL Components]**, **[!UICONTROL Tools]** och **[!UICONTROL Admin]** för att uppnå vissa prestandavinster. Alla dessa sidor är fortfarande tillgängliga under länkarna **[!UICONTROL All Components]**, **[!UICONTROL All Tools]** och **[!UICONTROL All Admin]** - de tas helt enkelt bort från listrutan. Här är de menyalternativ som kommer att tas bort från listrutan och placeras på respektive länksida:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | 17 mars 2021 | 17 juni 2021 uppdateras alla rapportsviter till att ha [!UICONTROL Same-as-SiteCatalyst VISTA Processing] inställt på ON. Den här förändringen påverkar [!UICONTROL Data Warehouse]-rapportering genom att bearbeta data för att matcha bearbetningsreglerna. Om du har frågor eller klargöranden kan du kontakta Adobe kundtjänst. |
 | [!UICONTROL Full Processing] tas bort[!UICONTROL Data Sources] | 10 mars 2021 | Adobe planerar att ersätta [!UICONTROL Full Processing] [!UICONTROL Data Sources] i framtiden. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. [Läs mer](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
