@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: April 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e5c34b37703cc4aaf0c6711dc5da7857321375ae
+source-git-commit: 21fdbc0a354a87723097e294db15d88e9877061c
 workflow-type: tm+mt
-source-wordcount: '5303'
+source-wordcount: '5305'
 ht-degree: 17%
 
 ---
@@ -343,7 +343,7 @@ Senast uppdaterad: **28 oktober 2020**
 | -----------| ---------- |
 | Ny hjälp | (28 oktober-versionen) Den gamla hjälpen ersattes med uppdaterade sidor som är tillgängliga via hjälplänken på DSP huvudmeny och som alltid är tillgängliga från [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
 | Kampanjer | (28 oktober-versionen) De tidigare betavyer för kampanjer är nu standardvyer för kampanjer, för snabbare insikter, förenklade arbetsflöden och anpassade vyer. |
-| Privat lager | (15 oktober) Alla användare kan nu konfigurera och redigera information om avtal-ID med ett nytt formulär för avtal-ID, som är en förenklad version av det äldre [!UICONTROL Smart Ad Serving]-formuläret. Om du vill konfigurera ny information om avtal-ID går du till **[!UICONTROL Inventory]** > **!UICONTROL Deals]**, klickar på&#x200B;**[!UICONTROL Create]**och sedan på&#x200B;**[!UICONTROL Deal ID Beta]**. |
+| Privat lager | (15 oktober) Alla användare kan nu ställa in och redigera avtals-ID-information med hjälp av ett nytt avtal-ID, som är en förenklad version av det äldre formuläret Smart Ad Serving. Om du vill konfigurera ny information om avtal-ID går du till **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]** och klickar sedan på **[!UICONTROL Deal ID Beta]**. |
 | Placeringsprognos | (15 oktober) För placeringar med placeringsnivåpaketering innehåller [!UICONTROL Forecast]-avsnittet i placeringsinställningarna ett nytt [!UICONTROL Estimated Maximums]-avsnitt, som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. |
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
