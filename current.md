@@ -4,14 +4,14 @@ description: Läs mer om den senaste versionsinformationen, nya funktioner och n
 doc-type: release notes
 last-update: April 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: a030b00ce834306ccf5da00e0c8757e3a2b4fa02
+source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
 workflow-type: tm+mt
-source-wordcount: '5301'
+source-wordcount: '5263'
 ht-degree: 17%
 
 ---
-
 
 # Versionsinformation om Adobe Experience Cloud – april 2021
 
@@ -89,7 +89,7 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [ve
 
 ## ![](/assets/experience_platform_appicon_24.png) IconOffer Decision  {#offer-decisioning}
 
-[!UICONTROL Offer Decisioning] är en programtjänst som är integrerad med Adobe Experience Platform. Använd [!UICONTROL Offer Decisioning] för att leverera det bästa erbjudandet och upplevelsen till era kunder via alla kontaktytor vid rätt tidpunkt.
+[!UICONTROL Offer Decisioning] är en programtjänst som är integrerad i Adobe Experience Platform. Använd [!UICONTROL Offer Decisioning] för att leverera det bästa erbjudandet och upplevelsen till era kunder via alla kontaktytor vid rätt tidpunkt.
 
 ### Senaste produktreleaser
 
@@ -186,13 +186,12 @@ Nya videor, självstudiekurser eller kurser som publicerats för Audience Manage
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| April 2021 | [Kursintroduktion - Förstå CDP i realtid för Audience Manager](https://video.tv.adobe.com/v/332230) | Video | Om du går över från Audience Manager till [!UICONTROL Real-time Customer Data Platform] (CDP i realtid) förändras paradigmet i vissa områden. I den här videon introduceras den kurs som hjälper dig att göra detta. |
+| April 2021 | [Understanding Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | Kurs | Audience Manager-kunder förnyar sin innehållshantering genom att gå över till Adobe Customer Data Platform (CDP i realtid). Den här kursen bygger på en konceptbaserad strategi som hjälper Audience Manager-användare att förstå hur dessa begrepp hanteras i CDP i realtid. |
 | April 2021 | [Förstå destinationer i CDP i realtid för Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.html?lang=en) | Video | När du går från Audience Manager till [!UICONTROL Real-time Customer Data Platform] (CDP i realtid) är det av största vikt att du känner till destinationer så att du vet hur du aktiverar målgruppssegment till målpartners. I den här videon diskuteras de olika måltyperna och var de är CDP i realtid. |
 | April 2021 | [Understanding Data Governance in Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.html?lang=en#other-integrations) | Video | I den här videon går Audience Manager igenom datastyrningsfunktionen i [!UICONTROL Real-time Customer Data Platform] och jämför den med vad som var tillgängligt i Audience Manager. Här beskrivs [!UICONTROL Data Usage and Labeling Enforcement]-ramverket (DULE) och var i Platform det kan tillämpas. |
 | April 2021 | [En tabell med två perceptioner - Varumärken konsument - Evenemang](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/brands-vs-consumers.html?lang=en#industry) | Artikel | Idag begravs marknadsförarna i den virrvarr av information som handlar om identitetspraxis. Och bara 37 % av marknadsförarna sa att de är beredda på en framtid utan cookies, enligt färsk forskning från Adobe och Advis. På det här webbinariet upplyser Adobe om annonsörernas och utgivarnas förståelse och beredskap för en framtid utan cookies, påverkan på deras användningsfall och deras uppfattning om det större ekosystemet. |
 | April 2021 | [10 saker att tänka på vid ansvarig kunddatahantering - händelse](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/ten-considerations-for-responsible-customer-data-management.html?lang=en#industry) | Artikel | Volatila marknadskrafter och olika konsumentintegritetskrav kan presentera fantastiska scenarier för den digitala marknadsföraren. För att hålla kampanjer på rätt sida av reglerna behöver marknadsföringsteamen sina IT-motsvarigheter för att få en smidig process för att framtidssäkra datastyrningsprocessen. Detta inkluderar en som idealiskt ger alla möjlighet att följa och tillämpa regler för ansvarsfull användning av konsumentdata. Hör från Adobe och [!DNL Scotiabank] [!DNL Digital] om viktiga överväganden för ansvarsfull datahantering. |
 | April 2021 | [Framtiden för datahantering och den föränderliga miljön - händelse](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=en#industry) | Artikel | När marknadskrafterna förändrar vårt digitala landskap måste företagen anpassa sig till en ny verklighet när det gäller datastyrning, identitetsupplösning och hur de engagerar potentiella kunder och pseudonyma besökare med meningsfullt innehåll. |
-| April 2021 | [Understanding Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | Kurs | Audience Manager-kunder förnyar sin innehållshantering genom att gå över till Adobe Customer Data Platform (CDP i realtid). Den här kursen bygger på en konceptbaserad strategi som hjälper Audience Manager-användare att förstå hur dessa begrepp hanteras i CDP i realtid. |
 
 ## ![Ikon](/assets/aem.png) Adobe Experience Manager {#aem}
 
