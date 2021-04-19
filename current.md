@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
+source-git-commit: 7b542cb233b84542e0058ac2f4c39b0349e3fb73
 workflow-type: tm+mt
-source-wordcount: '5263'
+source-wordcount: '5260'
 ht-degree: 17%
 
 ---
@@ -402,7 +402,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 | -----------| ---------- | ---------- | ---------- |
 | April 2021 | [[Adobe Sign] Skicka påminnelser med Adobe Sign för Salesforce och Marketo - video med funktioner](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | Video | I den här videosjälvstudien får du lära dig hur du skickar en påminnelse via e-post från Marketo när ett avtal inte har signerats efter en viss tid. Den här integreringen använder Adobe Sign för Salesforce, Marketo och synkroniseringen Marketo och Salesforce. |
 
-### Kurser och självstudiekurser för nya Document Cloud
+### Självstudiekurser för Document Cloud
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
