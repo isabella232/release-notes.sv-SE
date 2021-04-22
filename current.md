@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: d5ac0d91d5d4aa4a7661c529b5a7d85e0cb65d14
+source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
 workflow-type: tm+mt
-source-wordcount: '5248'
-ht-degree: 17%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
-De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systemstatus - 21 maj 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) för den senaste versionsinformationen.
+De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systemstatus - 21 maj 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) för den senaste versionsinformationen.
 
 ## ![](/assets/ec_appicon_24.png) IkonAnvändargränssnittskomponenter, tjänster och administration i Experience Cloud  {#ecloud}
 
@@ -59,8 +59,8 @@ De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systems
 
 Innehåller uppdateringsinformation för Experience Platform och Experience Platform Launch.
 
-* [Versionsinformation om Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Släppt: **21 april 2021**)
-* [Versionsinformation om Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html). (Släppt: 18 februari 2021)
+* [Versionsinformation](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)  för Experience Platform (släppt:  **21 april 2021**)
+* [Versionsinformation](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html)  för Experience Platform Launch (släppt: 18 februari 2021)
 
 ### Självstudiekurser och kurser för Experience Platform
 
@@ -77,11 +77,11 @@ Använd Adobe Experience Platform för att samordna en kunds resa i stor skala �
 
 ### Senaste produktreleaser
 
-Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [versionsinformationen för Journey Orchestration](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html).
+Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [versionsinformationen för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
 ### Fler resurser för Journey Orchestration
 
-[Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=en)
 
 ## ![](/assets/experience_platform_appicon_24.png) IconOffer Decision  {#offer-decisioning}
 
@@ -108,14 +108,14 @@ Releasedatum: **22 april 2021**
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
 
-| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/sv-SE/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
+| Funktion | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
 | Kontrollpaneler för analyser: Anpassade datumintervall | 22 april 2021 | Tillåter användare av Analytics-mobilappen att använda anpassade datumintervall på sina styrkort, utöver de aktuella datumintervallen som är tillgängliga. |
 | Arbetsyta: Tidigare projektversioner | 13 maj 2021 | Gör att du kan läsa in tidigare versioner av ett Workspace-projekt för att ångra oönskade ändringar eller helt enkelt återställa en tidigare version. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
-| Funktion | [Allmän tillgänglighet](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – Måldatum | Beskrivning |
+| Funktion | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – Måldatum | Beskrivning |
 | ----------- | ---------- | ----- |
 | Förbättrade CJA-datavyer | 22 april 2021 | Förbättrade datavyer ger stor flexibilitet när det gäller att skapa mätvärden och dimensioner från XDM-schemafält. Du kan använda ett strängfält som mått. Du kan använda ett numeriskt fält som en dimension, skapa flera mätvärden från samma fält med olika attribueringsmodeller och uppslagsfönster. Och ni kan göra mätvärden och dimensioner kompatibla över datavyer, dölja en komponent från att rapportera och inkludera/exkludera värden, använda paketering och mycket annat. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
 | Arbetsyta: Stöd för schemalagda rapporter | 7 april 2021 | Schemalagda rapporter stöds nu i CJA. |
@@ -145,11 +145,11 @@ AN-248451; AN-250461; AN-251157;  AN-251481; AN-251756; AN-252604; AN-252822; AN
 | Bearbetning av VISTA-SiteCatalyst PÅ | 17 mars 2021 | 17 juni 2021 uppdateras alla rapportsviter till att ha [!UICONTROL Same-as-SiteCatalyst VISTA Processing] inställt på ON. Den här förändringen påverkar Data warehouse-rapporteringen genom att data bearbetas för att matcha bearbetningsreglerna. Om du har frågor eller klargöranden kan du kontakta kundtjänst. |
 | Alternativ för landningssidor för rapporter och analyser | 19 februari 2021 | Den 25 mars 2021 togs alternativen för att ställa in nya paneler för Rapporter och analyser eller annat innehåll allt eftersom Adobe Analytics landningssida togs bort. Om du tidigare har angett en rapport- och analyssida som din anpassade landningssida fortsätter den att fungera tills landningssidan ändras i [!UICONTROL User Preferences]. |
 | Slutet av livscykeln för tre API-tjänster för analys | 6 januari 2021 | Den 30 april 2021 kommer följande API-tjänster för Analytics Legacy att anges för att nå sitt slutdatum och kommer att avslutas. Alla integreringar som byggts med dessa tjänster slutar att fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Vi har tillhandahållit en [Vanliga frågor och svar om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
-| Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. En ny standard finns i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). Du kan använda den standarden för alla integreringar för att fortsätta att erbjudas och få support. Det officiella slutdatumet är 1 augusti 2021. [Läs mer...](https://docs.adobe.com/content/help/sv-SE/analytics/import/dataconnectors/data-connectors-eol.html) |
+| Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. En ny standard finns i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). Du kan använda den standarden för alla integreringar för att fortsätta att erbjudas och få support. Det officiella slutdatumet är 1 augusti 2021. [Läs mer...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 
 ### AppMeasurement {#appm}
 
-Uppdaterad information om de senaste AppMeasurement-versionerna finns i [versionsinformationen för AppMeasurement för JavaScript](https://docs.adobe.com/content/help/sv-SE/analytics/implementation/appmeasurement-updates.html).
+Uppdaterad information om de senaste AppMeasurement-versionerna finns i [versionsinformationen för AppMeasurement för JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
 
 ### Analyskurser och självstudiekurser {#tutorials-analytics}
 
@@ -265,8 +265,8 @@ All versionsinformation för Experience Manager finns på följande sidor:
 * [Versionsinformation om Experience Manager Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Versionsinformation för Experience Manager-datorprogrammet](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Versionsinformation om Experience Manager Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Versionsinformation för Adobe Primetime](https://docs.adobe.com/content/help/sv-SE/primetime/release-notes/home.html)
-* [Versionsinformation för Livefyre](https://docs.adobe.com/content/help/sv-SE/livefyre/using/release-notes/c-rn.html)
+* [Versionsinformation för Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=en)
+* [Versionsinformation för Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
 
 ### Nya Experience Manager-kurser och självstudiekurser
 
@@ -302,8 +302,8 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
-* [Versionsinformation om Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.html)
-* [Versionsinformation för Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.html)
+* [Versionsinformation om Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* [Versionsinformation för Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 ### Nya kurser och självstudiekurser i Campaign
 
@@ -312,16 +312,16 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | Publicerad | Namn | Lösning | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | 12 april 2021 | [Spåra framgångarna med era leveranser i Analytics](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=en#integrations) | Campaign Standard | Lär dig hur du konfigurerar integreringen mellan Campaign Standard och analys. Lär dig hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standarden och vilka nyckeltal som är tillgängliga. |
-| 12 april 2021 | [Konfigurera transaktionsmeddelanden med realtidshändelsedata](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/configure-transactional-messages-using-realtime-event-data.html) | Campaign Standard | Lär dig hur du konfigurerar transaktionsmeddelanden med realtidshändelsedata som kommer från utlösare. |
+| 12 april 2021 | [Konfigurera transaktionsmeddelanden med händelsedata i realtid](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/configure-transactional-messages-using-realtime-event-data.html) | Campaign Standard | Lär dig hur du konfigurerar transaktionsmeddelanden med händelsedata i realtid som kommer från utlösare. |
 | 12 april 2021 | [Skapa en utlösarhändelse i Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-event.html) | Campaign Standard | Lär dig hur du skapar en utlösarhändelse i Campaign Standard, som är länkad till en befintlig utlösare för Experience Cloud. |
 | 12 april 2021 | [Skapa en utlösare i Experience Cloud](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-in-experience-cloud.html) | Campaign Standard | Lär dig hur du konfigurerar utlösare i Experience Cloud. |
 | 12 april 2021 | [Använda utlösare för transaktionsmeddelanden](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/using-triggers-for-transactional-messaging-overview.html#integrations) | Campaign Standard | Lär dig hur du använder utlösare för transaktionsmeddelanden. |
 
 ### Hjälpresurser
 
-* Adobe Campaign Standard: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic: [Hjälpcenter](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/campaign-classic-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html) – [Senaste dokumentationsuppdateringar](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)  - Instruktionsvideor för [Campaign Standard](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Adobe Campaign Standard: [Hjälpcenter](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=en) – [Versionsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) – [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
+* Adobe Campaign Classic: [Hjälpcenter](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-learn/campaign-classic-tutorials/overview.html?lang=en) – [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)  - Instruktionsvideor för [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html?lang=en)
 
 ## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -336,7 +336,7 @@ Senast uppdaterad: **28 oktober 2020**
 
 | Funktion | Beskrivning |
 | -----------| ---------- |
-| Ny hjälp | (28 oktober-versionen) Den gamla hjälpen ersattes med uppdaterade sidor som är tillgängliga via hjälplänken på DSP huvudmeny och som alltid är tillgängliga från [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Ny hjälp | (28 oktober) Den gamla hjälpen ersattes med uppdaterade sidor. Hjälpen finns tillgänglig från hjälplänken på DSP huvudmeny och finns alltid tillgänglig på [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
 | Kampanjer | (28 oktober-versionen) De tidigare betavyer för kampanjer är nu standardvyer för kampanjer, för snabbare insikter, förenklade arbetsflöden och anpassade vyer. |
 | Privat lager | (15 oktober) Alla användare kan nu ställa in och redigera avtals-ID-information med hjälp av ett nytt avtal-ID, som är en förenklad version av det äldre formuläret Smart Ad Serving. Om du vill konfigurera ny information om avtal-ID går du till **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]** och klickar sedan på **[!UICONTROL Deal ID Beta]**. |
 | Placeringsprognos | (15 oktober) För placeringar med placeringsnivåpaketering innehåller [!UICONTROL Forecast]-avsnittet i placeringsinställningarna ett nytt [!UICONTROL Estimated Maximums]-avsnitt, som anger hur mycket mer kapacitet som är tillgänglig med den aktuella målinriktningskonfigurationen. |
@@ -364,7 +364,7 @@ Information om den senaste versionen finns i Magento Commerce och Open Source [v
 
 ## ![Ikon](/assets/target.png)[!DNL Target] {#target}
 
-Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html).
+Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en).
 
 ## ![Ikon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
@@ -396,27 +396,27 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| April 2021 | [[Adobe Sign] Skicka påminnelser med Adobe Sign för Salesforce och Marketo - funktionsvideo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | Video | I den här videosjälvstudiekursen får du lära dig hur du skickar en påminnelse via e-post från Marketo när ett avtal inte har signerats efter en viss tid. Den här integreringen använder Adobe Sign för Salesforce, Marketo samt Marketo- och Salesforce-synkronisering. |
+| April 2021 | [[Adobe Sign] Skicka påminnelser med Adobe Sign för Salesforce och Marketo - funktionsvideo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | Video | Lär dig hur du skickar en påminnelse via e-post från Marketo när ett avtal förblir osignerat efter en tidsperiod. Den här integreringen använder Adobe Sign för Salesforce, Marketo samt Marketo- och Salesforce-synkronisering. |
 
 ### Självstudiekurser för Document Cloud
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | April 2021 | [Styr webbupplevelsen av PDF:er och samla in analyser](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | Artikel | Publicerar din organisation PDF-filer på din webbplats? Lär dig hur du använder API:t Adobe PDF Embed för att styra utseendet, möjliggöra samarbete och samla in analyser om hur användare interagerar med PDF:er, inklusive hur lång tid som tillbringats på en sida och sökningar. |
-| April 2021 | [Hantera arbetsflöden för ekonomiska dokument med Adobe Document Services API:er i Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Läs om hur du kan använda Adobe Document Services API:er för Java Spring Boot-program och skapa en MVC-app (model-view-controller) som extraherar innehåll från PDF-dokument, konverterar det till andra dataformat som Excel, kombinerar flera PDF-filer och lösenordet skyddar resurserna. |
+| April 2021 | [Hantera arbetsflöden för ekonomiska dokument med Adobe Document Services API:er i Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Lär dig hur du kan använda Adobe Document Services API:er för Java™ Spring Boot-program. Bygg en MVC-app (model-view-controller) som extraherar innehåll från PDF-dokument, konverterar det till andra dataformat som Excel, kombinerar flera PDF-filer och lösenordet skyddar resurserna. |
 | April 2021 | [HR-dokumentflöden med Adobe Document Services API:er i Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | Självstudiekurs | Många företag behöver dokumentation om en ny anställd, till exempel arbetsplatsavtal för hemarbetspersonal. Traditionellt har företagen hanterat dessa dokument fysiskt i formulär som var svåra att hantera och lagra. När man går över till elektroniska dokument är PDF-filer ett idealiskt val eftersom de är säkrare och mindre ändringsbara än andra filtyper. Dessutom stöder de även digitala signaturer. |
 | April 2021 | [Avtalsarbetsflöden med Adobe Document Services API:er i Node.js](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/AgreementWorkflowsNodejs.html) | Självstudiekurs | Många affärstillämpningar och -processer kräver dokumentation som offerter och avtal. PDF-dokument gör filerna säkrare och mindre ändringsbara. De har också stöd för digitala signaturer så att era kunder snabbt och enkelt kan färdigställa sina dokument. Adobe Document Services API:er kan enkelt införliva PDF-funktioner i webbapplikationer. |
-| April 2021 | [Ange villkorligt innehåll](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) | Video | I den här videon får du lära dig hur du enkelt ställer in avsnitt i Microsoft Word-mallar med Adobe Document Generation Tagger för att dynamiskt inkludera eller exkludera avsnitt i ett dokument baserat på data med Adobe Document Generation API. |
-| April 2021 | [[dokumenttjänster] Ange numeriska beräkningstaggar - funktionsvideo](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) | Video | I den här videon får du lära dig hur du enkelt anger numeriska beräkningstaggar i Microsoft Word-mallar med Adobe Document Generation Tagger för att beräkna aggregeringar eller aritmetiska värden för datavärden med hjälp av Adobe Document Generation API. |
-| April 2021 | [Lägga till tabeller och listtaggar](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) | Video | I den här videon får du lära dig hur du enkelt lägger till tabeller och listtaggar i Microsoft Word-mallar med Adobe Document Generation Tagger för att dynamiskt lägga till tabell- eller listrader baserat på data med Adobe Document Generation API. |
-| April 2021 | [Lägga till bildtaggar](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) | Video | I den här videon får du lära dig hur du enkelt lägger till bildtaggar i Microsoft Word-mallar med Adobe Document Generation Tagger för att dynamiskt överföra bilder till dokument med Adobe Document Generation API. |
-| April 2021 | [Lägga till texttaggar](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) | Video | I den här videon får du lära dig hur du enkelt lägger till taggar i Microsoft Word-mallar med Adobe Document Generation Tagger för användning med Adobe Document Generation API. |
-| April 2021 | [Översikt över taggen för dokumentgenerering i Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) | Video | I den här videon får du se hur du taggar Word-mallar med Adobe Document Generation Tagger för Adobe Document Generation API. |
+| April 2021 | [Ange villkorligt innehåll](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) | Video | I den här videon får du lära dig hur du enkelt ställer in avsnitt i Microsoft® Word-mallar med Adobe Document Generation Tagger för att dynamiskt inkludera eller exkludera avsnitt i ett dokument baserat på data med Adobe Document Generation API. |
+| April 2021 | [[dokumenttjänster] Ange numeriska beräkningstaggar - funktionsvideo](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) | Video | Lär dig hur du enkelt anger numeriska beräkningstaggar i Microsoft® Word-mallar med Adobe Document Generation Tagger för att beräkna aggregeringar eller aritmetiska värden för datavärden med hjälp av Adobe Document Generation API. |
+| April 2021 | [Lägga till tabeller och listtaggar](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) | Video | Lär dig hur du enkelt lägger till tabeller och listtaggar i Microsoft® Word-mallar med Adobe Document Generation Tagger för att dynamiskt lägga till tabell- eller listrader baserat på data med Adobe Document Generation API. |
+| April 2021 | [Lägga till bildtaggar](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) | Video | Lär dig hur du enkelt lägger till bildtaggar i Microsoft® Word-mallar med Adobe Document Generation Tagger för att dynamiskt överföra bilder till dokument med Adobe Document Generation API. |
+| April 2021 | [Lägga till texttaggar](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) | Video | Lär dig hur du enkelt lägger till taggar i Microsoft® Word-mallar med Adobe Document Generation Tagger för Adobe Document Generation API. |
+| April 2021 | [Översikt över taggen för dokumentgenerering i Adobe](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) | Video | Lär dig hur du taggar [!DNL Word]-mallar med Adobe Document Generation Tagger för dokumentgenerering för användning med Adobe Document Generation API. |
 
 Mer information om Document Cloud finns i:
 
-* [Adobe Acrobat Learning Hub](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Sign Learning Hub](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
+* [Adobe Sign](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud studiematerial och support](https://helpx.adobe.com/support/document-cloud.html)
 
 <!-- ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
