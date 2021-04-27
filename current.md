@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
+source-git-commit: 070e4ff0a9c3ab6f1d16680edc6a2aa787be8f69
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5377'
+ht-degree: 13%
 
 ---
 
@@ -274,6 +274,10 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [SPA Editor och SPA - översikt - självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | Självstudiekurs | Lär dig hur en SPA, eller en SPA som körs utanför AEM, kan uppdateras för att konsumera och leverera innehåll som skapats i AEM. Den här självstudiekursen bygger på WKND GraphQL-appen, en React-app som använder AEM Content Fragment-innehåll framför AEM GraphQL-API:er. |
+| April 2021 | [Grundläggande om GraphQL-modellering](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | Video | Lär dig hur du definierar och använder innehållsfragment i Adobe Experience Manager (AEM) för användning med GraphQL. |
+| April 2021 | [Avancerad modellering för GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | Video | Lär dig hur du skapar relationer mellan Content Fragment Models i Adobe Experience Manager (AEM) och hur du använder dessa relationer i GraphQL-frågor. |
+| April 2021 | [Skapa GraphQL-frågor](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/creating-graphql-queries.html) | Video | Lär dig hur du skapar GraphQL-frågor för att returnera innehåll från Adobe Experience Manager (AEM) och hur du använder GraphiQL-verktyget för att snabbt testa, förfina och felsöka frågor. |
 | April 2021 | [Skapa först  [!UICONTROL Adaptive Form]](https://video.tv.adobe.com/v/332571) | Video | Lär dig hur du skapar ett första anpassat formulär. |
 | April 2021 | [Testa att skapa en lead i Salesforce vid klickningshändelse för en knapp](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/create-lead-click-event.html?lang=en#forms) | Video | Skapa lead-objekt genom att anropa formulärdatamodellens åtgärd för POST vid en knapps click-händelse. |
 | April 2021 | [[!UICONTROL AEM Forms]Integrera med [!DNL Salesforce]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/introduction.html?lang=en#forms) | Video | Introduktionsvideo för Forms + Salesforce-integrationskursen. |
