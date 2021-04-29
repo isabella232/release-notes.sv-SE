@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 0bea009a45c2c507b900bb8aea93a02d59c11c98
+source-git-commit: 88813a1c8a3510b84057dff39603fb30e252c64b
 workflow-type: tm+mt
-source-wordcount: '5376'
+source-wordcount: '5562'
 ht-degree: 13%
 
 ---
@@ -157,6 +157,7 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [Grundkonfiguration för datavyer i Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/basic-configuration-for-data-views.html) | Video | När du har skapat en [!UICONTROL Connection] i Customer Journey Analytics till datauppsättningar i Adobe Experience Platform måste du skapa en [!UICONTROL Data View] för den [!UICONTROL Connection], så att du kan använda data i Analysis Workspace on Platform. I den här videon får du hjälp med den grundläggande konfigurationen av en [!UICONTROL Data View]. |
 | April 2021 | [Användarinställningar i Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/user-preferences.html) | Video | På sidan Komponenter - användarinställningar kan du hantera inställningar för Analysis Workspace och dess relaterade komponenter på användarnivå. Du kan t.ex. välja en standardrapport och en färgpalett. Användarinställningarna gäller för alla nya projekt och paneler. |
 | April 2021 | [Använda komponentlistrutor i arbetsytan](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-component-dropdowns-in-workspace.html) | Video | Med komponentlistrutor kan du välja från en lista med kompatibla komponenter för att bygga din analys. Du kan också skapa komponenter direkt från listrutan om du inte hittar det du behöver. Dessa utrymmen fungerar även som släppzoner om du har ett mer avancerat användningsfall. |
 | April 2021 | [Hämta data till visualiseringar](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/getting-data-into-visualizations.html?lang=en#analysis-workspace) | Video | När du lägger till visualiseringar i Analysis Workspace finns det flera olika sätt att lägga till data till dem, beroende på visualiseringstyp. I den här videon visas de här metoderna.Alternativ |
@@ -274,6 +275,8 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [Installera 32 men bibliotek för installation av AEM Forms Linux](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/installing-aem-form-on-linux.html) | Artikel | Lär dig hur du installerar 32-bitars bibliotek så att AEM Forms kan användas vid Linux-installation. |
+| April 2021 | [Skapa konfiguration för Adobe Sign Cloud Services](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adobe-sign-cloud-configuration.html) | Artikel | Skapa Adobe Sign molntjänster för integrering med Adobe Sign med Adobe Sign API-program. |
 | April 2021 | [SPA Editor och SPA - översikt - självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | Självstudiekurs | Lär dig hur en SPA, eller en SPA som körs utanför AEM, kan uppdateras för att konsumera och leverera innehåll som skapats i AEM. Den här självstudiekursen bygger på WKND GraphQL-appen, en React-app som använder AEM Content Fragment-innehåll framför AEM GraphQL-API:er. |
 | April 2021 | [Grundläggande om GraphQL-modellering](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | Video | Lär dig hur du definierar och använder innehållsfragment i Adobe Experience Manager (AEM) för användning med GraphQL. |
 | April 2021 | [Avancerad modellering för GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | Video | Lär dig hur du skapar relationer mellan Content Fragment Models i Adobe Experience Manager (AEM) och hur du använder dessa relationer i GraphQL-frågor. |
@@ -406,6 +409,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 
 | Publicerad | Namn | Lösning | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [Hantera arbetsflöden för ekonomiska dokument med Adobe Document Services API:er i Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Självstudiekurs | Lär dig hur du kan använda Adobe Document Services API:er för [!DNL Java Spring Boot]-program och skapa en MVC-app (model-view-controller) som extraherar innehåll från PDF-dokument, konverterar det till andra dataformat som Excel, kombinerar flera PDF-filer och lösenordet skyddar resurserna. |
 | April 2021 | [Styr webbupplevelsen av PDF:er och samla in analyser](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | Artikel | Publicerar din organisation PDF-filer på din webbplats? Lär dig hur du använder API:t Adobe PDF Embed för att styra utseendet, möjliggöra samarbete och samla in analyser om hur användare interagerar med PDF:er, inklusive hur lång tid som tillbringats på en sida och sökningar. |
 | April 2021 | [Hantera arbetsflöden för ekonomiska dokument med Adobe Document Services API:er i Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Lär dig hur du kan använda Adobe Document Services API:er för Java™ Spring Boot-program. Bygg en MVC-app (model-view-controller) som extraherar innehåll från PDF-dokument, konverterar det till andra dataformat som Excel, kombinerar flera PDF-filer och lösenordet skyddar resurserna. |
 | April 2021 | [HR-dokumentflöden med Adobe Document Services API:er i Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | Självstudiekurs | Många företag behöver dokumentation om en ny anställd, till exempel arbetsplatsavtal för hemarbetspersonal. Traditionellt har företagen hanterat dessa dokument fysiskt i formulär som var svåra att hantera och lagra. När man går över till elektroniska dokument är PDF-filer ett idealiskt val eftersom de är säkrare och mindre ändringsbara än andra filtyper. Dessutom stöder de även digitala signaturer. |
