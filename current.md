@@ -6,7 +6,7 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: fe66c16cb5f021c1c3039c04a8498beef2eaeb9b
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
 workflow-type: tm+mt
 source-wordcount: '5561'
 ht-degree: 13%
@@ -166,7 +166,7 @@ Nya kurser, självstudiekurser och artiklar i [!DNL Analytics] och [!UICONTROL C
 
 ### Hjälpresurser för Analytics
 
-* [Adobe Analytics produktdokumentation och Tutorials](https://experienceleague.corp.adobe.com/docs/analytics.html)
+* [Adobe Analytics produktdokumentation och Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ## ![Ikon](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
@@ -423,8 +423,8 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 
 Mer information om Document Cloud finns i:
 
-* [Adobe Acrobat](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Sign](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
+* [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud studiematerial och support](https://helpx.adobe.com/support/document-cloud.html)
 
 <!-- ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
