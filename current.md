@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 2659558cae189222d57865d7027115f024dac44d
+source-git-commit: 7ba8d1728f066499f8b0cdb8fb5fad1abe83ec53
 workflow-type: tm+mt
-source-wordcount: '5561'
+source-wordcount: '5567'
 ht-degree: 13%
 
 ---
@@ -23,14 +23,14 @@ Experience Cloud lösningar och tjänster uppdateras varje månad. Den här sida
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och Experience League-dokumentationen.
 
-Senast uppdaterad: **29 april 2021**
+Senast uppdaterad: **11 maj 2021**
 
 * [Adobe – systemstatus](#status)
 * [Komponenter, tjänster och administration i Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [](#analytics) Analyser och  [Customer Journey Analytics](#cust-journey)
+* [](#analytics) Analytics och  [Customer Journey Analytics](#cust-journey)  (uppdaterad 11 maj 2021)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -99,8 +99,8 @@ Version från februari 2021 - Läs mer om de senaste funktionerna i [Offer decis
 
 Releasedatum: **22 april 2021**
 
-* [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Adobe Analytics](#aa-features)  (uppdaterad 11 maj 2021)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey)  (uppdaterad 11 maj 2021)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) 
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
@@ -111,7 +111,7 @@ Releasedatum: **22 april 2021**
 | Funktion | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
 | Kontrollpaneler för analyser: Anpassade datumintervall | 22 april 2021 | Tillåter användare av Analytics-mobilappen att använda anpassade datumintervall på sina styrkort, utöver de aktuella datumintervallen som är tillgängliga. |
-| Arbetsyta: Tidigare projektversioner | 13 maj 2021 | Gör att du kan läsa in tidigare versioner av ett Workspace-projekt för att ångra oönskade ändringar eller helt enkelt återställa en tidigare version. |
+| Arbetsyta: Tidigare projektversioner | 20 maj 2021 | Gör att du kan läsa in tidigare versioner av ett Workspace-projekt för att ångra oönskade ändringar eller helt enkelt återställa en tidigare version. |
 
 ### Nya funktioner i Customer Journey Analytics {#cust-journey}
 
@@ -120,7 +120,7 @@ Releasedatum: **22 april 2021**
 | Förbättrade CJA-datavyer | 22 april 2021 | Förbättrade datavyer ger stor flexibilitet när det gäller att skapa mätvärden och dimensioner från XDM-schemafält. Du kan använda ett strängfält som mått. Du kan använda ett numeriskt fält som en dimension, skapa flera mätvärden från samma fält med olika attribueringsmodeller och uppslagsfönster. Och ni kan göra mätvärden och dimensioner kompatibla över datavyer, dölja en komponent från att rapportera och inkludera/exkludera värden, använda paketering och mycket annat. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
 | Arbetsyta: Stöd för schemalagda rapporter | 7 april 2021 | Schemalagda rapporter stöds nu i CJA. |
 | Kontrollpaneler för analyser: Anpassade datumintervall | 22 april 2021 | Tillåter användare av Analytics-mobilappen att använda anpassade datumintervall på sina styrkort, utöver de aktuella datumintervallen som är tillgängliga. |
-| Arbetsyta: Tidigare projektversioner | 13 maj 2021 | Gör att du kan läsa in tidigare versioner av ett Workspace-projekt för att ångra oönskade ändringar eller helt enkelt återställa en tidigare version. |
+| Arbetsyta: Tidigare projektversioner | 20 maj 2021 | Gör att du kan läsa in tidigare versioner av ett Workspace-projekt för att ångra oönskade ändringar eller helt enkelt återställa en tidigare version. |
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
