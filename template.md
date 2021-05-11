@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
 workflow-type: tm+mt
 source-wordcount: '1318'
 ht-degree: 60%
@@ -161,7 +161,7 @@ Den senaste informationen finns i [Versionsinformation för Data Workbench](http
 * Korrigera
 * Korrigera
 
-I [AppMeasurement-versionshistorik](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) finns en versionshistorik för AppMeasurement på följande plattformar:
+I [AppMeasurement-versionshistorik](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) finns en versionshistorik för AppMeasurement på följande plattformar:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
@@ -307,7 +307,7 @@ Releasedatum: 21 februari 2020
    * API:er för omdirigeringsregler för landningssidor
 * **Cachelagring av formulärbeskrivare:** förbättringar av landningssidor och Forms.
 
-Mer information finns i Marketos versionsinformation för [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
+Mer information finns i Marketo versionsinformation för [februari 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
 
 ### Kommande funktioner
 
