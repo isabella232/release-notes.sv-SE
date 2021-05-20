@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 008fc1b3d5d5b0558075bdb767f2c280c8e3ae79
+source-git-commit: b77d72d109886a82aaebfb5f8d4cf7d6c529ae5e
 workflow-type: tm+mt
-source-wordcount: '5252'
+source-wordcount: '5248'
 ht-degree: 12%
 
 ---
@@ -93,8 +93,8 @@ Mars 2021-utgåvan - Läs mer om de senaste funktionerna i [Offer decisioning Re
 
 Lanseringsdatum: **20 maj 2021**
 
-* [Nya funktioner i Adobe Analytics](#aa-features)  (uppdaterad 11 maj 2021)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)  (uppdaterad 11 maj 2021)
+* [Nya funktioner i Adobe Analytics](#aa-features)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer ](#aa-notices)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
