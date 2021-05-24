@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b77d72d109886a82aaebfb5f8d4cf7d6c529ae5e
+source-git-commit: 150f9373eebeffd766dd98d8b2b4a83cb1277baf
 workflow-type: tm+mt
-source-wordcount: '5248'
+source-wordcount: '5247'
 ht-degree: 12%
 
 ---
@@ -398,7 +398,7 @@ Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https
 
 ### Uppdateringar om Core Marketo Engage
 
-Se [!DNL Marketo Engage] [versionsinformation](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en#release-notes) för information om senaste releaseschemat.
+Se [!DNL Marketo Engage] [versionsinformation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) för information om senaste releaseschemat.
 
 ## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
 
