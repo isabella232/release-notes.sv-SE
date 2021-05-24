@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9e29b645302ecff11108f8d265a1e4ec3e06a755
+source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
 workflow-type: tm+mt
-source-wordcount: '5229'
+source-wordcount: '5224'
 ht-degree: 12%
 
 ---
@@ -75,7 +75,7 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [ve
 
 ### Fler resurser för Journey Orchestration
 
-[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=en)
+[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
 ## ![](/assets/experience_platform_appicon_24.png) IconOffer Decision  {#offer-decisioning}
 
@@ -105,7 +105,7 @@ Lanseringsdatum: **20 maj 2021**
 | Funktion | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – Måldatum | Beskrivning |
 | ----------- | ---------- | ------- |
 | Arbetsyta: Tidigare projektversioner | 20 maj 2021 | Gör att du kan läsa in tidigare versioner av ett Workspace-projekt för att ångra oönskade ändringar eller helt enkelt återställa en tidigare version. [Läs mer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version) |
-| data warehouse API-begäranden har nu stöd för &quot;Timmar&quot; | 20 maj 2021 | data warehouse API begär supportdatum i formatet `Y-m-d h:m:s` när parametern `"fuzzyDates”:false` anges i begärandetexten. På så sätt kan du begära data från Data warehouse för den aktuella dagen, men tidigare måste dagen slutföras innan data returneras. [Läs mer](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
+| data warehouse API-begäranden har nu stöd för &quot;Timmar&quot; | 20 maj 2021 | data warehouse API begär supportdatum i formatet `Y-m-d h:m:s` när parametern `"fuzzyDates”:false` anges i begärandetexten. Med den här uppdateringen kan du begära Data warehouse data för den aktuella dagen, men tidigare måste dagen slutföras innan data returneras. [Läs mer](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -133,7 +133,7 @@ AN-240821; AN-243625; AN-243958; AN-248728; AN-249877; AN-250151; AN-251273; AN-
 | ----------- | ---------- | ---------- |
 | Webbläsaranvändaragenter återspeglar felaktiga operativsystemversioner för macOS | 19 maj 2021 | Alla större webbläsare rapporterar för närvarande felaktigt användare av macOS X 11 och senare som om de använder macOS 10, vilket anges i webbläsarens användaragentsträng. Det här problemet påverkar Adobe Analytics rapportering, eftersom användaragenten används för att fastställa enhetsinformation som operativsystem. Denna brist tycks föreligga för att förhindra kompatibilitetsproblem för vissa webbplatser. Se den här [Bugzilla-biljetten](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader..+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) för referens. Det är inte tydligt när eller om denna fråga kommer att åtgärdas.<br>I vissa webbläsare spelades MacOS 11 in korrekt. Det kan därför finnas viss trafik som matchar det här värdet. På grund av den felaktiga rapporteringen är filtrering för operativsystemet macOS 11 emellertid inte användbart.<br>Problemet är viktigt eftersom Apple från och med Safari i macOS 11 har uppdaterat tidsbegränsningarna för ITP-cookies för CNAME-implementeringar (se  [WebKit-blogginlägget](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Innan den här uppdateringen tillämpades dessa begränsningar endast på cookies på klientsidan som angetts via JavaScript. Denna brist gör det svårt att bedöma hur mycket trafik som använder OS 11 och påverkas därmed av ITP-ändringen. Du kan läsa mer om cookies och Adobe Analytics [här](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
 | Slutet av livscykeln för tre API-tjänster för analys | 19 maj 2021 | Den 18 augusti 2021 nådde följande API-tjänster för Analytics Legacy sitt slutdatum och avslutades. Alla integreringar som byggts med dessa tjänster slutade fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit en [Vanliga frågor om äldre API-versioner av fjärrskrivbordsversioner](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
-| 2021 ISO-regionuppdateringar | 13 maj 2021 | Adobe kommer att genomföra 2021 års ISO-regionuppdateringar den 21 maj 2021. Efter den här versionen bör du förvänta dig mindre uppdateringar. |
+| 2021 ISO-regionuppdateringar | 13 maj 2021 | Adobe kommer att genomföra 2021 års ISO-regionuppdateringar den 21 maj 2021. Efter den här versionen förväntas mindre uppdateringar visas. |
 | EOL för datakällor med fullständig databehandling | 12 april 2021 | Adobe planerar att ta bort datakällor med fullständig bearbetning den 31 juli 2021. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. |
 | Logga in uppdatering till [!UICONTROL Report Builder] | 9 april 2021 | 14 januari 2021 tog [!UICONTROL Report Builder]-inloggningsuppdateringarna bort beroenden till äldre tekniker och anpassade inloggningsprocessen till Experience Cloud. Experience Cloud använder ditt Enterprise ID (e-post och lösenord). För att säkerställa oavbruten åtkomst till [!UICONTROL Report Builder] måste du uppdatera tillägget [!UICONTROL Report Builder] till version 5.6.47 eller senare senast den 22 juli 2021. Report Builder version 5.6.47 och senare stöder endast inloggning på Experience Cloud och stöder inte enkel inloggning. |
 | Ändringar i datafeed och IP-adress för Data warehouse | 6 april 2021 | Från och med den 17 juni kommer dataflödena och leveranssystemet Data warehouse att flyttas inom datacentralerna i Adobe, vilket kan leda till att de externa IP-adresserna ändras. Adobe rekommenderar att du bekräftar att alla IP CIDR-block för datacentret där rapporter och feeds kommer finns i brandväggar för målsystem som du kontrollerar. [Här är en fullständig lista över IP-adressintervall som ska placeras i brandväggens tillåtelselista](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks). |
@@ -361,10 +361,10 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 Versionsinformation för [!DNL Adobe Advertising].
 
-* [Nya funktioner i Advertising Cloud DSP](#adcloud-dsp)
-* [Nya funktioner i Advertising Cloud Search](#adcloud-search)
+* [Nya funktioner i Advertising DSP](#adcloud-dsp)
+* [Nya funktioner i Advertising Search](#adcloud-search)
 
-### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nya funktioner i [!DNL Advertising DSP] {#adcloud-dsp}
 
 Senast uppdaterad: **19 maj 2021 för majversion 5**
 
@@ -374,7 +374,7 @@ Senast uppdaterad: **19 maj 2021 för majversion 5**
 
 {style=&quot;table-layout:auto&quot;}
 
-### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
+### Nya funktioner i [!DNL Advertising Search] {#adcloud-search}
 
 Senast uppdaterad: **19 maj 2021, för 18 maj-utgåvan**
 
@@ -409,7 +409,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Maj 2021 | [Skapa inbäddad e-signatur och dokumentupplevelser](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | Artikel | Lär dig hur du använder Adobe Sign API:er för att bädda in e-signaturer och dokumentupplevelser på era webbplattformar och i innehålls- och dokumenthanteringssystem. (Fyra delar.) |
-| Maj 2021 | [Automatisering av dokument med Adobe Sign för Microsoft Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) | Artikel | Lär dig hur du aktiverar och använder Adobe Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power Apps. Bygg arbetsflöden som automatiserar affärsprocesserna för godkännande och signering snabbt och säkert utan kod. (Fyra delar.) |
+| Maj 2021 | [Automatisering av dokument med Adobe Sign för Microsoft® Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artikel | Lär dig hur du aktiverar och använder Adobe Sign- och Adobe PDF-verktygsanslutningar för Microsoft® Power Apps. Bygg arbetsflöden som automatiserar affärsprocesserna för godkännande och signering snabbt och säkert utan kod. (Fyra delar.) |
 
 {style=&quot;table-layout:auto&quot;}
 
