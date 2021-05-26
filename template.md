@@ -4,11 +4,10 @@ description: Versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
-source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
+source-git-commit: 48000898226fa1d926948dedc64610cee0bc7f65
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 60%
+source-wordcount: '1316'
+ht-degree: 59%
 
 ---
 
@@ -30,14 +29,14 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 **Releasedatum: 2020**
 
 * [Adobe – systemstatus](#status)
-* [Experience Cloud-gränssnitt](#ecloud)
+* [Experience Cloud-gränssnitt ](#ecloud)
 * [Experience Platform](#platform)
-* [Analyser](#analytics)
+* [Analytics ](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Mål](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)  (länkar till lösningshjälp)
-* [Advertising Cloud](#adcloud)
+* [Reklam](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://helpx.adobe.com/se/primetime/user-guide.html)  (länkar till lösningshjälp)
@@ -51,7 +50,7 @@ Funktioner och korrigeringar.
 
 Se [Systemstatus för Adobe](https://status.adobe.com/).
 
-## Experience Cloud-gränssnitt{#ecloud} 
+## Experience Cloud-gränssnitt {#ecloud}
 
 Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies osv.).
 
@@ -99,7 +98,7 @@ Med Adobe [!UICONTROL Experience Platform,] kan du samordna enskilda kundresor i
 
 [Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
-### [!UICONTROL Mobile Services] och [!UICONTROL Mobile SDK]{#mobile}
+### [!UICONTROL Mobile Services] och [!UICONTROL Mobile SDK] {#mobile}
 
 **Funktioner**
 
@@ -116,13 +115,13 @@ Produktdokumentation finns i [Mobila tjänster](https://docs.adobe.com/content/h
 
 Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/overview.html) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
 
-## Analytics{#analytics} 
+## Analytics  {#analytics}
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Media Analytics SDK för iOS och Android (tidigare VHL SDK)](#aa-va)
-* [Viktiga meddelanden för Analytics-administratörer](analytics-important-notices.md) 
+* [Viktiga meddelanden för Analytics-administratörer ](analytics-important-notices.md)
 
 Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html).
 
@@ -245,7 +244,7 @@ Följande AEM dokumentationsuppsättningar har migrerats till en ny dokumentatio
 * Korrigera
 * Korrigera
 
-## Socialt {#soc}
+## Social {#soc}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
@@ -270,7 +269,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/se/support/campaign/classic.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.translate.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.translate.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## Reklam {#adcloud}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
