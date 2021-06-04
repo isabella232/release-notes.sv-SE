@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
+source-git-commit: 710ca78745979b414c4299ff20561b07bc698478
 workflow-type: tm+mt
 source-wordcount: '5224'
 ht-degree: 12%
@@ -409,7 +409,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Maj 2021 | [Skapa inbäddad e-signatur och dokumentupplevelser](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | Artikel | Lär dig hur du använder Adobe Sign API:er för att bädda in e-signaturer och dokumentupplevelser på era webbplattformar och i innehålls- och dokumenthanteringssystem. (Fyra delar.) |
-| Maj 2021 | [Automatisering av dokument med Adobe Sign för Microsoft® Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artikel | Lär dig hur du aktiverar och använder Adobe Sign- och Adobe PDF-verktygsanslutningar för Microsoft® Power Apps. Bygg arbetsflöden som automatiserar affärsprocesserna för godkännande och signering snabbt och säkert utan kod. (Fyra delar.) |
+| Maj 2021 | [Automatisering av dokument med Adobe Sign för Microsoft® Power Platform](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | Artikel | Lär dig hur du aktiverar och använder Adobe Sign- och Adobe PDF-verktygsanslutningar för Microsoft® Power Apps. Bygg arbetsflöden som automatiserar affärsprocesserna för godkännande och signering snabbt och säkert utan kod. (Fyra delar.) |
 
 {style=&quot;table-layout:auto&quot;}
 
