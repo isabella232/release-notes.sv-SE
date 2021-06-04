@@ -4,10 +4,10 @@ description: Versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-source-git-commit: 48000898226fa1d926948dedc64610cee0bc7f65
+source-git-commit: e01e0ceec2a3aec43f7a64b7c2f3fb9e24b76cc9
 workflow-type: tm+mt
 source-wordcount: '1316'
-ht-degree: 59%
+ht-degree: 35%
 
 ---
 
@@ -35,14 +35,14 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Mål](https://docs.adobe.com/content/help/sv-SE/target/using/release-notes/target-release-notes.html)  (länkar till lösningshjälp)
+* [Mål](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)  (länkar till lösningshjälp)
 * [Reklam](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
-* [Primetime](https://helpx.adobe.com/se/primetime/user-guide.html)  (länkar till lösningshjälp)
+* [Primetime](https://experienceleague.adobe.com/docs/primetime.html)  (länkar till lösningshjälp)
 * [Ny dokumentation och självstudiekurser](#selfhelp)
 
-Letar du efter startsidan i hjälpen? Se [Adobe Experience Cloud-dokumentationen](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
+Letar du efter startsidan i hjälpen? Se [Adobe Experience Cloud-dokumentationen](https://experienceleague.adobe.com/docs/home.html?lang=en).
 
 ## Adobe – systemstatus {#status}
 
@@ -61,20 +61,20 @@ Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive a
 
 Funktioner och korrigeringar.
 
-Produktdokumentation finns i [Experience Cloud interface](https://docs.adobe.com/content/help/sv-SE/core-services/interface/experience-cloud.html)
+Produktdokumentation finns i [Experience Cloud interface](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)
 
 ### Administration och utvecklare {#admin}
 
 Funktioner och korrigeringar.
 
-Produktdokumentation finns i [Hantera användare och produkter](https://docs.adobe.com/content/help/sv-SE/core-services/interface/manage-users-and-products/admin-getting-started.html).
+Produktdokumentation finns i [Hantera användare och produkter](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html?lang=en).
 
 ## ![Ikon för](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] och säkerhetsbulletiner.
 
 * [Experience Cloud ID-tjänst](#ecid)
-* [Versionsinformation för Experience Platform](https://docs.adobe.com/content/help/sv-SE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
+* [Versionsinformation för Experience Platform](https://www.adobe.com/go/platform-release-notes-en)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services och SDK:er för mobiler](#mobile)
@@ -84,11 +84,11 @@ Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience 
 
 Funktioner och korrigeringar.
 
-Mer produktdokumentation finns i [Experience Cloud ID-tjänst](https://docs.adobe.com/content/help/sv-SE/id-service/using/home.html).
+Mer produktdokumentation finns i [Experience Cloud ID-tjänst](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
-Se [Experience Platform Launch](https://docs.adobe.com/content/help/sv-SE/launch/using/intro/release-notes/current.html) för versionsinformation och produktdokumentation.
+Se [Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=en) för versionsinformation och produktdokumentation.
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
@@ -96,7 +96,7 @@ Med Adobe [!UICONTROL Experience Platform,] kan du samordna enskilda kundresor i
 
 #### Ytterligare resurser för [!UICONTROL Journey Orchestration]
 
-[Dokumentation](https://docs.adobe.com/content/help/sv-SE/journeys/using/journey-orchestration-home.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/journeys/using/release-notes/release-notes.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/sv-SE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=sv) – [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
 ### [!UICONTROL Mobile Services] och [!UICONTROL Mobile SDK] {#mobile}
 
@@ -111,19 +111,19 @@ Beskrivning av nya funktioner. Använd rubriker eller en tabell.
 * Korrigera
 * Korrigera
 
-Produktdokumentation finns i [Mobila tjänster](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
+Produktdokumentation finns i [Mobila tjänster](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en).
 
-Mer information om SDK för mobiler finns i: [Android SDK 4.x för Experience Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/android/overview.html) och [iOS SDK 4.x för Experience Cloud Solutions](https://docs.adobe.com/content/help/sv-SE/mobile-services/ios/overview.html).
+Mer information om SDK för mobiler finns i: [Android™ SDK 4.x för Experience Solutions](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en) och [iOS SDK 4.x för Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en).
 
 ## Analytics  {#analytics}
 
 Nya funktioner och korrigeringar i Adobe Analytics:
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Media Analytics SDK för iOS och Android (tidigare VHL SDK)](#aa-va)
+* [Media Analytics SDK för iOS och Android™ (tidigare VHL SDK)](#aa-va)
 * [Viktiga meddelanden för Analytics-administratörer ](analytics-important-notices.md)
 
-Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html).
+Produktdokumentation finns i [Adobe Analytics Help Home](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=en).
 
 ### Nya funktioner i Adobe Analytics {#aa-features}
 
@@ -133,7 +133,7 @@ Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK för  [!DNL iOS] &amp;  [!DNL Android] (tidigare VHL SDK)  {#aa-va}
+### [!DNL Media Analytics] SDK för  [!DNL iOS] &amp;  [!DNL Android™] (tidigare VHL SDK)  {#aa-va}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
@@ -143,7 +143,7 @@ Produktdokumentation finns i [Adobe Analytics Help Home](https://docs.adobe.com/
 
 ### Data Workbench {#aa-dwb}
 
-Den senaste informationen finns i [Versionsinformation för Data Workbench](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html).
+Den senaste informationen finns i [Versionsinformation för Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/release-notes/release-notes.html?lang=en).
 
 ### AppMeasurement {#appm}
 
@@ -164,14 +164,14 @@ I [AppMeasurement-versionshistorik](https://experienceleague.adobe.com/docs/anal
 
 * [!DNL JavaScript]
 * [!DNL iOS]
-* [!DNL Android]
+* [!DNL Android™]
 * [!DNL Flash-Flex]
-* [!DNL OSX]
+* [!DNL OS X]
 * [!DNL Windows Phone,][!DNL XBOX,][!DNL Silverlight,] och [!DNL .NET]
-* [!DNL BlackBerry]
-* Java
+* [!DNL BlackBerry®]
+* Java™
 * PHP
-* Symbian
+* Symbian™
 
 ## Audience Manager {#aam}
 
@@ -221,13 +221,13 @@ Följande AEM dokumentationsuppsättningar har migrerats till en ny dokumentatio
 
 ### Ytterligare resurser
 
-* [AEM 6.4 Learn &amp; Support - startsida](https://helpx.adobe.com/se/support/experience-manager/6-4.html)
+* [AEM 6.4 Learn &amp; Support - startsida](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [AEM 6.3 Learn &amp; Support - startsida](https://helpx.adobe.com/se/support/experience-manager/6-3.html)
-* [AEM 6.2 Learn &amp; Support - startsida](https://helpx.adobe.com/se/support/experience-manager/6-2.html)
-* [Användarhandbok för Cloud Manager](https://docs.adobe.com/content/help/sv-SE/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
-* [Äldre versioner av AEM](https://helpx.adobe.com/se/experience-manager/aem-previous-versions.html)
-* [Versionsinformation om Scene7 Publishing System](https://docs.adobe.com/content/help/sv-SE/dynamic-media-developer-resources/release-notes/s7rn2017.translate.html)
-* [Versionsinformation för Livefyre](https://docs.adobe.com/content/help/sv-SE/livefyre/using/release-notes/c-rn.html)
+* [AEM 6.2 Learn &amp; Support - startsida](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
+* [Användarhandbok för Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
+* [Äldre versioner av AEM](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en)
+* [Versionsinformation om Scene7 Publishing System](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
+* [Versionsinformation för Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
 
 ### [!DNL Livefyre] {#livefyre}
 
@@ -265,9 +265,9 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Ytterligare resurser
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/se/support/campaign/standard.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-notes.translate.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanering](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/release-notes/release-planning.translate.html)
-* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/se/support/campaign/classic.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/release-notes/latest-release.translate.html) – [Instruktionsvideor](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.translate.html) – [Versionsinformation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/release-notes.html)
+* Adobe Campaign Standard: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard.html) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) – [Versionsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en)
+* Adobe Campaign Classic: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic.html) – [Versionsinformation](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
 
 ## Reklam {#adcloud}
 
@@ -299,7 +299,7 @@ Marketo Engage är en komplett lösning för lead-hantering och B2B-marknadsför
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft Dynamics  _Change Owner i_ Microsoft Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
+* **Microsoft® Dynamics  _Change Owner i Microsoft®_ Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
 * **Förbättringar av API-anrop:**
    * API:er för användarhantering
    * API:er för anpassade objektscheman
@@ -320,14 +320,14 @@ Följande funktioner släpps under kvartalet:
 
 ### Meddelanden
 
-**Marketo Engage Success Center:** Startar i februari 2020. Success Center är ett hjälpcenter i produkten som gör att du kan söka i produktdokumentation och communityn, starta instruktionsguider, komma åt hjälpavsnitt och mycket annat. Obs! Den här funktionen lanseras som en betaversion i ANZ och lanseras i Nordamerika senare under kvartalet.
+**Marketo Engage Success Center:** Startar i februari 2020. Success Center är ett hjälpcenter i produkten som gör att du kan söka i produktdokumentation och communityn, starta instruktionsguider, komma åt hjälpavsnitt och mycket annat. Obs! Den här funktionen lanseras som en betaversion i ANZ och kommer att lanseras i Nordamerika senare under kvartalet.
 
 ### Utgånget
 
 * **Parametern &quot;_method&quot; för resurs-API:t:** Efter september 2020 kommer Resurs-API-slutpunkter inte längre acceptera &quot;_method&quot; för att skicka frågeparametrar i en POST för att kringgå URI-längdbegränsningar.
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
 
-Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://docs.marketo.com/x/CgA6Ag).
+Kumulativ och historisk versionsinformation finns i [Marketos versionsinformation](https://experienceleague.adobe.com/docs/marketo/using/home.html).
 
 ### Nya kurser och självstudiekurser för lösningens namn
 
@@ -335,13 +335,13 @@ Nya videofilmer, självstudiekurser och kurser som publicerats den senaste måna
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
-| Datum, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
+| Datum, 2020 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | Video | Beskrivning |
