@@ -2,9 +2,9 @@
 title: Versionsinformation om Adobe Experience Cloud
 description: Versionsinformation om Experience Cloud
 doc-type: release notes
-last-update: March 2020
+last-update: June 2021
 author: mfrei
-source-git-commit: e01e0ceec2a3aec43f7a64b7c2f3fb9e24b76cc9
+source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 35%
@@ -12,7 +12,7 @@ ht-degree: 35%
 ---
 
 
-# TEMPLATE - Adobe Experience Cloud Release Notes - Month 2020
+# TEMPLATE - Adobe Experience Cloud Release Notes - Month 2021
 
 ![Banderoll](/assets/experience-cloud-banner-3.png)
 
@@ -26,7 +26,7 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 >
 >Prenumerera på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) om du vill få meddelanden via e-post om kommande versioner. Ny information som publiceras efter lanseringen markeras med publiceringsdatumet.
 
-**Releasedatum: 2020**
+**Releasedatum: 2021**
 
 * [Adobe – systemstatus](#status)
 * [Experience Cloud-gränssnitt ](#ecloud)
@@ -267,7 +267,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 * Adobe Campaign Standard: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard.html) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) – [Versionsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en)
 * Adobe Campaign Classic: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic.html) – [Versionsinformation](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
+* Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
 
 ## Reklam {#adcloud}
 
