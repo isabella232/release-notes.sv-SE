@@ -1,9 +1,8 @@
 ---
-source-git-commit: 13ad94d323a3ac655b93f10b11c5245fe00ee379
+source-git-commit: 0d8d7c330a0d74768a255e765721b88abcc86a5a
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '447'
-ht-degree: 85%
+ht-degree: 81%
 
 ---
 # Artikel om att bidra
@@ -13,17 +12,17 @@ Vi välkomnar bidrag från både vårt community och från anställda hos Adobe 
 ## Adobes uppförandekod gällande öppen källkod
 
 
-Detta projekt har antagit [Adobe Open Source Code of Conduct](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) eller [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). Mer information finns i artikeln [Contributing](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
+Detta projekt har antagit [Adobe Open Source Code of Conduct](https://experienceleague.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) eller [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). Mer information finns i artikeln [Contributing](https://experienceleague.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
 
 ## Om dina bidrag till innehåll hos Adobe
 
-Se [Guiden för bidragsgivare till Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Se [Guiden för bidragsgivare till Adobe Docs](https://experienceleague.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
 Hur du bidrar beror på vem du är och vilken typ av ändringar du vill bidra med:
 
 ### Mindre ändringar
 
-Om du bidrar med mindre uppdateringar, för att du helt enkelt vill, bör du gå till artikeln och klicka på länken **Redigera** i den som sedan tar dig till artikelns GitHub-källa. Använd sedan helt enkelt GitHub-gränssnittet för att göra uppdateringarna. Mer information finns i den allmänna [guiden för bidragsgivare till Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Om du bidrar med mindre uppdateringar, för att du helt enkelt vill, bör du gå till artikeln och klicka på länken **Redigera** i den som sedan tar dig till artikelns GitHub-källa. Använd sedan helt enkelt GitHub-gränssnittet för att göra uppdateringarna. Mer information finns i den allmänna [guiden för bidragsgivare till Adobe Docs](https://experienceleague.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
 Mindre korrigeringar och förtydliganden som du lämnar in för dokumentation och kodexempel i den här databasen omfattas av Adobes användarvillkor.
 
@@ -43,7 +42,7 @@ Om du är teknikskribent, programchef eller utvecklare för en Adobe Experience 
 
 Deltagare i vårt community kan använda GitHub-gränssnittet för grundläggande redigeringar eller förgrena databasen för att göra större bidrag.
 
-Mer information finns i [guiden för bidragsgivare till Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html).
+Mer information finns i [guiden för bidragsgivare till Adobe Docs](https://experienceleague.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html).
 
 ## Så använder du markdown för att formatera ditt ämne
 
