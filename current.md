@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
+source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
 workflow-type: tm+mt
-source-wordcount: '4904'
+source-wordcount: '4947'
 ht-degree: 14%
 
 ---
@@ -29,11 +29,11 @@ Senaste uppdatering: **11 juni 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [](#analytics) Analyser och  [Customer Journey Analytics](#cust-journey)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Reklam](#adcloud)
+* [[!DNL Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -45,7 +45,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 ## ![](/assets/ec_appicon_24.png) IkonExperience Cloud Central UI-komponenter {#ecloud}
 
-Experience Cloud Central Interface Components innehåller uppdateringar för självhjälp, sökning och inställningar för användarkonton. Det innehåller även uppdateringar av funktioner och tjänster för olika tillämpningar som nås från det enhetliga gränssnittshuvudet, t.ex. kundattribut och målgruppsbibliotek.
+Experience Cloud Central Interface Components innehåller uppdateringar som du kan få åtkomst till från det enhetliga produkthuvudet, som självhjälp, sökning och inställningar för användarkonton. Uppdateringar av personer, platser (plats) och produkthantering finns här.
 
 | Funktion | Datum | Beskrivning |
 | ------- | ------- | ------- |
@@ -54,6 +54,11 @@ Experience Cloud Central Interface Components innehåller uppdateringar för sj�
 
 {style=&quot;table-layout:auto&quot;}
 
+**Fler hjälpresurser**
+
+* Administrationshjälp för [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) och användarhantering
+* Hjälp- och versionsinformation för [Platser - Platstjänst](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
+* Hjälp om [Personer - Kundattribut och målgruppsbibliotek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 Produktdokumentation om de här funktionerna finns i [Experience Cloud Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
 
 ## ![Ikon](/assets/adobe.png) Adobe – systemstatus {#status}
