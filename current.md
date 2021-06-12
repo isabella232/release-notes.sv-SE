@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
+source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
 workflow-type: tm+mt
 source-wordcount: '4947'
 ht-degree: 14%
@@ -413,7 +413,7 @@ Mer information om Document Cloud finns i:
 ## ![](/assets/creative-cloud-24.png) IkonCreative Cloud Enterprise  {#creative-cloud}
 
 | Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
+| ----------| --------- | --------- | --------- |
 | Juni 2021 | [Prova din hand på Fresco på iPad (och iPhone)](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html) | Video | Utforska en helt ny värld av digital ritning och målning med Adobe Fresco i denna 15-minuters praktiska workshop. Lär dig arbeta snabbt med lager och urklippsmasker för att anpassa färg och texturer till en grundform. |
 | Juni 2021 | [Avkodning av alfabet-soppa för grafikformat](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html) | Video | PG-, PNG-, SVG-, GIF- och EPS-filer används ofta i design, vissa för webbsidor, andra för presentationer, publikationer och kreativa projekt. Men... vad menar de, och vilka ska du välja? Ta reda på det i den här 15-minuters praktiska workshopen. |
 
