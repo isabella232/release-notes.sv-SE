@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
+source-git-commit: 823476f3b4553a0bd9aae8670652bec1259cd84f
 workflow-type: tm+mt
-source-wordcount: '4795'
+source-wordcount: '4799'
 ht-degree: 14%
 
 ---
@@ -213,16 +213,16 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager (AEM). Adob
 >
 >Adobe rekommenderar att du går till sidan [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla dig uppdaterad om versionsinformation.
 
-### AEM produktuppdateringar
+### Experience Manager produktuppdateringar
 
 * **Experience Manager 6.5.9.0**
 
-   AEM 6.5, Service Pack 9.0 (6.5.9.0 släppt 27 maj 2021) är en viktig uppdatering som innehåller nya funktioner, viktiga förbättringar som kunderna efterfrågat, förbättrade prestanda, stabilitet och säkerhet som släppts sedan den allmänna tillgängligheten av den AEM 6.5 april 2019.
+   Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 släppt 27 maj 2021) är en viktig uppdatering som innehåller nya funktioner, viktiga förbättringar som kunderna efterfrågat, förbättrade prestanda, stabilitet och säkerhet som släppts sedan den allmänna tillgängligheten av AEM 6.5 april 2019.
 
    * [Versionsinformation](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
    * [AEM Forms-releaser](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
-### AEM produktreleaser
+### Experience Manager produktreleaser
 
 * **Experience Manager as a Cloud Service**
 
@@ -251,7 +251,7 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager (AEM). Adob
 
 
 
-### **AEM**
+### **Experience Manager Community**
 
 * [Samköp av alla bloggar i Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
