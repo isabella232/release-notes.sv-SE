@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
+source-git-commit: d45e7c6a5329d4e6a211edaeb607547bfb297e4e
 workflow-type: tm+mt
-source-wordcount: '4947'
+source-wordcount: '4927'
 ht-degree: 14%
 
 ---
@@ -58,8 +58,7 @@ Experience Cloud Central Interface Components innehåller uppdateringar som du k
 
 * Administrationshjälp för [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) och användarhantering
 * Hjälp- och versionsinformation för [Platser - Platstjänst](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
-* Hjälp om [Personer - Kundattribut och målgruppsbibliotek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
-Produktdokumentation om de här funktionerna finns i [Experience Cloud Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
+* Hjälp om [Personer - Kundattribut och målgruppsbibliotek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en).
 
 ## ![Ikon](/assets/adobe.png) Adobe – systemstatus {#status}
 
