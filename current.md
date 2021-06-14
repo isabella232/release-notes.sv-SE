@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 26fb9b46a6cf48db7cd98a75439f35a98e342898
+source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
 workflow-type: tm+mt
-source-wordcount: '4927'
+source-wordcount: '4795'
 ht-degree: 14%
 
 ---
@@ -235,13 +235,7 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager (AEM). Adob
       * [Experience Manager som Cloud Service SDK Build Analyzer Maven Plugin](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Uppdatera dina maven-projekt till den senaste versionen, som innehåller en inaktuell Java™ API-kontroll och andra förbättringar.
    * **Experience Manager Sites as a Cloud Service**
 
-      * **GraphQL-slutpunkter:** det går nu att aktivera Experience Manager GraphQL API för enskilda Experience Manager Sites-konfigurationer och att skapa anpassade GraphQL-slutpunkter för dessa konfigurationer med ett nytt GraphQL-konsolgränssnitt. Användargränssnittet tillåter även hantering av GraphQL-slutpunkter.
-      * **Innehållsmodeller, förbättrad datatyp för datum och tid:** det går nu att konfigurera datumtypen Datum och tid så att endast datum-, tid- eller datum- och tidsinformation kan redigeras.
-      * **Innehållsmodeller, förbättrad taggdatatyp:** det går nu att konfigurera datatypen Taggar så att du kan skapa en eller flera taggar.
-      * **Innehållsmodeller, ny flik, platshållardatatyp:** den nya tabbplatshållardatatypen gör att du kan gruppera datatyper i avsnitt som återges under flikar i innehållsfragmentredigeraren.
-   * **Experience Manager Assets as a Cloud Service**
-
-      Nu kan du verifiera innehåll på en ny [förhandsgranskningsnivå](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) för att simulera det slutliga utseendet och utseendet som på publiceringsnivån. Den här nya funktionen aktiveras av guiden Hantera publikation för Experience Manager Sites, som gör att du kan välja ett publiceringsmål mellan [!UICONTROL Publish] eller [!UICONTROL Preview]. Du kan sedan komma åt upplevelser på [!UICONTROL Preview] via en dedikerad URL. Efter valideringen [!UICONTROL Preview] kan innehåll publiceras från [!UICONTROL Author] till [!UICONTROL Publish] som vanligt. Att aktivera tjänsten [!UICONTROL Preview] i Experience Manager som Cloud Service kommer gradvis att byggas ut de närmaste veckorna.
+      Nu kan du verifiera innehåll på en ny [förhandsgranskningsnivå](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) för att simulera det slutliga utseendet och utseendet som på publiceringsnivån. Den nya funktionen aktiveras av guiden Hantera publikation för Experience Manager Sites, där du kan välja ett publiceringsmål mellan [!UICONTROL Publish] eller [!UICONTROL Preview]. Du kan sedan komma åt upplevelser på [!UICONTROL Preview] via en dedikerad URL. Efter valideringen [!UICONTROL Preview] kan du publicera innehåll från [!UICONTROL Author] till [!UICONTROL Publish] som vanligt. Att aktivera tjänsten [!UICONTROL Preview] i Experience Manager som Cloud Service kommer gradvis att byggas ut de närmaste veckorna.
 
    * **Experience Manager Assets as a Cloud Service**
 
@@ -254,7 +248,6 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager (AEM). Adob
       Nya funktioner i [!UICONTROL Dynamic Media]:
 
       * Med optimering av pixelproportioner för smarta bildbehandlingsenheter (DPR) och nätverksbandbredd kan du leverera bilder av högsta kvalitet effektivt på enheter med högupplösta skärmar och begränsad nätverksbandbredd. Se [Vanliga frågor om smart bildbehandling](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
-
 
 
 
