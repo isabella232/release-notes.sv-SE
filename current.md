@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b0ad7a5c45760fba6a1a4e7e0f6dbbedbef93355
+source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
 workflow-type: tm+mt
-source-wordcount: '4798'
+source-wordcount: '4811'
 ht-degree: 14%
 
 ---
@@ -40,7 +40,7 @@ Senaste uppdatering: **14 juni 2021**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
-* [Creative Cloud Enterprise](#creative-cloud)
+* [Creative Cloud för företag](#creative-cloud)
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
 
@@ -403,7 +403,9 @@ Mer information om Document Cloud finns i:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud studiematerial och support](https://helpx.adobe.com/support/document-cloud.html)
 
-## ![](/assets/creative-cloud-24.png) IkonCreative Cloud Enterprise  {#creative-cloud}
+## ![](/assets/creative-cloud-24.png) IkonCreative Cloud for enterprise  {#creative-cloud}
+
+Nya videor, självstudiekurser eller kurser som publicerats för Creative Cloud for enterprise.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | ----------| --------- | --------- | --------- |
