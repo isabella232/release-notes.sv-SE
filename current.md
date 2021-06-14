@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 823476f3b4553a0bd9aae8670652bec1259cd84f
+source-git-commit: b0ad7a5c45760fba6a1a4e7e0f6dbbedbef93355
 workflow-type: tm+mt
-source-wordcount: '4799'
+source-wordcount: '4798'
 ht-degree: 14%
 
 ---
@@ -23,7 +23,7 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och Experience League-dokumentationen.
 
-Senaste uppdatering: **11 juni 2021**
+Senaste uppdatering: **14 juni 2021**
 
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
 * [Adobe – systemstatus](#status)
@@ -311,11 +311,11 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
-* **Nya Adobe Campaign v8** med betydande förbättringar vad gäller infrastruktur, säkerhet, leveransbarhet och övervakning. Genom att använda [!DNL Snowflake], en molndatabasteknik, förbättrar Adobe Campaign dramatiskt sin skala och hastighet, med möjlighet att hantera ett större antal kundprofiler, samt mycket högre leveransfrekvenser och transaktioner per timme. Läs mer i [Campaign v8-dokumentationen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
+* **Nya Adobe Campaign v8** erbjuder en avsevärd förbättring av infrastruktur, säkerhet, leveransbarhet och övervakning. Adobe Campaign v8 förbättrar skalan och hastigheten dramatiskt med möjlighet att hantera ett större antal kundprofiler, samt mycket högre leveransfrekvenser och transaktioner per timme. Läs mer i [Campaign v8-dokumentationen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
 
-* **Adobe Campaign Classic version** 21.1.3: Läs mer i versionsinformationen om  [Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
+* **Adobe Campaign Classic version 7.2.1.3:** Läs mer i versionsinformationen [ om ](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)Campaign Classic v7.
 
-* **Adobe Campaign Standard 21.2-utgåvan**: Läs mer i  [Campaign Standardens versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html).
+* **Adobe Campaign Standard 21.2:** Läs mer i  [Campaign Standardens versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en).
 
 ### Nya [!UICONTROL Campaign] kurser och självstudiekurser {#tutorials-campaign}
 
