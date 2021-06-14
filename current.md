@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
+source-git-commit: c6aea555356863f7674dcda54fad19ea31394775
 workflow-type: tm+mt
-source-wordcount: '4811'
+source-wordcount: '4815'
 ht-degree: 14%
 
 ---
@@ -21,7 +21,7 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 
 >[!NOTE]
 >
->Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och Experience League-dokumentationen.
+>Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
 Senaste uppdatering: **14 juni 2021**
 
@@ -51,7 +51,7 @@ Experience Cloud Central Interface Components innehåller uppdateringar som du k
 | Funktion | Datum | Beskrivning |
 | ------- | ------- | ------- |
 | Stöd för enkel inloggning för Adobe Federated ID:n | 17 juni 2021 | Om du använder Federated ID:n kan du logga in på Experience Cloud utan att behöva ange en e-postadress eller ett lösenord. Om du vill använda den här funktionen lägger du till **#/sso:@domain** i Experience Cloud-URL:en. <br><br>Anta till exempel att du äger domänen  **adobeccustomer.** comand och vill logga in på Adobe Analytics. URL:en skulle vara: **https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**. |
-| Experience League Search | 1 juni 2021 | Experience League dokumentationssökning har förbättrats. Navigera till [Experience League](https://experienceleague.adobe.com/docs/?lang=en) och använd fältet **[!UICONTROL Search]** för att hitta självstudiekurser, dokumentation, kurser med mera. |
+| Experience League Search | 1 juni 2021 | Dokumentationssökningen i Experience League har förbättrats. Navigera till [Experience League](https://experienceleague.adobe.com/docs/?lang=en) och använd fältet **[!UICONTROL Search]** för att hitta självstudiekurser, dokumentation, kurser med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -89,7 +89,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 | Juni 2021 | [Skapa datatyper](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | Video | Lär dig hur du skapar egna datatyper i Adobe Experience Platform för användning i XDM-scheman (Experience Data Model). |
 | Juni 2021 | [Konvertera din datamodell till en upplevelsedatamodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | Video | Lär dig hur dataarkitekter kan ta sin befintliga transaktionsdatamodell och konvertera den till en Experience Data Model. I den här videon visas skillnaden i modelleringsmetoder med hjälp av entitetsrelationsdiagram. |
 | Juni 2021 | [Planera din datamodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | Video | Lär dig vad du ska göra innan du börjar skapa scheman i Adobe Experience Platform. Dokumentera era användningsexempel, förstå er plattformslicens, veta vilka produktsäkerhetsutkast och identifiera vilka data ni ska importera innan ni slutför er datamodell. |
-| Juni 2021 | [Tableau](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Video | Lär dig hur du ansluter till [!UICONTROL Query Service] från olika skrivbordsklientprogram som stöder `PostgreSQL`-protokoll och hur du använder `PostgreSQL`-verktyg och drivrutiner för att ansluta till och skriva frågor. |
+| Juni 2021 | [Anslut tabell till frågetjänst](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Video | Lär dig hur du ansluter till [!UICONTROL Query Service] från olika skrivbordsklientprogram som stöder `PostgreSQL`-protokoll och hur du använder `PostgreSQL`-verktyg och drivrutiner för att ansluta till och skriva frågor. |
 | Juni 2021 | [Adobe-definierade funktioner](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | Video | Lär dig hur du använder Adobe-definierade funktioner i Adobe Experience Platform [!UICONTROL Query Service] för att utföra vanliga affärsrelaterade uppgifter på Experience Event-data. |
 | Juni 2021 | [Utforska data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | Video | Lär dig hur du validerar inkapslade data, förhandsgranskar data och utforskar statistiska och analytiska egenskaper för data med hjälp av SQL-funktioner. |
 | Juni 2021 | [Översikt över frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | Video | Läs mer om Query Service i Adobe Experience Platform och hur det hjälper er att förstå kundbeteenden och generera slagkraftiga insikter. |
