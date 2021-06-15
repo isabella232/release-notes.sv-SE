@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c6aea555356863f7674dcda54fad19ea31394775
+source-git-commit: 4fc39c45e2b9eef506acbbaa04bf7302b53003fa
 workflow-type: tm+mt
-source-wordcount: '4815'
+source-wordcount: '4826'
 ht-degree: 14%
 
 ---
@@ -80,20 +80,20 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Förbered data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html) | Video | Lär dig hur du rensar, förbereder och kombinerar data från flera datauppsättningar för att skapa en datauppsättning med hjälp av funktionerna Skapa tabell som (CTAS) och Spark SQL för rapportering och instrumentpaneler. |
+| Juni 2021 | [Förbered data med frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html) | Video | Lär dig hur du rensar, förbereder och kombinerar data från flera datauppsättningar för att skapa en datauppsättning med hjälp av funktionerna Skapa tabell som (CTAS) och Spark SQL för rapportering och instrumentpaneler. |
 | Juni 2021 | [Kopiera scheman mellan sandlådor](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/copy-schemas-between-sandboxes.html) | Video | Lär dig hur du kopierar ett schema från en sandlåda till en annan i Adobe Experience Platform med [!UICONTROL Export/Import Schema API]. Bygg och testa dina scheman i utvecklingssandlådor och kopiera dem sedan till produktion. |
 | Juni 2021 | [Uppdatera scheman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/update-schemas.html) | Video | Lär dig grunderna som du bör känna till när du uppdaterar befintliga scheman i Adobe Experience Platform. |
 | Juni 2021 | [Byggstenar för schema](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schema-building-blocks.html) | Video | Lär dig grunderna i byggstenarna i XDM-scheman (Experience Data Model), inklusive fält, datatyper, schemafältgrupper, klasser och beteenden. |
-| Juni 2021 | [Skapa klasser](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html) | Video | Lär dig hur du skapar klasser i Adobe Experience Platform för användning i XDM-scheman (Experience Data Model). |
+| Juni 2021 | [Skapa schemaklasser](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html) | Video | Lär dig hur du skapar klasser i Adobe Experience Platform för användning i XDM-scheman (Experience Data Model). |
 | Juni 2021 | [Konfigurera relationer mellan scheman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/configure-relationships-between-schemas.html) | Video | Lär dig hur du konfigurerar en relation mellan två scheman i Adobe Experience Platform. Med relationer kan du använda en datamängd som uppslagstabell för en annan. |
-| Juni 2021 | [Skapa datatyper](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | Video | Lär dig hur du skapar egna datatyper i Adobe Experience Platform för användning i XDM-scheman (Experience Data Model). |
+| Juni 2021 | [Skapa schemadatatyper](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | Video | Lär dig hur du skapar egna datatyper i Adobe Experience Platform för användning i XDM-scheman (Experience Data Model). |
 | Juni 2021 | [Konvertera din datamodell till en upplevelsedatamodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | Video | Lär dig hur dataarkitekter kan ta sin befintliga transaktionsdatamodell och konvertera den till en Experience Data Model. I den här videon visas skillnaden i modelleringsmetoder med hjälp av entitetsrelationsdiagram. |
 | Juni 2021 | [Planera din datamodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | Video | Lär dig vad du ska göra innan du börjar skapa scheman i Adobe Experience Platform. Dokumentera era användningsexempel, förstå er plattformslicens, veta vilka produktsäkerhetsutkast och identifiera vilka data ni ska importera innan ni slutför er datamodell. |
 | Juni 2021 | [Anslut tabell till frågetjänst](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | Video | Lär dig hur du ansluter till [!UICONTROL Query Service] från olika skrivbordsklientprogram som stöder `PostgreSQL`-protokoll och hur du använder `PostgreSQL`-verktyg och drivrutiner för att ansluta till och skriva frågor. |
-| Juni 2021 | [Adobe-definierade funktioner](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | Video | Lär dig hur du använder Adobe-definierade funktioner i Adobe Experience Platform [!UICONTROL Query Service] för att utföra vanliga affärsrelaterade uppgifter på Experience Event-data. |
-| Juni 2021 | [Utforska data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | Video | Lär dig hur du validerar inkapslade data, förhandsgranskar data och utforskar statistiska och analytiska egenskaper för data med hjälp av SQL-funktioner. |
+| Juni 2021 | [Adobe-definierade funktioner i frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | Video | Lär dig hur du använder Adobe-definierade funktioner i Adobe Experience Platform [!UICONTROL Query Service] för att utföra vanliga affärsrelaterade uppgifter på Experience Event-data. |
+| Juni 2021 | [Utforska data med frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | Video | Lär dig hur du validerar inkapslade data, förhandsgranskar data och utforskar statistiska och analytiska egenskaper för data med hjälp av SQL-funktioner. |
 | Juni 2021 | [Översikt över frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | Video | Läs mer om Query Service i Adobe Experience Platform och hur det hjälper er att förstå kundbeteenden och generera slagkraftiga insikter. |
-| Juni 2021 | [Översikt över användargränssnittet för frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html) | Video | Lär dig hur du skriver och kör frågor, visar frågor som har körts tidigare och får åtkomst till frågor som har sparats av andra användare i din IMS-organisation i Adobe Experience Platform Query Service. |
+| Juni 2021 | [Översikt över användargränssnittet i frågetjänsten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html) | Video | Lär dig hur du skriver och kör frågor, visar frågor som har körts tidigare och får åtkomst till frågor som har sparats av andra användare i din IMS-organisation i Adobe Experience Platform Query Service. |
 | Juni 2021 | [Fråge-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html) | Video | Lär dig hur du skriver och kör frågor, skapar schemafrågor och skapar en frågemall med Adobe Experience Platform [!UICONTROL Query Service API]. |
 
 {style=&quot;table-layout:auto&quot;}
