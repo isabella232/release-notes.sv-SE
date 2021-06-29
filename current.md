@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4fc39c45e2b9eef506acbbaa04bf7302b53003fa
+source-git-commit: 6778e1f9e6d8059d0453eb0cc5e572d16a7a7e7c
 workflow-type: tm+mt
-source-wordcount: '4826'
+source-wordcount: '4843'
 ht-degree: 14%
 
 ---
@@ -108,7 +108,7 @@ Använd Experience Platform för att samordna kundens resa i stor skala över ol
 
 [Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
-## ![](/assets/experience_platform_appicon_24.png) IconOffer Decision  {#offer-decisioning}
+## ![](/assets/experience_platform_appicon_24.png) IconOffer Decision {#offer-decisioning}
 
 [!UICONTROL Offer Decisioning] är en programtjänst som är integrerad i Adobe Experience Platform. Använd [!UICONTROL Offer Decisioning] för att leverera det bästa erbjudandet och upplevelsen till era kunder via alla kontaktytor vid rätt tidpunkt.
 
@@ -264,6 +264,7 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager (AEM). Adob
 All versionsinformation för Experience Manager finns på följande sidor:
 
 * [Experience Manager som Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
+* [Experience Manager som Cloud Service versionsinformation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Versionsinformation om Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
 * [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Versionsinformation om Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
@@ -385,7 +386,7 @@ Adobe [!DNL Workfront] är ett enhetligt program för att utbyta idéer, skapa i
 
 På sidan [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases) finns en sammanfattning av den senaste informationen om alla produkter.
 
-## ![](/assets/document-cloud-24.png) IconDocument Cloud  {#doc-cloud}
+## ![](/assets/document-cloud-24.png) IconDocument Cloud {#doc-cloud}
 
 Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Cloud.
 
@@ -403,7 +404,7 @@ Mer information om Document Cloud finns i:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud studiematerial och support](https://helpx.adobe.com/support/document-cloud.html)
 
-## ![](/assets/creative-cloud-24.png) IkonCreative Cloud for enterprise  {#creative-cloud}
+## ![](/assets/creative-cloud-24.png) IkonCreative Cloud for enterprise {#creative-cloud}
 
 Nya videor, självstudiekurser eller kurser som publicerats för Creative Cloud for enterprise.
 
