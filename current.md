@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 96f2c28dfcebf903d11fa5fc02ab90405e0e4888
+source-git-commit: d33f6947012a86061ab4431f1b58c56dfa53910a
 workflow-type: tm+mt
-source-wordcount: '3907'
+source-wordcount: '3893'
 ht-degree: 16%
 
 ---
@@ -47,7 +47,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 ## ![](/assets/ec_appicon_24.png) IkonExperience Cloud Central UI-komponenter {#ecloud}
 
-Experience Cloud Central Interface Components innehåller uppdateringar som du kan få åtkomst till från det enhetliga produkthuvudet, som självhjälp, sökning och inställningar för användarkonton. Uppdateringar av personer, platser (plats) och produkthantering finns här.
+Experience Cloud Central Interface Components innehåller uppdateringar som du kommer åt från det enhetliga produkthuvudet, som självhjälp, sökning och inställningar för användarkonton. Uppdateringar av personer, platser (plats) och produkthantering finns här.
 
 | Funktion | Datum | Beskrivning |
 | ------- | ------- | -------|
@@ -72,7 +72,7 @@ De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systems
 Innehåller uppdateringsinformation och ny dokumentation för Experience Platform och Experience Platform Launch.
 
 * **Versionsinformation 30 juni 2021 om** [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **Versionsinformation** [ om datainsamling från 17 maj 2021](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) Experience Platform (tidigare Experience Platform Launch)
+* **Versionsinformation** [ om datainsamling från 17 maj 2021](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) Experience Platform (tidigare Experience Platform Launch)
 
 ### Självstudiekurser och kurser för Experience Platform {#tutorials-platform}
 
@@ -152,7 +152,7 @@ Releasedatum: **22 juli 2021**
 
 ### Korrigeringar i Adobe Analytics {#aa-fixes}
 
-* Korrigerade ett problem med att aviseringar inte skickades och fel visades när nya aviseringar skapades. (AN-263962)
+* Korrigerade ett problem med att aviseringar inte skickades och fel visades när aviseringar skapades. (AN-263962)
 * Ett problem med virtuella rapportsviter i Analysis Workspace har korrigerats: Data utanför det angivna datumintervallet extraherades. (AN-263121)
 * Ett problem med att arbetsyteprojekt inte öppnades (timeout) har korrigerats. (AN-247248)
 * Korrigerade ett problem med att det inte gick att läsa in användningsdata för rapportsviten under [!UICONTROL Server Call Usage]. (AN-264215)
@@ -168,7 +168,7 @@ AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-25656
 | Slutet av livscykeln för tre API-tjänster för analys | 15 juli 2021 | Den **18 augusti 2021** kommer följande API-tjänster för Analytics att nå sitt slutdatum och avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit en [Vanliga frågor om äldre API-versioner av fjärrskrivbordsversioner](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
 | Adobe Data Connectors upphör | 13 juli 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. En ny standard finns i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). Du kan använda den standarden för alla integreringar för att fortsätta att erbjudas och få support. Det officiella slutdatumet är **1 augusti 2021**. [Läs mer...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 | EOL för datakällor med fullständig databehandling | 12 april 2021 | Adobe planerar att ta bort datakällor med fullständig bearbetning **den 31 juli 2021**. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. |
-| Inloggningsuppdatering till [!UICONTROL Report Builder] | 9 april 2021 | 14 januari 2021 tog [!UICONTROL Report Builder]-inloggningsuppdateringarna bort beroenden till äldre tekniker och anpassade inloggningsprocessen till Experience Cloud. Experience Cloud använder ditt Enterprise ID (e-post och lösenord). För att säkerställa oavbruten åtkomst till [!UICONTROL Report Builder] måste du uppdatera tillägget [!UICONTROL Report Builder] till version 5.6.47 eller senare **senast 22 juli 2021**. Report Builder version 5.6.47 och senare stöder endast inloggning på Experience Cloud och stöder inte enkel inloggning. |
+| Logga in uppdatering till [!UICONTROL Report Builder] | 9 april 2021 | 14 januari 2021 tog [!UICONTROL Report Builder]-inloggningsuppdateringarna bort beroenden till äldre tekniker och anpassade inloggningsprocessen till Experience Cloud. Experience Cloud använder ditt Enterprise ID (e-post och lösenord). För att säkerställa oavbruten åtkomst till [!UICONTROL Report Builder] måste du uppdatera tillägget [!UICONTROL Report Builder] till version 5.6.47 eller senare **senast 22 juli 2021**. Report Builder version 5.6.47 och senare stöder endast inloggning på Experience Cloud och stöder inte enkel inloggning. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -202,16 +202,14 @@ Korrigeringar och förbättringar i Audience Manager.
 
 ## ![Ikonen för](/assets/aem.png) Experience Manager {#aem}
 
-Nya funktioner, korrigeringar och uppdateringar i Experience Manager. Adobe rekommenderar att kunder med lokal driftsättning driftsätter de senaste patcharna för att säkerställa högre stabilitet, säkerhet och prestanda.
+Adobe rekommenderar att du besöker sidan [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla dig uppdaterad om versionsinformation.
 
->[!NOTE]
->
->Adobe rekommenderar att du besöker sidan [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla dig uppdaterad om versionsinformation.
+### Versionsinformation för Experience Manager {#aem-links}
 
-Länkar till versionsinformation för Experience Manager:
+Versionsinformation och andra länkar till versionsinformation för Experience Manager finns här:
 
-* [Experience Manager som Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * [Experience Manager som Cloud Service versionsinformation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Experience Manager som Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * [Versionsinformation om Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
 * [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Versionsinformation om Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
@@ -239,7 +237,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 * [Handböcker om Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=en)
 * [Experience Manager 6.5 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-64.html)
-* [Experience Manager 6.3 - startsida för utbildning och support](https://helpx.adobe.com/se/support/experience-manager/6-3.html)
+* [Experience Manager 6.3 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
 * [Experience Manager 6.2 - utbildning och support - startsida](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Äldre versioner av Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Användarhandbok för Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
@@ -335,14 +333,14 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Document Clou
 | Juli 2021 | [Flytande läge i Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | Video | Lär dig hur flytande läge förbättrar den mobila signeringsupplevelsen. Det minskar nypning och zoomning så att du enkelt kan fokusera på ifyllbara fält. |
 | Juli 2021 | [Komma igång med Adobe Sign API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html) | Artikel | Lär dig hur utvecklare kan använda Sign API för att förbättra program och arbetsflöden som skapats med Adobe Document Services. |
 | Juli 2021 | [Digital Document Publishing med Adobe PDF Embed API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html) | Artikel | Genom att bädda in ett PDF-visningsprogram på dina webbsidor kan du göra det möjligt för användarna att visa dokument utan att behöva göra om HTML och CSS eller förhindra åtkomst till din webbplats. |
-| Juli 2021 | [Student-Teacher Collaboration med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html) | Artikel | Lär dig mer om en officiell SDK för `Node.js`-program för att få tillgång till PDF Services API. På så sätt kan du konvertera dokument som Microsoft Word och Microsoft Excel till PDF. |
+| Juli 2021 | [Student-Teacher Collaboration med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html) | Artikel | Lär dig mer om en officiell SDK för `Node.js`-program för att få tillgång till PDF Services API. På så sätt kan du konvertera dokument som Microsoft® Word eller Microsoft® Excel till PDF. |
 | Juli 2021 | [Jobbbokföring med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/jobposting.html?lang=en) | Artikel | När du använder en webbplats med flera användare är det viktigt att du utformar en upplevelse som ger en smidig upplevelse för alla. Lär dig hur du automatiskt konverterar alla överförda dokument till PDF-filer och bäddar in dem online i bokföringen. |
 | Juli 2021 | [Skapa och redigera rapporter med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reportcreation.html?lang=en) | Artikel | PDF:er gör det enkelt att dela dokument med multimedia, med tabeller, grafik och interaktivt innehåll, i ett format som alla kan visa. Lär dig hur du delar denna statistik med deras chefer, aktieägare, donatorer eller andra intressenter. |
 | Juli 2021 | [Recensioner och godkännanden med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reviews.html?lang=en) | Artikel | Lär dig hur du löser problem med manuell granskning och godkännande med hjälp av flera Adobe Document Services API:er. |
 | Juli 2021 | [Söka och indexera med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/searching.html?lang=en) | Artikel | I den här självstudiekursen utforskas Adobe Document Services API:ers fantastiska funktioner och hur de enkelt kan användas för att arkivera och digitalisera dokument. Vi utforskar dessa funktioner genom att bygga en Express NodeJS-applikation och sedan integrera Document Services-API:er för arkivering, digitalisering och dokumentomvandling. |
-| Juli 2021 | [Hantera anställdas erbjudandebrev med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html) | Artikel | I den här självstudiekursen får du hjälp med att konfigurera ett Node Express-projekt som visar ett webbformulär där användaren kan fylla i information om de anställda. Den här informationen använder Document Services via webben för att generera ett offertbrev som en PDF som sedan kan skickas till en kund för signering med Adobe Sign API. |
+| Juli 2021 | [Hantera anställdas erbjudandebrev med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html) | Artikel | I den här självstudiekursen får du hjälp med att konfigurera ett Node Express-projekt som visar ett webbformulär där användaren kan fylla i information om de anställda. Dessa detaljer använder Document Services via webben för att generera ett offertbrev som en PDF som senare kan skickas till en kund för signering med Adobe Sign API. |
 | Juli 2021 | [Hantera juridiska kontrakt med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html) | Artikel | I den här självstudiekursen utforskar vi funktionerna i Adobe Document Services API:er när vi skapar anpassade inmatningsfält i dokument. Vi utforskar också hur du enkelt kan konvertera dessa genererade dokument till ett skyddat PDF-format (Portable Document Format) för att förhindra att data manipuleras. |
-| Juli 2021 | [Skapa ett sekretessavtal med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html) | Artikel | Lär dig hur du skapar en Microsoft Word-mall för företagets sekretessavtal. Adobe kostnadsfria tillägg för Microsoft Word, Adobe Document Generation Tagger, hjälper dig att infoga taggar för att ange dynamiska värden. Du får också lära dig hur du skickar JSON-data till mallen och skapar en dynamisk PDF. Du kan sedan e-posta PDF-filen eller visa den för dina medarbetare i webbläsaren, beroende på dina affärskrav och mål. |
+| Juli 2021 | [Skapa ett sekretessavtal med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html) | Artikel | Lär dig hur du skapar en Microsoft® Word-mall för företagets sekretessavtal. Adobe kostnadsfria tillägg för Microsoft® Word, Adobe Document Generation Tagger, hjälper dig att infoga taggar för att ange dynamiska värden. Du får också lära dig hur du skickar JSON-data till mallen och skapar en dynamisk PDF-fil. Du kan sedan e-posta PDF-filen eller visa den för dina medarbetare i webbläsaren, beroende på dina affärskrav och mål. |
 | Juli 2021 | [Hantera säljförslag och kontrakt med Adobe Document Services API:er](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/sales.html) | Artikel | Lär dig hur du använder dynamiska data och arbetsflöden för att skapa en effektiv process för att skapa säljförslag. |
 | Juli 2021 | [Hantera fakturor med Adobe Document Generation API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/invoices.html?lang=en) | Artikel | Lär dig hur du använder Adobe Document Generation API för att automatiskt generera fakturor, lösenordsskydda PDF:er och leverera en faktura till varje kund. Allt som krävs är lite kunskap om Node.js, JavaScript, Express.js, HTML och CSS. |
 
