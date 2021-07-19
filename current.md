@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 109c72d5e703d63ea7870ea9558c5499c289434a
+source-git-commit: 520aa8c5c69b1e33efb7a1559a6c7b8725083b39
 workflow-type: tm+mt
-source-wordcount: '3870'
-ht-degree: 17%
+source-wordcount: '3907'
+ht-degree: 16%
 
 ---
 
@@ -254,7 +254,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
-* ![Dokumentation om Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html)
+* [Versionsinformation om Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en)
 * [Versionsinformation om Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 * [Versionsinformation för Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
@@ -270,6 +270,7 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
 ### Hjälpresurser för Campaign
 
+* Adobe Campaign v8: [Hjälpcenter](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en) - [Implementeringsguider](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=en)
 * Adobe Campaign Standard: [Hjälpcenter](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) – [Versionsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) – [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
 * Adobe Campaign Classic: [Hjälpcenter](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en) – [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)  - Instruktionsvideor för [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=en)
