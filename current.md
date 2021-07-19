@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: db12e3c3021aa572c3f0e22be5c96e52fae78131
+source-git-commit: 109c72d5e703d63ea7870ea9558c5499c289434a
 workflow-type: tm+mt
-source-wordcount: '3861'
+source-wordcount: '3870'
 ht-degree: 17%
 
 ---
@@ -254,6 +254,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
+* ![Dokumentation om Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html)
 * [Versionsinformation om Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 * [Versionsinformation för Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
