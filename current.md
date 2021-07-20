@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 722ad9ef37f15c3c6070ccaa66c9b55e25b4e35d
+source-git-commit: 3621c31c456cf7fc9de8ed65991aeab9fc8fedc8
 workflow-type: tm+mt
-source-wordcount: '4845'
+source-wordcount: '4855'
 ht-degree: 13%
 
 ---
@@ -37,7 +37,7 @@ Senaste uppdatering: **20 juli 2021**
 * [[!DNL Campaign]](#ac)
 * [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
-* [[!DNL Magento]](#magento)
+* [[!DNL Commerce]] (#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
@@ -374,9 +374,12 @@ Senast uppdaterad: **19 maj 2021, för 18 maj-utgåvan**
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Ikon](/assets/magento.png) [!DNL Magento] {#magento}
+## ![Ikon](/assets/magento.png) [!DNL Commerce]  (Magento) {#magento}
 
-Information om den senaste versionen finns i Magento Commerce och Open Source [versionsinformation](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html).
+Se följande länkar för versionsinformation om Adobe Commerce:
+
+* [Magento Commerce och öppen källkod](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![Ikon](/assets/target.png) [!DNL Target] {#target}
 
