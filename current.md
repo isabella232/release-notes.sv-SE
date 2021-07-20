@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbea6cb1eb34af8d7957451bb7c9117202e002d4
+source-git-commit: 9a3217d27c176834935ae72ae375bda5cdf6c7f2
 workflow-type: tm+mt
-source-wordcount: '3891'
-ht-degree: 16%
+source-wordcount: '4845'
+ht-degree: 13%
 
 ---
 
@@ -203,6 +203,80 @@ Korrigeringar och förbättringar i Audience Manager.
 ## ![Ikonen för](/assets/aem.png) Experience Manager {#aem}
 
 Adobe rekommenderar att du ofta besöker [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla dig uppdaterad om versionsinformation.
+
+* **Experience Manager as a Cloud Service**
+
+   Nya funktioner i Experience Manager som Cloud Service:
+
+   * **XML-dokumentation för Adobe Experience Manager som Cloud Service**
+
+      * **Molnbaserat innehållshanteringssystem**  - XML-dokumentation för Adobe Experience Manager finns som Cloud Service. Skaffa en miljö där du kan skapa, hantera och leverera dokumentation och innehåll i stor skala.
+      * **AI-baserad dokumentation**  - Smart taggning för att automatiskt identifiera och extrahera relevanta metadatanyckelord från texten för metadatamärkning.
+      * **Nytt utseende och känsla för webbredigeraren**  - Nytt utseende och ny känsla med gränssnittsändringar som gör det mer intuitivt. Den underliggande arkitekturen har ändrats från korall till reaktionsbaserad spektrum.
+   * **Cloud Manager i AEM som Cloud Service**
+
+      * [!UICONTROL Preview Service] distribueras på rullande basis till alla program. Kunder meddelas i produkten när deras program är aktiverat för [!UICONTROL Preview Service]. Se [Åtkomst till förhandsgranskningstjänsten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
+      * Maven Dependencies som laddas ned under byggfasen cachelagras nu mellan pipeline-körningar. Den här funktionen kommer att aktiveras för kunderna under de kommande veckorna.
+      * Nu kan du redigera namnet på programmet via dialogrutan [!UICONTROL Edit Program].
+      * Standardförgreningsnamnet som används både när projektet skapas och i standardkommandot [!UICONTROL Push] för att hantera Git-arbetsflöden har ändrats till `main`.
+      * Redigera programupplevelsen i gränssnittet har uppdaterats.
+      * Kvalitetsregeln `ImmutableMutableMixCheck` har uppdaterats för att klassificera `/oak:index`-noder som oföränderliga.
+      * Kvalitetsreglerna `CQBP-84andCQBP-84--dependencies` har konsoliderats till en enda regel. Som en del av den här konsolideringen identifierar sökningen efter beroenden exaktare problem i tredjepartsberoenden som distribueras till Experience Manager-miljön.
+      * För att undvika missförstånd har segmentraderna Publish Experience Manager och Publish Dispatcher på sidan Miljöinformation konsoliderats.
+      * En ny regel för kodkvalitet har lagts till för att validera strukturen för `damAssetLucene`index. Se [Anpassade DAM-resursindex Luceneak-index](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check).
+      * På sidan med miljöinformation visas nu flera domännamn för tjänsterna Publicera och Förhandsgranska, beroende på vad som är tillämpligt. Se [Miljöinformation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment).
+   * **Experience Manager Assets as a Cloud Service**
+
+      Nya funktioner i Assets:
+
+      * [!UICONTROL Content Automation] kan Experience Manager Assets använda Adobe Creative Cloud API:er för att automatisera materialproduktionen i stor skala. Det förbättrar innehållets hastighet genom att dramatiskt minska den tid det tar och de iterationer som krävs för att skapa varianter av samma material. Funktionen kräver ingen programmering och fungerar inifrån DAM. Se [Generera variationer av resurser med Adobe Creative Cloud-integrering](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
+      * [Adobe Asset Link 3.0](https://helpx.adobe.com/se/enterprise/using/adobe-asset-link.html) för Adobe Photoshop, Adobe Illustrator och Adobe InDesign samt Adobe  [Adobe Asset Link 2.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html) för Adobe XD finns att tillgå. Det har stöd för Assets Essentials och möjlighet att automatiskt ansluta till Experience Manager som Cloud Service eller Assets Essentials.
+      * Med verktyget [Massinhämtning av resurser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) kan du lägga till metadata vid massinläsning.
+
+      Nya funktioner i förhandsversionen av Assets:
+
+      * Vyinställningarna har förbättrats så att du kan välja en standardvy och en standardsorteringsparameter.
+      * Nedladdningsfunktionen [!UICONTROL Link Share] använder asynkrona nedladdningar som ökar nedladdningshastigheten. Se [Hämta resurser som delas med länkdelning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
+      * Du kan söka efter och filtrera mapparna baserat på egenskapspredikat.
+      * Med Experience Manager Assets bäddas PDF Viewer in så att du kan förhandsgranska de dokumentformat som stöds. Den drivs av Adobe Document Cloud. Med den här funktionen kan du förhandsgranska PDF-filer och andra flersidiga filer utan komplex bearbetning. Det förbättrar funktionspariteten med Experience Manager 6.5. Kontrollerna i förhandsgranskningen är att zooma, navigera till sidor, avdocka kontroller och visa i helskärmsläge. Det inbyggda PDF-visningsprogrammet har stöd för filformaten AI, DOCX, INDD, PDF och PSD. Du kan kommentera själva resursen, men kommentarer och anteckningar i PDF-filen stöds inte.
+      * En förbättrad användarupplevelse visar antalet resurser i en mapp. För mer än 1000 resurser i en mapp visar Resurser 1000+.
+      * Du kan direkt tillämpa ett metadatamatchema på en mapp i dess egenskaper.
+   * **Experience Manager Sites as a Cloud Service**
+
+      Nya funktioner:
+
+      * Publicera till förhandsgranskningsnivå visas nu som sidstatus i användargränssnittet för Sites Admin.
+      * Publicera på förhandsgranskningsnivå nu med förhandsgransknings-URL:en i slutet av åtgärden och behåll URL:en i sidegenskaperna för senare referens.
+   * **Experience Manager Forms som Cloud Service**
+
+      Nya funktioner:
+
+      * Metadata-scheman kan tillämpas direkt på mappegenskaperna.
+      * Med verktyget Massingestor kan du lägga till metadata vid ett massintag.
+      * En förbättrad användarupplevelse visar antalet resurser i en mapp. För mer än 1 000 resurser i en mapp visas 1 000+ i Experience Manager Assets.
+
+      Betafunktion i Forms:
+
+      * **Experience Manager Forms som Cloud Service - Kommunikations** -API:er hjälper dig att kombinera XDP-mallar och XML-data för att generera utskriftsdokument i olika format. Med tjänsten kan du generera dokument i synkront läge. Med API:erna kan du skapa program som gör att du kan:
+         * Generera dokument genom att fylla i mallfiler med XML-data.
+         * Generera utdataformulär i olika format, inklusive icke-interaktiva PDF-utskriftsströmmar.
+         * Generera utskrifts-PDF:er från ett XFA-formulär i PDF- och Adobe Acrobat-format (AcroForm).
+
+      Du kan skriva till [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) och registrera dig för betaprogrammet.
+
+   * **Experience Manager Screens som Cloud Service**
+
+      * Registreringshantering för flera enheter innebär att det går snabbare och effektivare att etablera stora mängder spelarenheter.
+      * Förbättrade sök- och filteralternativ för var och en av lagervyerna Enhet, Visning och Kanal.
+      * Ögonblicksbilden av enhetens hälsostatus sparar tid genom att ge en snabb översikt av kritisk status.
+      * På sidan med objektinformation finns en sammanfattning av den mest relevanta informationen för varje objekt i ditt projekt.
+
+
+
+
+
+
+
 
 ### Versionsinformation för Experience Manager {#aem-links}
 
