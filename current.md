@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9a3217d27c176834935ae72ae375bda5cdf6c7f2
+source-git-commit: 722ad9ef37f15c3c6070ccaa66c9b55e25b4e35d
 workflow-type: tm+mt
 source-wordcount: '4845'
 ht-degree: 13%
@@ -23,7 +23,7 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **19 juli 2021**
+Senaste uppdatering: **20 juli 2021**
 
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
 * [Adobe – systemstatus](#status)
@@ -278,6 +278,17 @@ Adobe rekommenderar att du ofta besöker [Experience Manager release updates and
 
 
 
+### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
+
+Nya videor, självstudiekurser och kurser som publicerats under den senaste månaden.
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| Juli 2021 | [XML-dokumentation för Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artikel | Läs om hur [!UICONTROL XML Documentation Solution] erbjuder alla centrala CCMS-funktioner, som samarbete, granskning, översättning, sökning och rapporter för DITA-innehåll. Med dessa funktioner kan skribenterna göra mer på kortare tid genom effektiv återanvändning av innehåll och kraftfulla arbetsflöden. |
+| Juli 2021 | [AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Video | Lär dig hur du definierar och använder innehållsfragment i Adobe Experience Manager (AEM) för användning med GraphQL. |
+
+{style=&quot;table-layout:auto&quot;}
+
 ### Versionsinformation för Experience Manager {#aem-links}
 
 Versionsinformation och andra länkar till versionsinformation för Experience Manager finns här:
@@ -294,17 +305,6 @@ Versionsinformation och andra länkar till versionsinformation för Experience M
 * [Versionsinformation om Experience Manager Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
 * [Versionsinformation för Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Versionsinformation för Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
-
-### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
-
-Nya videor, självstudiekurser och kurser som publicerats under den senaste månaden.
-
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Juli 2021 | [XML-dokumentation för Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artikel | Läs om hur [!UICONTROL XML Documentation Solution] erbjuder alla centrala CCMS-funktioner, som samarbete, granskning, översättning, sökning och rapporter för DITA-innehåll. Med dessa funktioner kan skribenterna göra mer på kortare tid genom effektiv återanvändning av innehåll och kraftfulla arbetsflöden. |
-| Juli 2021 | [AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Video | Lär dig hur du definierar och använder innehållsfragment i Adobe Experience Manager (AEM) för användning med GraphQL. |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### Andra hjälpresurser för Experience Manager
 
