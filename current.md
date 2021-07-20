@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3621c31c456cf7fc9de8ed65991aeab9fc8fedc8
+source-git-commit: a168806cc4b7e5ab5e9d1ab9c71583a4b89c020b
 workflow-type: tm+mt
-source-wordcount: '4855'
+source-wordcount: '4869'
 ht-degree: 13%
 
 ---
@@ -213,6 +213,9 @@ Adobe rekommenderar att du ofta besöker [Experience Manager release updates and
       * **Molnbaserat innehållshanteringssystem**  - XML-dokumentation för Adobe Experience Manager finns som Cloud Service. Skaffa en miljö där du kan skapa, hantera och leverera dokumentation och innehåll i stor skala.
       * **AI-baserad dokumentation**  - Smart taggning för att automatiskt identifiera och extrahera relevanta metadatanyckelord från texten för metadatamärkning.
       * **Nytt utseende och känsla för webbredigeraren**  - Nytt utseende och ny känsla med gränssnittsändringar som gör det mer intuitivt. Den underliggande arkitekturen har ändrats från korall till reaktionsbaserad spektrum.
+
+      Mer information finns i [XML-dokumentationen för Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html).
+
    * **Cloud Manager i AEM som Cloud Service**
 
       * [!UICONTROL Preview Service] distribueras på rullande basis till alla program. Kunder meddelas i produkten när deras program är aktiverat för [!UICONTROL Preview Service]. Se [Åtkomst till förhandsgranskningstjänsten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
