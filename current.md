@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
+source-git-commit: 563d306d19333cdfe78c7eb1077b9b8309fadd4e
 workflow-type: tm+mt
-source-wordcount: '4969'
+source-wordcount: '4982'
 ht-degree: 13%
 
 ---
@@ -23,8 +23,9 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **20 juli 2021**
+Senaste uppdatering: **22 juli 2021**
 
+* [Evenemangsmeddelande för Experience League Live](#events)  - 29  **juli 2021**
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
 * [Adobe – systemstatus](#status)
 * [Experience Platform](#platform)
@@ -127,6 +128,7 @@ Se [Versionsinformation för Offer decisioning](https://experienceleague.adobe.c
 
 Releasedatum: **22 juli 2021**
 
+* [Händelsemeddelanden för Experience League Live](#events)
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey) (uppdaterad den 19 juli 2021)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
@@ -134,7 +136,7 @@ Releasedatum: **22 juli 2021**
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-### Händelsemeddelanden för Experience League Live - Analytics-implementering
+## Händelsemeddelanden för Experience League Live - Analytics-implementering {#events}
 
 Följ med oss för att få konkreta tips som alla Adobe Analytics-implementeringsteam ska få veta - och få svar på dina frågor av Eric Matisoff i chattfönstret. Det här är ett live-event, så du behöver inte registrera dig i förväg, men du måste lägga det i kalendern så att du inte missar det!
 
