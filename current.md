@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 1d747dd10da74db31ce6195c43f6529a2663d1a0
+source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
 workflow-type: tm+mt
-source-wordcount: '4981'
+source-wordcount: '4980'
 ht-degree: 13%
 
 ---
@@ -70,10 +70,10 @@ De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systems
 
 ## ![Ikon för](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Innehåller uppdateringsinformation och ny dokumentation för Experience Platform och Experience Platform Launch.
+Innehåller uppdateringsinformation och ny dokumentation för Experience Platform och plattformstaggning.
 
 * **Versionsinformation 30 juni 2021 om** [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **Versionsinformation** [ om taggar från ](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) Experience Platform (17 maj 2021) (tidigare, Experience Platform Launch)
+* **Versionsinformation** [ för taggar från 17 maj 2021 (tidigare, Experience Platform Launch) ](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) Experience Platform
 
 ### Självstudiekurser och kurser för Experience Platform {#tutorials-platform}
 
