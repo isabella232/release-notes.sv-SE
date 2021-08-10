@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3b30ac28d820aa30482c823ccd537bcf9cdcfb3
+source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
 workflow-type: tm+mt
 source-wordcount: '4982'
 ht-degree: 13%
@@ -32,7 +32,7 @@ Senaste uppdatering: **3 augusti 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) och  [Customer Journey Analytics](#cust-journey) **(uppdaterad 3 augusti 2021)**
+* [[!DNL Analytics]](#analytics) och  [Customer Journey Analytics](#cust-journey) **(uppdaterad 10 augusti 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -130,7 +130,7 @@ Releasedatum: **22 juli 2021**
 
 * [Händelsemeddelanden för Experience League Live](#events)
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey) (uppdaterad den 19 juli 2021)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey)  (uppdaterad 10 augusti 2021)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 3 augusti 2021)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
@@ -162,7 +162,7 @@ Följ med oss för att få konkreta tips som alla Adobe Analytics-implementering
 
 | Funktion | Beskrivning | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – Måldatum |
 | ----------- | ---------- | ----- |
-| Ny informationsupplevelse för anslutningar | Den här förbättringen av gränssnittet för anslutningar gör att du vet om och när data är klara att användas för rapportering. Du kan även spåra eventuella problem med databearbetning. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 10 augusti 2021 |
+| Ny informationsupplevelse för anslutningar | Den här förbättringen av gränssnittet för anslutningar gör att du vet om och när data är klara att användas för rapportering. Du kan även spåra eventuella problem med databearbetning. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19 augusti 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
