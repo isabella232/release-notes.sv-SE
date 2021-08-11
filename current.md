@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
+source-git-commit: a93d9deb8ad36d396899d0b0505b1d6bf9441c3b
 workflow-type: tm+mt
-source-wordcount: '4982'
+source-wordcount: '4958'
 ht-degree: 13%
 
 ---
@@ -36,7 +36,7 @@ Senaste uppdatering: **3 augusti 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising]](#adcloud)
+* [[!DNL Advertising Cloud]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -366,30 +366,30 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 * Adobe Campaign Classic: [Hjälpcenter](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) – [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en) – [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)  - Instruktionsvideor för [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=en)
 
-## ![](/assets/advertising-cloud.png) IconAdvertising {#adcloud}
+## ![Ikon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Versionsinformation för [!DNL Adobe Advertising].
+Versionsinformation för [!DNL Adobe Advertising Cloud].
 
-* [Nya funktioner i Advertising DSP](#adcloud-dsp)
-* [Nya funktioner i Advertising Search](#adcloud-search)
+* [Nya funktioner i Advertising Cloud DSP](#adcloud-dsp)
+* [Nya funktioner i Advertising Cloud Search](#adcloud-search)
 
-### Nya funktioner i [!DNL Advertising DSP] {#adcloud-dsp}
+### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Senast uppdaterad: **10 juni 2021 för 16 juni**
 
 | Funktion | Beskrivning |
-| -----------| ---------- |
+| ------- | ----------- |
 | Kampanjhantering | (16 juni) Prognoser finns tillgängliga för standardbildskärmsplaceringar med placering på placeringsnivå och budgetar. |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Nya funktioner i [!DNL Advertising Search] {#adcloud-search}
+### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **19 maj 2021, för 18 maj-utgåvan**
+Senast uppdaterad: **För version 24 juli**
 
 | Funktion | Beskrivning |
-| -----------| ---------- |
-| [!UICONTROL Notification Center Beta] | [!UICONTROL Notification Center Beta] är tillgänglig för alla användare. Använd prenumerationen på e-post och webbmeddelanden om kontoautentiseringsfel, anpassade aviseringar som utlöses och slutförande av [!UICONTROL Advertising Insights] som du genererar.<br>Du kan visa meddelanden från:<ul><li>Panelen [!UICONTROL Notifications], som öppnas från meddelandelänken i det övre högra hörnet på en sida.</li><li>[!UICONTROL Notification Center] vid [!UICONTROL Insights & Reports >Notification Center Beta].</li></ul><br><b>Obs!</b> På grund av förbättringar i hur meddelanden lagras rensades alla befintliga meddelanden. |
+| ------- | ----------- |
+| [!UICONTROL Tools] | Om annonserarkontot är konfigurerat att använda hybridoptimering kan Advertising Cloud överföra kontots mål till Google Ads och Microsoft Ads som konverteringar så att du kan använda dem för hybridoptimering. Du kan aktivera funktionen från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]. |
 
 {style=&quot;table-layout:auto&quot;}
 
