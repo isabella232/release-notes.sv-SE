@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: a93d9deb8ad36d396899d0b0505b1d6bf9441c3b
+source-git-commit: a802b3ea8757944a04c24b3f7b8992e1ffe9bac8
 workflow-type: tm+mt
 source-wordcount: '4958'
 ht-degree: 13%
@@ -389,7 +389,7 @@ Senast uppdaterad: **För version 24 juli**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Tools] | Om annonserarkontot är konfigurerat att använda hybridoptimering kan Advertising Cloud överföra kontots mål till Google Ads och Microsoft Ads som konverteringar så att du kan använda dem för hybridoptimering. Du kan aktivera funktionen från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]. |
+| [!UICONTROL Tools] | Om annonserarkontot är konfigurerat att använda hybridoptimering kan Advertising Cloud överföra kontots mål till Google Ads och Microsoft Ads som konverteringar så att du kan använda dem för hybridoptimering. Du kan aktivera funktionen från **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
 
 {style=&quot;table-layout:auto&quot;}
 
