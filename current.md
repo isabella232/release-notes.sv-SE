@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6c6ebfbf878dcdd9db406789f1350e04b42f3d85
+source-git-commit: 7a9c166e6b3efc239e039f7aa2c2d52a7fadd680
 workflow-type: tm+mt
-source-wordcount: '4960'
+source-wordcount: '4959'
 ht-degree: 13%
 
 ---
@@ -385,11 +385,11 @@ Senast uppdaterad: **10 juni 2021 för 16 juni**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **För version 24 juli**
+Senast uppdaterad: **11 augusti för 24 juli-versionen**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Tools] | Om annonserarkontot är konfigurerat att använda hybridoptimering kan Advertising Cloud överföra kontots mål till Google Ads och Microsoft Ads som konverteringar så att du kan använda dem för hybridoptimering. Du kan aktivera funktionen från **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
+| [!UICONTROL Tools] | Om annonserarkontot är konfigurerat att använda hybridoptimering kan [!DNL Advertising Cloud Search] överföra målen för kontots portföljer till Google Ads som konverteringar så att du kan använda dem för hybridoptimering. Du kan aktivera funktionen från **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
 
 {style=&quot;table-layout:auto&quot;}
 
