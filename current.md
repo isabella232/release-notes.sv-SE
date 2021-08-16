@@ -6,7 +6,7 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4bcabafad300591b5dd46afad7032ecb8c9f5bcf
+source-git-commit: cfeac2dbfaef453f24b54450c45d22e737510281
 workflow-type: tm+mt
 source-wordcount: '4292'
 ht-degree: 13%
@@ -65,13 +65,13 @@ Experience Cloud Central Interface Components innehåller uppdateringar som du k
 
 [!UICONTROL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe-molnprodukter och -tjänster, driftstopp, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
-De senaste uppdateringarna av systemstatusen för Adobe finns på [Adobe systemstatus - 21 maj 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) för den senaste versionsinformationen.
+Den senaste versionsinformationen om systemstatusen för Adobe finns i [versionsinformationen 21 maj 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en).
 
 ## ![Ikon för](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Innehåller uppdateringsinformation och ny dokumentation för Experience Platform och plattformstaggning.
 
-* **28 juli 2021** [Experience Platform versionsinformation](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* **Versionsinformation** [ för 28 juli 2021 ](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) Experience Platform (nästa planerade version:  **Augusti 19**)
 * **Versionsinformation** [ för taggar från 19 juli 2021](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) Experience Platform (tidigare, Experience Platform Launch)
 
 ### Självstudiekurser och kurser för Experience Platform {#tutorials-platform}
@@ -91,7 +91,7 @@ Med Adobe Journey Optimizer kan ni hantera schemalagda flerkanalskampanjer och e
 
 ### Senaste produktreleaser för Journey Optimizer
 
-Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [versionsinformationen för Journey Orchestration](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
+Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
 **Fler resurser för Journey Optimizer**
 
