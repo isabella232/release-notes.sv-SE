@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c0e65e13f424913c82f6608b24a8f797ee7a0341
+source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
-source-wordcount: '4289'
+source-wordcount: '4292'
 ht-degree: 13%
 
 ---
@@ -23,7 +23,7 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **13 augusti 2021**
+Senaste uppdatering: **17 augusti 2021**
 
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Senaste uppdatering: **13 augusti 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [offer decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) och  [Customer Journey ](#cust-journey) AnalyticsUppdaterat den 17  **augusti 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -135,9 +135,9 @@ Se [Versionsinformation för Offer decisioning](https://experienceleague.adobe.c
 Releasedatum: **19 augusti 2021**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Customer Journey Analytics](#cust-journey)  (uppdaterad  **17 augusti 2021**)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (uppdaterad 3 augusti 2021)
+* [Viktiga meddelanden för Analytics-administratörer ](#aa-notices)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -154,7 +154,7 @@ Releasedatum: **19 augusti 2021**
 | Funktion | Beskrivning | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – Måldatum |
 | ----------- | ---------- | ----- |
 | Ny informationsupplevelse för anslutningar | Den här förbättringen av gränssnittet för anslutningar gör att du vet om och när data är klara att användas för rapportering. Du kan även spåra eventuella problem med databearbetning. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19 augusti 2021 |
-| Kontrollera skiftlägeskänsligheten i datavy-dimensioner | Används för att styra om Customer Journey Analytics ska hantera dimensionsvärden som skiftlägeskänsliga. Detta gör det möjligt att ta bort dubbletter av rader som har samma värde, men med ett annat skiftläge. | 19 augusti 2021 |
+| Kontrollera skiftlägeskänsligheten i datavy-dimensioner | Används för att styra om Customer Journey Analytics ska hantera dimensionsvärden som skiftlägeskänsliga. Detta gör det möjligt att ta bort dubbletter av rader som har samma värde, men med ett annat skiftläge. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#configure-behavior-settings) | 19 augusti 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -333,9 +333,9 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
-* Adobe Campaign Classic version 8.1.14: Läs mer i [versionsinformationen för Campaign Classic v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
+* [Campaign v8 8.1.14](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
 * [Versionsinformation om Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
-* [Versionsinformation för Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* [Versionsinformation om Campaign Classic v7 21.1.3](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 <!-- ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
