@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
+source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
 workflow-type: tm+mt
-source-wordcount: '4292'
+source-wordcount: '4373'
 ht-degree: 13%
 
 ---
@@ -373,10 +373,11 @@ Senast uppdaterad: **12 augusti 2021, för 11 augusti**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **12 augusti 2021, för 21 augusti-versionen**
+Senast uppdaterad: **20 augusti 2021, för 21 augusti**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
+| — | Den nya betataggen Advertising Cloud Javascript använder Adobe Experience Cloud ID-tjänsten (ECID) samt den äldre ef_id och gsurferid för att mäta konverteringar. Den nya taggen skapar [cookies från första part-Experience Cloud s_ecid](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) och ger bättre integrering med andra Experience Cloud-produkter.<br><br>Den gamla Advertising Cloud Javascript-taggen med ITP-mappning kommer att bli inaktuell i september 2021.<br><br>Din kontoansvarige på Adobe kontaktar dig med mer information och implementeringsinstruktioner. |
 | [!UICONTROL Portfolios] | En ny [!UICONTROL Objectives Beta] med automatiserade viktrekommendationer är tillgänglig för alla användare. Det nya gränssnittet innehåller mer vägledning om hur man skapar mål och ställer in inledande målvikter. Viktrekommendationer finns endast för hjälpmått. |
 
 {style=&quot;table-layout:auto&quot;}
