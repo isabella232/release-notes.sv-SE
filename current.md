@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
+source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
 workflow-type: tm+mt
-source-wordcount: '4359'
+source-wordcount: '4374'
 ht-degree: 13%
 
 ---
@@ -23,10 +23,10 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **20 augusti 2021**
+Senaste uppdatering: **25 augusti 2021**
 
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform)  (uppdaterad  **25 augusti 2021**)
 * [Adobe – systemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -71,7 +71,13 @@ Den senaste versionsinformationen om systemstatusen för Adobe finns i [versions
 
 Innehåller uppdateringsinformation och ny dokumentation för Experience Platform och plattformstaggning.
 
-* **28 juli 2021** [ Experience Platform versionsinformation](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)  (nästa planerade version - 25  **augusti**)
+**Den 25 augusti 2021**  uppdateras de befintliga funktionerna i Experience Platform:
+
+* Insikter om observerbarhet
+* Kundprofil i realtid
+* Källor
+
+Mer information finns i [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html).
 
 ### Självstudiekurser och kurser för Experience Platform {#tutorials-platform}
 
