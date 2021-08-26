@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
+source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
-source-wordcount: '4432'
+source-wordcount: '4437'
 ht-degree: 12%
 
 ---
@@ -46,13 +46,11 @@ Senaste uppdatering: **26 augusti 2021**
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
 
-## Evenemangsmeddelande för Experience League Live - Gör nästa målgruppssegment smartare än någonsin {#events}
+## ![](/assets/experience-league.png) IconExperience League Live {#events}
 
-Lär känna Segment Builder i Experience Platform LIVE med Aaron Shields, Yaya Wang och Andres Monroy!
+**26 augusti 2021** |  [Gör nästa målgruppssegment smartare än någonsin](https://www.youtube.com/watch?v=rogVKsTFbWk)  - Lär känna Segment Builder i Experience Platform med Doug Moore, Aaron Shields, Yaya Wang och Andres Monroy!
 
-**Event:** [Gör nästa målgruppssegment smartare än någonsin](https://www.youtube.com/watch?v=rogVKsTFbWk)
-
-**26** augusti 2021 kl. 9.00 PST
+Fler videofilmer finns på [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) på YouTube.
 
 ## ![](/assets/ec_appicon_24.png) IkonExperience Cloud Central UI-komponenter {#ecloud}
 
