@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
+source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
 workflow-type: tm+mt
-source-wordcount: '4374'
-ht-degree: 13%
+source-wordcount: '4432'
+ht-degree: 12%
 
 ---
 
@@ -23,8 +23,9 @@ Experience Cloud program och tjänster uppdateras varje månad. Den här sidan �
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **25 augusti 2021**
+Senaste uppdatering: **26 augusti 2021**
 
+* [Evenemangsmeddelande för Experience League Live](#events)  - 26  **augusti 2021**
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
 * [Experience Platform](#platform)  (uppdaterad  **25 augusti 2021**)
 * [Adobe – systemstatus](#status)
@@ -44,6 +45,14 @@ Senaste uppdatering: **25 augusti 2021**
 * [Creative Cloud för företag](#creative-cloud)
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
+
+## Evenemangsmeddelande för Experience League Live - Gör nästa målgruppssegment smartare än någonsin {#events}
+
+Lär känna Segment Builder i Experience Platform LIVE med Aaron Shields, Yaya Wang och Andres Monroy!
+
+**Event:** [Gör nästa målgruppssegment smartare än någonsin](https://www.youtube.com/watch?v=rogVKsTFbWk)
+
+**26** augusti 2021 kl. 9.00 PST
 
 ## ![](/assets/ec_appicon_24.png) IkonExperience Cloud Central UI-komponenter {#ecloud}
 
