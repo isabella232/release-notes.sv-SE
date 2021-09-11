@@ -4,10 +4,10 @@ description: Versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: 48c0f82523382da9a78a78d850432c0bafd7cee7
+source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 42%
+source-wordcount: '699'
+ht-degree: 40%
 
 ---
 
@@ -26,20 +26,25 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 >
 >Ny information som publiceras efter lanseringen markeras med publiceringsdatumet.
 
-**Releasedatum: 2021**
+Senaste uppdatering: **September 2021**
 
-* [Adobe – systemstatus](#status)
-* [Experience Cloud-gränssnitt ](#ecloud)
+* [Experience League Live Events](#events)
+* [Gränssnittskomponenter i Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [Analytics ](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Reklam](#adcloud)
-* [Magento](#magento)
-* [Marketo](#marketo)
-* [Primetime](https://experienceleague.adobe.com/docs/primetime.html)  (länkar till lösningshjälp)
-* [Ny dokumentation och självstudiekurser](#selfhelp)
+* [Experience Platform programtjänster](#services)
+* [Adobe – systemstatus](#status)
+* [Journey Optimizer](#journey-opt)
+* [[!DNL Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising Cloud]](#adcloud)
+* [[!DNL Target]](#target)
+* [[!DNL Commerce]](#magento) (Magento)
+* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Workfront]](#workfront)
+* [Document Cloud](#doc-cloud)
+* [Creative Cloud för företag](#creative-cloud)
 
 ## Adobe – systemstatus {#status}
 
@@ -47,12 +52,15 @@ Funktioner och korrigeringar.
 
 Se [Systemstatus för Adobe](https://status.adobe.com/).
 
-## Experience Cloud-gränssnitt {#ecloud}
+## ![](/assets/ec_appicon_24.png) IkonExperience Cloud Central UI-komponenter {#ecloud}
 
-Nya funktioner och korrigeringar i gränssnittet i Experience Cloud, inklusive administration och bastjänster (kundattribut, målgrupper, triggers, cookies osv.).
+Experience Cloud Central Interface Components innehåller uppdateringar som du kommer åt från det enhetliga produkthuvudet, som självhjälp, sökning och inställningar för användarkonton. Uppdateringar av personer, platser (plats) och produkthantering finns här.
 
-* [[!UICONTROL Core services]](#core-services)
-* [Administration och utvecklare](#admin)
+| Funktion | Datum | Beskrivning |
+| ------- | ------- | -------|
+| Funktion | September 2021 | Beskrivning |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Core services] {#core-services}
 
