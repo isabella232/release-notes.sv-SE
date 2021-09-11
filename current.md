@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 86c72625cfc50612c0a7cf0c9893b3d6dc4e90f4
+source-git-commit: 4795657c292e131bf0d51e7b29aabc5dc0e0027b
 workflow-type: tm+mt
-source-wordcount: '6123'
+source-wordcount: '6127'
 ht-degree: 10%
 
 ---
@@ -194,10 +194,12 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 
 Funktioner, korrigeringar och nytt hjälpmaterial för Journey Orchestration.
 
+**Augusti 2021**
+
 * **Dynamiska rubriker:** Du kan nu skicka dynamiska data i HTTP-rubrikparametrar. De här parametrarna kan användas av de integreringssystem som tar emot resans åtgärd via HTTP-anrop, till exempel tidsstämpel eller spårnings-ID. [Läs mer...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 * **Dynamiska URL-sökvägar:** Du kan nu ställa in dynamiska URL-sökvägar för anpassade åtgärder. [Läs mer...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 
-* **Augusti 2021** - se versionsinformation för  [Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
+Mer information finns i [Versionsinformation för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
 #### Självstudiekurser och kurser i nya Journey Orchestration {#tutorials-ajo}
 
@@ -359,7 +361,7 @@ Versionsinformation och andra länkar till versionsinformation för Experience M
 * Versionsinformation om [[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
 * [[!DNL Experience Manager as a Cloud Service] versionsinformation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * Versionsinformation om [[!DNL Experience Manager Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
-* [!DNL [Automated Forms Conversion Service] release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
+* Versionsinformation om [[!DNL Automated Forms Conversion Service] ](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Versionsinformation om Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Versionsinformation för Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
 * Versionsinformation om [[!DNL Experience Manager Assets Dynamic Media] ](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
