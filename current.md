@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 331a26c572b1fc08fe46bd95ed80df1df1986077
+source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
 workflow-type: tm+mt
-source-wordcount: '6131'
+source-wordcount: '6120'
 ht-degree: 10%
 
 ---
@@ -27,10 +27,10 @@ Senaste uppdatering: **10 september 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
-* [Adobe – systemstatus](#status)
+* [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [Adobe Experience Platform](#platform)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Campaign]](#ac)
@@ -39,8 +39,8 @@ Senaste uppdatering: **10 september 2021**
 * [[!DNL Adobe Commerce]](#magento)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [Document Cloud](#doc-cloud)
-* [Creative Cloud för företag](#creative-cloud)
+* [[!DNL Document Cloud]](#doc-cloud)
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
 
