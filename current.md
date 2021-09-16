@@ -6,10 +6,10 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f94180b097c70ad3b4c8b93599c0d26db15892c6
+source-git-commit: 0f0032bbcf0c0fa46caaf1604a0c5aceaffbbe8e
 workflow-type: tm+mt
-source-wordcount: '6165'
-ht-degree: 10%
+source-wordcount: '6307'
+ht-degree: 11%
 
 ---
 
@@ -122,6 +122,7 @@ AN-224899; AN-239753; AN-256295; AN-262122; AN-262449; AN-263969; AN-264665; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| EOL för tre API-tjänster för analys | 16 september 2021 | Den **28 oktober 2021** kommer följande API-tjänster för Analytics att nå sitt slutdatum och avslutas. Alla integreringar som byggts med dessa tjänster kommer att sluta fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit en [Vanliga frågor om äldre API-versioner av fjärrskrivbordsversioner](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
 | EOL för Adobe [!UICONTROL Data Connectors] | 3 augusti 2020 | Adobe [!UICONTROL Data Connectors] drivs av äldre teknik som inte längre är användbar eller stöds. En ny standard finns i [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). Du kan använda den standarden för alla integreringar för att fortsätta att erbjudas och få support. Det officiella slutdatumet är **19 augusti 2021**. [Läs mer...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 | EOL för fullständig bearbetning [!UICONTROL Data Sources] | 12 april 2021 | Adobe ersatte datakällor för fullständig bearbetning **den 31 juli 2021**. Från och med den 25 mars 2021 går det inte längre att skapa ny import av den här typen. Använd [API för datainfogning i grupp](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) för att importera den här datatypen. |
 
