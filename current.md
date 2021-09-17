@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f0032bbcf0c0fa46caaf1604a0c5aceaffbbe8e
+source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
 workflow-type: tm+mt
-source-wordcount: '6307'
+source-wordcount: '6355'
 ht-degree: 11%
 
 ---
@@ -97,10 +97,10 @@ Releasedatum: **15 september 2021**
 
 | Funktion | Beskrivning | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) – Måldatum |
 | ----------- | ---------- | ----- |
-| Metrisk deduplicering | Customer Journey Analytics (CJA) kan nu deduplicera förekomster av ett mätvärde. Om samma värde visas i en kolumn (antingen själv eller i en annan kolumn) kan du förhindra att ett mätvärde ökar. Borttagning av dubbletter förhindrar att nyckeltal räknas för mycket och ökar förtroendet för dina data. | 16 september 2021 |
-| Tidsstöd för rapportering om sommartid | Alla data i CJA lagras i UTC (inte med en viss tidszon). [!UICONTROL Data Views] i CJA kan nu ändra data för att ta hänsyn till en timmes ökning eller minskning baserat på sommartid. | 16 september 2021 |
-| [!UICONTROL Custom calendars] | Gör att du kan välja en annan kalendertyp (till exempel [!UICONTROL retail 4-4-5]) för en datavy. Du kan skapa flera datavyer baserade på samma anslutning för att se samma data i olika kalenderformat. | 16 september 2021 |
-| Stöd för booleska fält | CJA har nu stöd för booleska fält. | 16 september 2021 |
+| Metrisk deduplicering | Customer Journey Analytics (CJA) kan nu deduplicera förekomster av ett mätvärde. Om samma värde visas i en kolumn (antingen själv eller i en annan kolumn) kan du förhindra att ett mätvärde ökar. Borttagning av dubbletter förhindrar att nyckeltal räknas för mycket och ökar förtroendet för dina data. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=en) | 16 september 2021 |
+| Tidsstöd för rapportering om sommartid | Alla data i CJA lagras i UTC (inte med en viss tidszon). [!UICONTROL Data Views] i CJA kan nu ändra data för att ta hänsyn till en timmes ökning eller minskning baserat på sommartid. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 16 september 2021 |
+| [!UICONTROL Custom calendars] | Gör att du kan välja en annan kalendertyp (till exempel [!UICONTROL retail 4-4-5]) för en datavy. Du kan skapa flera datavyer baserade på samma anslutning för att se samma data i olika kalenderformat. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 16 september 2021 |
+| Stöd för booleska fält | CJA har nu stöd för booleska fält. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=en) | 16 september 2021 |
 | Ny informationsupplevelse i [!UICONTROL Connections] | Med den här [!UICONTROL Connections]-gränssnittsförbättringen kan du ta reda på om och när data är klara att användas för rapportering. Du kan även spåra eventuella problem med databearbetning. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 20 september 2021 |
 
 {style=&quot;table-layout:auto&quot;}
