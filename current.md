@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
+source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
 workflow-type: tm+mt
 source-wordcount: '6355'
 ht-degree: 11%
@@ -206,8 +206,6 @@ Funktioner, korrigeringar och nytt hjälpmaterial för Journey Orchestration.
 
 Mer information finns i [Versionsinformation för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
-{style=&quot;table-layout:auto&quot;}
-
 #### Fler resurser för Journey Orchestration
 
 [Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)  -  [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)  -  [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=sv) -  [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
@@ -247,6 +245,8 @@ Mer information finns i [Versionsinformation för Journey Optimizer](https://exp
 | Augusti 2021 | [Ställ in kundprofildata - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html) | Video | Lär dig mer om kundprofildata i realtid och de steg som krävs för att konfigurera kundprofildata för Journey Optimizer. |
 | Augusti 2021 | [Mappa identiteter](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html) | Video | Lär dig hur och när ett schemafält ska etiketteras som en identitet, hur du skapar ett namnutrymme, när en identitet ska vara primär och hur du importerar och verifierar identitetsdata. |
 | Augusti 2021 | [Användningsfall - Burst-meddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | Video | Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Fler resurser för Journey Optimizer
 
