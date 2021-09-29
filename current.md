@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
+source-git-commit: 705386fb5b736ff9bf05219162697926821cd686
 workflow-type: tm+mt
 source-wordcount: '6355'
 ht-degree: 11%
@@ -70,7 +70,7 @@ Har inte uppdaterats den här månaden. Leta ofta efter uppdateringar.
 
 ## ![Ikon](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, driftstopp och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, avbrott och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
 (Den senaste versionsinformationen för [!DNL Adobe System Status] finns i [versionsinformationen 21 maj 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en).)
 
@@ -195,31 +195,6 @@ Nya videor, självstudiekurser eller kurser publicerade för Experience Platform
 
 {style=&quot;table-layout:auto&quot;}
 
-### Journey Orchestration {#journey-orch}
-
-Funktioner, korrigeringar och nytt hjälpmaterial för Journey Orchestration.
-
-**Augusti 2021**
-
-* **Dynamiska rubriker:** Du kan nu skicka dynamiska data i HTTP-rubrikparametrar. De här parametrarna kan användas av de integreringssystem som tar emot resans åtgärd via HTTP-anrop, till exempel tidsstämpel eller spårnings-ID. [Läs mer...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-* **Dynamiska URL-sökvägar:** Du kan nu ställa in dynamiska URL-sökvägar för anpassade åtgärder. [Läs mer...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-
-Mer information finns i [Versionsinformation för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
-
-#### Fler resurser för Journey Orchestration
-
-[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)  -  [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)  -  [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=sv) -  [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
-
-### [!UICONTROL Offer Decisioning] {#offer-decisioning}
-
-**Återgivningsflöde:** Det sätt på vilket du lägger till och konfigurerar representationer när du skapar ett erbjudande har uppdaterats för att förbättra användarupplevelsen
-
-* Mer information finns i [[!UICONTROL Offer Decisioning] Versionsinformation](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html).
-
-#### Fler resurser för [!UICONTROL Offer Decisioning]
-
-[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=sv)  -  [Versionsinformation](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new)  -  [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=sv) -  [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
-
 ### Adobe Mobile SDK
 
 Se [Versionsinformation och ändringsloggar](https://aep-sdks.gitbook.io/docs/release-notes) för Adobe Experience Platform Mobile SDK:er.
@@ -251,6 +226,31 @@ Mer information finns i [Versionsinformation för Journey Optimizer](https://exp
 ### Fler resurser för Journey Optimizer
 
 [Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)  -  [versionsinformation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)  -  [instruktionsvideor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
+
+### Journey Orchestration {#journey-orch}
+
+Funktioner, korrigeringar och nytt hjälpmaterial för Journey Orchestration.
+
+**Augusti 2021**
+
+* **Dynamiska rubriker:** Du kan nu skicka dynamiska data i HTTP-rubrikparametrar. De här parametrarna kan användas av de integreringssystem som tar emot resans åtgärd via HTTP-anrop, till exempel tidsstämpel eller spårnings-ID. [Läs mer...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+* **Dynamiska URL-sökvägar:** Du kan nu ställa in dynamiska URL-sökvägar för anpassade åtgärder. [Läs mer...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+
+Mer information finns i [Versionsinformation för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
+
+#### Fler resurser för Journey Orchestration
+
+[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)  -  [Versionsinformation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)  -  [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=sv) -  [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+
+### [!UICONTROL Offer Decisioning] {#offer-decisioning}
+
+**Återgivningsflöde:** Det sätt på vilket du lägger till och konfigurerar representationer när du skapar ett erbjudande har uppdaterats för att förbättra användarupplevelsen
+
+* Mer information finns i [[!UICONTROL Offer Decisioning] Versionsinformation](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html).
+
+#### Fler resurser för [!UICONTROL Offer Decisioning]
+
+[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=sv)  -  [Versionsinformation](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new)  -  [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) -  [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
 
 ## ![Ikonen för](/assets/aem.png) Experience Manager {#aem}
 
