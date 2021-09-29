@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
+source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
 workflow-type: tm+mt
 source-wordcount: '6355'
 ht-degree: 11%
@@ -70,7 +70,7 @@ Har inte uppdaterats den här månaden. Leta ofta efter uppdateringar.
 
 ## ![Ikon](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, avbrott och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, driftstopp och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
 (Den senaste versionsinformationen för [!DNL Adobe System Status] finns i [versionsinformationen 21 maj 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en).)
 
@@ -206,15 +206,6 @@ Funktioner, korrigeringar och nytt hjälpmaterial för Journey Orchestration.
 
 Mer information finns i [Versionsinformation för Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
-#### Självstudiekurser och kurser i nya Journey Orchestration {#tutorials-ajo}
-
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Augusti 2021 | [Introduktion till att skapa en resa](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Förstå grunderna för att skapa en resa på arbetsytan. |
-| Augusti 2021 | [Ställ in kundprofildata - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html) | Video | Lär dig mer om kundprofildata i realtid och de steg som krävs för att konfigurera kundprofildata för Journey Optimizer. |
-| Augusti 2021 | [Mappa identiteter](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html) | Video | Lär dig hur och när ett schemafält ska etiketteras som en identitet, hur du skapar ett namnutrymme, när en identitet ska vara primär och hur du importerar och verifierar identitetsdata. |
-| Augusti 2021 | [Användningsfall - Burst-meddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | Video | Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas. |
-
 {style=&quot;table-layout:auto&quot;}
 
 #### Fler resurser för Journey Orchestration
@@ -247,6 +238,15 @@ Se [Versionsinformation och ändringsloggar](https://aep-sdks.gitbook.io/docs/re
 | [!UICONTROL Suppression list] | Det går nu att lägga till e-postadresser och domäner i listan över inaktiveringar från användargränssnittet, antingen en i taget, antingen i gruppläge via en CSV-filöverföring. |
 
 Mer information finns i [Versionsinformation för Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+
+#### Nya Journey Optimizer självstudiekurser och kurser {#tutorials-ajo}
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| Augusti 2021 | [Introduktion till att skapa en resa](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Förstå grunderna för att skapa en resa på arbetsytan. |
+| Augusti 2021 | [Ställ in kundprofildata - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html) | Video | Lär dig mer om kundprofildata i realtid och de steg som krävs för att konfigurera kundprofildata för Journey Optimizer. |
+| Augusti 2021 | [Mappa identiteter](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html) | Video | Lär dig hur och när ett schemafält ska etiketteras som en identitet, hur du skapar ett namnutrymme, när en identitet ska vara primär och hur du importerar och verifierar identitetsdata. |
+| Augusti 2021 | [Användningsfall - Burst-meddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | Video | Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas. |
 
 ### Fler resurser för Journey Optimizer
 
