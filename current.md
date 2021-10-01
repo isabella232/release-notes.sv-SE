@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: 8b36fbc422c8b7b2bf3f2a7497a5dc51495e0562
+source-git-commit: ff7a3736e7490af8b815eda72e4ba0b363aef472
 workflow-type: tm+mt
 source-wordcount: '4971'
 ht-degree: 10%
@@ -180,7 +180,7 @@ Senaste videor, självstudiekurser eller kurser som publicerats för Experience 
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [[!DNL Platform] Administrering](https://experienceleague.corp.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Kurs | Lär dig mer om administrationsaktiviteter för Experience Platform, inklusive behörigheter och sandlådehantering. |
+| Oktober 2021 | [[!DNL Platform] Administrering](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | Kurs | Lär dig mer om administrationsaktiviteter för Experience Platform, inklusive behörigheter och sandlådehantering. |
 
 {style=&quot;table-layout:auto&quot;}
 
