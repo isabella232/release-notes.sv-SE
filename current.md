@@ -5,9 +5,10 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: ff7a3736e7490af8b815eda72e4ba0b363aef472
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
+source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '5106'
 ht-degree: 10%
 
 ---
@@ -339,9 +340,13 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
 
 Senaste självstudiekurser och kurser för Adobe Campaign.
 
-| Publicerad | Namn | Program | Beskrivning |
+| Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [Skapa avancerade kampanjer med Adobe Campaign V8 för företagsanvändare](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Campaign V8 | Lär dig konfigurera och köra avancerade marknadsföringskampanjer med Adobe Campaign V8. Lär dig mer om förutsättningarna, bygg och konfigurera avancerade kampanjer, leveranser och hantera prenumerationer. |
+| Oktober 2021 | [Skapa avancerade kampanjer med Adobe Campaign V8 för företagsanvändare](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Kurs | Lär dig konfigurera och köra avancerade marknadsföringskampanjer med Adobe Campaign V8. Lär dig mer om förutsättningarna, bygg och konfigurera avancerade kampanjer, leveranser och hantera prenumerationer. |
+| Oktober 2021 | [Använd SOAP API:er i arbetsflöden - introduktion](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Självstudiekurs | Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde baserat på data som tas emot via API:t. |
+| Oktober 2021 | [Skapa händelser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Självstudiekurs | Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse. |
+| Oktober 2021 | [Konfigurera datakällor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Självstudiekurs | Lär dig mer om vad en datakälla är och hur du konfigurerar Experience Platform och externa datakällor. |
+| Oktober 2021 | [Användningsfall - burst-meddelanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Självstudiekurs | Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas. |
 
 {style=&quot;table-layout:auto&quot;}
 
