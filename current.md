@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e3a7e1b80d25a3b9625ca0ee31a07bae674eda6f
+source-git-commit: bee65444e8ef1c12779c991fa9e199d93b8028f0
 workflow-type: tm+mt
-source-wordcount: '5113'
+source-wordcount: '5196'
 ht-degree: 10%
 
 ---
@@ -48,12 +48,12 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 [!DNL Experience League] Live Events är diskussioner med Adobe experter och specialgäster som är viktiga för att du ska få tillgång till Adobe-teknik. Se följande schema och delta live eller se händelser som spelats in tidigare.
 
-| Händelsedatum | Händelsenamn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| 21 oktober 2021 | TBD | Livevideohändelse | Information kommer. |
-| 23 september 2021 | [Experttips som får dina semesterkampanjer att sticka ut](https://www.youtube.com/watch?v=bsU1lAv0xes) | Livevideohändelse | Precis som det aldrig är för tidigt att börja handla på semester är det aldrig för tidigt att börja planera för en verkligt framgångsrik kampanj för semestermarknadsföring. Med Adobe Campaign kan ni utforma, planera och genomföra kampanjer som får alla era helgdagar att komma till rätta.<br>Men vet ni alla tips för att köra kampanjer som avslutas året med en grop? Delta i Sandra för en livediskussion med tre Adobe-experter som har massor av kollektiv expertis på det där. |
-| 26 augusti 2021 | [Gör nästa målgruppssegment smartare än någonsin](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Händelseinspelning | Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform [!UICONTROL Segment Builder] kan ni skapa nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden över alla kanaler. Det finns inget bättre sätt att säkerställa att era meddelanden når de människor som behöver höra dem bäst. |
-| 29 juli 2021 | [Mina tre favoriter i Adobe Analytics implementeringstips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Händelseinspelning | Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe Analytics-implementering. Nu kommer Eric Matisoff med sina tre bästa implementeringstips för Adobe Analytics till den här exklusiva diskussionen om Experience League Live. |
+| Händelsedatum | Tid | Händelsenamn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 21 oktober 2021 | 12.00 (EST) | [Vem klickade på det där? Avancerad rapportering om länkklick med Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Live Video-händelse | Att rapportera om användarinteraktion med webb- eller mobilegendom är en viktig del av att förstå kundens resa. Med Adobe Analytics kan du förstå vem, vad, varför och var varje klick i programmet ska vara. Lär dig av Adobe Analytics experter deras tips om hur du använder Activity Map-klassificeringar och anpassad attribuering för att bättre förstå användarengagemanget. |
+| 23 september 2021 | On demand | [Experttips som får dina semesterkampanjer att sticka ut](https://www.youtube.com/watch?v=bsU1lAv0xes) | Livevideohändelse | Precis som det aldrig är för tidigt att börja handla på semester är det aldrig för tidigt att börja planera för en verkligt framgångsrik kampanj för semestermarknadsföring. Med Adobe Campaign kan ni utforma, planera och genomföra kampanjer som får alla era helgdagar att komma till rätta.<br>Men vet ni alla tips för att köra kampanjer som avslutas året med en grop? Delta i Sandra för en livediskussion med tre Adobe-experter som har massor av kollektiv expertis på det där. |
+| 26 augusti 2021 | On demand | [Gör nästa målgruppssegment smartare än någonsin](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Händelseinspelning | Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform [!UICONTROL Segment Builder] kan ni skapa nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden över alla kanaler. Det finns inget bättre sätt att säkerställa att era meddelanden når de människor som behöver höra dem bäst. |
+| 29 juli 2021 | On demand | [Mina tre favoriter i Adobe Analytics implementeringstips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Händelseinspelning | Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe Analytics-implementering. Nu kommer Eric Matisoff med sina tre bästa implementeringstips för Adobe Analytics till den här exklusiva diskussionen om Experience League Live. |
 
 {style=&quot;table-layout:auto&quot;}
 
