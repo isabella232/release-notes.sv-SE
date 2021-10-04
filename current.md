@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
+source-git-commit: 614e6d1d0f003ed788aafd806d25afdf3cd723e9
 workflow-type: tm+mt
-source-wordcount: '5106'
+source-wordcount: '5113'
 ht-degree: 10%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 10%
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **1 oktober 2021**
+Senaste uppdatering: **4 oktober 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
@@ -50,6 +50,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 | Händelsedatum | Händelsenamn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| 21 oktober 2021 | TBD | Livevideohändelse | Information kommer. |
 | 23 september 2021 | [Experttips som får dina semesterkampanjer att sticka ut](https://www.youtube.com/watch?v=bsU1lAv0xes) | Livevideohändelse | Precis som det aldrig är för tidigt att börja handla på semester är det aldrig för tidigt att börja planera för en verkligt framgångsrik kampanj för semestermarknadsföring. Med Adobe Campaign kan ni utforma, planera och genomföra kampanjer som får alla era helgdagar att komma till rätta.<br>Men vet ni alla tips för att köra kampanjer som avslutas året med en grop? Delta i Sandra för en livediskussion med tre Adobe-experter som har massor av kollektiv expertis på det där. |
 | 26 augusti 2021 | [Gör nästa målgruppssegment smartare än någonsin](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Händelseinspelning | Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform [!UICONTROL Segment Builder] kan ni skapa nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden över alla kanaler. Det finns inget bättre sätt att säkerställa att era meddelanden når de människor som behöver höra dem bäst. |
 | 29 juli 2021 | [Mina tre favoriter i Adobe Analytics implementeringstips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Händelseinspelning | Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe Analytics-implementering. Nu kommer Eric Matisoff med sina tre bästa implementeringstips för Adobe Analytics till den här exklusiva diskussionen om Experience League Live. |
@@ -77,7 +78,7 @@ Fler videofilmer finns på [Adobe Experience League Channel](https://www.youtube
 
 ## ![Ikon](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, driftstopp och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, avbrott och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
 (Den senaste versionsinformationen för [!DNL Adobe System Status] finns i [versionsinformationen 21 maj 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en).)
 
