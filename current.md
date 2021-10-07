@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f0bc233f66b61333fee0cf07f816918d61c0776e
+source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
 workflow-type: tm+mt
-source-wordcount: '5229'
+source-wordcount: '5240'
 ht-degree: 10%
 
 ---
@@ -109,7 +109,7 @@ Releasedatum: **7 oktober 2021**
 
 | Funktion | Beskrivning | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) – Måldatum |
 | ----------- | ---------- | ----- |
-| Stöd för Report Builder | Report Builder är ett Microsoft® [!DNL Excel]-tillägg som gör att du enkelt kan skapa, redigera och uppdatera anpassade rapporter med hjälp av Customer Journey Analytics-data. Med Report Builder och Excel kan du använda det enkla men flexibla dra-och-släpp-gränssnittet för att enkelt skapa komplexa dataförfrågningar. Med Report Builder för Customer Journey Analytics kan man<ul><li>Referera befintliga kalkylbladsceller för att få perfekt radordning, datumintervall eller filter</li><li>Skapa anpassade datum med kalender, cellreferenser eller matematik för datum</li><li>Designa tabeller och visualiseringar med välbekanta formateringsverktyg från Excel</li><li>Finns för macOS, Microsoft 365 för webben och Microsoft Windows</li></ul> | 7 oktober 2021 |
+| Stöd för Report Builder | Report Builder är ett Microsoft® [!DNL Excel]-tillägg som gör att du enkelt kan skapa, redigera och uppdatera anpassade rapporter med hjälp av Customer Journey Analytics-data. Med Report Builder och Excel kan du använda det enkla men flexibla dra-och-släpp-gränssnittet för att enkelt skapa komplexa dataförfrågningar. Med Report Builder för Customer Journey Analytics kan man<ul><li>Referera befintliga kalkylbladsceller för att få perfekt radordning, datumintervall eller filter</li><li>Skapa anpassade datum med kalender, cellreferenser eller matematik för datum</li><li>Designa tabeller och visualiseringar med välbekanta formateringsverktyg från Excel</li><li>Finns för Excel på macOS, Microsoft 365 för webben och Microsoft Windows</li></ul>[Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 7 oktober 2021 |
 | Visualiseringar för kontrollpaneler i Analytics | Analytics [!UICONTROL Dashboards] introducerar tre nya visualiseringar för att ge chefer och beslutsfattare en ännu bättre överblick över deras data. De nya ringformsdiagrammen, linjediagrammen och de vågräta stapeldiagrammen gör det enklare att se data för enskilda dimensionsobjekt, utan att behöva öppna en detaljvy. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 7 oktober 2021 |
 | API för Customer Journey Analytics-granskningsloggar | Med API-slutpunkten [Granskningslogg](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) kan du begära granskningsloggdata från Adobe. Det är en viktig del av säkerheten och för att granska data eller användaråtgärder. | 7 oktober 2021 |
 | Snabb [!UICONTROL Filter Builder] | Möjliggör för företagsanvändare att snabbt tillämpa grundläggande segment i ett förenklat, infogat projektarbetsflöde. Du behöver inte gå till [!UICONTROL Filter Builder]. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 21 oktober 2021 |
