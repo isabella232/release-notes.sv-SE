@@ -6,10 +6,10 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
+source-git-commit: e3facdc781ebcea6c4e623799ba1c431c83ae05f
 workflow-type: tm+mt
-source-wordcount: '5240'
-ht-degree: 10%
+source-wordcount: '5369'
+ht-degree: 9%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 10%
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **4 oktober 2021**
+Senaste uppdatering: **7 oktober 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
-* [[!DNL Adobe Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) och  [Customer Journey ](#cust-journey) **AnalyticsUppdaterad 7 oktober 2021**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -87,7 +87,7 @@ Fler videofilmer finns på [Adobe Experience League Channel](https://www.youtube
 Releasedatum: **7 oktober 2021**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+* [Nya funktioner i Customer Journey ](#cust-journey) **AnalyticsUppdaterad 7 oktober 2021**
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer ](#aa-notices)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
@@ -109,6 +109,7 @@ Releasedatum: **7 oktober 2021**
 
 | Funktion | Beskrivning | [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) – Måldatum |
 | ----------- | ---------- | ----- |
+| Rullande fönster för [!UICONTROL Connection] datalagring | **Obs! Kontakta kundtjänst eller din kontoansvarige på Adobe för att få den här inställningen implementerad. Den är ännu inte tillgänglig via CJA-gränssnittet.**<p>Gör att du kan definiera en CJA-datalagringsinställning som ett rullande fönster i månader (3 månader, 6 månader osv.) på [!UICONTROL connection]-nivå (inte på [!UICONTROL dataset]-nivå). Datalagringen baseras på tidsstämplar för händelsedatamängder och gäller endast för händelsedatamängder. Det finns ingen inställning för datalagring för profil- eller uppslagsdatauppsättningar eftersom det inte finns några tillämpliga tidsstämplar. Den största fördelen är att du bara lagrar eller rapporterar data som är tillämpliga och användbara och tar bort äldre data som inte längre är användbara. Det hjälper er att hålla er inom avtalsgränserna och minskar risken för överlagringskostnader. | 7 oktober 2021 |
 | Stöd för Report Builder | Report Builder är ett Microsoft® [!DNL Excel]-tillägg som gör att du enkelt kan skapa, redigera och uppdatera anpassade rapporter med hjälp av Customer Journey Analytics-data. Med Report Builder och Excel kan du använda det enkla men flexibla dra-och-släpp-gränssnittet för att enkelt skapa komplexa dataförfrågningar. Med Report Builder för Customer Journey Analytics kan man<ul><li>Referera befintliga kalkylbladsceller för att få perfekt radordning, datumintervall eller filter</li><li>Skapa anpassade datum med kalender, cellreferenser eller matematik för datum</li><li>Designa tabeller och visualiseringar med välbekanta formateringsverktyg från Excel</li><li>Finns för Excel på macOS, Microsoft 365 för webben och Microsoft Windows</li></ul>[Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 7 oktober 2021 |
 | Visualiseringar för kontrollpaneler i Analytics | Analytics [!UICONTROL Dashboards] introducerar tre nya visualiseringar för att ge chefer och beslutsfattare en ännu bättre överblick över deras data. De nya ringformsdiagrammen, linjediagrammen och de vågräta stapeldiagrammen gör det enklare att se data för enskilda dimensionsobjekt, utan att behöva öppna en detaljvy. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 7 oktober 2021 |
 | API för Customer Journey Analytics-granskningsloggar | Med API-slutpunkten [Granskningslogg](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) kan du begära granskningsloggdata från Adobe. Det är en viktig del av säkerheten och för att granska data eller användaråtgärder. | 7 oktober 2021 |
