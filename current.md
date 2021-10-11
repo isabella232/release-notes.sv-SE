@@ -6,7 +6,7 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e3facdc781ebcea6c4e623799ba1c431c83ae05f
+source-git-commit: bc6e1a293674c9554cb5c4bb18e3e39bb8c38213
 workflow-type: tm+mt
 source-wordcount: '5369'
 ht-degree: 9%
@@ -132,7 +132,7 @@ AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
-| EOL för tre API-tjänster för analys | 16 september 2021 | Den **28 oktober 2021** kommer följande API-tjänster för Analytics att nå sitt slutdatum och avslutas. Alla integreringar som byggts med dessa tjänster slutar att fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit en [Vanliga frågor om äldre API-versioner av fjärrskrivbordsversioner](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe I/O](https://developer.adobe.com/console) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
+| EOL för tre API-tjänster för analys | 16 september 2021 | Den **20 oktober 2021** kommer följande API-tjänster för Analytics att nå sitt slutdatum och avslutas. Alla integreringar som byggts med dessa tjänster slutar att fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit en [Vanliga frågor om äldre API-versioner av fjärrskrivbordsversioner](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) som kan hjälpa dig att besvara dina frågor och ge vägledning om hur du fortsätter. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till ett [Adobe I/O](https://developer.adobe.com/console) Analytics-integrationskonto, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
 
 {style=&quot;table-layout:auto&quot;}
 
