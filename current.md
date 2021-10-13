@@ -6,10 +6,10 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bc6e1a293674c9554cb5c4bb18e3e39bb8c38213
+source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
 workflow-type: tm+mt
-source-wordcount: '5369'
-ht-degree: 9%
+source-wordcount: '5385'
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 9%
 >
 >Prenumerera på den månatliga [produktuppdateringen Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html) för att få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Senaste uppdatering: **7 oktober 2021**
+Senaste uppdatering: **13 oktober 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
@@ -32,7 +32,7 @@ Senaste uppdatering: **7 oktober 2021**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (uppdaterad 13  **oktober 2021**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Target]](#target)
@@ -239,6 +239,8 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Of
 
 Adobe rekommenderar att du går till sidan [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla dig uppdaterad om versionsinformation.
 
+**Uppdatering 10/13/2021:** Se videon  [från september 2021 om ](https://video.tv.adobe.com/v/337381) en översikt över nya funktioner.
+
 ### Community
 
 * [Adobe-utvecklare Live](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 oktober 2021, 7:00 PDT
@@ -345,7 +347,7 @@ Senaste självstudiekurser och kurser för Adobe Campaign.
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Oktober 2021 | [Skapa avancerade kampanjer med Adobe Campaign V8 för företagsanvändare](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Kurs | Lär dig konfigurera och köra avancerade marknadsföringskampanjer med Adobe Campaign V8. Lär dig mer om förutsättningarna, bygg och konfigurera avancerade kampanjer, leveranser och hantera prenumerationer. |
-| Oktober 2021 | [Använd SOAP API:er i arbetsflöden - introduktion](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Självstudiekurs | Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde baserat på data som tas emot via API:t. |
+| Oktober 2021 | [Använd SOAP API:er i arbetsflöden – introduktion](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv) | Självstudiekurs | Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde baserat på data som tas emot via API:t. |
 | Oktober 2021 | [Skapa händelser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Självstudiekurs | Lär dig hur du konfigurerar en händelse, anger slutpunkten för direktuppspelning och nyttolasten för en händelse. |
 | Oktober 2021 | [Konfigurera datakällor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Självstudiekurs | Lär dig mer om vad en datakälla är och hur du konfigurerar Experience Platform och externa datakällor. |
 | Oktober 2021 | [Användningsfall - burst-meddelanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Självstudiekurs | Förstå användningsexempel för felmeddelanden. Lär dig hur du konfigurerar en resa för burst-meddelanden och vilka bästa metoder som ska användas. |
