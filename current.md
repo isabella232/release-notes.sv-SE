@@ -6,10 +6,10 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
+source-git-commit: 506c543d97a19bf88e7ba767c82893b02704ea8b
 workflow-type: tm+mt
-source-wordcount: '5385'
-ht-degree: 10%
+source-wordcount: '5471'
+ht-degree: 9%
 
 ---
 
@@ -370,22 +370,21 @@ Versionsinformation för [!DNL Adobe Advertising Cloud].
 
 ### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Senast uppdaterad: **28 september 2021**
+Senast uppdaterad: **7 oktober 2021**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Vyer för kampanjhantering | En [!UICONTROL Creation date]-kolumn är nu tillgänglig i anpassade kolumnuppsättningar för vyerna [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] och [!UICONTROL Ads]. Du kan också filtrera vyerna [!UICONTROL Placements] och [!UICONTROL Ads] med [!UICONTROL Creation date]. |
-| Programmatiska garanterade avtal | (8 september-versionen) Du kan nu redigera [!UICONTROL Max Bid] som standardplacering för ett programmatiskt garanterat erbjudande (PG). Men eftersom PG-avtal alltid har en fast CPM bör endast internationella klienter redigera [!UICONTROL Max Bid] för att ta hänsyn till valutautbytesavgifter. |
-|  | (version 8 september) Användare med behörigheten &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot; kan nu skicka en annons till [!DNL FreeWheel Programmatic Creative API] från vyn [!UICONTROL Ads] eller vyn [!UICONTROL Placements]. Du kan fortfarande skicka in en annons från vyn [!UICONTROL Deals]. |
+| Dokumentation | Alla [DSP och annan Advertising Cloud-dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) på [!DNL Experience League] är nu maskinöversatta till alla tillgängliga språk. Om du vill ändra vilket språk som visas använder du menyn Ändra språk längst ned till vänster på en sida. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **28 september 2021**
+Senast uppdaterad: **7 oktober 2021**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
+| [!UICONTROL Reports], [!UICONTROL Notification Center] | (9 oktober-versionen) Alla e-postmeddelanden för rapporter som Advertising Cloud Search skickar när en anpassad eller schemalagd rapport har slutförts eller misslyckats hanteras nu av [!UICONTROL Notification Center]. E-postmeddelanden och webbmeddelanden är aktiverade som standard för rapporter, men du kan ändra meddelandeinställningarna om du vill. Med den här ändringen:<ul><li>E-postmottagare är begränsade till användare som är registrerade, autentiserade användare av Advertising Cloud Search och har tillgång till annonserarkontot. Detta säkerställer att inga konfidentiella uppgifter skickas till obehöriga.</li><li>Formatet och innehållet i e-postmeddelandet använder mallen [!UICONTROL Notification Center], som innehåller mer information om rapporten och innehåller direkthämtningslänkar för alla rapportformat.</li><li>Rapportmeddelanden är en ny meddelandetyp med egna meddelandeinställningar i [!UICONTROL Notification Center].</li></ul>Om du använder automatisering för att hämta rapporter från e-postmeddelanden kan du behöva uppdatera filtreringslogiken för att säkerställa kontinuiteten i processerna. |
 | Reklaminsikter | Ytterligare insikter finns i betaversion. |
 
 {style=&quot;table-layout:auto&quot;}
