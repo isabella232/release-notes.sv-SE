@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
+source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
 workflow-type: tm+mt
-source-wordcount: '4100'
+source-wordcount: '4116'
 ht-degree: 14%
 
 ---
@@ -124,7 +124,7 @@ Releasedatum: **28 oktober 2021**
 | [!UICONTROL Media Playback Time Spent] | Adobe direktuppspelning av media [!UICONTROL Time Spent] ger värdefull insikt i tittarnas engagemang och gör det möjligt för medieorganisationer att få djupare och mer detaljerade insikter med användarengagemang från minut till minut genom avancerad tidsanalys med delningsfunktioner. Du kan se hur mycket tid du har lagt på att visa medieströmmar vid en viss tidpunkt. Du kan dela uppspelningens längd med olika granulariteter, inklusive nya 5-, 15- och 30-minutersgranulariteter. [Läs mer](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 18 oktober 2021 |
 | Snabb [!UICONTROL Segment Builder] | Möjliggör för företagsanvändare att snabbt tillämpa grundläggande segment i ett förenklat, infogat projektarbetsflöde. Du behöver inte gå till [!UICONTROL Segment Builder]. [Läs mer](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | 21 oktober 2021 |
 | Förbättringar av Analysis Workspace Left Rail Search | Sökning till vänster i rälsen 1) prioriterar exakta matchningar över breda matchningar, förutom att fortsätta att ta hänsyn till komponenternas aktualitet och relevans. 2) Den markerar matchande tecken för att göra sökresultaten lättare att förstå. 3) Det är enklare att hitta klassificeringar som hör till en dimension. 4) Slutligen stöds jokertecken (`*`) att enklare söka efter specifika komponenter. Obs! Sökning med jokertecken fungerar ännu inte på dimensionsobjektnivå. | 21 oktober 2021 |
-| Analysis Workspace Dark Theme | Det mörka temat är tillgängligt som visningsalternativ. | 21 oktober 2021 |
+| Mörkt tema | [Mörkt tema](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) är tillgängligt som visningsalternativ. | 21 oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -135,7 +135,7 @@ Releasedatum: **28 oktober 2021**
 | Datumintervall på minutnivå i Analysis Workspace | Du kan använda ett datumintervall på minutnivå under de avancerade inställningarna i panelkalendern eller när du skapar ett anpassat datumintervall. Om du rapporterar i ett datumintervall som sträcker sig över många dagar, gäller starttiden den första dagen och sluttiden den sista dagen i intervallet. | 18 oktober 2021 |
 | Snabb [!UICONTROL Filter Builder] | Möjliggör för företagsanvändare att snabbt tillämpa grundläggande segment i ett förenklat, infogat projektarbetsflöde. Du behöver inte gå till [!UICONTROL Filter Builder]. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | 21 oktober 2021 |
 | Förbättringar av Analysis Workspace Left Rail Search | Sökning till vänster i rälsen 1) prioriterar exakta matchningar över breda matchningar, förutom att fortsätta att ta hänsyn till komponenternas aktualitet och relevans. 2) Den markerar matchande tecken för att göra sökresultaten lättare att förstå. 3) Det är enklare att hitta klassificeringar som hör till en dimension. 4) Slutligen stöds jokertecken (`*`) att enklare söka efter specifika komponenter. Obs! Sökning med jokertecken fungerar ännu inte på dimensionsobjektnivå. | 21 oktober 2021 |
-| Analysis Workspace Dark Theme | Det mörka temat är tillgängligt som visningsalternativ. | 21 oktober 2021 |
+| Mörkt tema | [Mörkt tema](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) är tillgängligt som visningsalternativ. | 21 oktober 2021 |
 | Fönster för återsökning av dimensionsallokering | Ett summeringsfönster på upp till 90 dagar läggs till i inställningen för dimensionsallokering under Upprepande i konfigurationen för datavyer. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html) | 28 oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -312,7 +312,7 @@ Senaste självstudiekurser och kurser för Adobe Campaign.
 
 ### Hjälpresurser för Campaign
 
-* Adobe Campaign v8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementeringsguider](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
+* Adobe Campaign v8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementeringsguider](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv) - [Frisläppningsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Dokumentation för Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * Kontrollpanelen för Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) – [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)  - Instruktionsvideor för [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=sv)
