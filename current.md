@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
+source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
 workflow-type: tm+mt
-source-wordcount: '4116'
-ht-degree: 14%
+source-wordcount: '4412'
+ht-degree: 13%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 14%
 
 Releasamånad: **November 2021**
 
-Senaste uppdatering: **22 oktober 2021**
+Senaste uppdatering: **28 oktober 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
@@ -41,7 +41,7 @@ Senaste uppdatering: **22 oktober 2021**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising Cloud]](#adcloud) (**27 oktober 2021**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -372,16 +372,32 @@ Se [[!DNL Workfront] releaser](https://one.workfront.com/s/product-releases) fö
 
 Versionsinformation för [!DNL Adobe Advertising Cloud].
 
+* [Nya funktioner i [!DNL Advertising Cloud]](#adcloud-all)
 * [Nya funktioner i [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nya funktioner i [!DNL Advertising Cloud Search]](#adcloud-search)
 
-### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Nya funktioner i [!DNL Advertising Cloud] {#adcloud-all}
 
-Senast uppdaterad: **7 oktober 2021**
+Senast uppdaterad: **27 oktober 2021**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Dokumentation | Alla [DSP och annan dokumentation från Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html) på [!DNL Experience League] är nu maskinöversatt till alla tillgängliga språk. Om du vill ändra vilket språk som visas använder du menyn Ändra språk längst ned till vänster på en sida. |
+| Analyser för Advertising Cloud | Om din organisation vill byta från att använda den gamla Adobe Analytics `visitorAPI.js` till Adobe Experience Platform-biblioteket (`alloy.js`) för datainsamling måste du göra några ändringar för att aktivera ID-sammanslagning. Se &quot;[Använda [!DNL Last Event Service] JavaScript-bibliotek med Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Senast uppdaterad: **27 oktober 2021**
+
+| Funktion | Beskrivning |
+| ------- | ----------- |
+| Anpassade rapporter | Nu kan du skapa och hantera [!DNL Amazon S3] och olika typer av FTP-leveransplatser, så kallade *[!DNL report destinations]*, för dina anpassade rapporter. När du har konfigurerat rapportdestinationer kan du konfigurera alla dina nya anpassade rapporter så att de levereras till en eller flera platser av samma typ eller till e-postmottagare. Uppdateringar av [!DNL Amazon S3] och FTP-inloggningsuppgifterna avbryter inte rapportleveransen.<br><br>Dina befintliga rapporter skickas fortfarande till de angivna e-postmottagarna. Om du vill konfigurera leverans till ett annat rapportmål skapar du en ny rapport med det nya målet. |
+| [!UICONTROL Packages], [!UICONTROL Placements]och [!UICONTROL Ads] vyer | När du visar data för en enstaka dag inkluderar trenddiagrammen nu timdata. Håll markören över en punkt om du vill visa data för den timmen. |
+| [!UICONTROL Placements] | Placeringen [!UICONTROL Inspector] innehåller nu [!UICONTROL Inventory] som visar alla erbjudanden och deras associerade mätvärden för placeringen. Använd informationen för att göra snabba justeringar eller felsöka problem utan att generera en anpassad rapport. |
+| [!UICONTROL Ads] | (Användare som har behörighet att inkludera Clearcastclock-nummer i sina annonser) DSP visar inte längre ett fel om du använder ett klocknummer som är kopplat till en annan annons. **Obs!**  Det bästa sättet är att använda ett unikt klocknummer för varje videoannons. Annars godkänner utgivaren inte alla annonser. |
+| [!UICONTROL Deal IDs] | The [!UICONTROL Deal ID] inställningar och andra platser i användargränssnittet återspeglar den nya varumärkningen för [!DNL Magnite] SSP:<br><ul><li>SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) är nu &quot;[!DNL Magnite CTV].&quot;</li><li>Under de kommande veckorna [!DNL Rubicon]&quot; ändras till &quot;[!DNL Magnite DV+],&quot; där [!DNL DV+] används för visning, video och andra format som ljud.</li></ul> |
+| [!DNL Freewheel] garanterad programmatisk annonsering | Nu kan du hitta status för annonser för [!DNL Freewheel] garanterad programmatisk marknadsföring från [!UICONTROL Ads] vy. Tidigare kunde du bara kontrollera statusen från [!UICONTROL Deals] vy. |
 
 {style=&quot;table-layout:auto&quot;}
 
