@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
+source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
 workflow-type: tm+mt
-source-wordcount: '4412'
+source-wordcount: '4469'
 ht-degree: 13%
 
 ---
@@ -53,7 +53,8 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 | Händelsedatum | Tid | Händelsenamn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 21 oktober 2021 | On demand | [Vem klickade på det där? Avancerad rapportering om länkklick med Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live Video-händelse | Att rapportera om användarinteraktion med webb- eller mobilegendom är en viktig del av att förstå kundens resa. Med Adobe Analytics kan du förstå vem, vad, varför och var varje klick i programmet ska vara. Lär dig av Adobe Analytics experter deras tips om hur du använder Activity Map-klassificeringar och anpassad attribuering för att bättre förstå användarengagemanget. |
+| 18 november 2021 | TBA | Publicera snabbare än någonsin med snabb framtagning av webbplatser i Experience Manager | Livevideohändelse | Experience Manager Sites har flera funktioner som snabbar upp framtagningen av en övertygande webbupplevelse. Lär dig hur du använder en lågkodsmetod för att skapa en webbplats i Adobe Experience Manager med en fördefinierad platsmall. Mer info! |
+| 21 oktober 2021 | On demand | [Vem klickade på det där? Avancerad rapportering om länkklick med Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Livevideohändelse | Att rapportera om användarinteraktion med webb- eller mobilegendom är en viktig del av att förstå kundens resa. Med Adobe Analytics kan du förstå vem, vad, varför och var varje klick i programmet ska vara. Lär dig av Adobe Analytics experter deras tips om hur du använder Activity Map-klassificeringar och anpassad attribuering för att bättre förstå användarengagemanget. |
 | 4 oktober 2021 | On demand | [Adobe-utvecklare live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Missade du händelsen eller letade efter en repetition av en specifik session? Hitta dem på Experience League. Utvecklare Live presenterar de senaste tekniska framstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
 
 {style=&quot;table-layout:auto&quot;}
