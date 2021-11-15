@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 18e7570cc950555d53a82bbb67555c3a273e2cbc
+source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
 workflow-type: tm+mt
-source-wordcount: '4736'
+source-wordcount: '4758'
 ht-degree: 12%
 
 ---
@@ -49,11 +49,11 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 ## ![Ikon](/assets/experience-league.png) [!DNL Experience League] Händelser {#events}
 
-Experience League Events är en utmärkt plats att få svar från produktexperter på Adobe. Kolla in vår
+Experience League Events är en utmärkt plats att få svar från produktexperter på Adobe. Här är de tillgängliga händelserna:
 
-* Community Q&amp;A Coffee Breakes
-* Experience League Live-videoevent (även tillgängligt på begäran)
-* Adobe Developer&#39;s Live
+* [Experience League Live](#exl-live): Livevideo och on demand-video på YouTube
+* [Community Q&amp;A Coffee Breakes](#coffee): Chatt med produktchefer i communityforumet
+* [Adobe Developer&#39;s Live](#dev-live): On demand-videoevent på Experience League
 
 Scheman och händelserna är följande:
 
@@ -76,8 +76,8 @@ För tidigare avsnitt, se [Experience League Live](https://experienceleague.adob
 
 | Händelsenamn | Datum och tid | Program | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target - användargränssnitt för installation och administration, A4T-integrering, AEM-integrering, allmänt användargränssnitt  | 8 december (Wed.) @ 8 am PT | Adobe Target | Frågor och svar | Robert Calangiu, även känd som @Robert_Calangiu, Senior Product Manager för Adobe Target, kommer tillsammans med oss i Adobe Target Community för att chatta direkt med dig om dina Adobe Target frågor som rör hans expertområden. <br>[Detaljer](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
-| Adobe Campaign - Dataimport via andra program | 2 december 2021 @ 8 am PT | Adobe Campaign | Frågor och svar | Dataimport via andra program - Bästa tillvägagångssätt för att importera data via SFTP/API:er med hjälp av tekniska arbetsflöden med Zariely Garcia, Senior Technical Consultant. <br>[Detaljer](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target - användargränssnitt för installation och administration, A4T-integrering, AEM-integrering, allmänt användargränssnitt  | Onsdag 8 december kl. 8 PT | Adobe Target | Frågor och svar | Robert Calangiu, även känd som @Robert_Calangiu, Senior Product Manager för Adobe Target, kommer tillsammans med oss i Adobe Target Community för att chatta direkt med dig om dina Adobe Target frågor som rör hans expertområden. <br>[Detaljer](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
+| Adobe Campaign - Dataimport via andra program | Torsdagen den 2 december 2021 kl. 8.00 PT | Adobe Campaign | Frågor och svar | Dataimport via andra program - Bästa tillvägagångssätt för att importera data via SFTP/API:er med hjälp av tekniska arbetsflöden med Zariely Garcia, Senior Technical Consultant. <br>[Detaljer](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -86,6 +86,8 @@ För tidigare avsnitt, se [Experience League Live](https://experienceleague.adob
 | Händelsenamn | Datum och tid | Hjälpavsnitt | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 4-5 oktober 2021 | On demand | [Adobe-utvecklare live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Missade du händelsen eller letade efter en repetition av en specifik session? Hitta dem på Experience League. Utvecklare Live presenterar de senaste tekniska framstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
+
+{style=&quot;table-layout:auto&quot;}
 
 Fler videoklipp finns på [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) på YouTube.
 
