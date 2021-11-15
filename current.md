@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
+source-git-commit: f5fa780e217bd43eb835442326692e3a056f16c3
 workflow-type: tm+mt
-source-wordcount: '4469'
-ht-degree: 13%
+source-wordcount: '5024'
+ht-degree: 12%
 
 ---
 
@@ -47,17 +47,43 @@ Senaste uppdatering: **28 oktober 2021**
 
 Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för att hitta produkt- och teknisk dokumentation, kurser, videokurser, snabbsvar, communityinsikter och lärarledd utbildning.
 
-## ![Ikon](/assets/experience-league.png) [!DNL Experience League] Live Events {#events}
+## ![Ikon](/assets/experience-league.png) [!DNL Experience League] Händelser {#events}
 
-[Experience League Live Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) Vi diskuterar med Adobe experter och särskilda gäster som är viktiga för att du ska få tillgång till Adobe-teknik. Se följande schema och delta live eller se händelser som spelats in tidigare.
+Experience League Events är en utmärkt plats att få svar från produktexperter på Adobe. Kolla in vår _Community Q&amp;A Coffee Breakes_, Experience League Live-videoevent (även tillgängligt på begäran) och Adobe Developer&#39;s Live. Scheman och händelserna är följande:
+
+### Experience League Live{#exl-live}
+
+[Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) är ett direktuppspelningsprogram som producerats av Experience League-teamet. Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
 
 | Händelsedatum | Tid | Händelsenamn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18 november 2021 | TBA | Publicera snabbare än någonsin med snabb framtagning av webbplatser i Experience Manager | Livevideohändelse | Experience Manager Sites har flera funktioner som snabbar upp framtagningen av en övertygande webbupplevelse. Lär dig hur du använder en lågkodsmetod för att skapa en webbplats i Adobe Experience Manager med en fördefinierad platsmall. Mer info! |
-| 21 oktober 2021 | On demand | [Vem klickade på det där? Avancerad rapportering om länkklick med Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Livevideohändelse | Att rapportera om användarinteraktion med webb- eller mobilegendom är en viktig del av att förstå kundens resa. Med Adobe Analytics kan du förstå vem, vad, varför och var varje klick i programmet ska vara. Lär dig av Adobe Analytics experter deras tips om hur du använder Activity Map-klassificeringar och anpassad attribuering för att bättre förstå användarengagemanget. |
-| 4 oktober 2021 | On demand | [Adobe-utvecklare live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Missade du händelsen eller letade efter en repetition av en specifik session? Hitta dem på Experience League. Utvecklare Live presenterar de senaste tekniska framstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
+| 18 november 2021 | 12.00 (EST) | [Publicera snabbare än någonsin med snabb framtagning av webbplatser i Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live Video-händelse | Driftsätt en funktionsrik, skräddarsydd webbupplevelse på några dagar, utan någon backend-utveckling. Lär dig hur du använder en lågkodsmetod för att skapa en webbplats i Adobe Experience Manager med en fördefinierad platsmall. Delta i en live presentation och demo med produktcheferna Shankari Panchapakesan och Gabriel Walt på Adobe. Du kan till och med se en del kodning live! |
+| 21 oktober 2021 | 12.00 (EST) | [Vem klickade på det där? Avancerad rapportering om länkklick med Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | On demand | Att rapportera om användarinteraktion med webb- eller mobilegendom är en viktig del av att förstå kundens resa. Med Adobe Analytics kan du förstå vem, vad, varför och var varje klick i programmet ska vara. Lär dig av Adobe Analytics experter deras tips om hur du använder Activity Map-klassificeringar och anpassad attribuering för att bättre förstå användarengagemanget. |
+| 23 september 2021 | On demand | [Experttips som får dina semesterkampanjer att sticka ut](https://www.youtube.com/watch?v=bsU1lAv0xes) | Livevideohändelse | Precis som det aldrig är för tidigt att börja handla på semester är det aldrig för tidigt att börja planera för en verkligt framgångsrik kampanj för semestermarknadsföring. Med Adobe Campaign kan ni utforma, planera och genomföra kampanjer som får alla era helgdagar att komma till rätta.<br>Men vet ni alla tips för att köra kampanjer som avslutas året med en grop? Delta i Sandra för en livediskussion med tre Adobe-experter som har massor av kollektiv expertis på det där. |
+| 26 augusti 2021 | On demand | [Gör nästa målgruppssegment smartare än någonsin](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | Händelseinspelning | Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform [!UICONTROL Segment Builder]kan ni bygga upp nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden i alla kanaler. Det finns inget bättre sätt att säkerställa att era meddelanden når de människor som behöver höra dem bäst. |
+| 29 juli 2021 | On demand | [Mina tre favoriter i Adobe Analytics implementeringstips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | Händelseinspelning | Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe Analytics-implementering. Nu kommer Eric Matisoff med sina tre bästa implementeringstips för Adobe Analytics till den här exklusiva diskussionen om Experience League Live. |
 
 {style=&quot;table-layout:auto&quot;}
+
+### Community Q&amp;A Coffee Breakes{#coffee}
+
+diskussioner med Adobe experter och särskilda gäster som är viktiga för att ge dig Adobe-teknik. Community Q&amp;A Coffee Breaks Se följande schema och delta live eller se tidigare inspelade event.
+
+Ägna en timme åt en gäst och skicka in dina frågor i Experience League Communities, där du kan få svar från produktexperter på Adobe.
+
+| Händelsenamn | Datum och tid | Hjälpavsnitt | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Community Q&amp;A Coffee Breakes | 10 november (Wed.) @ 8am PT | Adobe Target | Frågor och svar | Tillbringa en timme med Cristinel Anastasoaie, Product Manager. Få svar på dina frågor om Adobe Target gränssnitt, integreringar, behörigheter och arbetsytor. <br>[Detaljer](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696) |
+|  | 11 november (Thurs.) @ 8 am PT | Adobe Target | Frågor och svar | Tillbringa en timme med Cristinel Anastasoaie, Product Manager. Få svar på dina frågor om Adobe Target gränssnitt, integreringar, behörigheter och arbetsytor. <br>[Detaljer](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696) |
+| 18 november 2021 | TBA | Publicera snabbare än någonsin med snabb framtagning av webbplatser i Experience Manager | Livevideohändelse | Experience Manager Sites har flera funktioner som snabbar upp framtagningen av en övertygande webbupplevelse. Lär dig hur du använder en lågkodsmetod för att skapa en webbplats i Adobe Experience Manager med en fördefinierad platsmall. Mer info! |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Adobe Developer&#39;s Live{#dev-live}
+
+| Händelsenamn | Datum och tid | Hjälpavsnitt | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 4 oktober 2021 | On demand | [Adobe-utvecklare live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Missade du händelsen eller letade efter en repetition av en specifik session? Hitta dem på Experience League. Utvecklare Live presenterar de senaste tekniska framstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
 
 Fler videoklipp finns på [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) på YouTube.
 
