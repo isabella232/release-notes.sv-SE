@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
+source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
-source-wordcount: '4758'
-ht-degree: 12%
+source-wordcount: '4678'
+ht-degree: 13%
 
 ---
 
@@ -61,10 +61,11 @@ Scheman och händelserna är följande:
 
 [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) är ett direktuppspelningsprogram som producerats av Experience League-teamet. Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
 
+Kommande event:
+
 | Händelsedatum | Tid | Händelsenamn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 18 november 2021 | 12.00 (EST) | [Publicera snabbare än någonsin med snabb framtagning av webbplatser i Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live Video-händelse | Driftsätt en funktionsrik, skräddarsydd webbupplevelse på några dagar, utan någon backend-utveckling. Lär dig hur du använder en lågkodsmetod för att skapa en webbplats i Adobe Experience Manager med hjälp av en fördefinierad [!UICONTROL Site Template]. Delta i en live presentation och demo med produktcheferna Shankari Panchapakesan, Gabriel Walt och Danny Gordon på Adobe. Du kan till och med se en del kodning live! |
-| 21 oktober 2021 | 12.00 (EST) | [Vem klickade på det där? Avancerad rapportering om länkklick med Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | On demand | Att rapportera om användarinteraktion med webb- eller mobilegendom är en viktig del av att förstå kundens resa. Med Adobe Analytics kan du förstå vem, vad, varför och var varje klick i programmet ska vara. Lär dig av Adobe Analytics experter deras tips om hur du använder Activity Map-klassificeringar och anpassad attribuering för att bättre förstå användarengagemanget. |
 
 {style=&quot;table-layout:auto&quot;}
 
