@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
+source-git-commit: 89342047732a95ba2669eb58397d6a1dc936a8a3
 workflow-type: tm+mt
-source-wordcount: '4678'
-ht-degree: 13%
+source-wordcount: '4752'
+ht-degree: 12%
 
 ---
 
@@ -25,13 +25,14 @@ ht-degree: 13%
 
 Releasamånad: **November 2021**
 
-Senaste uppdatering: **15 november 2021**
+Senaste uppdatering: **22 november 2021**
 
 * [[!DNL Experience League] Händelser](#events) (Uppdaterat 15 november 2021)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) (Uppdaterat 22 november 2021)
+* [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#magento)
@@ -144,7 +145,7 @@ Releasedatum: **28 oktober 2021**
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer ](#aa-notices)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 22 november 2021)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -196,6 +197,7 @@ AN-270649
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| RDC-typen&quot;Global + China&quot; | 22 november 2021 | &quot;Global + China&quot; är en ny typ av regional datainsamling (RDC) som förenklar trafikflödet för globala kunder som använder [!UICONTROL China Performance Optimization Add-On Package]. Tidigare var du tvungen att bestämma om data skulle dirigeras till den kinesiska samlingens slutpunkt eller någon av de globala samlingens slutpunkter. Nu kan du välja den här domänkontrollanten **type** för att Adobe ska kunna fastställa den optimala samlingens slutpunkt baserat på användarens geolokalisering. |
 | EOL för tre API-tjänster för analys | 16 september 2021 | På **20 oktober 2021** kommer följande API-tjänster för Analytics att nå sitt slutdatum och avslutas. Alla integreringar som byggts med dessa tjänster slutar att fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit [Vanliga frågor om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) för att besvara dina frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till en [Adobe I/O](https://developer.adobe.com/console) Integrationskontot för analyser, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
 | EOL för fullständig bearbetning i datakällor | 18 oktober 2021 | På **31 januari 2022** Adobe upphör med Hel bearbetning, vilket gör att användare kan importera träffdata offline till Analytics. Den här funktionen är tillgänglig via [API för massdatainmatning](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Läs mer](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=en) |
 
