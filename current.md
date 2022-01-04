@@ -1,13 +1,14 @@
 ---
 title: Senaste versionsinformation
-description: Läs om den senaste versionsinformationen, nya funktioner och ny dokumentation för [!DNL Experience Cloud] produkter och tjänster. Hitta ny hjälp och självstudiekurser om [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
+description: Läs om den senaste versionsinformationen, nya funktioner och ny dokumentation för [!DNL Experience Cloud] produkter och tjänster. Hitta ny hjälp och självstudiekurser om [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise]och [!DNL Document Cloud].
 doc-type: release notes
 last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: eafacc2267c031d2f30ef2817069f85e8385a077
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
+source-git-commit: b9ede188c852a99934bc91cf428cdf924ed26322
 workflow-type: tm+mt
-source-wordcount: '4752'
+source-wordcount: '4852'
 ht-degree: 12%
 
 ---
@@ -24,13 +25,13 @@ ht-degree: 12%
 
 Releasamånad: **November 2021**
 
-Senaste uppdatering: **22 november 2021**
+Senaste uppdatering: **4 januari 2022**
 
 * [[!DNL Experience League] Händelser](#events) (Uppdaterat 15 november 2021)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics) (Uppdaterat 22 november 2021)
+* [[!DNL Adobe Analytics]](#analytics) (**Uppdaterad 4 januari 2022**)
 * [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -86,7 +87,7 @@ För tidigare avsnitt, se [Experience League Live](https://experienceleague.adob
 
 | Händelsenamn | Datum och tid | Hjälpavsnitt | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 4-5 oktober 2021 | On demand | [Adobe-utvecklare live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Missade du händelsen eller letade efter en repetition av en specifik session? Hitta dem på Experience League. Utvecklare Live presenterar de senaste tekniska framstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
+| 4-5 oktober 2021 | On demand | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Missade du händelsen eller letade efter en repetition av en specifik session? Hitta dem på Experience League. Utvecklare Live presenterar de senaste tekniska framstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -144,7 +145,7 @@ Releasedatum: **28 oktober 2021**
 * [Nya funktioner i Adobe Analytics](#aa-features)
 * [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
-* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 22 november 2021)
+* [Viktiga meddelanden för Analytics-administratörer](#aa-notices) (Uppdaterat 4 januari 2022)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -196,6 +197,7 @@ AN-270649
 
 | Meddelande | Datum tillagt eller uppdaterat | Beskrivning |
 | ----------- | ---------- | ---------- |
+| EOL för rapporter och analyser | 4 januari 2022 | Från och med den 31 december 2023 avser Adobe att upphöra med rapporter och analyser och tillhörande rapporter och funktioner. Rapporterna, visualiseringarna och den underliggande tekniken som används i Rapporter och analyser uppfyller inte längre Adobe teknikstandarder. De flesta rapporter- och analysfunktionerna finns i [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en). Sedan Analysis Workspace lanserades 2015 har funktionerna och funktionerna i Rapporter och analyser flyttats till Analysis Workspace och en tröskel på arbetsflödets paritet har uppnåtts. [Detta meddelande](https://spark.adobe.com/page/6WnF8JK6IRDhf) förklarar processen för att avsluta livscykeln. |
 | RDC-typen&quot;Global + China&quot; | 22 november 2021 | &quot;Global + China&quot; är en ny typ av regional datainsamling (RDC) som förenklar trafikflödet för globala kunder som använder [!UICONTROL China Performance Optimization Add-On Package]. Tidigare var du tvungen att bestämma om data skulle dirigeras till den kinesiska samlingens slutpunkt eller någon av de globala samlingens slutpunkter. Nu kan du välja den här domänkontrollanten **type** för att Adobe ska kunna fastställa den optimala samlingens slutpunkt baserat på användarens geolokalisering. |
 | EOL för tre API-tjänster för analys | 16 september 2021 | På **20 oktober 2021** kommer följande API-tjänster för Analytics att nå sitt slutdatum och avslutas. Alla integreringar som byggts med dessa tjänster slutar att fungera den dagen.<ul><li>1.3 API:er för Analytics</li><li>1.4 API:er för SOAP Analytics</li><li>Äldre OAuth-autentisering (OAuth och JWT)</li></ul>Adobe har tillhandahållit [Vanliga frågor om äldre API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) för att besvara dina frågor och ge vägledning om hur du går vidare. API-integrationer som använder dessa tjänster kan migrera till [1.4 Analytics REST-API:er](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) eller [2.0 Analytics API:er](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Äldre OAuth-konton kan migrera till en [Adobe I/O](https://developer.adobe.com/console) Integrationskontot för analyser, som kan användas för att komma åt både 1.4-API:er för analyser och 2.0-API:er för analyser. |
 | EOL för fullständig bearbetning i datakällor | 18 oktober 2021 | På **31 januari 2022** Adobe upphör med Hel bearbetning, vilket gör att användare kan importera träffdata offline till Analytics. Den här funktionen är tillgänglig via [API för massdatainmatning](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Läs mer](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=en) |
@@ -238,14 +240,15 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
 
 ### Videofilmer med versionsöversikt
 
+* [Versionsöversikt december 2021](https://video.tv.adobe.com/v/339278) video med nya funktioner.
 * [Oktober 2021 versionsöversikt](https://video.tv.adobe.com/v/338253) video med nya funktioner.
 * [Versionsöversikt september 2021](https://video.tv.adobe.com/v/337381) video med nya funktioner.
 
 ### Community
 
-* [Adobe-utvecklare live](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 oktober 2021, 7:00 PDT
+* [Adobe Developers Live](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 oktober 2021, 7:00 PDT
 
-   Adobe Developers Live sammanför utvecklare av Adobe och upplevelseskapare med olika bakgrunder och ett enda syfte - för att skapa fantastiska helhetsupplevelser. Denna tvådagarskonferens innehåller viktiga uppdateringar för utvecklare, tekniska sessioner och möjligheter till communitynätverk.
+   Adobe Developers Live för samman utvecklare av Adobe och upplevelseskapare med olika bakgrunder och ett enda syfte - för att skapa fantastiska helhetsupplevelser. Denna tvådagarskonferens innehåller viktiga uppdateringar för utvecklare, tekniska sessioner och möjligheter till communitynätverk.
 
    Adobe produktteam i Experience Cloud, Document Cloud och Creative Cloud visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, innehållsskapande arbetsflöden, dokumenttjänster och hantering av kundupplevelser i olika branscher.
 
@@ -253,7 +256,7 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
 
    * [Fullständig sessionslista](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
    * [Kostnadsfri registrering - logga in på RSVP](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk)
-   * [Adobe Developer Live Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-4th-amp-5th/td-p/422127)
+   * [Adobe Developers Live Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-4th-amp-5th/td-p/422127)
 
 ### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
 
