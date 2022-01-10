@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b8afd3888f15c0b6dd63d523a5b2d78227a8a7e1
+source-git-commit: 8908cbcaf8fa0dbcc2f85cb9bbe8386dc9b68adb
 workflow-type: tm+mt
-source-wordcount: '4851'
+source-wordcount: '4852'
 ht-degree: 12%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 12%
 >
 >Prenumerera på månadsvis [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html) om du vill få e-postmeddelanden om uppdateringar av den här sidan. Den här sidan underhålls hela månaden, så du bör regelbundet kontrollera om det finns uppdateringar av Adobe Enterprise-produkten och dokumentationen för Experience League.
 
-Releasamånad: **November 2021**
+Releasamånad: **November/december 2021**
 
 Senaste uppdatering: **4 januari 2022**
 
@@ -119,7 +119,7 @@ Fler videoklipp finns på [Adobe Experience League Channel](https://www.youtube.
 
 Innehåller uppdateringsinformation och ny dokumentation för Experience Platform och [!UICONTROL Mobile SDK].
 
-**29 september 2021**
+**17 november 2021**
 
 Se [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) för all information.
 
@@ -317,7 +317,7 @@ Se följande länkar för versionsinformation om Adobe Commerce:
 
 ## ![Ikon](/assets/target.png) [!DNL Target] {#target}
 
-Senast uppdaterad: **20 oktober 2021**
+Senast uppdaterad: **6 januari 2022**
 
 Den senaste informationen finns i [[!DNL Target]  versionsinformationen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en).
 
