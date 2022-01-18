@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e8e9579245a74552a4dc9ee88eb45375162de6e1
+source-git-commit: 1b16256611eb979c223368409f6887d8c6826332
 workflow-type: tm+mt
-source-wordcount: '6348'
+source-wordcount: '6519'
 ht-degree: 9%
 
 ---
@@ -289,6 +289,28 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
 
 
 
+
+### Community
+
+* **Experience Manager GEMs Webinar - Experience Manager as a Cloud Service** | 2021 års översyn och 2022 års prognoser
+
+   **Datum**: Tisdagen den 25 januari 2022
+   **Tid**: 8.00 PST eller 17:00 P.M. CET eller 9.30 IST
+   **Varaktighet**: 60 minuter
+   **Kostnad**: Kostnadsfritt!
+
+   * [Registrera dig här](https://adobe.ly/3tAh3OC)
+   * [Ställ frågor](https://adobe.ly/3zJrS0f)
+
+* [Nu kommer EU-medlemmar år 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-community-members-of-the-year-2021/td-p/436782)
+
+   Vi vill skicka ett stort tack till alla som deltog i [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 2021 och hjälpte andra med sina problem.
+
+   Varje år hedrar Experience Cloud Community den medlem som går längre än så och erbjuder ett fantastiskt stöd till andra med utmärkelsen Community Member of the Year. Vi är medvetna om det offentliga arbetet, och här kommer vi att meddela [@Asutosh_Jena_](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/7532759)  och [@Vijayalakshmi_S](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/11077056) som gemenskapsmedlemmar år 2021.
+
+* [Experience League innehåll för januari 2022](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-content-for-month-of-january-2022/td-p/437137)
+
+   [Lista över allt Experience Manager-innehåll som publicerats i Experience League](https://adobe.ly/3tuGuRH)
 
 ### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
 
