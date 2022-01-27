@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: a5fd2d7d8668a3b75718d24a8af14498e2192a1a
+source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
 workflow-type: tm+mt
-source-wordcount: '6507'
+source-wordcount: '6505'
 ht-degree: 9%
 
 ---
@@ -25,12 +25,12 @@ Läs om de senaste versionsuppdateringarna för [Adobe Experience Cloud-produkte
 
 **Januari 2022**
 
-Senaste uppdatering: **14 januari 2022**
+Senaste uppdatering: **26 januari 2022**
 
 * [[!DNL Experience League] Händelser](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
-* [[!DNL Adobe Experience Platform]](#platform)
+* [[!DNL Adobe Experience Platform]](#platform) (Uppdaterat: **26 januari 2022**)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -111,10 +111,9 @@ Läs [senaste versionsinformation](https://experienceleague.adobe.com/docs/relea
 
 Versionsuppdateringsinformation och ny dokumentation för Experience Platform och [!UICONTROL Mobile SDK]:
 
-* Nästa planerade version: **26 januari 2022**
-* Senaste versionen: **17 november 2021**
+* Version: **26 januari 2022**
 
-Se [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) för att hålla dig uppdaterad.
+Se [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) för att läsa det senaste.
 
 ### Självstudiekurser och kurser i nya Experience Platform {#tutorials-platform}
 
