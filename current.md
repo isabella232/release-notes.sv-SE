@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
+source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
 workflow-type: tm+mt
-source-wordcount: '6505'
+source-wordcount: '6522'
 ht-degree: 9%
 
 ---
@@ -135,7 +135,6 @@ Se [Versionsinformation och ändringsloggar](https://aep-sdks.gitbook.io/docs/re
 Releasedatum: **19 januari 2022**
 
 * [Nya funktioner i Adobe Analytics](#aa-features)
-* [Nya funktioner i Customer Journey Analytics](#cust-journey)
 * [Korrigeringar i Adobe Analytics](#aa-fixes)
 * [Viktiga meddelanden för Analytics-administratörer ](#aa-notices)
 * [Kurser och självstudiekurser i analyser](#tutorials-analytics)
@@ -148,18 +147,6 @@ Releasedatum: **19 januari 2022**
 | Ej tillämpligt |  | Se [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
-
-### Nya funktioner i Customer Journey Analytics {#cust-journey}
-
-| Funktion | Beskrivning | Måldatum |
-| ----------- | ---------- | ----- |
-| [!UICONTROL Persistence] alternativ för bindningsdimensioner och bindningsmått | När du skapar eller redigerar en datavy kan du binda en dimensions beständighet till en annan dimension eller mätvärde. Detta koncept kallas _varuexponering_ i Rapporter och analyser och stöds nu i CJA. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension) | 19 januari 2022 |
-| [!UICONTROL First Known] och [!UICONTROL Last Known] allokeringsmodeller | Dessa två nya allokeringsmodeller tar det första eller sista observerade värdet för en dimension inom ett angivet beständigt omfång (session, person eller anpassad tidsperiod med summering). Sedan tillämpar de allokeringsmodellen på alla händelser inom det angivna omfånget. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings) | 19 januari 2022 |
-| [!UICONTROL PersonID] och [!UICONTROL PersonID namespace] som dimensioner | Exponerar `personID` (eller `customerID`eller något annat ID som du använder för att sammanfoga datauppsättningar i en anslutning) som en dimension i datavyer. Den här förbättringen gör det enklare för dig att inkludera `personID` som en dimension i datavyn genom att dra in den från anslutningen. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components) | 19 januari 2022 |
-
-{style=&quot;table-layout:auto&quot;}
-
-Se [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) för versionsinformation.
 
 ### Korrigeringar i Adobe Analytics och Customer Journey Analytics {#aa-fixes}
 
@@ -175,7 +162,7 @@ Se [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/t
 * Korrigerade ett problem med att schemalagda rapporter skickades tidigt på grund av sommartid. (AN-276410) AN-276305)
 * Ett problem med projektnedladdning till har korrigerats `.csv` filen misslyckades i arbetsytan. (AN-275834)
 
-#### Ytterligare korrigeringar i Adobe Analytics och CJA
+#### Ytterligare korrigeringar i Adobe Analytics
 
 AN-253294; AN-254976; AN-255377; AN-255561; AN-258550; AN-259336; AN-263935; AN-265094; AN-269441; AN-269486; AN-269855; AN-271166; AN-271588; AN-272088; AN-272249; AN-272859; AN-272873; AN-272885; AN-273229; AN-273913; AN-274237; AN-274472; AN-274491; AN-274619; AN-274766; AN-275248; AN-275259; AN-275271; AN-275315; AN-275388; AN-275418; AN-275597; AN-275643; AN-275650; AN-275651; AN-275675; AN-275682; AN-275704; AN-275711; AN-275796; AN-275834; AN-275923; AN-275941; AN-276044; AN-276125; AN-276157; AN-276397; AN-276597; AN-276789; AN-276834; AN-276861; AN-276870; AN-276963; AN-276975; AN-277000; AN-277044; AN-277093; AN-277200; AN-277215; AN-277271; AN-277281; AN-277362; AN-277419; AN-277492; AN-277498; AN-277533; AN-277619; AN-277675; AN-277681; AN-277767; AN-277805; AN-277810; AN-277818; AN-277875; AN-277933; AN-277988; AN-278105; AN-278115; AN-278122; AN-278192; AN-278407; AN-278437; AN-278559; AN-278604; AN-278610; AN-278709; AN-278835; AN-278849; AN-278881; AN-279067; AN-279103; AN-279111; AN-279219; AN-279237; AN-279312
 
@@ -218,6 +205,28 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Analytics.
 ### Hjälpresurser för Analytics
 
 * [Adobe Analytics produktdokumentation och Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
+
+## [!DNL Customer Journey Analytics] {#cja}
+
+* [Nya funktioner i Customer Journey Analytics](#cust-journey)
+
+Releasedatum: **19 januari 2022**
+
+### Nya funktioner i Customer Journey Analytics {#cust-journey}
+
+| Funktion | Beskrivning | Måldatum |
+| ----------- | ---------- | ----- |
+| [!UICONTROL Persistence] alternativ för bindningsdimensioner och bindningsmått | När du skapar eller redigerar en datavy kan du binda en dimensions beständighet till en annan dimension eller mätvärde. Detta koncept kallas _varuexponering_ i Rapporter och analyser och stöds nu i CJA. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension) | 19 januari 2022 |
+| [!UICONTROL First Known] och [!UICONTROL Last Known] allokeringsmodeller | Dessa två nya allokeringsmodeller tar det första eller sista observerade värdet för en dimension inom ett angivet beständigt omfång (session, person eller anpassad tidsperiod med summering). Sedan tillämpar de allokeringsmodellen på alla händelser inom det angivna omfånget. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings) | 19 januari 2022 |
+| [!UICONTROL PersonID] och [!UICONTROL PersonID namespace] som dimensioner | Exponerar `personID` (eller `customerID`eller något annat ID som du använder för att sammanfoga datauppsättningar i en anslutning) som en dimension i datavyer. Den här förbättringen gör det enklare för dig att inkludera `personID` som en dimension i datavyn genom att dra in den från anslutningen. [Läs mer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components) | 19 januari 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+Se [Allmän tillgänglighet](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) för versionsinformation.
+
+### Hjälpresurser för Analytics
+
+* [Customer Journey Analytics produktdokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
 
 ## ![Ikonen](/assets/audience-manager.png) Audience Manager {#aam}
 
