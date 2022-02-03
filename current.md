@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
+source-git-commit: 36c608bd0501936778dc791aac7f3c92bc6ce187
 workflow-type: tm+mt
-source-wordcount: '6522'
+source-wordcount: '6541'
 ht-degree: 9%
 
 ---
@@ -415,9 +415,10 @@ Se följande länkar för versionsinformation om Adobe Commerce:
 
 ## ![Ikon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Senast uppdaterad: **10 januari 2022**
+Senast uppdaterad: **1 februari 2022**
 
-Se [Versionsinformation för mål](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) för den senaste releaseinformationen.
+* Information om förhandsversioner av Adobe Target finns på [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) versionsinformation.
+* Aktuell versionsinformation finns i [Versionsinformation för mål](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en).
 
 ## ![Ikon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
