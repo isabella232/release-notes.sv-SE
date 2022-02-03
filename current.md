@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 36c608bd0501936778dc791aac7f3c92bc6ce187
+source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
 workflow-type: tm+mt
-source-wordcount: '6541'
+source-wordcount: '6543'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ Läs om de senaste versionsuppdateringarna för [Adobe Experience Cloud-produkte
 
 **Januari 2022**
 
-Senaste uppdatering: **26 januari 2022**
+Senaste uppdatering: **3 februari 2022**
 
 * [[!DNL Experience League] Händelser](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administrering](#ecloud)
@@ -37,7 +37,7 @@ Senaste uppdatering: **26 januari 2022**
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
 * [[!DNL Adobe Commerce]](#magento)
-* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Target]](#target) (Uppdaterat: **3 februari 2022**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
