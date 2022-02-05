@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
+source-git-commit: 9e16facc25424bb8ce23e35230b7503195cf1a3d
 workflow-type: tm+mt
-source-wordcount: '6543'
+source-wordcount: '6465'
 ht-degree: 9%
 
 ---
@@ -527,12 +527,11 @@ Senast uppdaterad: **27 oktober 2021**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **7 oktober 2021**
+Senast uppdaterad: **4 februari 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Reports], [!UICONTROL Notification Center] | (9 oktober-versionen) Alla e-postmeddelanden för rapporter som Advertising Cloud Search skickar när en anpassad eller schemalagd rapport har slutförts eller misslyckats hanteras nu av [!UICONTROL Notification Center]. E-postmeddelanden och webbmeddelanden är aktiverade som standard för rapporter, men du kan ändra meddelandeinställningarna om du vill. Med den här ändringen:<ul><li>E-postmottagare är begränsade till användare som är registrerade, autentiserade användare av Advertising Cloud Search och har tillgång till annonserarkontot. Den här funktionen ser till att inga konfidentiella data skickas till obehöriga.</li><li>Formatet och innehållet i e-postmeddelandet använder [!UICONTROL Notification Center] -mall, som innehåller mer information om rapporten och innehåller länkar för direkthämtning för alla rapportformat.</li><li>Rapportmeddelanden är en ny meddelandetyp med egna meddelandeinställningar i [!UICONTROL Notification Center].</li></ul>Om du använder automatisering för att hämta rapporter från e-postmeddelanden kan du behöva uppdatera filtreringslogiken för att säkerställa kontinuiteten i processerna. |
-| Reklaminsikter | Ytterligare insikter finns i betaversion. |
+| [!UICONTROL Bulksheets], [!UICONTROL Notification Center] | (22 januari) Alla e-postmeddelanden för kalkylblad som Advertising Cloud Search skickar när en kalkylbladsåtgärd har slutförts eller misslyckats hanteras nu av [!UICONTROL Notification Center].<br><br>[!UICONTROL Bulksheets] är en ny meddelandetyp med egna meddelandeinställningar i [!UICONTROL Notification Center]. E-postmeddelanden och webbmeddelanden är aktiverade som standard, men du kan ändra meddelandeinställningarna om du vill.<br><br>Formatet och innehållet i e-postmeddelanden använder [!UICONTROL Notification Center] och innehåller en direktnedladdningslänk för den associerade kalkylbladsfilen eller felfilen. |
 
 {style=&quot;table-layout:auto&quot;}
 
