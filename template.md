@@ -4,9 +4,9 @@ description: Versionsinformation om Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
+source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '690'
 ht-degree: 40%
 
 ---
@@ -30,9 +30,9 @@ Senaste uppdatering: **September 2021**
 
 * [Experience League Live Events](#events)
 * [Gränssnittskomponenter i Experience Cloud](#ecloud)
+* [Adobe – systemstatus](#status)
 * [Experience Platform](#platform)
 * [Experience Platform programtjänster](#services)
-* [Adobe – systemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -50,17 +50,11 @@ Senaste uppdatering: **September 2021**
 
 Funktioner och korrigeringar.
 
-Se [Systemstatus för Adobe](https://status.adobe.com/).
+Se [Adobe systemstatus](https://status.adobe.com/).
 
-## ![](/assets/ec_appicon_24.png) IkonExperience Cloud Central UI-komponenter {#ecloud}
+## ![Ikon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
 Experience Cloud Central Interface Components innehåller uppdateringar som du kommer åt från det enhetliga produkthuvudet, som självhjälp, sökning och inställningar för användarkonton. Uppdateringar av personer, platser (plats) och produkthantering finns här.
-
-| Funktion | Datum | Beskrivning |
-| ------- | ------- | -------|
-| Funktion | September 2021 | Beskrivning |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Core services] {#core-services}
 
@@ -90,7 +84,7 @@ Se
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Med Adobe [!UICONTROL Experience Platform,] kan du samordna enskilda kundresor i stor skala över olika upplevelsekanaler genom att intelligent förutse varje enskild individs behov i realtid, oavsett vart resan tar dem.
+Använda Adobe [!UICONTROL Experience Platform,] samordna individuella kundresor i stor skala över upplevelsekanaler genom att intelligent förutse varje enskild individs behov i realtid, oavsett vart resan tar dem.
 
 #### Ytterligare resurser för [!UICONTROL Journey Orchestration]
 
@@ -121,7 +115,7 @@ Nya funktioner och korrigeringar i Adobe Analytics:
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK för  [!DNL iOS] &amp;  [!DNL Android™] (tidigare VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK för [!DNL iOS] &amp; [!DNL Android™] (tidigare VHL SDK) {#aa-va}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
@@ -263,12 +257,12 @@ Marketo Engage är en komplett lösning för lead-hantering och B2B-marknadsför
 
 Releasedatum: 21 februari 2020
 
-* **Microsoft® Dynamics  _Change Owner i Microsoft®_ Flow Action:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
+* **Microsoft® Dynamics _Ändra ägare i Microsoft®_ Flödesåtgärd:** Ändra en lead- eller kontaktägare direkt från Marketo Engage.
 * **Förbättringar av API-anrop:**
    * API:er för användarhantering
    * API:er för anpassade objektscheman
    * API:er för omdirigeringsregler för landningssidor
-* **Cachelagring av formulärbeskrivare:** förbättringar av landningssidor och Forms.
+* **Cachelagring av formulärbeskrivare:** Förbättringar av landningssidor och Forms.
 
 ### Kommande funktioner
 
@@ -286,7 +280,7 @@ Följande funktioner släpps under kvartalet:
 
 ### Utgånget
 
-* **Parametern &quot;_method&quot; för resurs-API:t:** Efter september 2020 kommer Resurs-API-slutpunkter inte längre acceptera &quot;_method&quot; för att skicka frågeparametrar i en POST för att kringgå URI-längdbegränsningar.
+* **Resurs-API &quot;_method&quot;-parameter:** Efter september 2020 kommer Resurs-API-slutpunkter inte längre att acceptera &quot;_method&quot; för att skicka Query Parameters i en POST för att kringgå URI-längdbegränsningar.
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
 
 ### Nya kurser och självstudiekurser för lösningens namn
