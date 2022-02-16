@@ -6,9 +6,9 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
+source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
 workflow-type: tm+mt
-source-wordcount: '4897'
+source-wordcount: '4914'
 ht-degree: 7%
 
 ---
@@ -473,10 +473,11 @@ Senast uppdaterad: **27 oktober 2021**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **4 februari 2022**
+Senast uppdaterad: **16 februari 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
+| [!UICONTROL Campaigns], [!UICONTROL Bulksheets] | (22 januari-versionen) ([!DNL Microsoft Advertising accounts]) Nu kan du skapa och hantera responsiva sökannonser (RSA) via [!UICONTROL Campaigns] > [!UICONTROL Ads] visa och från [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]. |
 | [!UICONTROL Bulksheets], [!UICONTROL Notification Center] | (22 januari) Alla e-postmeddelanden för kalkylblad som Advertising Cloud Search skickar när en kalkylbladsåtgärd har slutförts eller misslyckats hanteras nu av [!UICONTROL Notification Center].<br><br>[!UICONTROL Bulksheets] är en ny meddelandetyp med egna meddelandeinställningar i [!UICONTROL Notification Center]. E-postmeddelanden och webbmeddelanden är aktiverade som standard, men du kan ändra meddelandeinställningarna om du vill.<br><br>Formatet och innehållet i e-postmeddelanden använder [!UICONTROL Notification Center] och innehåller en direktnedladdningslänk för den associerade kalkylbladsfilen eller felfilen. |
 
 {style=&quot;table-layout:auto&quot;}
