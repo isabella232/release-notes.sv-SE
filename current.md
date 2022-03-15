@@ -6,10 +6,10 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
+source-git-commit: f32c9dd135c9447ce452b513c69763107ebae429
 workflow-type: tm+mt
-source-wordcount: '4914'
-ht-degree: 7%
+source-wordcount: '4919'
+ht-degree: 8%
 
 ---
 
@@ -386,8 +386,8 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 
 | Publicerad | Namn | Typ | Beskrivning | Version |
 | ------| ----- | -----| ------ | --- |
-| Februari 2022 | [Grundläggande om datahantering med Adobe Campaign arbetsflöden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/data-management-fundamentals.html?lang=en) | Video | Lär dig vilka målgruppsmått och arbetsregister som är och hur Adobe Campaign hanterar data över olika datakällor. | Campaign v8 |
-| Februari 2022 | [Ändra datakällan](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/change-data-source.html?lang=en) | Video | Lär dig hur du ändrar datakällan för en arbetsflödestabell med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen. | Campaign v8 |
+| Februari 2022 | [Grundläggande om datahantering med arbetsflöden i Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/data-management-fundamentals.html?lang=en) | Video | Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor. | Campaign v8 |
+| Februari 2022 | [Ändra datakällan](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/change-data-source.html?lang=en) | Video | Lär dig hur du ändrar datakällan för en arbetstabell för arbetsflöden med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen. | Campaign v8 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -486,7 +486,9 @@ Senast uppdaterad: **16 februari 2022**
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Januari 2022 | [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en) | Videor | Det finns fem nya videokurser om Advertising Cloud DSP. |
+| 17 februari 2022 | Advertising Cloud Tutorials | Videor | En ny videosjälvstudiekurs om &quot;[Så här skapar du en standardbildskärmsplacering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)finns. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## ![Ikon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
