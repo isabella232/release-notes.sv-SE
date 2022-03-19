@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5738'
-ht-degree: 7%
+source-wordcount: '5635'
+ht-degree: 8%
 
 ---
 
@@ -69,13 +69,6 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 [!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om driftstopp, avbrott och underhållshändelser för Adobe produkter och tjänster. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
 ## ![Ikon](/assets/ec_appicon_24.png) Experience Cloud - centrala gränssnittskomponenter och administration {#ecloud}
-========= Releasedatum: **16 november 2021**
-
-**Nyheter**
-
-* Adobe Status rapporterar nu incidenter på produktnivå. Status Cloud- och produktsidor har ett nytt utseende och förbättrade filter som baseras på rapportering av incidenter på produktnivå. Detta gör det enklare för dig att förstå hur din produkt påverkas [status.adobe.com](https://status.adobe.com/) och i e-postmeddelanden. Om du inte prenumererar kan du använda den här länken för att ange dina personliga prenumerationsinställningar [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
-
-* Statushemsidan är nu anpassad med händelser som filtrerats baserat på dina rättigheter och produktprenumerationer. Kolla in den här **status.adobe.com** > **[!UICONTROL My Events]** -fliken.
 
 Experience Cloud [komponenter för centralt användargränssnitt](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) innehåller funktioner som finns på startsidan och den beständiga produkthuvudet. Bland dessa funktioner finns inställningar för användarprofiler, inställningar och sökning. Du kan även hitta hjälp om användar- och produkthantering, kundattribut och Experience Cloud-målgrupper.
 
