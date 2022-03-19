@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: deda4aee7483e0ea77a31f1e71016306fbb17473
+source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
 workflow-type: tm+mt
 source-wordcount: '5738'
 ht-degree: 7%
@@ -55,7 +55,7 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
 | Händelse | Typ | Beskrivning |
-| -----------|---------- | ---|
+| -----------|---------- | ----|
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Livevideo och on demand-video | Ett direktuppspelningsprogram som producerats av Experience League-teamet. Det är en chans att få kontakt med produktexperter från Adobe. Lär dig praktiska tips, tricks och strategier som du kan använda med Adobe Experience Cloud-programmen.<br> [Detaljer och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live Webinar | Bootstrap och driftsätt enkelt single-page-appar (SPA) med Adobe [!UICONTROL App Builder] arbetsflöden och verktyg utan kunskaper om Experience Manager som Java™ och Sling krävs. Med Experience Manager Headless kan både marknadsförare och utvecklare ha expertkunskaper inom sitt eget område - utvecklare styr det övergripande ramverket, formatet och flödet, medan marknadsförarna bestämmer innehållet och hur det visas.<br>**Datum:** Onsdag 23 mars - [Detaljer och registrering](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Berätta viktiga historier med data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live Webinar | Data storytelling is made well when it’s a balance of art and Science. Varför överingenjera det? Adobe Analytics mästare Amy Ard diskuterar tre delar som är avsedda att vägleda datalagret utan att minska kreativiteten:<ul><li>Identifiera affärsmöjligheten eller problemet</li><li>Förklara data</li><li>Erbjuda en lösning</li></ul>**Datum:** Torsdag 31 mars - [Detaljer och registrering](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
