@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
+source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
 workflow-type: tm+mt
 source-wordcount: '5650'
 ht-degree: 8%
@@ -25,7 +25,7 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **18 mars 2022**
+Senaste uppdatering: **21 mars 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -340,7 +340,7 @@ Ny dokumentation och självstudiekurser för Adobe Commerce på Experience Leagu
 
 ## ![Ikon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Senast uppdaterad: **1 februari 2022**
+Senast uppdaterad: **21 mars 2022**
 
 * Information om förhandsversioner finns i [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * Aktuell information finns i [Versionsinformation för Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
