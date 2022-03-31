@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fe574c18fe36112968b6e58ddb8103239eed9632
+source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
 workflow-type: tm+mt
-source-wordcount: '5650'
+source-wordcount: '5687'
 ht-degree: 8%
 
 ---
@@ -176,6 +176,8 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
 ### Experience Manager produktreleaser
 
 * **Experience Manager as a Cloud Service**
+
+   Titta på [Video om versionsöversikt, mars 2022](https://video.tv.adobe.com/v/341465) för en sammanfattning av funktioner som lagts till i version 2022.3.0 (mars 2022). Från och med videon den här månaden har Adobe aktiverat lokaliserad undertextning på franska (FR), tyska (DE) och japanska (JP).
 
    * [Video om versionsöversikt, januari 2022](https://video.tv.adobe.com/v/340120) av nya funktioner.
    * [Video om versionsöversikt, december 2021](https://video.tv.adobe.com/v/339278) av nya funktioner.
