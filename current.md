@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
+source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
 workflow-type: tm+mt
 source-wordcount: '5687'
 ht-degree: 8%
@@ -60,7 +60,7 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live Webinar | Bootstrap och driftsätt enkelt single-page-appar (SPA) med Adobe [!UICONTROL App Builder] arbetsflöden och verktyg utan kunskaper om Experience Manager som Java™ och Sling krävs. Med Experience Manager Headless kan både marknadsförare och utvecklare ha expertkunskaper inom sitt eget område - utvecklare styr det övergripande ramverket, formatet och flödet, medan marknadsförarna bestämmer innehållet och hur det visas.<br>**Datum:** Onsdag 23 mars - [Detaljer och registrering](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Berätta viktiga historier med data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live Webinar | Data storytelling is made well when it’s a balance of art and Science. Varför överingenjera det? Adobe Analytics mästare Amy Ard diskuterar tre delar som är avsedda att vägleda datalagret utan att minska kreativiteten:<ul><li>Identifiera affärsmöjligheten eller problemet</li><li>Förklara data</li><li>Erbjuda en lösning</li></ul>**Datum:** Torsdag 31 mars - [Detaljer och registrering](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Upplevelsemakare - Kunskapsutbyte för Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Vi är stolta över att kunna meddela att den första utgåvan av Experience Makers är klar. Kunskapsutbytet för Adobe Workfront äger rum den 13 april. Detta kostnadsfria, 3-timmars event om digital inlärning är helt inriktat på Workfront, och kunderna har möjlighet att ställa frågor live av experter och kollegor som vet hur man bäst hanterar arbetet. Oavsett om du är nybörjare på Workfront eller erfaren expert har vi något för alla. <br>**Datum:** Onsdag 13 april - [Detaljer och registrering](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Visa huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt i Adobe I/O med mera. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt för Adobe Developer med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -530,7 +530,7 @@ Se [Självstudiekurser för Creative Cloud for enterprise](https://experiencelea
 
 ## ![Ikon](/assets/experience-league.png) Kunddatahantering - Voices {#voices}
 
-[Voices om kunddatahantering](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) är er destination som ledande inom teknik och marknadsföring och specialist inom hantering av kunddata. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering krävs. Klicka och titta.
+[Voices om kunddatahantering](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) är er destination som ledande inom teknik och marknadsföring och specialist inom hantering av kunddata. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering behövs. Klicka bara och titta.
 
 ## ![Ikon](/assets/experience-league.png) Digital Experience-utkast {#blueprints}
 
