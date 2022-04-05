@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5804'
+source-wordcount: '5784'
 ht-degree: 7%
 
 ---
@@ -180,7 +180,7 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
 
 * **Experience Manager as a Cloud Service**
 
-   Titta på [Video om versionsöversikt, mars 2022](https://video.tv.adobe.com/v/341465) för en sammanfattning av funktioner som lagts till i version 2022.3.0 (mars 2022). Från och med videon den här månaden har Adobe aktiverat lokaliserad undertextning på franska (FR), tyska (DE) och japanska (JP).
+   Titta på [Video om versionsöversikt, mars 2022](https://video.tv.adobe.com/v/341465) för en sammanfattning av funktioner som lagts till i version 2022.3.0 (mars 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * [Video om versionsöversikt, januari 2022](https://video.tv.adobe.com/v/340120) av nya funktioner.
    * [Video om versionsöversikt, december 2021](https://video.tv.adobe.com/v/339278) av nya funktioner.
