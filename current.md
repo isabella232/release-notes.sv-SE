@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5784'
+source-wordcount: '5897'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **5 april 2022**
+Senast uppdaterad: **7 april 2022**
 
 * [[!DNL Experience League] händelser](#events) (**5 april** - AEM Gems nystart)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **14 mars 2022** för 12 mars-utgåvan
+Senast uppdaterad: **7 april 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Portfolios] | Som standard är hybridoptimering tillgängligt på kampanjnivå. Du kan nu välja att aktivera hybridoptimering på annonsgruppnivå, som optimeringsfunktionen anger för [!DNL Google] CPA eller ROAS på annonsgruppsnivå för mer exakt kontroll över resultatet.<br>För varje portfölj måste du tillåta en inlärningsperiod innan du startar portföljen för att säkerställa att den har tillräcklig modelltäckning. Om du ändrar en hybridportfölj från kampanjnivå till annonsoptimering på gruppnivå ska du ställa in portföljen på det aktiva läget i cirka två veckor. Detta garanterar att optimeringsfunktionen har tid att lära sig mer om de annonser som ingår och generera mål.<br>Anpassade simuleringar kan nu innehålla resultat per annonsgrupp som stöd för optimering på gruppnivå. Kör en anpassad simulering med annonsgruppsresultat innan du startar en hybridportfölj med optimering på annonsgruppsnivå. |
-| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Betafunktion, [!DNL Microsoft® Advertising] kampanjer) - Nu kan du konfigurera sökkampanjer så att de använder [!UICONTROL Maximize Conversions] budgivningsstrategi, och om du vill kan du ange en maximal kostnad per klick.<br>Om du redan deltar i betaversionen av hybridoptimering för andra strategier för autobudgivning har du automatiskt tillgång till [!UICONTROL Maximize Conversions] strategi, och ni kan inkludera kampanjer med [!UICONTROL Maximize Conversions] strategi i hybridportföljer. Om du vill använda den här strategin i en hybridportfölj måste du aktivera överföring av Advertising Cloud Search-mål för att [!DNL Microsoft® Ads]. Om du inte redan deltar i betaversionen och vill gå med i den kontaktar du [!DNL Adobe] kontoansvarig. |
-| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | ([!DNL Microsoft® Advertising] kampanjer) - Nu kan du använda alla dina [!DNL Microsoft® Advertising] målgrupper, utom för målgrupper på marknaden som antingen kampanjnivåmål eller [!UICONTROL adgroup]mål på -nivå. Tidigare kunde du bara använda dem som [!UICONTROL adgroup]mål på -nivå. |
-| Campaign [!UICONTROL Audiences] | (Betafunktion, [!DNL Microsoft® Advertising] konton som är berättigade till [!UICONTROL Customer Match]) Du kan nu skapa och hantera kundmatchande målgrupper genom att överföra CSV-filer med e-postadresser. Data måste hash-kodas med SHA-256-algoritmen. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (7 april) [!DNL Google Ads] konton) Advertising Cloud Search övergår alla API-anrop från äldre [!DNL Google AdWords API] till senaste [!DNL Google Ads API]. Byt till det nya [!DNL Google Ads API] säkerställer kontinuitet med befintliga funktioner och ger åtkomst till [!DNL Google’s] senaste [!DNL Ads] funktioner.<br><br>Vissa funktioner har ännu inte uppdaterats till det nya API:t och är för närvarande inte tillgängliga:<ul><li>Platstillägg:<ul>Platstillägg visas inte i [!UICONTROL Extensions] vy.</li><li>Du kan inte skapa ett tillägg.</li><li>Filter på platser fungerar inte.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] och [!UICONTROL Query Cross Matching Beta] analyserna blir inte tillgängliga från och med den 11 april.</li></ul>Vi räknar med att kunna återställa platstillägg före utgången av april. När vi har bestämt när [!UICONTROL Advertising Insights] kan också återställas, vi skickar en uppdatering med det beräknade datumet. |
+| [!UICONTROL Portfolios] | (12 mars-utgåvan) Hybridoptimering är som standard tillgängligt på kampanjnivå. Du kan nu välja att aktivera hybridoptimering på annonsgruppnivå, som optimeringsfunktionen anger för [!DNL Google] CPA eller ROAS på annonsgruppsnivå för mer exakt kontroll över resultatet.<br>För varje portfölj måste du tillåta en inlärningsperiod innan du startar portföljen för att säkerställa att den har tillräcklig modelltäckning. Om du ändrar en hybridportfölj från kampanjnivå till annonsoptimering på gruppnivå ska du ställa in portföljen på det aktiva läget i cirka två veckor. Detta garanterar att optimeringsfunktionen har tid att lära sig mer om de annonser som ingår och generera mål.<br>Anpassade simuleringar kan nu innehålla resultat per annonsgrupp som stöd för optimering på gruppnivå. Kör en anpassad simulering med annonsgruppsresultat innan du startar en hybridportfölj med optimering på annonsgruppsnivå. |
+| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Match 12 release; Betafunktion för [!DNL Microsoft® Advertising] kampanjer) - Nu kan du konfigurera sökkampanjer så att de använder [!UICONTROL Maximize Conversions] budgivningsstrategi, och om du vill kan du ange en maximal kostnad per klick.<br>Om du redan deltar i betaversionen av hybridoptimering för andra strategier för autobudgivning har du automatiskt tillgång till [!UICONTROL Maximize Conversions] strategi, och ni kan inkludera kampanjer med [!UICONTROL Maximize Conversions] strategi i hybridportföljer. Om du vill använda den här strategin i en hybridportfölj måste du aktivera överföring av Advertising Cloud Search-mål för att [!DNL Microsoft® Ads]. Om du inte redan deltar i betaversionen och vill gå med i den kontaktar du [!DNL Adobe] kontoansvarig. |
+| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | (12 mars-utgåvan, [!DNL Microsoft® Advertising] kampanjer) - Nu kan du använda alla dina [!DNL Microsoft® Advertising] målgrupper, utom för målgrupper på marknaden som antingen kampanjnivåmål eller [!UICONTROL adgroup]mål på -nivå. Tidigare kunde du bara använda dem som [!UICONTROL adgroup]mål på -nivå. |
+| Campaign [!UICONTROL Audiences] | (12 mars-utgåvan, Betafunktion för [!DNL Microsoft® Advertising] konton som är berättigade till [!UICONTROL Customer Match]) Du kan nu skapa och hantera kundmatchande målgrupper genom att överföra CSV-filer med e-postadresser. Data måste hash-kodas med SHA-256-algoritmen. |
 
 {style=&quot;table-layout:auto&quot;}
 
