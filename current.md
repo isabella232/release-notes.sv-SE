@@ -2,22 +2,22 @@
 title: Senaste versionsinformation
 description: Läs om den senaste versionsinformationen, nya funktioner och ny dokumentation för [!DNL Experience Cloud] produkter och tjänster. Hitta ny hjälp och självstudiekurser om [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise]och [!DNL Document Cloud].
 doc-type: release notes
-last-update: March 2022
+last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: dc6fed1336b4a850bfe2fc158816988da75722f7
+source-git-commit: e6a44b87d3c4f39a6e0304d44213d866ae43aec4
 workflow-type: tm+mt
-source-wordcount: '5943'
-ht-degree: 7%
+source-wordcount: '6058'
+ht-degree: 6%
 
 ---
 
-# Versionsinformation om Adobe Experience Cloud - mars 2022
+# Versionsinformation om Adobe Experience Cloud – april 2022
 
 ![Banderoll](assets/experience-cloud-banner-3.png)
 
-Som Experience Maker börjar er väg till framgång med [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Hitta ett omfattande bibliotek med självstudiekurser, självstudiekurser, självstudiekurser och kurser för alla nivåer och roller, en community med kollegor online och expertsupport när du behöver det.
+Som Experience Maker börjar er väg till framgång med [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Hitta ett omfattande bibliotek med självstudiekurser, självstudiekurser, självstudiekurser och kurser för alla nivåer och roller, en online-community med kollegor och expertsupport när du behöver det.
 
 Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
@@ -25,14 +25,15 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **13 april 2022**
+Senast uppdaterad: **15 april 2022**
 
-* [[!DNL Experience League] händelser](#events) (**13 april**)
+* [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
+* [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
@@ -58,13 +59,16 @@ Uppdaterat **5 april 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
-| [AEM från Headful till Headless (och allt däremellan)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | Se en detaljerad beskrivning av de vanligaste Adobe Experience Manager Sites-implementeringarna med värden Danny Gordon och gästerna Amol Anand, Sachin Mali och Sean Steimer. <br>**Datum:** 21 april 2022 kl. 9 PST<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Hur hanterar jag alla dessa målgrupper?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League LIVE | Demystifiera målgruppsstrategi med Audience Manager och CDP i realtid. Host Doug Moore välkomnar Nick Cammuso och Jackie Chevallier i det här Experience League LIVE-evenemanget.<br>**Datum:** 28 april 2022<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-uppdateringar för 2022 är tillgängliga! AEM Gems är vårt webbinarium med tekniska djupdykningar om Adobe Experience Manager, som levereras av Adobe experter. <br>De senaste AEM Gems-arna finns på [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) och [Bygg sajter snabbare med AEM Headless och App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Besök versionsinformationen ofta eller prenumerera på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html) för att hålla koll på AEM Gems och andra Experience League-händelser. |
-| [Upplevelsemakare - Kunskapsutbyte för Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Vi är stolta över att kunna presentera den första utgåvan av _Upplevelsemakare - Kunskapsutbyte för Adobe Workfront_. <br>Detta kostnadsfria, tre timmar långa event om digital inlärning är helt inriktat på Workfront. Ni kan ställa frågor till experter och kollegor som är vana vid att hantera arbetet på bästa sätt. Oavsett om du är nybörjare på Workfront eller erfaren expert har vi något för alla.<br>**Datum:** onsdag den 13 april kl. 9.00. - kl. 12.00 PDT. [Detaljer och registrering](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe rekommenderar att du registrerar dig även om du inte kan delta, så att du garanteras tillgång till on-demand-inspelningar. |
-| [Adobe Workfront System Admin Essentials: Designa en idealisk användarupplevelse](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Följ Mary Ann Erickson, Customer Success Manager på Adobe Workfront och Steve Enos, Creative Operations Analyst på Liberty Mutual Insurance, för att få reda på hur man skapar en perfekt användarupplevelse. <br>**Datum:** Onsdagen den 27 april. Tid: 8:00 PDT / 4:00 UK. <br>[Detaljer och registrering](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe Analytics: Berätta viktiga historier med data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live Webinar | Data storytelling is made well when it’s a balance of art and Science. Varför överingenjera det? Adobe Analytics mästare Amy Ard diskuterar tre delar som är avsedda att vägleda datalagret utan att minska kreativiteten:<ul><li>Identifiera affärsmöjligheten eller problemet</li><li>Förklara data</li><li>Erbjuda en lösning</li></ul>**Datum:** Torsdag 31 mars - [Detaljer och registrering](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se keynote-adressen, läs om API:er för Analytics, kunddatalager, öppna Adobe Developer-projekt med mera. |
+| [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | On demand-sessioner | Lär dig av cheferna i Adobe, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc. och Gail J. McGovernn, CEO, American Red Cross berättar hur kundupplevelserna är valutan i vår digitala ekonomi.<br>Utforska [on-demand-sessioner](https://business.adobe.com/summit/2022/sessions.html) från Adobe Summit 2022. |
+| [AEM från Headful till Headless (och allt däremellan)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | Se en detaljerad beskrivning av de vanligaste Adobe Experience Manager Sites-implementeringarna med värden Danny Gordon och gästerna Amol Anand, Sachin Mali och Sean Steimer. <br>**Datum:** 21 april 2022 @ 9 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Hur hanterar jag alla dessa målgrupper?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League LIVE | Demystifiera målgruppsstrategi med Audience Manager och CDP i realtid. Host Doug Moore välkomnar Nick Cammuso och Jackie Chevallier i det här Experience League LIVE-evenemanget.<br>**Datum:** 28 april 2022 @ 9 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Adobe Campaign Classic v7 &amp; Campaign v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060) | Frågor och svar - Kaffebrytning | Träffa Scott Segrin, Eric Knee, David Loyd och Peter Mancuso - Adobe Campaign Enterprise Architecture Team i Adobe Campaign Community och få Frågor och svar live.<br>**Datum:** 21 april 2022 @ 8 PDT<br>[Information och registrering](https://adobe.ly/3NB6kuG) |
+| [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Frågor och svar - Kaffebrytning | Jim McTiernan besvarar dina frågor om Adobe Target Recommendations, AB Testing och MVT-personalisering i Adobe Target Community <br>**Datum:** 21 april 2022 @ 8 PDT<br>[Information och registrering](https://adobe.ly/3joCuvU%C2%A0) |
+| [AEM och CIF-ramverket](https://adobe.ly/3O0uXl5) | AEM Gems | Integrera AEM- och CIF-ramverket för att skapa en omfattande och engagerande e-handelsupplevelse <br>**Datum:** 27 april 2022 kl. 8.00 PDT / 17.00 CET / 23.30 IST<br>[Detaljer och registrering](https://adobe.ly/3O0uXl5) |
+| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-uppdateringar för 2022 är tillgängliga! AEM Gems är en serie tekniska djupdykningar från Adobe webinar om Adobe Experience Manager, som levereras av Adobe experter. <br>De senaste AEM Gems-arna finns på [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) och [Bygg sajter snabbare med AEM Headless och App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Besök versionsinformationen ofta eller prenumerera på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html) för att hålla koll på AEM Gems och andra Experience League-händelser. |
+| [Upplevelsemakare - Kunskapsutbyte för Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Adobe har nöjet att lansera den första utgåvan av _Upplevelsemakare - Kunskapsutbyte för Adobe Workfront_. <br>Detta kostnadsfria, tre timmar långa event om digital inlärning är helt inriktat på Workfront. Ni kan ställa frågor till experter och kollegor som är vana vid att hantera arbetet på bästa sätt. Oavsett om du är nybörjare på Workfront eller erfaren expert har vi något för alla.<br>**Datum:** onsdag den 13 april kl. 9.00. - kl. 12.00 PDT. [Detaljer och registrering](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe rekommenderar att du registrerar dig även om du inte kan delta, så att du garanteras tillgång till on-demand-inspelningar. |
+| [Adobe Workfront System Admin Essentials: Designa en idealisk användarupplevelse](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Följ Mary Ann Erickson, Customer Success Manager på Adobe Workfront och Steve Enos, Creative Operations Analyst på Liberty Mutual Insurance, för att få reda på hur man skapar en perfekt användarupplevelse. <br>**Datum:** Onsdag 27 april. Tid: 8:00 PDT / 4:00 UK. <br>[Detaljer och registrering](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | On demand-video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt för Adobe Developer med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -80,7 +84,7 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 
 | Funktion | Beskrivning |
 | ------- |-------|
-| Åtkomst _[!UICONTROL Recents]_över Experience Platform och Journey Optimizer med [!UICONTROL Unified Search] | Du kan komma åt nyligen använda objekt från alla sidor i Experience Platform och Journey Optimizer via [!UICONTROL Unified Search] fält.<br>Se [Enhetlig sökning efter objekt och enheter](https://experienceleague.adobe.com/docs/core-services/interface/services/search-experience-cloud.html?lang=en) för mer information. |
+| Naturvetenskapssökning | Få svar på alla dina frågor via ett enda gränssnitt via Unified Search. Den här funktionen är alltid tillgänglig för dig på alla sidor i Experience Platform och Journey Optimizer. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -92,27 +96,29 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 * Produktdokumentation för [Folk - kundattribut och målgruppsbibliotek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 * [Enhetlig sökning efter objekt och enheter](https://experienceleague.adobe.com/docs/core-services/interface/services/search-experience-cloud.html?lang=en)
 
-## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
+## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe [!DNL Experience Platform] {#platform}
 
-Senaste versionsinformation och ny dokumentation för Experience Platform och [!UICONTROL Mobile SDK]:
+Senaste versionsinformation och ny dokumentation för [!DNL Experience Platform] och [!UICONTROL Mobile SDK]:
 
-Releasedatum: **7 mars 2022**
+Senaste releasedatum: **30 mars 2022**
 
 * [Versionsinformation om Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
-### Självstudiekurser och kurser i nya Experience Platform {#tutorials-platform}
+### Nytt [!DNL Experience Platform] självstudiekurser och kurser {#tutorials-platform}
 
-Nya videor, självstudiekurser eller kurser som publicerats för Experience Platform.
+Nya videokurser, artiklar och kurser publicerade för [!DNL Experience Platform].
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Implementera Adobe Experience Cloud i mobilappar, genomgång](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Kurs | Lär dig hur du implementerar Adobe Experience Cloud-program i din mobilapp med Adobe Experience Platform Mobile SDK. |
-| Mars 2022 | [Generera enhets-ID:n från första part](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Lär dig hur du genererar enhets-ID:n från första part och hur de fungerar. |
-| Mars 2022 | [Konfigurera datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Lär dig hur du skapar och konfigurerar dataströmmar för webb- och Mobile SDK-implementeringar. |
+| April 2022 | [Komma igång med Privacy Service i Adobe Experience Platform](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.prvsvc) | Kurs | Lär dig grunderna i Adobe Experience Platform [!UICONTROL Privacy Service], inklusive hur du förbereder dina data för sekretessåtgärder och skickar kundsekretessförfrågningar till tjänsten. |
+| April 2022 | [API för Adobe Experience Platform Edge Network Server](https://experienceleague.adobe.com/docs/platform-learn/data-collection/server-api/overview.html) | Video | Läs om fördelarna med att skicka data till plattformen [!UICONTROL Edge Network] med ett säkert, autentiserat server-API. |
+| April 2022 | [Granskningsloggar](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/audit-logs.html) | Video | Läs om hur granskningsloggen kan hjälpa dig att uppfylla dina krav på regelefterlevnad och felsöka implementeringen av Adobe Experience Platform. |
+| April 2022 | [Dataförberedelse för datainsamling](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/data-prep.html) | Video | Lär dig hur du lägger till ditt datalager i ett nytt datastream i [!UICONTROL Data Collection]. Lär dig även hur du utför grundläggande mappningsfunktioner med [!UICONTROL Data Prep for Data Collection] -funktion. |
+| April 2022 | [Överväg att flytta leverantörstaggar på klientsidan till händelsevidarebefordran](https://experienceleague.adobe.com/docs/platform-learn/data-collection/event-forwarding/consider-moving-tags.html) | Video | Lär dig hur du utvärderar en leverantörstagg på klientsidan som kan flyttas till en händelsevidarebefordringsegenskap. |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Adobe Mobile SDK
+### [!DNL Adobe Mobile] SDK
 
 Se [Versionsinformation och ändringsloggar](https://aep-sdks.gitbook.io/docs/release-notes) för Adobe Experience Platform Mobile SDK.
 
@@ -120,7 +126,7 @@ Se [Versionsinformation och ändringsloggar](https://aep-sdks.gitbook.io/docs/re
 
 Releasedatum: **23 mars 2022**
 
-* Adobe Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**ny plats**)
+* Adobe Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/analytics.html)
 
 ### AppMeasurement {#appm}
@@ -129,20 +135,20 @@ Version: **2.22.4**
 
 * [Versionsinformation om AppMeasurement for JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en)
 
-### Nya självstudiekurser och kurser i Analytics {#tutorials-analytics}
+### Nytt [!DNL Analytics] självstudiekurser och kurser {#tutorials-analytics}
 
-Nya videor, självstudiekurser eller kurser publicerade för Adobe Analytics.
+Nya videokurser, artiklar och kurser publicerade för Adobe Analytics.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Tips och tricks om hur man förenklar och lägger mindre tid på att utbilda användare](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en) | Video och artikel | Se hur viktig en välutbildad Adobe Analytics-organisation kan vara för er verksamhet. |
-| Mars 2022 | [Skapa en kraftfull community](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/empowered-community.html) | Video och artikel | Lär dig värdet av en kraftfull analyscommunity och hur du skapar och stöder en sådan. |
-| Mars 2022 | [Skapa regler för bearbetning av marknadsföringskanaler](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/create-marketing-channel-processing-rules.html?lang=en) | Video | Lär dig konfigurera [!UICONTROL Processing Rules] for [!UICONTROL Marketing Channels]. |
-| Mars 2022 | [Ställ in marknadsföringskanaler i rapportsviten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-up-marketing-channels.html) | Video | I den här videon får du lära dig hur du konfigurerar marknadsföringskanalernas rapportering i Analytics-rapportsviten. |
-| Mars 2022 | [Övergång till Adobe Analytics från Google Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.html?lang=en) | Video | En omfattande guide för övergång till [!DNL Adobe Analytics] från [!DNL Google Analytics]. |
-| Mars 2022 | [Konfigurera hierarkivariabler](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-hierarchy-variables.html?lang=en) | Video | Lär dig hur och när du ska konfigurera hierarkivariabler för din webbplats. Den här funktionen kan användas för att visa en hierarkisk vy över sidorna på webbplatsen och hur mycket trafik som kommer till varje nod. |
-| Mars 2022 | [Kuratera och dela i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.html?lang=en) | Video | Lär dig hur du arbetar med kursprojekt och delningsprojekt i Analysis Workspace. |
-| Mars 2022 | [Direktlänk till ett projekt i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/direct-link-to-a-project.html?lang=en) | Video | Se hur ni bättre kan demokratisera analysen genom att skapa kortade länkar som tar dina kollegor direkt till era Analysis Workspace-projekt. |
+| April 2022 | [Filtrera data med anpassad segmentering och anpassade datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata) | Kurs | Lär dig hur du använder segment, skapar anpassade segment och använder datumintervall för att arbeta smartare i analysen. |
+| April 2022 | [Konfigurera och administrera rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) | Kurs | Lär dig hur du ställer in allmänna konfigurationsobjekt för rapportsviten, konfigurerar trafik- och konverteringsvariabler, konfigurerar marknadsföringskanaler och mycket mer. |
+| April 2022 | [Berätta slagkraftiga historier med data](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/telling-impactful-stories-with-data.html?lang=en) | Video | Data storytelling är var konst och vetenskap sammanförs med hjälp av data, visualisering och berättande. Genom att effektivt berätta en historia med data kan Adobe Analytics bli mer lättillgängligt för en större publik, och ni kan öka det värde ni ger er organisation genom datadrivet beslutsfattande. |
+| April 2022 | [Sätt dig vid bordet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/gaining-a-seat-at-the-table.html?lang=en) | Video | Lär dig mer om din roll som Analytics Administrator och få tips om hur du får den expertis som hjälper dig att hitta en plats i beslutsprocessen i din verksamhet. |
+| April 2022 | [Översätt Adobe Analytics tekniska språk på ett icke-tekniskt sätt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/translating-adobe-analytics-technical-language.html?lang=en#) | Video | Som expert på Adobe Analytics är ni viktiga när det gäller att hjälpa era intressenter att förstå de tekniska detaljerna och få ut så mycket som möjligt av er investering i Adobe Analytics. |
+| April 2022 | [Snabbsegment i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.html?lang=en) | Video | _Snabbsegment_ är en förenklad segmenteringsupplevelse direkt i [!UICONTROL Workspace] arbetsyta. Lär dig hur du bygger segment direkt med upp till tre regler utan att behöva lämna analysarbetsflödet. |
+| April 2022 | [Anteckningar i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.html?lang=en) | Video | Lär dig hur du antecknar ett datum eller datumintervall med kända dataproblem, allmänna helgdagar och kampanjstarter för att bättre informera användare om varför de ser vad de ser i linjediagram, tabeller med mera. |
+| April 2022 | [Arbeta tvärfunktionellt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/working-cross-functionally.html?lang=en) | Video | Lär dig av en Adobe Analytics-mästare om att arbeta tvärfunktionellt i er organisation. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -150,8 +156,26 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Analytics.
 
 Releasedatum: **23 mars 2022**
 
-* Customer Journey Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**ny plats**)
+* Customer Journey Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
+
+## ![Ikon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
+
+Releasedatum: **16 mars 2022**
+
+* [!DNL Streaming Media Analytics] [versionsinformation](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**ny plats**)
+* [!DNL Streaming Media Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
+
+### Självstudiekurser och kurser i nya Customer Journey Analytics {#tutorials-cja}
+
+Nya videokurser, artiklar och kurser för Customer Journey Analytics.
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| April 2022 | [Översikt över hur datavyer konfigureras för Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview-of-configuring-data-views-for-cja.html?lang=en) | Video | Läs mer om konfigurering [!UICONTROL Data Views] för Customer Journey Analytics. [!UICONTROL Data Views] liknar [!UICONTROL Virtual Report Suites] i Adobe Analytics. De gör att du kan konfigurera inkommande data så att de kan vara mest användbara för dina rapporter och analyser. |
+| April 2022 | [Upplevelse av anslutningsinformation i CJA](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections-details-experience-in-cja.html?lang=en) | Video | Lär dig hur du kontrollerar status för anslutningsens datauppsättningar och för överföringsprocessen. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## ![Ikonen](/assets/audience-manager.png) Audience Manager {#aam}
 
@@ -169,14 +193,6 @@ Självhjälp finns på [Audience Manager dokumentation och självstudiekurser](h
 
 Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla sig uppdaterad om versionsinformation.
 
-### Experience Manager produktuppdateringar
-
-* **Experience Manager 6.5, Service Pack 12 (6.5.12.0)**
-
-   Adobe Experience Manager 6.5.12.0 innehåller nya funktioner, viktiga förbättringar som kunderna efterfrågat samt prestanda, stabilitet och säkerhetsförbättringar som släppts sedan 6.5-utgåvan släpptes i april 2019. Service Pack är installerat på Adobe Experience Manager 6.5.
-
-   Se [Versionsinformation](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en).
-
 ### Experience Manager produktreleaser
 
 * **Experience Manager as a Cloud Service**
@@ -188,93 +204,106 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
    * [Video om versionsöversikt, oktober 2021](https://video.tv.adobe.com/v/338253) av nya funktioner.
    * [Video om versionsöversikt, september 2021](https://video.tv.adobe.com/v/337381) av nya funktioner.
 
-   * **Experience Manager Assets as a Cloud Service**
+* **Experience Manager Assets as a Cloud Service**
 
-      _Nya funktioner i Experience Manager Assets_
+   _Nya funktioner i Assets_
 
-      * Dynamic Media - Du kan nu använda gränssnittet Experience Manager - Dynamic Media för att konfigurera [Allmänna inställningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-general-settings.html) och [Publiceringsinställningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-publish-settings.html) i stället för att behöva gå igenom Dynamic Media Classic datorprogram.
-      * Dynamic Media har nu stöd för inhämtning, förhandsgranskning, uppspelning och publicering av MXF-videor. Anteckningar och videor som kan köpas för MXF-videor stöds ännu inte.
-      * När du har konfigurerat en anslutning mellan distributioner av fjärr-DAM och platser, blir resurserna på fjärr-DAM tillgängliga i Sites-distributionen. Nu kan du utföra [uppdatera, ta bort, byta namn på och flytta åtgärder](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/use-assets-across-connected-assets-instances.html?lang=en) på DAM-fjärrresurser eller -mappar. Uppdateringarna, med viss fördröjning, är automatiskt tillgängliga i Sites-distributionen.
+   * Experience Manager Dynamic Media har nu flexibiliteten att [konfigurera ett aliaskonto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=en) i användargränssnittet och på så sätt se till att allt är klart [!UICONTROL Dynamic Media] URL:er och visningsprogrammets inbäddningskod uppdateras. Denna uppdatering påverkar SEO positivt för att återspegla uppdateringar som gjorts i ert företagskontext, t.ex. omprofilering.
+   * Nu kan du använda Experience Manager Assets användargränssnitt för att:
+      * Konfigurera [identifiering av duplicerade resurser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#detect-duplicate-assets) i en databas.
+      * Konfigurera [lägga till digitala vattenstämplar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/watermark-assets.html?lang=en) till bilder.
+   * Administratörerna kan nu konfigurera e-posttjänsten för stora hämtningar. Det gör att användarna kan [aktivera e-postmeddelanden för stora nedladdningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) i Experience Manager Assets gränssnitt. Användaren får ett e-postmeddelande med nedladdningslänken för den arkiverade zip-mappen när nedladdningen är klar.
+   * The [Hantera publikation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) har förbättrats med ett förbättrat användargränssnitt. En användare kan publicera eller avpublicera innehåll till och från det valda målet, eller [Lägg till innehåll](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) till publiceringslistan från DAM-databasen. De kan [Inkludera mappinställningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) för att publicera innehållet i de valda mapparna och tillämpa filter, och [schemaläggning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) till ett senare datum eller en senare tid.
 
       _Nya funktioner i Experience Manager Assets prerelease Channel_
 
-      * Dynamic Media har nu flexibiliteten att [konfigurera ett företagalias-konto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=en) i användargränssnittet, så att färdiga Dynamic Media-URL:er och inbäddningskod för visningsprogram uppdateras. Den här åtgärden påverkar SEO positivt för att återspegla uppdateringar som gjorts i ert företagskontext, t.ex. omprofilering.
-      * Nu kan du använda Experience Manager Assets användargränssnitt för att:
+   * Du kan [sortera taggar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/organize-assets.html?lang=en#use-tags-to-organize-assets) när du skapar smarta taggar och när du använder sökfilter med hjälp av taggpredikatet.
 
-         * Konfigurera identifiering av dubblettresurser i en databas.
-         * Konfigurera tillägg av digitala vattenstämplar till bilder.
-      * Administratörer kan nu konfigurera e-posttjänsten för stora hämtningar. Det gör att användarna kan [aktivera e-postmeddelanden för stora nedladdningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) i Experience Manager Assets gränssnitt. Användaren får ett e-postmeddelande med nedladdningslänken för den arkiverade zip-mappen när nedladdningen är klar.
-      * The [Hantera publikation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) har förbättrats med ett förbättrat användargränssnitt. Användare kan publicera eller avpublicera innehåll till och från det valda målet, och [Lägg till innehåll](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) till publiceringslistan från DAM-databasen. De kan också [Inkludera mappinställningar](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) för att publicera innehållet i de valda mapparna och tillämpa filter, och [schemaläggning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) till ett senare datum eller en senare tid.
+* **Experience Manager Forms as a Cloud Service**
 
-      _Felkorrigering_
+   _Nyheter i Forms_
 
-      * Obearbetade resurser utan ursprunglig återgivning skickas till Asset compute för bearbetning när resurser migreras från Experience Manager lokalt till Cloud Services.
-   * **Experience Manager Forms as a Cloud Service**
+   * **Kommunikation - API:er för dokumentgenerering** — [API:er för dokumentgenerering](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) kan du kombinera, ordna om och validera PDF-dokument. Med tjänsten kan du generera dokument i synkront läge. Med API:erna kan du skapa program för att göra följande:
 
-      _Nyheter i Forms_
+      * Sammanställa dokument från PDF
+      * Dela upp PDF-dokument
+      * Konvertera till och validera dokument som följer PDF/A-standarden.
+   * **Konvertera automatiskt över 15 sidor PDF forms till anpassningsbara blanketter** — Du kan nu använda tjänsten automated forms conversion för att konvertera PDF forms med upp till 40 sidor till anpassningsbara formulär. Tjänsten ger nu möjlighet att konvertera formuläravsnitt på mer än 15 sidor till anpassningsbara formulärfragment. Det förbättrar återgivningshastigheten för konverterade formulär och gör det enklare att läsa in stora formulär i den adaptiva formulärredigeraren.
 
-      * **Experience Manager Forms as a Cloud Service - kommunikation** — [Kommunikations-API:er](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) hjälper dig att kombinera en mall och XML-data för att generera utskriftsdokument i olika format. Med tjänsten kan du generera dokument i synkront läge och gruppläge. API:erna hjälper dig att skapa program som gör att du kan göra följande:
+   _Nytt i Forms prerelease channel_
 
-         * Generera dokument genom att fylla i mallfiler med XML-data.
-         * Generera formulär i olika format, inklusive icke-interaktiva PDF-utskriftsströmmar.
-         * Generera PDF från XFA-PDF.
-         * Generera PDF-, PostScript-, PCL- och ZPL-dokument genom att sammanfoga flera datauppsättningar med källmallar.
-      * **Anpassade teckensnitt för dokument i dokumentformat och PDF som skapats med kommunikationsAPI:er** - Du kan nu använda typsnitt som är godkända av varumärket i PDF-dokument som genererats med kommunikations-API:er för att anpassa dig till organisationens krav.
-
-      _Nytt i Forms prerelease channel_
-
-      * [Assembler API](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/assembler-sync/) — Sammanställ API:er för att kombinera, ordna om, förstärka och få information om PDF-dokument.
-   * **Cloud Manager**
-
-      _Releasedatum_
-
-      Releasedatum för Cloud Manager i Experience Manager as a Cloud Service 2022.01.0 är 20 januari 2022.
-Nästa version är planerad till den 31 mars 2022.
-
-      _Nya funktioner_
-
-      * Cloud Manager [undviker att återskapa kodbasen när den upptäcker att samma Git-implementering används](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/setting-up-project.html?lang=en#build-artifact-reuse) i flera fullständiga pipeline-körningar.
-      * För att få åtkomst till miljöloggen i Experience Manager krävs nu **[!UICONTROL Deployment Manager]** produktprofil. Användare utan den här profilen ser en inaktiverad knapp i användargränssnittet.
-      * Användargränssnittet tillåter inte konfiguration av pipeline för front-end för ett program där Sites inte är aktiverat som en lösning.
-      * När du genererar ett Git-lösenord visas förfallodatumet.
+   * **Använd anpassad XCI för att generera ett postdokument** — Du kan nu använda en anpassad XCI-fil för att ange olika egenskaper för ett postdokument. Den åsidosätter den primära XCI med de anpassade ändringarna.
+   * **Använd osynlig CAPTCHA i ett adaptivt formulär** — Du kan bara använda den osynliga CAPTCHA-funktionen för att visa CAPTCHA-utmaningen om en misstänkt aktivitet hittas. Om ingen misstänkt aktivitet hittas visas inte CAPTCHA-utmaningen.
 
 
 
+* **CIF-tillägg**
 
+   _Nya funktioner_
 
+   * Beta - Experience Manager CIF Search Core Component har stöd för Commerce LiveSearch.
+   * Förbättrad SEO för scenarier med flera butiker - URL-format för PDP/PLP kan nu konfigureras på en butiksnivå via CIF-konfigurationsegenskaperna för molnkonfiguration.
+   * Produktväljaren har stöd för mellanlagrade produkter via det nya filteralternativet i användargränssnittet. Detta gör att innehållsutvecklare kan förbereda innehållshantering för kommande produktlanseringar.
+   * Förenklad CIF-konfigurationshantering och felhantering genom att använda CIF Cloud Config-namn i stället för URL för konfigurationsproxy.
+   * Manuellt kategorival för produktlista och Carousel-komponenter. Med den här möjligheten kan innehållsutvecklare använda dessa komponenter på innehållssidor, utanför katalogupplevelsen.
 
+* **Experience Manager as a Cloud Service Foundation**
+
+   _Nya funktioner_
+
+   * För effektivare och effektivare felsökning av anpassade funktioner i molnmiljöer har Adobe släppt ett nytt utvecklarverktyg: [Databasläsaren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=en). Det är en lättviktig, skrivskyddad HTML-webbläsare som du kan starta från Developer Console. Få insyn i innehållslagringsplatsen på utgivar-, författar- och förhandsgranskningsnivåer och i alla miljöer, inklusive produktion, scen och dev. Bläddra i innehållsstrukturen, visa egenskaper samt förhandsgranska och hämta binärfiler.
+   * Autentiseringsuppgifterna som används för att autentisera API-anrop från server till server (t.ex. för GraphQL API-begäranden) kan nu uppdateras på ett självbetjäningssätt från utvecklarkonsolen innan de förfaller. Se [dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html?lang=en#refresh-credentials) för mer information.
+   * Underhållsuppgifter för rensning av versioner och granskningsloggar, som inte tidigare hade aktiverats, har nu aktiverats för nya miljöer. Se de associerade värdena i [Underhållsaktivitet](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/maintenance.html?lang=en) artikel.
+   * Experience Manager as a Cloud Service SDK Dispatcher Tools har nu stöd för Mac datorer med M1-chipet.
+
+* **Cloud Manager**
+
+   _Releasedatum_
+
+   Releasedatum för Cloud Manager i Experience Manager as a Cloud Service 2022.02.0 var 10 februari 2022.
+Nästa version är planerad till den 10 mars 2022.
+
+   _Nya funktioner_
+
+   * Ny accelererad [Rörledningar för Web Tier Config](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines) har introducerats för att exklusivt distribuera HTTPD/dispatcher-konfiguration.
+
+      * Du måste ha AEM version `2021.12.6151.20211217T120950Z` eller nyare och [välja det flexibla läget för Dispatcher-verktygen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=en#validation-debug) om du vill använda den här funktionen.
+      * Den här funktionen är planerad att lanseras i faser under de två veckorna efter version 2022.02.0.
+   * Molnhanterarens landningssida har uppdaterats för att ge förbättrad navigering, enkel växling mellan rutnät-/rutvyer och popup-fönster för snabb programsammanfattning.
+   * Ett nytt tröskelvärde för misslyckande (`< D`) har lagts till i [tillförlitlighetsklassificeringsmått](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules).
+
+      * Kunder med allvarliga kvalitetsproblem som påverkar systemstabiliteten, främst relaterade till ogiltiga index och arbetsflödesprocesser, kan inte distribueras förrän dessa problem har lösts.
+   * BannedPath allvarlighetsgrad [kvalitetsregel](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules) har ändrats från blockerare till kritiskt.
+   * Pipeline-guiden informerar användaren om när en miljöuppdatering för Experience Manager kan behövas innan en [Rörledning för Web Tier Config](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines) som är kopplade till den.
 
 
 ### Community
 
-* **Experience Manager GEMs Webinar: _Bygg sajter snabbare med Experience Manager Headless och App Builder_**
+* **Kommande Experience Manager GEMs-webbinarium**
 
-   * Missade du Adobe Summit 2022-inledningsanförandet? Titta [Gör den digitala ekonomin personlig](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2022-opening-keynote-make-the-digital-economy/td-p/444612).
-   * Adobe Summit 2022 | [Fullständig sessionslista för Experience Manager](https://adobe.ly/3rti6gF).
-   * Experience Manager GEMs | Webbseminarium | onsdag den 23 mars 2022
-      * Ämne: *Bygg sajter snabbare med Experience Manager Headless och App Builder*
-      * [Registrera dig här](https://adobe.ly/3oCkEsh)
-      * [För frågor och svar](https://adobe.ly/3LkSWdm)
+   * Ämne: _Integrera AEM- och CIF-ramverket för att skapa en omfattande och engagerande e-handelsupplevelse_
+      * Datum: onsdagen den 27 april 2022
+      * Tid: 8.00 PDT / 17.00 CET / 23.30 IST
+      * [Registrera dig här](https://adobe.ly/3O0uXl5)
+   * Adobe Summit 2022 | Fullständig sessionslista och inspelningar är [finns här](https://adobe.ly/3rti6gF).
 
 ### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
 
 Nya videor, självstudiekurser och kurser som publicerats under den senaste månaden.
 
-| Publicerad | Namn | Typ | Beskrivning | Program |
-| -----------| ---------- | ---------- | ---------- | ------|
-| Mars 2022 | [Börja utveckla med AEM Headless](https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html) | Kurs | Skapa AEM Headless-landningssida som drar ihop allt innehåll på AEM Headless på ExL. | AEM Headless |
-| Mars 2022 | [Skapa din första webbplats i Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.1.aemcs.website) | Kurs | Skapa snabbt en ny webbplats i Experience Manager med en fördefinierad webbplatsmall. | AEM Sites |
-| Mars 2022 | [Extrahera nod från skickad data-xml](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=en) | Video | Lär dig det här anpassade steget för att skapa ett XML-dokument genom att extrahera en nod från ett annat XML-dokument. Använd den här processen när du vill sammanfoga skickade data med XDP-mallen för att generera PDF. | AEM Forms |
-| Mars 2022 | [Skriv dokumentet till filsystemet](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/write-payload-document.html?lang=en) | Video | Lär dig hur du skriver de genererade dokumenten i arbetsflödet till filsystemet. | AEM Forms |
-| Mars 2022 | [Anpassade funktioner](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/custom-functions-aem-forms.html?lang=en) | Video | I AEM Forms 6.5 introducerades möjligheten att definiera JavaScript-funktioner som kan användas för att definiera komplexa affärsregler med regelredigeraren. | AEM Forms |
-| Mars 2022 | [Workfront for Experience Manager förbättrad Connector Expert Series](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=en) | Video | Delta i Adobe videoserie med Workfront- och Experience Manager Assets-experter, som demonstrerar och diskuterar Workfront in- och utdata för den förbättrade kontakten Experience Manager. | AEM Assets, Workfront |
-| Mars 2022 | [Listrutor för överlappande](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/geonames-org.html?lang=en) | Video | En självstudiekurs med exempelresurser för att skapa ett formulär med en överlappande listruta. | AEM Forms |
-| Mars 2022 | [Inledande konfiguration och konfiguration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/setup.html?lang=en) | Video | Lär dig hur du konfigurerar och konfigurerar den utökade Workfront-anslutningen för Experience Manager och frigör den kombinerade kraften hos AEM Assets och Workfront. | AEM Assets, Workfront |
-| Mars 2022 | [Workfront anpassade blanketter och metadatamappning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/custom-forms.html?lang=en) | Video | Lär dig hur du konfigurerar Workfront och AEM Assets för att hantera och synkronisera metadata för resurser med hjälp av anpassade Workfront-formulär och AEM metadatamatchningar. | AEM Assets, Workfront |
-| Mars 2022 | [AEM, projektlänkade mappar och mappmetadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/aem-tags-project-linked-folders-and-folder-metadata.html?lang=en) | Video | Lär dig hur du använder AEM taggar på resurser via Workfront-data, konfigurerar och använder projektlänkade mappar och Workfront-data för att AEM metadatamappsscheman. | AEM Assets, Workfront |
-| Mars 2022 | [Avancerade inställningar och arbetsflöden](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/advanced-settings-and-workflows.html?lang=en) | Video | Lär dig mer om avancerade inställningar för Workfront för AEM förbättrade anslutningsprogram och hur du konfigurerar avancerade arbetsflöden och startprogram i AEM för att hantera synkroniseringen av data mellan AEM och Workfront. | AEM Assets, Workfront |
-| Mars 2022 | [Skapa och konfigurera Dynamics-konto](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/formscs-dynamics-crm/create-dynamics-account.html?lang=en) | Video | Lär dig hur du registrerar Microsoft® Dynamics med Azure Active Directory. | AEM CS |
-| Mars 2022 | [Delning av offentlig länk](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html) | Video | Läs om hur Assets Essentials Share Link gör det möjligt för användare att dela resurser med interna och externa intressenter samtidigt som risken för att dela fel resurser eller information minimeras. | AEM Assets |
+| Publicerad | Namn | Typ | Beskrivning | Produkt |
+| ------| ----- | ------ | ------ |-----|
+| April 2022 | [Dokumentgenerering med kommunikations-API](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2022.3.formscs) | Kurs | Slå ihop data med xdp-mallen genom att anropa HTTP-slutpunkterna i Forms CS. | AEM Forms |
+| April 2022 | [Montera PDF med hjälp av DX-åtgärden invoke](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-assembler/introduction.html?lang=en) | Video | Databasläsaren är ett kraftfullt verktyg som ger synlighet i AEM underliggande datalager, vilket gör det enkelt att felsöka AEM as a Cloud Service miljö. Databasläsaren har stöd för att inspektera alla resurser och egenskaper för AEM på produktions-, scen- och utvecklingsstadiet samt för tjänsterna Författare, Publicera och Förhandsgranska. | AEM CS |
+| April 2022 | [Implementera en lösning för att spara och hämta brevinstanser](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-retrieve-letters/introduction.html?lang=en) | Video | Lär dig implementera med SPI för att spara och hämta bokstavsinstanser av interaktiv kommunikation. | AEM Forms |
+| April 2022 | [Skapa och validera PDF/A-dokument](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-assembler/pdfa-utilities.html?lang=en) | Video | Lär dig hur du skapar och validerar PDF/A-dokument. PDF/A är en ISO-standardiserad version av Portable Document Format (PDF) som är specialanpassad för arkivering och långtidsarkivering av elektroniska dokument. | AEM Forms |
+| April 2022 | [Integrera AEM Forms med [!DNL ServiceNow]](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/service-now.html?lang=en) | Video | Skapa och visa incidenter i ServiceNow med hjälp av formulärdatamodellen i AEM Forms. | AEM Forms |
+| April 2022 | [Resursöversikt](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html) | Självstudiekurser | Adobe Experience Manager (AEM) [!DNL Assets] är ett verktyg för hantering av digitala resurser på AEM Platform som gör det möjligt för användare att skapa, hantera och dela sina digitala resurser (bilder, videor, dokument och ljudklipp) i en webbaserad databas. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i AEM Assets. | AEM Assets |
+| April 2022 | [Assets Essentials behörighetshantering](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html) | Video | Läs om hur man med behörighetshanteringen AEM Assets Essentials kan styra åtkomsten till mediefiler, skydda varumärket och säkerställa regelefterlevnad. | AEM Assets |
+| April 2022 | [Metadata Forms i Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html) | Video | Läs om hur Assets Essentials Metadata Forms snabbt och enkelt kan konfigureras för att skräddarsy resurser. | AEM Assets |
+| April 2022 | [Arbeta med formaterad text i Adobe Experience Manager Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/rich-text.html) | Video | Lär dig hur du arbetar med avancerad text i AEM Headless. Flerradstextfältet är en datatyp för innehållsfragment som gör att du kan skapa RTF-innehåll. | AEM Headless |
+| April 2022 | [Felsöka AEM as a Cloud Service med Databasläsaren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/repository-browser.html) | Video | Läs mer om Databashanteraren, ett kraftfullt verktyg som ger synlighet i AEM underliggande datalager, vilket gör det enkelt att felsöka AEM as a Cloud Service miljö. | AEM CS |
+| April 2022 | [Dedikerad IP-adress för utgångar](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/dedicated-egress-ip-address.html) | Video | Lär dig hur du konfigurerar och använder en dedikerad IP-adress för utgående anslutningar från AEM som kan komma från en dedikerad IP-adress. | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -312,16 +341,6 @@ XML Documentation for Adobe Experience Manager är ett program som distribueras 
 
 Läs mer om [XML-dokumentation för AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
-### Nya självstudiekurser för [!DNL XML Documentation for Adobe Experience Manager] {#tutorials-xml-doc}
-
-Nya videor, självstudiekurser eller kurser som publicerats för [!DNL XML Documentation for Adobe Experience Manager].
-
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Generera utdata med XML-dokumentation](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2022.2.xmldocs) | Kurs | Lär dig generera utdata med [!DNL XML Documentation for Adobe Experience Manager]. Lär dig mer om olika funktioner för generering av utdata, inklusive rapporter, baslinjer, villkor, felsökning, masspublicering och aktivering. |
-
-{style=&quot;table-layout:auto&quot;}
-
 ### Ytterligare resurser
 
 * [XML-dokumentation för Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - självstudiekurser på Experience League
@@ -332,7 +351,7 @@ Nya videor, självstudiekurser eller kurser som publicerats för [!DNL XML Docum
 Se följande länkar för versionsinformation om Adobe Commerce:
 
 * [Adobe Commerce och Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud Suite för Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Molninfrastruktur för Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### Nya Adobe Commerce-resurser {#new-commerce}
 
@@ -340,7 +359,11 @@ Ny dokumentation och självstudiekurser för Adobe Commerce på Experience Leagu
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Betalningstjänster - guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html) | Guide | En guide avsedd för administratörer av Adobe Commerce och Magento Open Source. Det innehåller detaljerad information om installation och introduktion av betaltjänster samt konfiguration och hantering av tjänsterna. Det förutsätter en grundläggande förståelse för kärnhandelns konfiguration och funktioner. |
+| April 2022 | [Översikt över verktyget Kompatibilitet för uppgradering](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/upgrade-compatibility-tool-overview.html) | Video | Läs mer om verktyget Upgrade Compatibility Tool och hur du snabbt kan identifiera de fel och korrigeringar som krävs för att uppgradera till en nyare version av Adobe Commerce. |
+| April 2022 | [Använda uppgraderingskompatibilitetsverktyget i PhpStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/uct-phpstorm.html) | Video | Upgrade Compatibility Tool (UCT) är ett kostnadsfritt verktyg som analyserar inkompatibiliteten mellan den aktuella versionen och målversionen på bara några minuter. Adobe har ett plugin-program till PhpStorm som gör verktyget ännu enklare att använda. |
+| April 2022 | [Live Search - guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html) | Produktdokumentation | Live Search från Adobe Commerce ger en blixtsnabb, superrelevant och intuitiv sökupplevelse, och är tillgänglig för Adobe Commerce utan extra kostnad. |
+| April 2022 | [Product Recommendations Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/guide-overview.html) | Produktdokumentation | Den här handboken är avsedd för administratörer av Adobe Commerce. Den innehåller detaljerad information om installation och introduktion av Product Recommendations samt konfiguration och hantering av tjänsterna. |
+| April 2022 | [[!DNL Site-Wide Analysis Tool]](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=en) | Dokumentation | Omfattande information om [!DNL Site-Wide Analysis] Verktyg, inklusive dess användningsområden, installationsprocessen och åtkomst. | Adobe Commerce |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -357,21 +380,16 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Senaste produktreleaser för Campaign
 
-Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna:
-
-* [Campaign Classic v7.2.2](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
+Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) och [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) versionsinformation.
 
 ### Nytt [!DNL Campaign] självstudiekurser och kurser {#tutorials-campaign}
 
-Nya självstudiekurser och kurser publicerade för Adobe Campaign.
+Nya videokurser och kurser publicerade för Adobe Campaign.
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
-| ------| ----- | -----| ------ | --- |
-| Mars 2022 | [Integrera med Experience Manager – översikt](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en) | Video | Anslut Adobe Campaign med Adobe Experience Manager för att hantera mallar, resurser och formulär för e-postleveranser i Experience Manager. | AEM, Campaign v8 |
-| Mars 2022 | [Konfigurera Campaign för integrering med Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/configure-campaign-for-aem-integration.html?lang=en) | Video | Lär dig hur du ställer in integreringen mellan Experience Manager och Campaign, inklusive viktiga inställningar att söka efter och potentiella&quot;gotchas&quot; för att undvika. | AEM, Campaign v8 |
-| Mars 2022 | [Godkänn och publicera en Experience Manager-sida till Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/approve-and-publish-aem-content-to-campaign.html?lang=en) | Video | Lär dig hur du skapar ett nyhetsbrev i Experience Manager och hur du godkänner och publicerar det till Campaign. | AEM, Campaign v8 |
-| Mars 2022 | [Synkronisera och skicka e-postleveranser via Experience Manager i Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.html?lang=en) | Video | Lär dig hur du testar och skickar e-postmeddelanden från Adobe Campaign med ett nyhetsbrev som har skapats i Experience Manager. | AEM, Campaign v8 |
-| Mars 2022 | [Integrera med Adobe Target](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/connect/target-integration.html) | Video | Lär dig hur ni personaliserar en leverans med dynamiskt innehåll från Adobe Target. | Adobe Target, Campaign v8 |
+| -----------| ---------- | ---------- | ---------- | ----|
+| April 2022 | [Förbättra e-postleveransen med Experience Manager](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.v8.aemcontent) | Kurs | Lär dig hur du ansluter Adobe Campaign V8 till Adobe Experience Manager (AEM) för att hantera mallar, resurser och formulär för e-postleveranser i Experience Manager. | Campaign v8, AEM |
+| April 2022 | [Granskningsspår](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/monitoring/audit-trail.html?lang=en) | Video | Lär dig hur du får åtkomst till Granskningsspåret och vilka inställningar som kan konfigureras. | Campaign v8 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -396,7 +414,17 @@ Senaste självstudiekurser för Journey Optimizer:
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Använda och hantera sparade uttryck i personaliseringsbiblioteket](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | Video | Lär dig hur du använder sparade personaliseringsbiblioteksobjekt i ett meddelande och hur du skapar och hanterar personaliseringsbiblioteksobjekt. |
+| April 2022 | [Message Designer - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/message-designer-overview.html?lang=en) | Video | Förstå de viktigaste funktionerna i Adobe Journey Optimizer [!UICONTROL Message Designer]. |
+| April 2022 | [Mobilfunktioner för utvecklare](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities-for-developers.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder utvecklare. |
+| April 2022 | [Assets Essentials - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html?lang=en) | Video | Få en översikt över Assets Essentials funktioner och hur de kan användas i Adobe Journey Optimizer. |
+| April 2022 | [Översikt över resans arbetsyta](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas.html?lang=en) | Video | Förstå funktioner och finesser i arbetsytan på Journey. |
+| April 2022 | [Enhetlig profil och segmentering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/unified-profile-and-segmentation-overview.html?lang=en) | Video | Förstå hur man skapar en enhetlig profil och sedan bygger segment baserat på profilattribut för att personalisera kundresor. |
+| April 2022 | [Mobile funktioner för marknadsförare](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder marknadsförare. |
+| April 2022 | [Skapa personaliserade erbjudanden](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-personalized-offers.html) | Video | Lär dig skapa personaliserade erbjudanden i Offer decisioning. Personaliserade erbjudanden har tillhörande regler som hjälper dig att visa dem endast för relevanta kunder. |
+| April 2022 | [Skapa taggar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-tags.html?lang=en) | Video | Lär dig hur du skapar taggar i Offer decisioning. Taggar är valfria byggstenskomponenter i erbjudanden. De kan användas för att ordna erbjudanden och gruppera dem i dynamiska samlingar. |
+| April 2022 | [Demo av beslutsstyrningskapaciteten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/demo-of-offer-decisioning.html?lang=en) | Video | Läs om hur varumärken kan använda funktionerna för beslutshantering för att definiera och hantera sina erbjudanden, tillämpa kunddata i realtid och leverera de rätta upplevelser som kunderna förväntar sig. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Fler resurser för [!DNL Journey Optimizer]
 
@@ -423,19 +451,6 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [[!
 
 Se [!DNL Marketo Engage] [publiceringsschema](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) för information om senaste releaseschemat och versionsinformation.
 
-### Nya Marketo självstudiekurser och kurser {#tutorials-marketo}
-
-Nya självstudiekurser och kurser publicerade för Adobe Marketo.
-
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Skapa och hantera personaliserade dialogrutor](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dialogue-management.html?lang=en) | Video | Lär dig hur du skapar och hanterar en _[!UICONTROL Dialogue]_. Att utforma konversationer som är målinriktade och personaliserade är nyckeln till att skapa en fantastisk konversationsupplevelse för alla webbbesökare. |
-| Mars 2022 | [Installera chatbot](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/setup.html?lang=en) | Video | En guide som hjälper dig att installera chatbot JavaScript på din webbplats eller på din landningssida och anpassa utseendet efter ditt varumärke. |
-| Mars 2022 | [Gör det möjligt för andra att boka möten med ditt säljteam](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/meeting-booking.html?lang=en) | Video | Använd [!UICONTROL Dynamic Chat] för att snabba upp anslutningen till försäljning för målkontoleads. |
-| Mars 2022 | [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/marketo-integration.html?lang=en) | Video | [!UICONTROL Dynamic Chat] är inbyggt i Marketo Engage, vilket gör att du kan använda kontext från chatbot-konversationer för att omdirigera eller poängsätta dina prospects. |
-| Mars 2022 | [Hantera användare av [!UICONTROL Dynamic Chat]](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en) | Video | Hantera dina [!UICONTROL Dynamic Chat] användare via Adobe Admin Console. |
-| Mars 2022 | [Demo av [!UICONTROL Dynamic Chat]](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/product-tour.html?lang=en) | Video | [!UICONTROL Dynamic Chat] är en ny chatbot-lösning som har byggts för marknadsföring och försäljning. Den är inbyggd i Marketo Engage, vilket gör att ni kan använda Dynamic Chat som en ny kanal i er flerkanalsmarknadsföring. Det är enkelt att använda och lätt att konfigurera. |
-
 ## ![Ikon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] är ett enhetligt program för att utbyta idéer, skapa innehåll, hantera komplexa processer och göra sitt bästa.
@@ -449,9 +464,10 @@ Versionsinformation för [!DNL Adobe Advertising Cloud].
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 <!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [Nya funktioner i [!DNL Advertising Cloud Search]](#adcloud-search)
-* [Nytt [!DNL Advertising Cloud] självstudiekurser](#tutorials-ad-cloud)
 
-<!-- 
+<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
+
+<!--
 ### New features across [!DNL Advertising Cloud] {#adcloud-all}
 
 Last updated: **October 27, 2021**
@@ -463,7 +479,7 @@ Last updated: **October 27, 2021**
 {style="table-layout:auto"}
 -->
 
-<!-- 
+<!--
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Last updated: **October 27, 2021**
@@ -488,19 +504,8 @@ Senast uppdaterad: **11 april 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (11 april) [!DNL Google Ads] konton) Advertising Cloud Search har övergått alla API-anrop från äldre [!DNL Google AdWords API] till senaste [!DNL Google Ads API]. Byt till det nya [!DNL Google Ads API] säkerställer kontinuitet med befintliga funktioner och ger åtkomst till [!DNL Google’s] senaste [!DNL Ads] funktioner.<br><br>Vissa funktioner har ännu inte uppdaterats till det nya API:t och är för närvarande inte tillgängliga:<ul><li>Platstillägg:<ul>Platstillägg visas inte i [!UICONTROL Extensions] vy.</li><li>Du kan inte skapa ett tillägg.</li><li>Filter på platser fungerar inte.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] och [!UICONTROL Query Cross Matching Beta] det finns inga tillgängliga analyser.</li></ul>Vi räknar med att kunna återställa platstillägg före utgången av april. När vi har bestämt när [!UICONTROL Advertising Insights] kan också återställas, vi skickar en uppdatering med det beräknade datumet. |
-| [!UICONTROL Portfolios] | (12 mars-utgåvan) Hybridoptimering är som standard tillgängligt på kampanjnivå. Du kan nu välja att aktivera hybridoptimering på annonsgruppnivå, som optimeringsfunktionen anger för [!DNL Google] CPA eller ROAS på annonsgruppsnivå för mer exakt kontroll över resultatet.<br>För varje portfölj måste du tillåta en inlärningsperiod innan du startar portföljen för att säkerställa att den har tillräcklig modelltäckning. Om du ändrar en hybridportfölj från kampanjnivå till annonsoptimering på gruppnivå ska du ställa in portföljen på det aktiva läget i cirka två veckor. Detta garanterar att optimeringsfunktionen har tid att lära sig mer om de annonser som ingår och generera mål.<br>Anpassade simuleringar kan nu innehålla resultat per annonsgrupp som stöd för optimering på gruppnivå. Kör en anpassad simulering med annonsgruppsresultat innan du startar en hybridportfölj med optimering på annonsgruppsnivå. |
-| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Match 12 release; Betafunktion för [!DNL Microsoft® Advertising] kampanjer) - Nu kan du konfigurera sökkampanjer så att de använder [!UICONTROL Maximize Conversions] budgivningsstrategi, och om du vill kan du ange en maximal kostnad per klick.<br>Om du redan deltar i betaversionen av hybridoptimering för andra strategier för autobudgivning har du automatiskt tillgång till [!UICONTROL Maximize Conversions] strategi, och ni kan inkludera kampanjer med [!UICONTROL Maximize Conversions] strategi i hybridportföljer. Om du vill använda den här strategin i en hybridportfölj måste du aktivera överföring av Advertising Cloud Search-mål för att [!DNL Microsoft® Ads]. Om du inte redan deltar i betaversionen och vill gå med i den kontaktar du [!DNL Adobe] kontoansvarig. |
-| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | (12 mars-utgåvan, [!DNL Microsoft® Advertising] kampanjer) - Nu kan du använda alla dina [!DNL Microsoft® Advertising] målgrupper, utom för målgrupper på marknaden som antingen kampanjnivåmål eller [!UICONTROL adgroup]mål på -nivå. Tidigare kunde du bara använda dem som [!UICONTROL adgroup]mål på -nivå. |
-| Campaign [!UICONTROL Audiences] | (12 mars-utgåvan, Betafunktion för [!DNL Microsoft® Advertising] konton som är berättigade till [!UICONTROL Customer Match]) Du kan nu skapa och hantera kundmatchande målgrupper genom att överföra CSV-filer med e-postadresser. Data måste hash-kodas med SHA-256-algoritmen. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### Nya självstudiekurser för Advertising Cloud {#tutorials-ad-cloud}
-
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Så här skapar du en standardbildskärmsplacering](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html) | Video | Lär dig hur du skapar en standardvisningsplats för en Advertising Cloud DSP-kampanj. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (11 april) [!DNL Google Ads] konton) Advertising Cloud Search har övergått alla API-anrop från äldre [!DNL Google AdWords API] till senaste [!DNL Google Ads API]. Byt till det nya [!DNL Google Ads API] säkerställer kontinuitet med befintliga funktioner och möjliggör åtkomst till [!DNL Google’s] senaste [!DNL Ads] funktioner.<br><br>Vissa funktioner har ännu inte uppdaterats till det nya API:t och är för närvarande inte tillgängliga:<ul><li>Platstillägg:<ul>Platstillägg visas inte i [!UICONTROL Extensions] vy.</li><li>Du kan inte skapa ett tillägg.</li><li>Filter på platser fungerar inte.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] och [!UICONTROL Query Cross Matching Beta] det finns inga tillgängliga analyser.</li></ul>Vi räknar med att kunna återställa platstillägg före utgången av april. När vi har bestämt när [!UICONTROL Advertising Insights] kan också återställas, vi skickar en uppdatering med det beräknade datumet. |
+| Integrering med Adobe Analytics | (7 april) I den datafeed som Advertising Cloud skickar till [!DNL Analytics], data för [!DNL Google Ads] och [!DNL Microsoft® Advertising] Nu klassificeras responsiva sökannonser (RSA) med [!UICONTROL Responsive Ad Type] &quot;[!UICONTROL Responsive Search Ads].&quot; Tidigare inkluderades data för [!UICONTROL Responsive Ad Type] &quot;[!UICONTROL Responsive Text Ads].&quot;<br><br>Dessutom är [!UICONTROL Responsive Ad Title] har nu fyllts i med den första rubriken och [!UICONTROL Responsive Ad Description] fylls med den första beskrivningen. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -508,18 +513,16 @@ Senast uppdaterad: **11 april 2022**
 
 Nya självstudiekurser och kurser publicerade för Adobe Document Cloud.
 
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Mars 2022 | [Anpassade kommandon och verktyg](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/custom.html?lang=en) | Video | Lär dig hur du kan förbättra dokumentarbetsflödet genom att använda anpassade kommandon och verktyg. Dela sedan med dig av dina nya kommandon och verktyg till dina medarbetare för att förbättra effektiviteten i organisationen. |
-| Mars 2022 | [Lägga till bokmärken och hyperlänkar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/bookmarks.html?lang=en) | Video | Lär dig hur du lägger till bokmärken och hyperlänkar för bättre navigering och interaktion med dina PDF-filer. |
-| Mars 2022 | [Optimera skannade dokument](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizescan.html) | Video | Oavsett om dokumentet kommer från en kamera eller skanner kan du lära dig hur du kan förbättra resultatet i Acrobat för att få bättre visning och sökning i PDF. |
-| Mars 2022 | [Konvertera Word till PDF inklusive formulärfält](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/wordform.html?lang=en) | Video | I den här 60-sekundersvideosjälvstudiekursen får du lära dig hur du konverterar Word-filer och formulär till PDF och automatiskt skapar formulärfält. |
-| Mars 2022 | [Avancerade formulärfält](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advancedforms.html?lang=en) | Video | I den här praktiska självstudiekursen får du lära dig hur du ställer in beräkningar, skapar en e-postknapp och snabbt uppdaterar formulärsidor utan att bygga om alla befintliga formulärfält. |
-| Mars 2022 | [Skapa effektivare PDF-filer på ett kick](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/optimize.html?lang=en) | Video | I den här 60-sekundersvideosjälvstudien kan du lära dig hur du använder verktyget Optimize PDF för att minska storleken på dina PDF-filer avsevärt. |
-| Mars 2022 | [Identifiera text i en skannad PDF-fil](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/textrecognition.html?lang=en) | Video | I den här 60-sekundersvideosjälvstudien lär du dig hur du konverterar en skannad PDF så att du kan söka efter text i PDF. |
-| Mars 2022 | [Låt Acrobat hjälpa er att göra PDF tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/accessible.html?lang=en) | Video | I den här 60-sekundersvideosjälvstudien kan du lära dig hur du kontrollerar om PDF är tillgänglig. |
-| Mars 2022 | [Export PDF till Word från telefonen](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/exportwordphone.html?lang=en) | Video | I den här 60-sekundersvideosjälvstudien lär du dig hur du konverterar en PDF-fil till ett fullt redigerbart Microsoft® Word-dokument med Acrobat mobilapp. |
-| Mars 2022 | [Protect dina PDF-filer med ett lösenord](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/protect.html?lang=en) | Video | I den här 60-sekundersvideosjälvstudiekursen lär du dig hur du skyddar en PDF så att ett lösenord krävs för att öppna eller redigera PDF. |
+| Publicerad | Namn | Typ | Beskrivning | Program |
+| -----------| ---------- | ---------- | ---------- | -----|
+| April 2022 | [Komma igång med Adobe Acrobat](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.1.acrobatgetstarted) | Kurs | Läs om varför över 5 miljoner företag världen över använder Acrobat för att skapa digitala dokument utan motstycke som flyttar verksamheten framåt. Upptäck nya sätt att automatisera manuella dokumentarbetsflöden och skapa engagerande upplevelser. | Adobe Acrobat |
+| April 2022 | [Avancerade uppgifter i Adobe Acrobat](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.1.advancedtasks) | Kurs | Lyft dina kunskaper i Acrobat till en högre nivå med avancerade tekniker för redigering, arbete med formulär, optimering och automatisering av uppgifter. Lär dig automatisera manuella dokumentflöden, skydda känslig affärsinformation och leverera enastående upplevelser med dina PDF-filer. | Adobe Acrobat |
+| April 2022 | [Ändra ett dokument efter att du har skickat det](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/modify-in-flight.html?lang=en) | Video | Lär dig hur du ändrar ett dokument som redan har skickats ut för signering, som när fel dokument skickas ut av misstag. | Adobe Sign |
+| April 2022 | [Konfigurera signeringsordning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/setting-up-routing.html?lang=en) | Video | Lär dig hur du ställer in signeringsordningen för flera signerare. Skicka ett dokument i sekvens och/eller parallellt, eller till specifika grupper av personer. | Adobe Sign |
+| April 2022 | [Ersätta en signerare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/replace-signer.html) | Video | Lär dig hur du ersätter en signerare, som när fel e-postadress användes när ett dokument skickades för signering. | Adobe Sign |
+| April 2022 | [Snabbare säljprocess](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/acceleratesales.html) | Kurs | Se hur Adobe Document Services kan integrera dokumentupplevelser under hela kundresan för att snabba upp försäljningen. | Dokumenttjänster |
+| April 2022 | [Automatisera juridiska arbetsflöden](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/automatelegalworkflows.html) | Artikel | Lär dig hur du hanterar och kör avtalsvillkor på ett säkert sätt med fördefinierade mallar som ändras baserat på godkänt språk. | Dokumenttjänster |
+| April 2022 | [Modernisering av anställdas introduktion](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/employeeonboarding.html) | Video | Lär dig hur du kan förbättra anställdas introduktion med Adobe Document Services API:er. | Dokumenttjänster |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -541,9 +544,4 @@ Se [Självstudiekurser för Creative Cloud for enterprise](https://experiencelea
 
 [Digital Experience-utkast](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) är repeterbara implementeringar som gör att ni kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
 
-| Publicerad | Namn | Typ | Beskrivning |
-| -----------| ---------- | ---------- | ---------- |
-| Februari 2022 | [Kundresor](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en) | Video | Customer Journeys behandlar möjligheten för varumärken att aktivt interagera med och kommunicera med sina kunder via kanaler som e-post, SMS och mobilaviseringar. |
-| Februari 2022 | [Campaign v7 Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/campaign-v7/campaign-v7.html?lang=en) | Video | Adobe Campaign v7 är ett kampanjverktyg som är byggt för traditionella marknadsföringskanaler som e-post och direktreklam. Den erbjuder robusta ETL- och datahanteringsfunktioner för att hjälpa till att utforma och strukturera den perfekta kampanjen. |
-
-{style=&quot;table-layout:auto&quot;}
+[Överkant](#events)
