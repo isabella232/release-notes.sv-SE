@@ -6,7 +6,7 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e6a44b87d3c4f39a6e0304d44213d866ae43aec4
+source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
 workflow-type: tm+mt
 source-wordcount: '6058'
 ht-degree: 6%
@@ -124,7 +124,7 @@ Se [Versionsinformation och ändringsloggar](https://aep-sdks.gitbook.io/docs/re
 
 ## ![Ikon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Releasedatum: **23 mars 2022**
+Releasedatum: **20 april 2022**
 
 * Adobe Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/analytics.html)
@@ -154,14 +154,14 @@ Nya videokurser, artiklar och kurser publicerade för Adobe Analytics.
 
 ## ![Ikon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Releasedatum: **23 mars 2022**
+Releasedatum: **20 april 2022**
 
 * Customer Journey Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 ## ![Ikon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Releasedatum: **16 mars 2022**
+Releasedatum: **20 april 2022**
 
 * [!DNL Streaming Media Analytics] [versionsinformation](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**ny plats**)
 * [!DNL Streaming Media Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
@@ -415,7 +415,7 @@ Senaste självstudiekurser för Journey Optimizer:
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | April 2022 | [Message Designer - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/message-designer-overview.html?lang=en) | Video | Förstå de viktigaste funktionerna i Adobe Journey Optimizer [!UICONTROL Message Designer]. |
-| April 2022 | [Mobilfunktioner för utvecklare](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities-for-developers.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder utvecklare. |
+| April 2022 | [Mobile Capabilities for Developers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities-for-developers.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder utvecklare. |
 | April 2022 | [Assets Essentials - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html?lang=en) | Video | Få en översikt över Assets Essentials funktioner och hur de kan användas i Adobe Journey Optimizer. |
 | April 2022 | [Översikt över resans arbetsyta](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas.html?lang=en) | Video | Förstå funktioner och finesser i arbetsytan på Journey. |
 | April 2022 | [Enhetlig profil och segmentering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/unified-profile-and-segmentation-overview.html?lang=en) | Video | Förstå hur man skapar en enhetlig profil och sedan bygger segment baserat på profilattribut för att personalisera kundresor. |
