@@ -4,11 +4,11 @@ description: Läs om den senaste versionsinformationen, nya funktioner och ny do
 doc-type: release notes
 last-update: April 2022
 author: mfrei
-mini-toc-levels: 1
+mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3d9450a10069ac060d21d844c6d5cc6e8d7b9bad
+source-git-commit: 559fef013ec51e9c617f8e274089a50ee8498051
 workflow-type: tm+mt
-source-wordcount: '6057'
+source-wordcount: '6060'
 ht-degree: 6%
 
 ---
@@ -68,7 +68,7 @@ Uppdaterat **5 april 2022**
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-uppdateringar för 2022 är tillgängliga! AEM Gems är en serie tekniska djupdykningar från Adobe webinar om Adobe Experience Manager, som levereras av Adobe experter. <br>De senaste AEM Gems-arna finns på [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) och [Bygg sajter snabbare med AEM Headless och App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Besök versionsinformationen ofta eller prenumerera på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html) för att hålla koll på AEM Gems och andra Experience League-händelser. |
 | [Upplevelsemakare - Kunskapsutbyte för Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Adobe har nöjet att lansera den första utgåvan av _Upplevelsemakare - Kunskapsutbyte för Adobe Workfront_. <br>Detta kostnadsfria, tre timmar långa event om digital inlärning är helt inriktat på Workfront. Ni kan ställa frågor till experter och kollegor som är vana vid att hantera arbetet på bästa sätt. Oavsett om du är nybörjare på Workfront eller erfaren expert har vi något för alla.<br>**Datum:** onsdag den 13 april kl. 9.00. - kl. 12.00 PDT. [Detaljer och registrering](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe rekommenderar att du registrerar dig även om du inte kan delta, så att du garanteras tillgång till on-demand-inspelningar. |
 | [Adobe Workfront System Admin Essentials: Designa en idealisk användarupplevelse](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Följ Mary Ann Erickson, Customer Success Manager på Adobe Workfront och Steve Enos, Creative Operations Analyst på Liberty Mutual Insurance, för att få reda på hur man skapar en perfekt användarupplevelse. <br>**Datum:** Onsdag 27 april. Tid: 8:00 PDT / 4:00 UK. <br>[Detaljer och registrering](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | On demand-video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se keynote-adressen, läs om API:er för Analytics, kunddatalager, öppna Adobe Developer-projekt med mera. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | On demand-video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt för Adobe Developer med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -350,8 +350,8 @@ Läs mer om [XML-dokumentation för AEM](https://www.adobe.com/products/xml-docu
 
 Se följande länkar för versionsinformation om Adobe Commerce:
 
-* [Adobe Commerce och Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Molninfrastruktur för Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Versionsinformation om Adobe Commerce och Magento Open Source 2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Versionsinformation om Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### Nya Adobe Commerce-resurser {#new-commerce}
 
