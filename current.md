@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6060'
+source-wordcount: '6346'
 ht-degree: 6%
 
 ---
@@ -25,7 +25,7 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **18 april 2022**
+Senast uppdaterad: **22 april 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -68,7 +68,7 @@ Uppdaterat **5 april 2022**
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-uppdateringar för 2022 är tillgängliga! AEM Gems är en serie tekniska djupdykningar från Adobe webinar om Adobe Experience Manager, som levereras av Adobe experter. <br>De senaste AEM Gems-arna finns på [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) och [Bygg sajter snabbare med AEM Headless och App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Besök versionsinformationen ofta eller prenumerera på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html) för att hålla koll på AEM Gems och andra Experience League-händelser. |
 | [Upplevelsemakare - Kunskapsutbyte för Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Adobe har nöjet att lansera den första utgåvan av _Upplevelsemakare - Kunskapsutbyte för Adobe Workfront_. <br>Detta kostnadsfria, tre timmar långa event om digital inlärning är helt inriktat på Workfront. Ni kan ställa frågor till experter och kollegor som är vana vid att hantera arbetet på bästa sätt. Oavsett om du är nybörjare på Workfront eller erfaren expert har vi något för alla.<br>**Datum:** onsdag den 13 april kl. 9.00. - kl. 12.00 PDT. [Detaljer och registrering](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe rekommenderar att du registrerar dig även om du inte kan delta, så att du garanteras tillgång till on-demand-inspelningar. |
 | [Adobe Workfront System Admin Essentials: Designa en idealisk användarupplevelse](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Följ Mary Ann Erickson, Customer Success Manager på Adobe Workfront och Steve Enos, Creative Operations Analyst på Liberty Mutual Insurance, för att få reda på hur man skapar en perfekt användarupplevelse. <br>**Datum:** Onsdag 27 april. Tid: 8:00 PDT / 4:00 UK. <br>[Detaljer och registrering](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | On demand-video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se huvudkommenteringsadressen, läs om API:er för Analytics, klientdatalager, öppen källkodsprojekt för Adobe Developer med mera. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | On demand-video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se keynote-adressen, läs om API:er för Analytics, kunddatalager, öppna Adobe Developer-projekt med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -415,7 +415,7 @@ Senaste självstudiekurser för Journey Optimizer:
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | April 2022 | [Message Designer - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/message-designer-overview.html?lang=en) | Video | Förstå de viktigaste funktionerna i Adobe Journey Optimizer [!UICONTROL Message Designer]. |
-| April 2022 | [Mobile Capabilities for Developers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities-for-developers.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder utvecklare. |
+| April 2022 | [Mobilfunktioner för utvecklare](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/mobile-capabilities-for-developers.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder utvecklare. |
 | April 2022 | [Assets Essentials - översikt](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html?lang=en) | Video | Få en översikt över Assets Essentials funktioner och hur de kan användas i Adobe Journey Optimizer. |
 | April 2022 | [Översikt över resans arbetsyta](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas.html?lang=en) | Video | Förstå funktioner och finesser i arbetsytan på Journey. |
 | April 2022 | [Enhetlig profil och segmentering](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/unified-profile-and-segmentation-overview.html?lang=en) | Video | Förstå hur man skapar en enhetlig profil och sedan bygger segment baserat på profilattribut för att personalisera kundresor. |
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **11 april 2022**
+Senast uppdaterad: **22 april 2022** för 23 april-utgåvan
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
+| [!UICONTROL Audiences] | ([!DNL Microsoft Advertising] konton som är berättigade för kundmatchning) Alla användare kan nu skapa och hantera kundmatchande målgrupper genom att överföra CSV-filer med e-postadresser. Data måste hash-kodas med SHA-256-algoritmen. |
+| [!UICONTROL Campaigns] | Följande betafunktioner är tillgängliga för annonsörer som väljer att delta:<ul><li>([!DNL Microsoft Advertising] konton) Synkronisering, skrivskyddad synlighet och rapportstöd (inklusive genomskinliga data) för era befintliga annonskampanjer på [!DNL Microsoft Audience Network], inklusive [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] och [!DNL Microsoft Advertising] konton) möjlighet att importera [!DNL Google Ads] kampanjer och kampanjstruktur till [!DNL Microsoft Advertising] från Advertising Cloud Search.</li></ul>Kontakta din kontoansvarige på Adobe om du är intresserad av något av betaprogrammen. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Portfolios] | ([!DNL Microsoft Advertising] kampanjer) Support finns för följande anbudsstrategier:<ul><li>(Allmän tillgänglighet) [!UICONTROL Maximize Conversions], [!UICONTROL Target CPA]och [!UICONTROL Target Return on Ad Spend]: Dessa strategier är nu tillgängliga för alla. Ni kan lägga till sökkampanjer med dessa budgivningsstrategier i hybridportföljer (men inte i standardportföljer).</li><li>(Betafunktion) [!UICONTROL Target Impression Share]: Om du deltar i betaversionen av hybridoptimering kan du konfigurera kampanjer med den här strategin och eventuellt ange en målvisningsresurs, en målannonsposition och en maximal kostnad per klick. Varning: Det här alternativet stöds ännu inte i hybridportföljer och kan inte läggas till i standardportföljer.</li><li>(Betafunktion) [!UICONTROL Maximize Clicks]: Om du deltar i betaversionen av hybridoptimering kan du konfigurera kampanjer med den här strategin och eventuellt ange en högsta målkostnad per klick. Ni kan inkludera kampanjer med den här strategin i antingen standard- eller hybridportföljer. För att denna strategi ska kunna användas i en blandad portfölj måste portföljens mål endast omfatta [!DNL Adobe] egenskaper (mått), och du måste göra det möjligt att överföra Advertising Cloud Search-mål till [!DNL Microsoft Ads].</li></ul>Om du inte redan deltar i betaversionen av hybridoptimering och vill gå med kontaktar du [!DNL Adobe] kontoansvarig. |
+| [!UICONTROL Advertising Insights] | Alla insikter förutom [!UICONTROL Query Cross Matching] och [!UICONTROL Hybrid Portfolio Setup Readiness] har nu slut på betaversion. |
 | [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (11 april) [!DNL Google Ads] konton) Advertising Cloud Search har övergått alla API-anrop från äldre [!DNL Google AdWords API] till senaste [!DNL Google Ads API]. Byt till det nya [!DNL Google Ads API] säkerställer kontinuitet med befintliga funktioner och möjliggör åtkomst till [!DNL Google’s] senaste [!DNL Ads] funktioner.<br><br>Vissa funktioner har ännu inte uppdaterats till det nya API:t och är för närvarande inte tillgängliga:<ul><li>Platstillägg:<ul>Platstillägg visas inte i [!UICONTROL Extensions] vy.</li><li>Du kan inte skapa ett tillägg.</li><li>Filter på platser fungerar inte.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] och [!UICONTROL Query Cross Matching Beta] det finns inga tillgängliga analyser.</li></ul>Vi räknar med att kunna återställa platstillägg före utgången av april. När vi har bestämt när [!UICONTROL Advertising Insights] kan också återställas, vi skickar en uppdatering med det beräknade datumet. |
-| Integrering med Adobe Analytics | (7 april) I den datafeed som Advertising Cloud skickar till [!DNL Analytics], data för [!DNL Google Ads] och [!DNL Microsoft® Advertising] Nu klassificeras responsiva sökannonser (RSA) med [!UICONTROL Responsive Ad Type] &quot;[!UICONTROL Responsive Search Ads].&quot; Tidigare inkluderades data för [!UICONTROL Responsive Ad Type] &quot;[!UICONTROL Responsive Text Ads].&quot;<br><br>Dessutom är [!UICONTROL Responsive Ad Title] har nu fyllts i med den första rubriken och [!UICONTROL Responsive Ad Description] fylls med den första beskrivningen. |
+| Integrering med Adobe Analytics | (7 april) I den datafeed som Advertising Cloud skickar till [!DNL Analytics], data för [!DNL Google Ads] och [!DNL Microsoft Advertising] responsiva sökannonser omklassificeras med [!UICONTROL Ad Type] &quot;[!UICONTROL Responsive Search Ads]&quot; när de får nya klick. Tidigare inkluderades data för [!UICONTROL Ad Type] &quot;[!UICONTROL Text Ads].&quot; RSA i inaktiva kampanjer kommer inte att omklassificeras.<br><br>För omklassificerade RSA:er [!UICONTROL Responsive Ad Title] har nu fyllts i med den första rubriken och [!UICONTROL Responsive Ad Description] fylls med den första beskrivningen. |
 
 {style=&quot;table-layout:auto&quot;}
 
