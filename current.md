@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
+source-git-commit: cdf35cca137c192dfc32398565b693e4843b6418
 workflow-type: tm+mt
-source-wordcount: '6346'
+source-wordcount: '5979'
 ht-degree: 6%
 
 ---
@@ -25,7 +25,7 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **22 april 2022**
+Senast uppdaterad: **11 maj 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -55,20 +55,16 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterat **5 april 2022**
+Uppdaterad **11 maj 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
+| Händelse | Typ | Beskrivning |
+| — | — | — |
+| [Push-meddelanden med Journey Optimizer - Hur enkelt kan du konfigurera din mobilapp för push-meddelanden?](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Läs mer om vanliga användningsområden för push-meddelanden med Adobe Journey Optimizer och fördjupa dig i den tekniska informationen om hur du konfigurerar en app för Push från Adobe Experience Platform. <br>**Datum:** 12 maj 2022 kl. 9.30 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Frågor och svar - Kaffebrytning | Gå med i Brent Kostak och Drew Burns på Adobe Target produktteam som besvarar dina Adobe Target-frågor om delade målgrupper, Real-Time CDP, egna data, kompletta arbetsflöden för personalisering med mera.<br>Titta på den senaste [Webbseminarium om anpassning i realtid](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) och skicka uppföljningsfrågor till experterna på [Kaffebrytningstråd](https://adobe.ly/3MyiDHa) i Adobe Target Community!<br>**Datum:** 25 maj 2022 kl. 8 PDT<br>[Information och registrering](https://adobe.ly/3MyiDHa) |
+| [Adobe [!DNL Developers Live]: Handel](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | On demand-videor | _Adobe Developers Live: Handel 2022_ för samman utvecklare och upplevelseskapare med olika bakgrunder och ett enda syfte - för att skapa fantastiska helhetsupplevelser. Den här virtuella konferensen på en dag innehåller viktiga uppdateringar för Commerce och Open Source Developer, tekniska sessioner, möjligheter till nätverkande i communityn med mera. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | On demand-sessioner | Lär dig av cheferna i Adobe, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc. och Gail J. McGovernn, CEO, American Red Cross berättar hur kundupplevelserna är valutan i vår digitala ekonomi.<br>Utforska [on-demand-sessioner](https://business.adobe.com/summit/2022/sessions.html) från Adobe Summit 2022. |
-| [AEM från Headful till Headless (och allt däremellan)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | Se en detaljerad beskrivning av de vanligaste Adobe Experience Manager Sites-implementeringarna med värden Danny Gordon och gästerna Amol Anand, Sachin Mali och Sean Steimer. <br>**Datum:** 21 april 2022 @ 9 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Hur hanterar jag alla dessa målgrupper?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League LIVE | Demystifiera målgruppsstrategi med Audience Manager och CDP i realtid. Host Doug Moore välkomnar Nick Cammuso och Jackie Chevallier i det här Experience League LIVE-evenemanget.<br>**Datum:** 28 april 2022 @ 9 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe Campaign Classic v7 &amp; Campaign v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060) | Frågor och svar - Kaffebrytning | Träffa Scott Segrin, Eric Knee, David Loyd och Peter Mancuso - Adobe Campaign Enterprise Architecture Team i Adobe Campaign Community och få Frågor och svar live.<br>**Datum:** 21 april 2022 @ 8 PDT<br>[Information och registrering](https://adobe.ly/3NB6kuG) |
-| [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Frågor och svar - Kaffebrytning | Jim McTiernan besvarar dina frågor om Adobe Target Recommendations, AB Testing och MVT-personalisering i Adobe Target Community <br>**Datum:** 27 april 2022 @ 8 PDT<br>[Information och registrering](https://adobe.ly/3joCuvU%C2%A0) |
-| [AEM och CIF-ramverket](https://adobe.ly/3O0uXl5) | AEM Gems | Integrera AEM- och CIF-ramverket för att skapa en omfattande och engagerande e-handelsupplevelse <br>**Datum:** 27 april 2022 kl. 8.00 PDT / 17.00 CET / 23.30 IST<br>[Detaljer och registrering](https://adobe.ly/3O0uXl5) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live Webinar | AEM Gems-uppdateringar för 2022 är tillgängliga! AEM Gems är en serie tekniska djupdykningar från Adobe webinar om Adobe Experience Manager, som levereras av Adobe experter. <br>De senaste AEM Gems-arna finns på [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) och [Bygg sajter snabbare med AEM Headless och App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Besök versionsinformationen ofta eller prenumerera på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html) för att hålla koll på AEM Gems och andra Experience League-händelser. |
-| [Upplevelsemakare - Kunskapsutbyte för Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live Webinar | Adobe har nöjet att lansera den första utgåvan av _Upplevelsemakare - Kunskapsutbyte för Adobe Workfront_. <br>Detta kostnadsfria, tre timmar långa event om digital inlärning är helt inriktat på Workfront. Ni kan ställa frågor till experter och kollegor som är vana vid att hantera arbetet på bästa sätt. Oavsett om du är nybörjare på Workfront eller erfaren expert har vi något för alla.<br>**Datum:** onsdag den 13 april kl. 9.00. - kl. 12.00 PDT. [Detaljer och registrering](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe rekommenderar att du registrerar dig även om du inte kan delta, så att du garanteras tillgång till on-demand-inspelningar. |
-| [Adobe Workfront System Admin Essentials: Designa en idealisk användarupplevelse](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live Webinar | Följ Mary Ann Erickson, Customer Success Manager på Adobe Workfront och Steve Enos, Creative Operations Analyst på Liberty Mutual Insurance, för att få reda på hur man skapar en perfekt användarupplevelse. <br>**Datum:** Onsdag 27 april. Tid: 8:00 PDT / 4:00 UK. <br>[Detaljer och registrering](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | On demand-video | [!DNL Developers Live] visar upp de senaste tekniska framstegen och utvecklingsverktygen för design, arbetsflöden för att skapa innehåll, dokumenttjänster och hantering av kundupplevelser i olika branscher. Se keynote-adressen, läs om API:er för Analytics, kunddatalager, öppna Adobe Developer-projekt med mera. |
 
 {style=&quot;table-layout:auto&quot;}
 
