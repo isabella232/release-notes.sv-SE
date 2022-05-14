@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8ddc70389416b26d1cd0c6be5a60c1d34f2cc954
+source-git-commit: c3e59ee55c248878950ccf28a97b778dac69e31a
 workflow-type: tm+mt
-source-wordcount: '4953'
+source-wordcount: '4956'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **13 maj 2022**
+Senast uppdaterad: **14 maj 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -406,6 +406,8 @@ Nyligen publicerade videoevent på Experience League:
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Maj 2022 | [Marketo School Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | Videor | Börja med att lära dig mer om Marketo färdplan. Upptäck sedan hur viktigt det är att tänka på Marketo-instansen som en produkt. Få råd om hur ni kan utnyttja potentialen i anpassade fält för programmedlemmar, tips och tricks för Marketo Engage med mera i den här nyligen publicerade [Marketo School Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) från augusti 2021, nu på Experience League. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Uppdateringar om Core Marketo Engage
 
