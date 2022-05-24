@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4950'
+source-wordcount: '4914'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **14 maj 2022**
+Senast uppdaterad: **24 maj 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ Senast uppdaterad: **14 maj 2022**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Uppdaterat **24 maj**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.ad
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterad **13 maj 2022**
+Uppdaterad **24 maj 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
-| [Adobe Analytics - Experience Makers - The SKompetens Exchange](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | Kunskapsutbyte | Delta i detta kostnadsfria, tre timmar långa digitala event som enbart fokuserar på Adobe Analytics. Ställ frågor live med experter och kollegor som vet hur arbetsytan fungerar bäst.<br>18 maj 2022 kl. 1:30pm-4:30:00 EST<br> [Detaljer och registrering](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign - Customer Success Webinar Series](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Förbättra era kundresor via Adobe Campaign. | Delta i denna Peer2Peer-diskussion med Anja Starun, chef för Engagement Operations över Streamotion&#39;s Kayo, Binge och Flash. Hör direkt från henne om de framgångsrika strategier som hennes team implementerat för att skapa personaliserade kundresor med Adobe Campaign. <br>**Datum:** 26 maj kl. 17.00 EST <br>[Detaljer och registrering](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Push-meddelanden med Journey Optimizer - Hur enkelt kan du konfigurera din mobilapp för push-meddelanden?](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Läs mer om vanliga användningsområden för push-meddelanden med Adobe Journey Optimizer och fördjupa dig i den tekniska informationen om hur du konfigurerar en app för Push från Adobe Experience Platform. <br>**Datum:** 12 maj 2022 kl. 9.30 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Frågor och svar - Kaffebrytning | Gå med i Brent Kostak och Drew Burns i Adobe Target produktteam som kan besvara dina Adobe Target-frågor om delade målgrupper, Real-Time CDP, egna data, kompletta arbetsflöden för personalisering med mera.<br>Titta på den senaste [Webbseminarium om anpassning i realtid](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) och skicka uppföljningsfrågor till experterna på [Kaffebrytningstråd](https://adobe.ly/3MyiDHa) i Adobe Target Community!<br>**Datum:** 25 maj 2022 kl. 8 PDT<br>[Information och registrering](https://adobe.ly/3MyiDHa) |
@@ -348,6 +347,8 @@ Senast uppdaterad: **9 maj 2022**
 Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga meddelanden i alla marknadsföringskanaler, både online och offline. Nu kan ni förutse vad era kunder vill ha med upplevelser som bestäms av deras vanor och önskemål.
 
 ### Senaste produktreleaser för Campaign
+
+**Senaste versionen:** [Campaign Standard version 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (juni 2022)
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html)och [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) versionsinformation.
 
