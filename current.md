@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4914'
+source-wordcount: '4912'
 ht-degree: 7%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ![Banderoll](assets/experience-cloud-banner-3.png)
 
-Som Experience Maker börjar er väg till framgång med [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Hitta ett omfattande bibliotek med självstudiekurser, självstudiekurser, självstudiekurser och kurser för alla nivåer och roller, en online-community med kollegor och expertsupport när du behöver det.
+Som Experience Maker börjar er väg till framgång med [Experience League](https://experienceleague.adobe.com/?lang=en#home). Hitta ett omfattande bibliotek med självstudiekurser, självstudiekurser, självstudiekurser och kurser för alla nivåer och roller, en online-community med kollegor och expertsupport när du behöver det.
 
 Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
@@ -49,7 +49,7 @@ Senast uppdaterad: **24 maj 2022**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience-utkast - självstudiekurser](#blueprints)
 
-Behöver du hjälp? Besök [Adobe Experience League](https://experienceleague.adobe.com/#home) för produktdokumentation och teknisk dokumentation, Adobe-kurser, videokurser, snabba svar, communityinsikter och lärarledd utbildning.
+Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.com/#home) för produktdokumentation och teknisk dokumentation, Adobe-kurser, videokurser, snabba svar, communityinsikter och lärarledd utbildning.
 
 ## ![Ikon](/assets/experience-league.png) [!DNL Experience League] händelser {#events}
 
