@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
+source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
 workflow-type: tm+mt
-source-wordcount: '4912'
+source-wordcount: '4945'
 ht-degree: 7%
 
 ---
@@ -55,13 +55,14 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterad **24 maj 2022**
+Uppdaterad **26 maj 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
+| [Fråga experterna: Grunderna i Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webbinarium | Förstå och använda bästa praxis för datainsamling. <br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Campaign - Customer Success Webinar Series](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Förbättra era kundresor via Adobe Campaign. | Delta i denna Peer2Peer-diskussion med Anja Starun, chef för Engagement Operations över Streamotion&#39;s Kayo, Binge och Flash. Hör direkt från henne om de framgångsrika strategier som hennes team implementerat för att skapa personaliserade kundresor med Adobe Campaign. <br>**Datum:** 26 maj kl. 17.00 EST <br>[Detaljer och registrering](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
-| [Push-meddelanden med Journey Optimizer - Hur enkelt kan du konfigurera din mobilapp för push-meddelanden?](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Läs mer om vanliga användningsområden för push-meddelanden med Adobe Journey Optimizer och fördjupa dig i den tekniska informationen om hur du konfigurerar en app för Push från Adobe Experience Platform. <br>**Datum:** 12 maj 2022 kl. 9.30 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Frågor och svar - Kaffebrytning | Gå med i Brent Kostak och Drew Burns i Adobe Target produktteam som kan besvara dina Adobe Target-frågor om delade målgrupper, Real-Time CDP, egna data, kompletta arbetsflöden för personalisering med mera.<br>Titta på den senaste [Webbseminarium om anpassning i realtid](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) och skicka uppföljningsfrågor till experterna på [Kaffebrytningstråd](https://adobe.ly/3MyiDHa) i Adobe Target Community!<br>**Datum:** 25 maj 2022 kl. 8 PDT<br>[Information och registrering](https://adobe.ly/3MyiDHa) |
+| [Push-meddelanden med Journey Optimizer - Hur enkelt kan du konfigurera din mobilapp för push-meddelanden?](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Läs mer om vanliga användningsområden för push-meddelanden med Adobe Journey Optimizer och fördjupa dig i den tekniska informationen om hur du konfigurerar en app för Push från Adobe Experience Platform. <br>**Datum:** 12 maj 2022 kl. 9.30 PDT<br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe [!DNL Developers Live]: Handel](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | On demand-videor | _Adobe Developers Live: Handel 2022_ för samman utvecklare och upplevelseskapare med olika bakgrunder och ett enda syfte - för att skapa fantastiska helhetsupplevelser. Den här virtuella konferensen på en dag innehåller viktiga uppdateringar för Commerce och Open Source Developer, tekniska sessioner, möjligheter till nätverkande i communityn med mera. |
 | [Marketo School Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | On demand-videor | Läs om hur viktig din Marketo-plan är och hur du undviker dålig planering. Få råd om hur du kan utnyttja potentialen i anpassade fält för programmedlemmar, tips och tricks för Marketo Engage och mycket annat i [!DNL Marketo] Kunskapsutbyte från augusti 2021, nu på Experience League. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | On demand-sessioner | Lär dig av cheferna i Adobe, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc. och Gail J. McGovernn, CEO, American Red Cross berättar hur kundupplevelserna är valutan i vår digitala ekonomi.<br>Utforska [on-demand-sessioner](https://business.adobe.com/summit/2022/sessions.html) från Adobe Summit 2022. |
