@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4945'
+source-wordcount: '5012'
 ht-degree: 7%
 
 ---
@@ -25,9 +25,9 @@ Vill du komma igång? [Ta en fem minuter lång fråga och vinn](https://explorea
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senast uppdaterad: **24 maj 2022**
+Senast uppdaterad: **27 maj 2022**
 
-* [[!DNL Experience League] händelser](#events)
+* [[!DNL Experience League] händelser](#events) (Uppdaterat **27 maj**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterad **26 maj 2022**
+Uppdaterad **27 maj 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
+| [Experience Makers Government Forum](https://adobegovforum.govexec.com/agenda/) | On demand-video | Den 13:e årliga AEMGF den 10 maj var en framgång, med en kombination av virtuella och personliga deltagare. Stordatnings- och gruppsessioner med fokus på temat _Digitala upplevelser som sätter människor i första rummet_. De vanligaste sessionerna _Manjägare: Hur vi tog ner Pablo Escobar_, _The Future of CX_ och _Kreativitetens gyllene ålder och den moderna arbetsplatsen_. |
 | [Fråga experterna: Grunderna i Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webbinarium | Förstå och använda bästa praxis för datainsamling. <br>[Schemalägg och tidigare händelser](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Campaign - Customer Success Webinar Series](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Förbättra era kundresor via Adobe Campaign. | Delta i denna Peer2Peer-diskussion med Anja Starun, chef för Engagement Operations över Streamotion&#39;s Kayo, Binge och Flash. Hör direkt från henne om de framgångsrika strategier som hennes team implementerat för att skapa personaliserade kundresor med Adobe Campaign. <br>**Datum:** 26 maj kl. 17.00 EST <br>[Detaljer och registrering](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Frågor och svar - Kaffebrytning | Gå med i Brent Kostak och Drew Burns i Adobe Target produktteam som kan besvara dina Adobe Target-frågor om delade målgrupper, Real-Time CDP, egna data, kompletta arbetsflöden för personalisering med mera.<br>Titta på den senaste [Webbseminarium om anpassning i realtid](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) och skicka uppföljningsfrågor till experterna på [Kaffebrytningstråd](https://adobe.ly/3MyiDHa) i Adobe Target Community!<br>**Datum:** 25 maj 2022 kl. 8 PDT<br>[Information och registrering](https://adobe.ly/3MyiDHa) |
