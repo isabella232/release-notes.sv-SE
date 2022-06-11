@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8c5b3c3246a9f14e48d77c294143464b1c9e72c0
+source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
 workflow-type: tm+mt
-source-wordcount: '4696'
+source-wordcount: '4684'
 ht-degree: 8%
 
 ---
@@ -218,15 +218,14 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
    * [Dynamic Media Smart Imaging har nu stöd för AVIF-filformat](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - ytterligare förbättra Google Core Web Vital (Störst Contentful Paint) med AVIF som ger 20 % extra storleksminskning jämfört med WebP. Totalt ger AVIF upp till 41 % genomsnittlig storleksminskning över JPEG (i vissa bilder till och med upp till 76 %).
    * Experience Manager Assets Brand Portal kör nu automatiska jobb var tolfte timme för att ta bort alla Brand Portal-resurser som publicerats till Experience Manager. Därför behöver du inte ta bort resurserna i Contribute-mappen manuellt för att mappstorleken ska hållas under tröskelvärdet. Se [Nyheter i Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en).
 
-      _Ny funktion i prerelease channel_
+   _Ny funktion i prerelease channel_
 
    * Experience Manager Assets använder Adobe Sensei AI-funktioner hittills [skilja på färger i en bild och tillämpa skillnader som taggar automatiskt vid förtäring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). Dessa taggar möjliggör förbättrad sökning baserat på bildens färgkomposition. Du kan konfigurera antalet färger, inom intervallet 1 till 40, som taggas i en bild så att du kan söka efter bilder baserade på dessa färger senare.
+
 
 * **Experience Manager Forms as a Cloud Service**
 
    _Nya funktioner i prerelease channel_
-
-   * **Kommunikation - Stöd för API:er för dokumenthantering i Forms as a Cloud Service SDK** -
 
    * **Integrera adaptiv Forms med Microsoft® Power Automate** - Nu kan du konfigurera ett adaptivt formulär så att det kör ett Microsoft® Power Automate Cloud-flöde när du skickar in det. Den konfigurerade adaptiva formen skickar inhämtade data, bilagor och arkivdokument till Power Automate Cloud Flow för bearbetning. Det hjälper er att bygga upp en anpassad datainhämtningsupplevelse och samtidigt utnyttja kraften i Microsoft® Power Automate för att skapa affärslogik kring insamlade data och automatisera kundarbetsflöden.
    * **Guide för att skapa ett adaptivt formulär** - Du kan använda en användarvänlig guide för att snabbt skapa Adaptive Forms. Guiden ger dig en snabb fliknavigering så att du enkelt kan välja förkonfigurerade mallar, format, fält och alternativ för att skicka formulär för att skapa ett anpassat formulär.
