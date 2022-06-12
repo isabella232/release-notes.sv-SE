@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
+source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
 workflow-type: tm+mt
-source-wordcount: '4684'
+source-wordcount: '4679'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **10 juni 2022**
+Senaste uppdatering: **12 juni 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -349,9 +349,10 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Senaste produktreleaser för Campaign
 
-**Senaste versionen:** [Campaign Standard version 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (juni 2022)
-
-Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html)och [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) versionsinformation.
+* Nytt [Campaign version 8.3](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* Nytt [Campaign Standard 22.2-utgåvan](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* Nytt [Kontrollpanelen i maj-utgåvan](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
+* Nytt [självstudiekurser och kurser](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) på Experience League
 
 ### Nytt [!DNL Campaign] självstudiekurser och kurser {#tutorials-campaign}
 
