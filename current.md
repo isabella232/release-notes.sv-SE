@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4684'
-ht-degree: 8%
+source-wordcount: '4804'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **12 juni 2022**
+Senaste uppdatering: **28 juni 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 [Experience League event](https://experienceleague.adobe.com/events/?lang=en) är en bra plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterat **10 juni 2022**
+Uppdaterat **28 juni 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
+| [Utnyttja den djupa dataintelligensen för att öka personaliseringen](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webbinariet Customer Success | Delta i vår Adobe-expert och lär dig hur de avancerade funktionerna i Adobe Analytics gör det möjligt för analytiker och marknadsförare i er organisation att snabba upp djupgående dataanalyser och strukturera vältajmade insikter för att skapa mer personaliserade kundupplevelser över olika kanaler, stunder och köpfaser.<br>**Datum:** 6 juli kl. 17.00 AEST - [Detaljer och registrering](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target - skicklighet för framgång](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Förstå Adobe Target grundläggande begrepp och funktioner för att testa, personalisera och känna igen kraften i AI som förändrar ert varumärke från generiskt till geni.<br>**Datum:** 30 juni och 1 juli - [Detaljer och registrering](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe Campaign, Journey Optimizer - [Den flerkanaliga utmaningen: Anpassning i stor skala](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | Virtuell händelse | Lyssna på Sheryl Kingstone, Research Director på 451 Research, om hur man håller jämna steg med förändringstakten, använder marknadsföringsteknologi som en viktig hjälpfaktor och blir mer datadriven. Vi granskar även viktiga sessioner och tips och tricks som delades under Adobe Summit 2022, där ni får höra från experter om hur ni kan driva personaliseringen i stor skala över olika kanaler.<br>**Datum:** 14 juni - [Detaljer och registrering](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [En titt under huven - Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems - virtuell händelse | Utforska de nya funktionerna som släpptes förra året, en uppdatering av utvecklingen bakom kulisserna och en översikt över resten av 2022. <br>**Datum:** 15 juni -[Detaljer och registrering](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [Hur ni bygger upp förtroende och kommunicerar påverkan för att bygga upp er digitala strategi](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | Masters Roundtable | Delta i en exklusiv och intim konversation där vi diskuterar olika sätt att effektivt kommunicera effekten av er digitala strategi. <br>**Datum:** 21 juni - [Detaljer och registrering](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
@@ -363,9 +365,9 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 | Juni 2022 | [Konfigurera en leveransmall](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/using-delivery-templates/configure-a-delivery-template.html) | Video | Lär dig hur du konfigurerar en mall för en ad hoc-leverans. | Campaign v8 |
 | Juni 2022 | [Skapa återkommande och kontinuerliga e-postleveranser](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/recurring-deliveries.html) | Video | Lär dig hur du konfigurerar en återkommande leverans och en schemaläggningsaktivitet. | Campaign v8 |
 | Juni 2022 | [Konfigurera berikande aktiviteter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/enrichment-activity.html) | Video | Lär dig hur du konfigurerar en berikande aktivitet baserat på information i leveransloggen. | Campaign v8 |
-| Juni 2022 | [Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html) | Video | Lär dig vad SMS är, rollen för SMS-tjänsteleverantören, hur Adobe Campaign ansluter till tjänsteleverantören. Förstå vilken information som skickas genom tjänsteleverantören och vilka tekniska anteckningar som är tillgängliga. | Campaign v8, Campaign Standard, Campaign Classic v7 |
-| Juni 2022 | [Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=en) | Video | Lär dig hur du skapar ett SMPP-konto hos Adobe Campaign, hur du analyserar SMS-leveransresultat och anpassar SR-bearbetningen efter SMPP-leverantörens specifikationer. | Campaign v8, Campaign Classic v7 |
-| Juni 2022 | [Anpassa SMS-anslutningen till SMPP-leverantören](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html) | Video | Lär dig hur du anpassar SMS-anslutningen till din SMPP-leverantör. Finjustera dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS. | Campaign v8, Campaign Classic v7, Campaign Standard |
+| Juni 2022 | [Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=sv) | Video | Lär dig vad SMS är, rollen för SMS-tjänsteleverantören, hur Adobe Campaign ansluter till tjänsteleverantören. Förstå vilken information som skickas genom tjänsteleverantören och vilka tekniska anmärkningar som är tillgängliga. | Campaign v8, Campaign Standard, Campaign Classic v7 |
+| Juni 2022 | [Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=sv?lang=sv) | Video | Lär dig hur du skapar ett SMPP-konto hos Adobe Campaign, hur du analyserar SMS-leveransresultat och anpassar SR-bearbetningen efter SMPP-leverantörens specifikationer. | Campaign v8, Campaign Classic v7 |
+| Juni 2022 | [Anpassa SMS-anslutningen till SMPP-leverantören](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=sv) | Video | Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS. | Campaign v8, Campaign Classic v7, Campaign Standard |
 
 {style=&quot;table-layout:auto&quot;}
 
