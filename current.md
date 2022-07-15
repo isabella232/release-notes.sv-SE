@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
+source-git-commit: 1e283c634ce9af45252e7df5c1b300e244e8196f
 workflow-type: tm+mt
-source-wordcount: '4276'
+source-wordcount: '4369'
 ht-degree: 10%
 
 ---
@@ -164,7 +164,7 @@ Nya videor, självstudiekurser eller kurser publicerade för CJA.
 
 Senaste uppdatering: **23 mars 2022**
 
-* [!DNL Streaming Media Analytics][Versionsinformation om ](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)
+* [!DNL Streaming Media Analytics] [versionsinformation](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ## ![Ikonen](/assets/audience-manager.png) Audience Manager {#aam}
@@ -431,21 +431,24 @@ Last updated: **October 27, 2021**
 
 ### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Senast uppdaterad: **8 juni 2022** för 31 maj-utgåvan
+Senast uppdaterad: **14 juli 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Anpassade rapporter | (Betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). |
+| Anpassade rapporter | (31 maj-utgåvan; betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). |
+| [!UICONTROL Inventory] | (29 juni) Den nya [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller samma funktioner för dataanpassning som [!UICONTROL Campaigns] vyer, inklusive ytterligare filter, kolumnanpassning och möjlighet att spara anpassade vyer, kolumnsortering och datavisualisering (diagram). Du kan öppna en kommandomeny i varje rad genom att klicka på [!UICONTROL …] efter avtalsnamnet. |
+| [!DNL Inventory Inspector] | (29 juni) [!UICONTROL Inventory] placeringsfliken [!UICONTROL Inspector] inkluderar nu anpassningsbara datavisualiseringskartor och utökade prestandamått, som [!UICONTROL Viewability Rate], [!UICONTROL Clicks]och [!UICONTROL Yesterday’s CPM]. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **8 juni 2022** för 11 juni-versionen
+Senast uppdaterad: **14 juli 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Insights] | Analysen av Impression Share Lost är nu tillgänglig igen som en betafunktion. |
+| [!UICONTROL Insights] | (11 juni) Analysen av förlust av Impression Share (Impression Share Lost) är nu tillgänglig igen som en betafunktion. |
+| [!DNL Advanced Campaign Management] | (20 juni) ([!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) Nu kan du skapa dynamiska responsiva sökannonser med hjälp av en sökmotorspecifik annonsmall som baseras på innehållet i ert lager, från [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]. |
 
 {style=&quot;table-layout:auto&quot;}
 
