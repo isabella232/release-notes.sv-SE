@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42023ff20f7b6811a608b640866abb9f6d7ccc18
+source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
 workflow-type: tm+mt
 source-wordcount: '5220'
 ht-degree: 8%
@@ -304,10 +304,10 @@ Se följande länkar för versionsinformation om Adobe Commerce:
 | Juli 2022 | [Användarhandbok för Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | Produktdokumentation | Lär dig mer om funktionerna i Page Builder, inklusive en genomgång i tre delar för att skapa grundläggande innehållskomponenter. Handboken är avsedd för administratörer. Det förutsätter en grundläggande förståelse för Adobe Commerce grundläggande konfiguration och funktioner. |
 | Juli 2022 | [Handbok för B2B for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | Administrationsguide | Få detaljerad information om hur du installerar och aktiverar den här modulen, inklusive konfiguration och hantering av dess funktioner. |
 | Juli 2022 | [B2B för Adobe Commerce - självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | Video (flera) | Läs mer om [!UICONTROL Companies] i Adobe Commerce. Du kan hantera dina företagskonton och eventuella väntande begäranden om godkännande visas högst upp i listan. |
-| Juli 2022 | [Använda verktyget Korrigera kvalitet](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | Typ | Läs mer om [!UICONTROL Quality Patch Tool], som är ett kommandoradsverktyg som ger högklassiga patchar för Adobe Commerce och Magento Open Source. |
+| Juli 2022 | [Använda verktyget Korrigera kvalitet](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | Video | Läs mer om [!UICONTROL Quality Patch Tool], som är ett kommandoradsverktyg som ger högklassiga patchar för Adobe Commerce och Magento Open Source. |
 | Juli 2022 | [Kontrollpanelen för analysverktyget för hela webbplatsen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | Video | Läs mer om analysverktyget för hela webbplatsen. Den här funktionen är ett proaktivt självbetjäningsverktyg och en central lagringsplats som innehåller detaljerade systeminsikter och rekommendationer för att säkerställa säkerheten och användbarheten för din Adobe Commerce-installation. |
 | Juli 2022 | [Använd betaltjänster](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | Video | Lär dig använda [!UICONTROL Payment Services] för att minska driftskostnaderna, öka intäkterna. |
-| Juli 2022 | [Hantera orderstatus](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | Typ | Lär dig hur du kontrollerar orderstatus och dess detaljer och hur du ändrar status för en order, om det behövs. |
+| Juli 2022 | [Hantera orderstatus](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | Video | Lär dig hur du kontrollerar orderstatus och dess detaljer och hur du ändrar status för en order, om det behövs. |
 | Juli 2022 | [Marknadsföringsverktyg](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | Video (flera) | Lär dig hur du skapar en katalogprisregel, kundprisregler, hanterar relaterade produktregler, direktsökning med mera. |
 | Juli 2022 | [Innovationer i innehållspersonalisering som ger affärsvärde](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | Video | Se presentationer av SKill Builder och lär dig om de senaste innovationerna i Adobe Content Solution som hjälper er att demokratisera framtagningen av innehåll, göra flerkanalsleverans till en lätt match och skala personaliseringen. |
 | Juli 2022 | [Kataloghantering](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | Videor | Läs om kataloghantering i Adobe Commerce. skapa en kategori, hantera produkter i en kategori, hantera lager och mycket annat. |
