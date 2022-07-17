@@ -316,7 +316,7 @@ Se följande länkar för versionsinformation om Adobe Commerce:
 
 ## ![Ikon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Senast uppdaterad: **7 juni 2022**
+Senast uppdaterad: **30 juni 2022**
 
 * Information om förhandsversioner finns i [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * Aktuell information finns i [Versionsinformation för Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
