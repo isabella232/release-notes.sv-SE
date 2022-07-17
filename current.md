@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
+source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
 workflow-type: tm+mt
 source-wordcount: '5220'
 ht-degree: 8%
@@ -53,11 +53,11 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe! Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad till juli 2022.
 
-Uppdaterat **14 juli 2022**
+Uppdaterat **17 juli 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
-| [Fråga experterna: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | I det sista av de tre sessionerna om datainsamling för Adobe Experience Cloud kommer våra experter att ge Adobe en djupdykning i avancerade datainsamlingsfunktioner, inklusive funktioner som datainsamling. I slutet av sessionen kommer deltagarna att känna sig säkra på de senaste och kraftfullaste funktionerna för att samla in data från digitala upplevelser <br>**Datum:** 21 juli kl. 21 PST - [Detaljer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Kommande och tidigare avsnitt](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Fråga experterna: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | I det sista av de tre sessionerna om datainsamling för Adobe Experience Cloud kommer våra experter att ge Adobe en djupdykning i avancerade datainsamlingsfunktioner, inklusive funktioner som datainsamling. I slutet av sessionen kommer deltagarna att känna sig säkra på de senaste och kraftfullaste funktionerna för att samla in data från digitala upplevelser <br>**Datum:** 21 juli kl. 9 PST - [Detaljer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Kommande och tidigare avsnitt](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
