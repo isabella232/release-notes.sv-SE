@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
+source-git-commit: 609676006717d61512be133a65bfac44a15c8651
 workflow-type: tm+mt
-source-wordcount: '5220'
+source-wordcount: '5214'
 ht-degree: 8%
 
 ---
@@ -57,11 +57,11 @@ Uppdaterat **17 juli 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
-| [Fråga experterna: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | I det sista av de tre sessionerna om datainsamling för Adobe Experience Cloud kommer våra experter att ge Adobe en djupdykning i avancerade datainsamlingsfunktioner, inklusive funktioner som datainsamling. I slutet av sessionen kommer deltagarna att känna sig säkra på de senaste och kraftfullaste funktionerna för att samla in data från digitala upplevelser <br>**Datum:** 21 juli kl. 9 PST - [Detaljer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Kommande och tidigare avsnitt](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Fråga experterna: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | I det sista av de tre sessionerna om datainsamling för Adobe Experience Cloud kommer våra experter att ge Adobe en djupdykning i avancerade datainsamlingsfunktioner, inklusive funktioner som datainsamling. I slutet av sessionen kommer deltagarna att känna sig säkra på de senaste och kraftfullaste funktionerna för att samla in data från digitala upplevelser <br>**Datum:** 21 juli kl. 9 PST - [Detaljer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
-Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad.
+Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad om kommande evenemang och tidigare avsnitt.
 
 ## ![Ikon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
