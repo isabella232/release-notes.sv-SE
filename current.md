@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 609676006717d61512be133a65bfac44a15c8651
+source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
 workflow-type: tm+mt
-source-wordcount: '5214'
+source-wordcount: '5206'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **15 juli 2022**
+Senaste uppdatering: **18 juli 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -336,8 +336,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 ### Senaste produktreleaser för Campaign
 
-* [Campaign version 8.3](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
-* [Campaign Standard 22.2-utgåvan](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [Campaign version 7.3](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
 * [Juniversion av kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 * [självstudiekurser och kurser](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) på Experience League
 
@@ -377,7 +376,7 @@ Med Journey Optimizer kan ni hantera schemalagda flerkanalskampanjer och en-till
 
 ### Senaste produktreleaser för Journey Optimizer
 
-Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Versionsinformation för Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Versionsinformation för Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
 ### Nya Journey Optimizer självstudiekurser och kurser {#tutorials-ajo}
 
