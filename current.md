@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
+source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
 workflow-type: tm+mt
 source-wordcount: '5206'
 ht-degree: 8%
@@ -192,11 +192,11 @@ Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experie
 
 * [Video om versionsöversikt, maj 2022](https://video.tv.adobe.com/v/343321/?quality=12) för en sammanfattning av funktioner som lagts till i version 2022.5.0 (maj 2022).
 * [Video om versionsöversikt, april 2022](https://video.tv.adobe.com/v/342612?quality=12)
-* [Video om versionsöversikt, mars 2022](https://video.tv.adobe.com/v/341465).
-* [Video om versionsöversikt, januari 2022](https://video.tv.adobe.com/v/340120).
-* [Video om versionsöversikt, december 2021](https://video.tv.adobe.com/v/339278).
-* [Video om versionsöversikt, oktober 2021](https://video.tv.adobe.com/v/338253).
-* [Video om versionsöversikt, september 2021](https://video.tv.adobe.com/v/337381).
+* [Video om versionsöversikt, mars 2022](https://video.tv.adobe.com/v/341465)
+* [Video om versionsöversikt, januari 2022](https://video.tv.adobe.com/v/340120)
+* [Video om versionsöversikt, december 2021](https://video.tv.adobe.com/v/339278)
+* [Video om versionsöversikt, oktober 2021](https://video.tv.adobe.com/v/338253)
+* [Video om versionsöversikt, september 2021](https://video.tv.adobe.com/v/337381)
 
 ### Experience Manager [!DNL Sites] som [!DNL Cloud Service]
 
