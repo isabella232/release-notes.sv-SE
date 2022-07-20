@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
+source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
 workflow-type: tm+mt
-source-wordcount: '5519'
+source-wordcount: '5522'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **18 juli 2022**
+Senaste uppdatering: **19 juli 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,8 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 
 ### Etableringsuppdatering
 
+Uppdaterat: **19 juli 2022**
+
 >[!IMPORTANT]
 >
 >Läs följande meddelande om etablering av Experience Cloud.
@@ -115,7 +117,7 @@ Mer information om de nya funktionerna finns på Experience League:
 * [Besökar-ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Integritet](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
 
-Version: **11 juli 2022**
+Funktionsuppdatering: **11 juli 2022**
 
 | Funktion | Beskrivning |
 | ------- | ------- |
