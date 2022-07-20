@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5524'
+source-wordcount: '5525'
 ht-degree: 8%
 
 ---
@@ -75,8 +75,6 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 
 ### Etableringsuppdatering
 
-Uppdaterat: **19 juli 2022**
-
 >[!IMPORTANT]
 >
 >Läs följande meddelande om etablering av Experience Cloud.
@@ -85,9 +83,11 @@ Adobe uppdaterar sin etablering för att ge alla Experience Cloud-kunder tillgå
 
 Adobe Experience Platform [!UICONTROL Data Collection] inkluderar [taggar](https://experienceleague.adobe.com/docs/tags.html?lang=en) för förenklad universell tagghantering och erbjuder en tillförlitlig, robust och komplett infrastruktur för strömmande data. Taggar förenklar datainsamlingen för kundupplevelsen och effektiviserar leveransen av upplevelser.
 
-Med den här uppdateringen kan administratörer se ändringar eller tillägg i Admin Console:
+**Förändringar i Admin Console**
 
-1. Adobe Experience Platform produktkort i Admin Console kommer att innehålla:
+Administratörer kan se ändringar eller tillägg i Admin Console enligt följande:
+
+* Adobe Experience Platform produktkort i Admin Console kommer att innehålla:
 
    * Platser
    * Säkerhet
@@ -102,7 +102,7 @@ Med den här uppdateringen kan administratörer se ändringar eller tillägg i A
 
    För organisationer som för närvarande använder Experience Platform _Platser_ kommer nu att konsolideras i Experience Platform-kortet.
 
-1. Adobe Experience Platform Data Collection (tidigare Launch) och Privacy (Privacy) kommer att visas som separata produktkort jämfört med andra Experience Platform-funktioner.
+* Adobe Experience Platform Data Collection (tidigare Launch) och Privacy (Privacy) kommer att visas som separata produktkort jämfört med andra Experience Platform-funktioner.
 
 Mer information om de nya funktionerna finns på Experience League:
 
