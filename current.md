@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5206'
+source-wordcount: '5519'
 ht-degree: 8%
 
 ---
@@ -72,6 +72,48 @@ Den senaste versionsinformationen finns i Systemstatus för Adobe [versionsinfor
 ## ![Ikon](/assets/ec_appicon_24.png) Experience Cloud - centrala gränssnittskomponenter och administration {#ecloud}
 
 Experience Cloud [komponenter för centralt användargränssnitt](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) innehåller funktioner som finns på startsidan och den beständiga produkthuvudet. Bland dessa funktioner finns inställningar för användarprofiler, inställningar och sökning. Du kan även hitta hjälp om användar- och produkthantering, kundattribut och Experience Cloud-målgrupper.
+
+### Etableringsuppdatering
+
+>[!IMPORTANT]
+>
+>Läs följande meddelande om etablering av Experience Cloud.
+
+Adobe uppdaterar sin etablering för att ge alla Experience Cloud-kunder tillgång till grundläggande funktioner som underlättar samverkan mellan vissa Experience Cloud-produkter. Adobe Experience Platform läggs till i Experience Cloud-organisationer med [!UICONTROL Data Collection] som en inkluderad tjänst.
+
+Adobe Experience Platform [!UICONTROL Data Collection] inkluderar [taggar](https://experienceleague.adobe.com/docs/tags.html?lang=en) för förenklad universell tagghantering och erbjuder en tillförlitlig, robust och komplett infrastruktur för strömmande data. Taggar förenklar datainsamlingen för kundupplevelsen och effektiviserar leveransen av upplevelser.
+
+Med den här uppdateringen kan administratörer se ändringar eller tillägg i Admin Console:
+
+1. Adobe Experience Platform produktkort i Admin Console kommer att innehålla:
+
+   * Platser
+   * Säkerhet
+   * Identitetsnamnutrymme
+   * Sandlådor
+   * Experience Data Model
+   * Scheman
+   * Datastreams
+   * Besökar-ID
+
+   För organisationer som inte använder Experience Platform ser du nu _Adobe Experience Platform_ i Admin Console, inklusive de funktioner som anges ovan.
+
+   För organisationer som för närvarande använder Experience Platform _Platser_ kommer nu att konsolideras i Experience Platform-kortet.
+
+1. Adobe Experience Platform Data Collection (tidigare Launch) och Privacy (Privacy) kommer att visas som separata produktkort jämfört med andra Experience Platform-funktioner.
+
+Mer information om de nya funktionerna finns på Experience League:
+
+* [Datainsamling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Platser](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
+* [Säkerhet](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Identitetsnamnutrymme](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
+* [Sandlådor](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=sv)
+* [Scheman](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [Besökar-ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Integritet](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
 
 Version: **11 juli 2022**
 
