@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
+source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
 workflow-type: tm+mt
-source-wordcount: '5622'
+source-wordcount: '5650'
 ht-degree: 8%
 
 ---
@@ -475,6 +475,10 @@ Nya videor, självstudiekurser eller kurser som publicerats för Adobe Marketo.
 ## ![Ikon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] är ett enhetligt program för att utbyta idéer, skapa innehåll, hantera komplexa processer och göra sitt bästa.
+
+**Workfront självstudiekurs - startsida**
+
+**27 juli 2022**: Besök Workfront nya [självstudiekurs på Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) för alla utbildningsvideor och självstudiekurser och artiklar.
 
 Se [[!DNL Workfront] releaser](https://one.workfront.com/s/product-releases) för att få en sammanfattning av den senaste informationen om alla produkter.
 
