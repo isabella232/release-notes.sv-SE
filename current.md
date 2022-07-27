@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
+source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
 workflow-type: tm+mt
-source-wordcount: '5523'
+source-wordcount: '5622'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **19 juli 2022**
+Senaste uppdatering: **27 juli 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,24 +500,23 @@ Last updated: **October 27, 2021**
 
 ### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Senast uppdaterad: **14 juli 2022**
+Senast uppdaterad: **27 juli 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Anpassade rapporter | (31 maj-utgåvan; betafunktion) Advertising Cloud DSP kan nu importera förstahandssegment som består av autentiserade signaler som är byggda inom en kunddataplattform (CDP). |
-| [!UICONTROL Inventory] | (29 juni) Den nya [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller samma funktioner för dataanpassning som [!UICONTROL Campaigns] vyer, inklusive ytterligare filter, kolumnanpassning och möjlighet att spara anpassade vyer, kolumnsortering och datavisualisering (diagram). Du kan öppna en kommandomeny i varje rad genom att klicka på ellipserna (..) efter avtalsnamnet. |
-| [!UICONTROL Inventory Inspector] | (29 juni) [!UICONTROL Inventory] placeringsfliken [!UICONTROL Inspector] inkluderar nu anpassningsbara datavisualiseringskartor och utökade prestandamått, som [!UICONTROL Viewability Rate], [!UICONTROL Clicks]och [!UICONTROL Yesterday’s CPM]. |
+| [!UICONTROL Inventory] | (27 juli-versionen) [!UICONTROL Auction Insights] är ett nytt felsökningsverktyg som gör att du kan analysera avtalssammansättningen för både garanterade och icke-garanterade privata avtal. Med datavisualiseringar visar det här verktyget trenden och relativa proportioner för värden som tagits emot för attribut för nyckelauktioner inom en viss tidsperiod. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **14 juli 2022**
+Senast uppdaterad: **27 juli 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Insights] | (11 juni) Analysen av förlust av Impression Share (Impression Share Lost) är nu tillgänglig igen som en betafunktion. |
-| [!DNL Advanced Campaign Management] | (20 juni) ([!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) Nu kan du skapa dynamiska responsiva sökannonser med hjälp av en sökmotorspecifik annonsmall som baseras på innehållet i ert lager, från [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]. |
+| [!UICONTROL Campaigns] | (Opt-in beta feature for all publishers; 16 juli) Du kan nu skapa och hantera [!DNL Google Ads] max antal prestandakampanjer, inklusive att manuellt skapa resursgrupper och överföra resurser. Länkar till [!DNL Google Merchant Center] produktflöden stöds inte.<br><br>När du väl har valt betaversionen kan du skapa kampanjer med [!UICONTROL Campaign Type] &quot;[!UICONTROL Performance Max]&quot; och konfigurera resursgrupper i kampanjinställningarna. Du kan även visa dina befintliga maximala prestandakampanjer, med prestandadata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på kampanjnivå finns även i rapporter och i Adobe Analytics (för annonsörer med en [!DNL Analytics] integration).<br><br>Om du vill anmäla dig till betaversionen kontaktar du [!DNL Adobe] kontoteam. |
+|  | [!DNL Google Ads] inte längre tillhandahåller prestandadata på annonsnivå för standardshoppingkampanjer, dynamiska sökannonser eller praktik. |
+| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (16 juli-versionen) ([!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) Följande support finns nu för responsiva sökannonser:<ul><li>The [!UICONTROL Ads] visa nu förhandsvisningar av responsiva sökannonser.</li><li> (Sedan 20 juni) Du kan nu skapa dynamiska responsiva sökannonser med hjälp av en sökmotorspecifik annonsmall som baseras på innehållet i ditt lager från [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>The [!UICONTROL Ad Variation Report] innehåller två nya anpassade kolumner: &quot;[!UICONTROL Creative Titles],&quot; som är en kommaavgränsad lista över annonsens rubrikrader, och &quot;[!UICONTROL Descriptions],&quot; som är en kommaavgränsad lista över annonsens beskrivningsrader.</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}
 
