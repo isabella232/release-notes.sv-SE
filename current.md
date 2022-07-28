@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5690'
+source-wordcount: '5786'
 ht-degree: 8%
 
 ---
@@ -53,10 +53,11 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe! Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad till juli 2022.
 
-Uppdaterat **17 juli 2022**
+Uppdaterat **28 juli 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Community Q&amp;A Coffee Break | Vi kommer att bli sällskap av Adobe Premier Support Business Consultant Rachel Booth, även `@rbooth115`. Hon loggas in på Adobe Target Community för att chatta direkt med dig på [den här tråden](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) om dina frågor som rör hennes expertområden (personalisering, optimering, integrering). <br>**Datum:** onsdag den 3 augusti kl. 8.00 PDT - kl. 9.00 - [Detaljer och registrering](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [Fråga experterna: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | I det sista av de tre sessionerna om datainsamling för Adobe Experience Cloud kommer våra experter att ge Adobe en djupdykning i avancerade datainsamlingsfunktioner, inklusive funktioner som datainsamling. I slutet av sessionen kommer deltagarna att känna sig säkra på de senaste och kraftfullaste funktionerna för att samla in data från digitala upplevelser <br>**Datum:** 21 juli kl. 9 PDT - [Detaljer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
