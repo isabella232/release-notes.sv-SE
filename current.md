@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6290'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **27 juli 2022**
+Senaste uppdatering: **11 augusti 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Senaste uppdatering: **27 juli 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**Uppdaterad 27 juli**)
-* [[!DNL Adobe Workfront]](#workfront) (**Uppdaterad 27 juli**)
+* [[!DNL Adobe Workfront]](#workfront) (**Uppdaterad 11 augusti**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -478,9 +478,30 @@ Nya videor, självstudiekurser eller kurser som publicerats för Adobe Marketo.
 
 Adobe [!DNL Workfront] är ett enhetligt program för att utbyta idéer, skapa innehåll, hantera komplexa processer och göra sitt bästa.
 
-**Workfront självstudiekurs - startsida**
+### Nya Adobe Workfront-kurser och självstudiekurser {#tutorials-workfront}
 
-**27 juli 2022**: Besök Workfront nya [självstudiekurs på Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) för alla utbildningsvideor och självstudiekurser och artiklar.
+Ny Workfront-kurs och självstudiekurser på Experience League.
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| Augusti 2022 | [Workfront självstudiekurser](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | Självstudiekurs - startsida | Besök Workfront nya självstudiekurser på Experience League. |
+| Augusti 2022 | [Kom igång med Workfront för systemadministratörer](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | Kurs | Lär dig de första stegen i hur du konfigurerar användare och optimerar användarupplevelsen med systeminställningar. |
+| Augusti 2022 | [Mer information om systeminställningar för Workfront-administratörer](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Kurs | Läs mer om systeminställningar för att förbättra användarupplevelsen, inklusive användarorganisation, anpassade formulär, godkännandeprocesser och milstolpar samt layoutmallar. |
+| Augusti 2022 | [Kom igång med Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Kurs | Starta din Workfront-resa genom att lära dig skapa och planera projekt. Workfront rekommenderar att du håller det enkelt. |
+| Augusti 2022 | [Hantera och stänga ett projekt](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Kurs | Nu när du har lärt dig att skapa och planera projekt kan vi lära oss att hantera och stänga dem. |
+| Augusti 2022 | [Mer kunskap om hur du hanterar arbete som en planerare ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Kurs | När du lärt dig grunderna i att skapa, planera och hantera projekt finns det några andra saker du bör känna till för att få ut så mycket som möjligt av Workfront. |
+| Augusti 2022 | [Kom igång med Workfront för arbetare](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Kurs | Kursen är avsedd för användare med en arbetslicens i Adobe Workfront som tar emot arbete eller förfrågningar och samarbetar med team i projekt och dokument. |
+| Augusti 2022 | [Adobe Workfront for Collaborators](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Kurs | Lär dig hur du använder en licens för granskning eller begäran för att enkelt begära, granska och samarbeta om uppgifter, dokument och korrektur i den nya Workfront-upplevelsen. |
+| Augusti 2022 | [Skapa och hantera anpassade formulär](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Kurs | Samla in organisationens unika information genom att skapa anpassade fält i systemet. Lär dig skapa, dela och bifoga anpassade formulär i Workfront. |
+| Augusti 2022 | [Workfront Proof - administration och installation](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | Kurs | Lär dig justera korrekturinställningar, anpassa åtgärder och rapporter och konfigurera korrekturarbetsflöden. |
+| Augusti 2022 | [Workfront-korrektur - ladda upp korrektur](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | Kurs | Lär dig ladda upp korrektur för granskning och godkännande. |
+| Augusti 2022 | [Workfront Proof - granska och godkänn material](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | Kurs | Lär dig använda Workfront Proof som granskare eller godkännare. |
+| Augusti 2022 | [Grundläggande rapporteringselement](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | Kurs | Rapportelement är de filter, vyer och grupperingar som finns i alla listrapporter i Workfront. Om du lär dig mer om dessa kan du skapa anpassade rapporter och kalendrar. |
+| Augusti 2022 | [Skapa en anpassad kalender](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | Kurs | Med en anpassad kalender kan du visa datum och information direkt från projekt, uppgifter och utgåvor i ett kalenderformat. |
+| Augusti 2022 | [Skapa anpassade rapporter och kontrollpaneler](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | Kurs | Rapporterna är fönstren i era data. Lär dig hur du skapar tre olika typer av rapporter i Workfront och använder dem i kontrollpaneler. |
+| Augusti 2022 | [Skapa mellanliggande filter](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | Kurs | Få en bättre förståelse för jokertecken, ELLER filter och textläge. Öppna inbyggda projekt-, uppgifts- och problemfilter och få reda på vad som faktiskt pågår. |
+
+{style=&quot;table-layout:auto&quot;}
 
 Se [[!DNL Workfront] releaser](https://one.workfront.com/s/product-releases) för att få en sammanfattning av den senaste informationen om alla produkter.
 
