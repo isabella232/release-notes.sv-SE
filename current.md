@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
+source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
 workflow-type: tm+mt
-source-wordcount: '6290'
+source-wordcount: '5929'
 ht-degree: 8%
 
 ---
@@ -53,12 +53,12 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe! Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad till juli 2022.
 
-Uppdaterat **28 juli 2022**
+Uppdaterat **11 augusti 2022**
 
 | Händelse | Typ | Beskrivning |
 | -----------|---------- | ----|
-| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Community Q&amp;A Coffee Break | Vi kommer att bli sällskap av Adobe Premier Support Business Consultant Rachel Booth, även `@rbooth115`. Hon loggas in på Adobe Target Community för att chatta direkt med dig på [den här tråden](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) om dina frågor som rör hennes expertområden (personalisering, optimering, integrering). <br>**Datum:** onsdag den 3 augusti kl. 8.00 PDT - kl. 9.00 - [Detaljer och registrering](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [Fråga experterna: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | I det sista av de tre sessionerna om datainsamling för Adobe Experience Cloud kommer våra experter att ge Adobe en djupdykning i avancerade datainsamlingsfunktioner, inklusive funktioner som datainsamling. I slutet av sessionen kommer deltagarna att känna sig säkra på de senaste och kraftfullaste funktionerna för att samla in data från digitala upplevelser <br>**Datum:** 21 juli kl. 9 PDT - [Detaljer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) | Webbinarium | _För framtidens framgångar: Datakvalitet och användning_ - Gå med i Adobe Analytics Champions Frederik Werner och Sarah Owen på vårt webbseminarium och lär dig hur du kan bygga in datakvalitet i alla aspekter av analyser och skapa en gemensam kultur kring detta.<p>**Datum:** 25 augusti kl. 11.00 ET - [Detaljer och registrering](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
+| [Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) | Webbinarium | Ett kostnadsfritt event för Experience Makers med huvudtalare av Sara Blakely, Peyton Manning och Eli Manning.<p>**Datum:** 13-14 september - [Detaljer och registrering](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,45 +78,7 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 
 >[!IMPORTANT]
 >
->Läs följande meddelande om etablering av Experience Cloud.
-
-Adobe uppdaterar sin etablering för att ge alla Experience Cloud-kunder tillgång till grundläggande funktioner som underlättar samverkan mellan vissa Experience Cloud-produkter. Adobe Experience Platform läggs till i Experience Cloud-organisationer med [!UICONTROL Data Collection] som en inkluderad tjänst.
-
-Adobe Experience Platform [!UICONTROL Data Collection] inkluderar [taggar](https://experienceleague.adobe.com/docs/tags.html?lang=en) för förenklad universell tagghantering och erbjuder en tillförlitlig, robust och komplett infrastruktur för strömmande data. Taggar förenklar datainsamlingen för kundupplevelsen och effektiviserar leveransen av upplevelser.
-
-**Förändringar i Admin Console**
-
-Administratörer kan se ändringar eller tillägg i Admin Console enligt följande:
-
-* Adobe Experience Platform produktkort i Admin Console kommer att innehålla:
-
-   * Platser
-   * Säkerhet
-   * Identitetsnamnutrymme
-   * Sandlådor
-   * Experience Data Model
-   * Scheman
-   * Datastreams
-   * Besökar-ID
-
-   För organisationer som inte använder Experience Platform ser du nu _Adobe Experience Platform_ i Admin Console, inklusive de funktioner som anges ovan.
-
-   För organisationer som för närvarande använder Experience Platform _Platser_ kommer nu att konsolideras i Experience Platform-kortet.
-
-* Adobe Experience Platform Data Collection (tidigare Launch) och Privacy (Privacy) kommer att visas som separata produktkort jämfört med andra Experience Platform-funktioner.
-
-Mer information om de nya funktionerna finns på Experience League:
-
-* [Datainsamling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
-* [Platser](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv)
-* [Säkerhet](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
-* [Identitetsnamnutrymme](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
-* [Sandlådor](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
-* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=sv)
-* [Scheman](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
-* [Besökar-ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
-* [Integritet](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
+>Administratörer, missa inte detta [viktigt meddelande](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en#july---2022) om etablering av Experience Cloud (publicerat i juli 2022).
 
 ### Funktionsuppdatering
 
