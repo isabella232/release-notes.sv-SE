@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
+source-git-commit: 141c070586c42f697e31f9741076e7e76caa30c2
 workflow-type: tm+mt
 source-wordcount: '5929'
 ht-degree: 8%
@@ -347,7 +347,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 * [Campaign version 7.3](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
 * [Juniversion av kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-* [självstudiekurser och kurser](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) på Experience League
+* [Tutorials och kurser](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) på Experience League
 
 ### Nytt [!DNL Campaign] självstudiekurser och kurser {#tutorials-campaign}
 
@@ -357,7 +357,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Juli 2022 | [Kontrollpanelen för hybridvärdmodeller](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html) | Video | Läs mer om hur du aktiverar kontrollpanelen för hybridvärdmodeller av Adobe Campaign, får åtkomst till kontrollpanelen och låser upp nyckelfunktioner. | Kontrollpanelen |
 | Juli 2022 | [Bildskärmens genomströmning och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv) | Video | Lär dig hur du övervakar leveransgenomströmningar och fördröjningar för transaktionsmeddelanden i kampanjinstansen. | Kontrollpanelen |
-| Juli 2022 | [Övervaka arbetsflöden för att optimera resursanvändningen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=sv) | Video | Lär dig hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen. | Kontrollpanelen |
+| Juli 2022 | [Övervaka arbetsflöden för att optimera resursanvändning](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=sv) | Video | Lär dig hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen. | Kontrollpanelen |
 | Juli 2022 | [Utveckla och anpassa datamodeller i Adobe Campaign Classic](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en) | Video (Kunskapsbyggarhändelser) | Delta i denna session med vår Campaign-utbildare för att lära dig hur du utvecklar ett dataschema inuti en datamodell i Campaign Classic. | Campaign Classic v7 |
 | Juli 2022 | [Bästa metoder och strategier för att leverera resultat](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html) | Video | Lär dig hur ni minimerar det oändliga antal timmar som läggs på planering och produktion av era e-postkampanjer. | Campaign Classic v7 |
 | Juli 2022 | [Utjämna er flerkanalsmarknadsföring med Adobe Campaign Classic](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en) | Video | Titta på det här webbinariet som fokuserar på arbetsflöden, automatisering, personalisering och mätning för Adobe Campaign Classic-kunder. | Campaign Classic v7 |
