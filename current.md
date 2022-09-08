@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+source-git-commit: b463f30f9d36a0047933ce500d81a8f123d48131
 workflow-type: tm+mt
 source-wordcount: '5105'
 ht-degree: 5%
@@ -58,7 +58,7 @@ Uppdaterat **7 september 2022**
 | Produkt-/händelsenamn | Typ | Beskrivning |
 | -----------|---------- | ----|
 | **[!DNL Adobe Analytics]** | Webbinarium | _Upplevelsemakare - kunskapsutbyte_ - Följ oss till Adobe [!DNL Analytics] utgåva, där experterna ger dig insidescoop på Adobe [!DNL Analytics]. <p>**Datum:** 8 september kl. 9.00 PT - [Detaljer och registrering](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
-| **[!DNL Adobe Workfront]** | Workshop | Letar efter en möjlighet att få kontakt med andra kunder och diskutera [!DNL Workfront] funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen.<p>>**Datum:** 12 september kl. 7.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | Letar efter en möjlighet att få kontakt med andra kunder och diskutera [!DNL Workfront] funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen.<p>**Datum:** 12 september kl. 7.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | Webbinarium | _Experience Makers Live_ - Ett kostnadsfritt evenemang med huvudtalare av Sara Blakely, Peyton Manning och Eli Manning.<p>**Datum:** 13-14 september - [Detaljer och registrering](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | Workshop | Diagnostisera arbetsflöden - Delta i Customer Success Team för en livediskussion och genomgång av arbetsflöden för diagram - från inmatning till färdig produkt - och förstå hur ni kan sätta en stabil grund för effektiva arbetsrutiner. <p>**Datum:** 20 september - [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** (Klassisk och Standard) | Webbinarium | Semestersäsongen, en högsäsong och den livligaste tiden på året för marknadsförare i flera kanaler, är här. Planeringen borde vara på god väg. Detta [!DNL Adobe Campaign] Insider-sessioner behandlar ämnen som hjälper dig med e-postleverans, [!DNL Adobe Campaign] prestandaoptimering samt arbetsflöde och leveransmetoder för att säkerställa att instansen är i form för toppaktivitet.<p>**Datum:** 15 september kl. 8.00 PT [Detaljer och registrering](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
