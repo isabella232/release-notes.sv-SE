@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
+source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
 workflow-type: tm+mt
-source-wordcount: '4147'
-ht-degree: 7%
+source-wordcount: '5105'
+ht-degree: 5%
 
 ---
 
@@ -23,9 +23,9 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **23 augusti 2022**
+Senaste uppdatering: **7 september 2022**
 
-* [[!DNL Experience League] händelser](#events)
+* [[!DNL Experience League] händelser](#events) (uppdaterad **7 september**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,12 +53,24 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe! Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad till juli 2022.
 
-Uppdaterat **10 augusti 2022**
+Uppdaterat **7 september 2022**
 
-| Händelse | Typ | Beskrivning |
+| Produkt-/händelsenamn | Typ | Beskrivning |
 | -----------|---------- | ----|
-| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | Webbinarium | _För framtidens framgångar: Datakvalitet och användning_ - Gå med i Adobe Analytics Champions Frederik Werner och Sarah Owen på vårt webbseminarium och lär dig hur du kan bygga in datakvalitet i alla aspekter av analyser och skapa en gemensam kultur kring detta.<p>**Datum:** 25 augusti kl. 11.00 ET - [Detaljer och registrering](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
-| [Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html) | Webbinarium | Ett kostnadsfritt event för Experience Makers med huvudtalare av Sara Blakely, Peyton Manning och Eli Manning.<p>**Datum:** 13-14 september - [Detaljer och registrering](https://business.adobe.com/events/experience-makers-live.html) |
+| **[!DNL Adobe Analytics]** | Webbinarium | _Upplevelsemakare - kunskapsutbyte_ - Följ oss till Adobe [!DNL Analytics] utgåva, där experterna ger dig insidescoop på Adobe [!DNL Analytics]. <p>**Datum:** 8 september kl. 9.00 PT - [Detaljer och registrering](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
+| **[!DNL Adobe Workfront]** | Workshop | Letar efter en möjlighet att få kontakt med andra kunder och diskutera [!DNL Workfront] funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen.<p>>**Datum:** 12 september kl. 7.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Experience Cloud]** | Webbinarium | _Experience Makers Live_ - Ett kostnadsfritt evenemang med huvudtalare av Sara Blakely, Peyton Manning och Eli Manning.<p>**Datum:** 13-14 september - [Detaljer och registrering](https://business.adobe.com/events/experience-makers-live.html) |
+| **[!DNL Adobe Workfront]** | Workshop | Diagnostisera arbetsflöden - Delta i Customer Success Team för en livediskussion och genomgång av arbetsflöden för diagram - från inmatning till färdig produkt - och förstå hur ni kan sätta en stabil grund för effektiva arbetsrutiner. <p>**Datum:** 20 september - [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign]** (Klassisk och Standard) | Webbinarium | Semestersäsongen, en högsäsong och den livligaste tiden på året för marknadsförare i flera kanaler, är här. Planeringen borde vara på god väg. Detta [!DNL Adobe Campaign] Insider-sessioner behandlar ämnen som hjälper dig med e-postleverans, [!DNL Adobe Campaign] prestandaoptimering samt arbetsflöde och leveransmetoder för att säkerställa att instansen är i form för toppaktivitet.<p>**Datum:** 15 september kl. 8.00 PT [Detaljer och registrering](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
+| **[!DNL Adobe Workfront]** | Webbinarium | _Grundläggande om systemadministratörer: Komma igång med resurshantering_ - Använda Adobe [!DNL Workfront] Att hantera era resurser är DREAM - att veta vilket arbete som behöver utföras, vilka resurser ni har tillgång till och tilldela dem baserat på deras tillgänglighet. Följ oss och lär dig hur.<p>**Datum:** 21 september kl. 8.00 (Storbritannien) [Detaljer och registrering](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
+| **[!DNL Adobe Workfront]** | Workshop | _Value Realization Series: Så här gör du för projektmallar_ - Delta i vår diskussion om [!UICONTROL Project Templates] och de olika sätt som de ger mervärde och skapar effektivitet i organisationer. Vi kommer att brainstorma olika sätt att strukturera mallar för att stödja dina projekt - per kampanj, efter slutprodukt och så vidare. Vi ska demonstrera några favoriter och gå igenom våra senaste ritningar. <p>**Datum:** 21 september kl. 12.30 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | _10 Kommunikationstips som håller dig och dina användare uppdaterade_ - Effektiv kommunikation är en viktig del av dig, dina användare och i slutändan företagets framgång. Den här workshopen innehåller tio tips - både in och ut [!DNL Workfront] - för att öka prestanda, produktivitet och minska risken för onödiga problem. <p>**Datum:** 22 september kl. 19.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign Classic]** och **[!DNL Adobe Campaign Standard]** | Workshop | _Community Q&amp;A Coffee Break_ - Besök Tamara Wulf och Earl Ross för att få prata om dina frågor kring de ämnen som diskuteras i [!DNL Adobe Campaign] Insider-webbinarium på _Checklista för lyckade under helgdagar och högtider_. <p>**Datum:** 22 september kl. 20.00 MT [Detaljer och registrering](https://adobe.ly/3KHrGpl) |
+| **[!DNL Adobe Workfront]** | Workshop | _Driva Adobe med Dashboards: Planerare_ - Gå med i vårt Customer Success-team när vi fortsätter den nya instrumentpanelsserien som bygger på [!DNL Adobe Workfront] persona. Under den här sessionen fokuserar vi på era planer, som ofta arbetar med projektet eller satsningshanteringen. Lär dig hur du skapar ett proaktivt, teamorienterat utrymme för aktivitetsmedvetenhet och ansvarsskyldighet. <p>**Datum:** 27 september kl. 9.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | _Value Realization Series: Vägkarta din Workfront Journey_ - Vad händer på din Workfront Journey?  Följ oss och tala om hur du skapar en egen färdplan för Adobe Workfront på ditt företag. Vi delar med oss av några idéer om våra favoritmilstolpar som kan läggas till i din färdplan och våra upplevelser som tidigare systemadministratörer.<p>**Datum:** 4 oktober kl. 12.30 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | _CS-anslutningar: Strategiska strategier för utbyte_ - Söker du möjlighet att få kontakt med andra kunder och diskutera Workfront funktioner? Gå med i CS Connections-serien!  En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen. Vi kommer att brainstorm tillsammans med systemadministratörer för att lösa utmaningar, utbyta idéer och diskutera bästa metoder. <p>**Datum:** 10 oktober kl. 7.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | _Driv till användning med användarhantering_ - Kommer du igång med Workfront och vill du lära dig mer om installationsfunktionerna för slutanvändarna? Delta i Customer Success-teamet när vi granskar praktiska exempel på rapporter och kontrollpaneler för att sätta både en grund för framgångsrik användarhantering och skapa en användbar, informativ användarupplevelse.<p>**Datum:** 18 oktober kl. 9.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | Workshop | _Adoption Series: Skapar Workfront Fun (framsida)!_ Behöver du implementeringsidéer? Vi har dem! Vårt team har gått igenom de höga och låga kraven på användaracceptans och det är avgörande för framgång att fokusera på det roliga. Vi kommer att gå igenom saker som fungerade för oss och ge mycket tid för en öppen diskussion för att dela idéer med andra kunder.<p>**Datum:** 20 oktober kl. 12.30 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 
 {style=&quot;table-layout:auto&quot;}
 
