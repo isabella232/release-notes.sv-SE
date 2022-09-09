@@ -6,14 +6,14 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2b212054c9798d6c4a78a382f838e037697e7d7d
+source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
 workflow-type: tm+mt
-source-wordcount: '5346'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# INTERN GRANSKNING - Adobe Experience Cloud Versionsinformation - september 2022
+# Versionsinformation om Adobe Experience Cloud - september 2022
 
 ![Banderoll](assets/experience-cloud-banner-3.png)
 
@@ -25,7 +25,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 Senaste uppdatering: **9 september 2022**
 
-* [[!DNL Experience League] händelser](#events) (uppdaterad **7 september**)
+* [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,11 +53,10 @@ Behöver du hjälp? Besök [Experience League](https://experienceleague.adobe.co
 
 Experience League event är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe! Se [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att hålla sig uppdaterad till juli 2022.
 
-Uppdaterat **8 september 2022**
+Uppdaterat **9 september 2022**
 
 | Produkt-/händelsenamn | Typ | Beskrivning |
 | -----------|---------- | ----|
-| **[!DNL Adobe Analytics]** | Webbinarium | _Upplevelsemakare - kunskapsutbyte_ - Följ oss till Adobe [!DNL Analytics] utgåva, där experterna ger dig insidescoop på Adobe [!DNL Analytics]. <p>**Datum:** 8 september kl. 9.00 PT - [Detaljer och registrering](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
 | **[!DNL Adobe Workfront]** | Workshop | Letar efter en möjlighet att få kontakt med andra kunder och diskutera [!DNL Workfront] funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen.<p>**Datum:** 12 september kl. 7.00 MT [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | Webbinarium | _Experience Makers Live_ - Ett kostnadsfritt evenemang med huvudtalare av Sara Blakely, Peyton Manning och Eli Manning.<p>**Datum:** 13-14 september - [Detaljer och registrering](https://business.adobe.com/events/experience-makers-live.html) |
 | **[!DNL Adobe Workfront]** | Workshop | Diagnostisera arbetsflöden - Delta i Customer Success Team för en livediskussion och genomgång av arbetsflöden för diagram - från inmatning till färdig produkt - och förstå hur ni kan sätta en stabil grund för effektiva arbetsrutiner. <p>**Datum:** 20 september - [Detaljer och registrering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
