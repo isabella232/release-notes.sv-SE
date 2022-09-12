@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
+source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
 workflow-type: tm+mt
-source-wordcount: '6362'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 >
 >Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
 
-Senaste uppdatering: **9 september 2022**
+Senaste uppdatering: **12 september 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -33,7 +33,7 @@ Senaste uppdatering: **9 september 2022**
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (uppdaterad **12 september**)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -203,7 +203,7 @@ _Nya funktioner_
 _Betafunktioner i Forms_
 
 * **Enhetlig lagringsanslutning** - Använd Unified Storage Connector för att externalisera processdata i kundhanterade databaser. Du kan till exempel
-   * Möjliggör Forms Portals funktioner för att spara och återuppta samt lagra adaptiva formulärutkast i ett kundhanterat datalager.
+   * Möjliggör för Forms Portal att spara och återuppta samt lagra adaptiva formulärutkast i ett kundhanterat datalager.
    * Lagra processdata för arbetsflöden i Experience Manager (Experience Manager Workflow Variables data) som innehåller känsliga personuppgifter (SPD) i en kundhanterad databas.
 * **Experience Manager Forms as a Cloud Service, Communications** - [Kommunikations-API:er](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) hjälper dig att kombinera XDP-mallar och XML-data för att generera utskriftsdokument i olika format. Med tjänsten kan du generera dokument i synkront läge. Med API:erna kan du skapa program som gör att du kan:
    * Generera dokument genom att fylla i mallfiler med XML-data.
