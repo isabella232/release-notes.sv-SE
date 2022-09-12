@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5a4fc5fa4acea6976ec2958a23d864bcf2dc72
+source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
 workflow-type: tm+mt
-source-wordcount: '5270'
-ht-degree: 6%
+source-wordcount: '6362'
+ht-degree: 5%
 
 ---
 
@@ -163,13 +163,13 @@ Självhjälp finns på [Audience Manager dokumentation och självstudiekurser](h
 
 Nya funktioner, korrigeringar och uppdateringar i Experience Manager. Adobe rekommenderar att kunder med lokal driftsättning driftsätter de senaste patcharna för att säkerställa högre stabilitet, säkerhet och prestanda.
 
-Se [Aktuell versionsinformation för Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
 
 Adobe rekommenderar att du går till [Uppdateringar och färdplaner för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) för att hålla sig uppdaterad om versionsinformation.
 
 ### Videofilmer om produktuppdateringar
 
-Titta på [Videofilm om versionsöversikt för augusti](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) för en sammanfattning av de funktioner som lagts till i version 2022.8.0 (augusti 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
+Titta på [Video om versionsöversikt, augusti 2022](https://video.tv.adobe.com/v/345409/?quality=12) för en sammanfattning av de funktioner som lagts till i version 2022.8.0 (augusti 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
 * [Video om versionsöversikt, juli 2022](https://video.tv.adobe.com/v/345409/?quality=12)
 * [Video om versionsöversikt, juni 2022](https://video.tv.adobe.com/v/344308/?quality=12)
@@ -180,6 +180,80 @@ Titta på [Videofilm om versionsöversikt för augusti](https://experienceleague
 * [Video om versionsöversikt, december 2021](https://video.tv.adobe.com/v/339278)
 * [Video om versionsöversikt, oktober 2021](https://video.tv.adobe.com/v/338253)
 * [Video om versionsöversikt, september 2021](https://video.tv.adobe.com/v/337381)
+
+### Experience Manager [!DNL Assets] som [!DNL Cloud Service]
+
+_Nya funktioner_
+
+* När användarna delar digitala resurser som en länk kan de kopiera URL:en till Urklipp direkt. Förbättringen gör att du kan dela resurser snabbare och bekvämare. Den här funktionen gör det möjligt att dela material snabbare och smidigt.
+* När du överför TXT-filer genererar resursens mikrotjänster automatiskt en miniatyrbild. PNG-miniatyrbilden är en återgivning av TXT-filen som gör det lättare för användare att identifiera innehållet eller filerna i viss utsträckning, utan att öppna filerna. Den här funktionen kräver ingen konfiguration och fungerar som standard.
+
+_Ny funktion i prerelease channel_
+
+* Användarna kan nu sortera de resurser som visas i sökresultaten i kolumn- och kortvyn. Sorteringen fungerar på kolumnerna Namn, Skapad, Ändrad eller Ingen.
+
+### Experience Manager [!DNL Forms] som [!DNL Cloud Service]
+
+_Nya funktioner_
+
+* AEM Archetype-projekt för Forms as a Cloud Service innehåller nu [formulärdatamodeller för Microsoft® Dynamics och Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* Acroform-based Document of Record: Experience Manager Forms as a Cloud Service stöder användning av [Adobe Acrobat Form PDF (Acrobat PDF)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) som en mall för postdokument förutom XFA-baserad formulärmall.
+* Microsoft® Azure-dataarkivanslutning: Nu kan du [ansluta formulärdatamodell till Microsoft® Azure-lagring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). Med den kan du hämta och lagra adaptiva formulärdata i Microsoft® Azure-lagring som en BLOB.
+
+_Betafunktioner i Forms_
+
+* **Enhetlig lagringsanslutning** - Använd Unified Storage Connector för att externalisera processdata i kundhanterade databaser. Du kan till exempel
+   * Möjliggör Forms Portals funktioner för att spara och återuppta samt lagra adaptiva formulärutkast i ett kundhanterat datalager.
+   * Lagra processdata för arbetsflöden i Experience Manager (Experience Manager Workflow Variables data) som innehåller känsliga personuppgifter (SPD) i en kundhanterad databas.
+* **Experience Manager Forms as a Cloud Service, Communications** - [Kommunikations-API:er](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) hjälper dig att kombinera XDP-mallar och XML-data för att generera utskriftsdokument i olika format. Med tjänsten kan du generera dokument i synkront läge. Med API:erna kan du skapa program som gör att du kan:
+   * Generera dokument genom att fylla i mallfiler med XML-data.
+   * Generera utdataformulär i olika format, inklusive icke-interaktiva PDF-utskriftsströmmar.
+   * Generera PDF-filer från ett XFA-formulär PDF och Adobe Acrobat-formulär.
+Du kan skriva till [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) för att anmäla dig till betaprogrammet.
+
+_Nya funktioner i prerelease channel_
+
+* **Använda Adobe Sign-roller i ett adaptivt formulär** - Adobe Sign för företags- och företagsnivåer kan utöka rollerna för avtalsmottagare utöver bara signeraren för att bättre matcha deras arbetsflödesbehov. Nu kan du [göra det möjligt för alla mottagare av avtal att konfigurera sin roll i ett adaptivt formulär](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), med signerare som standardroll.
+* **Analytics för Adaptive Forms** - Du kan nu samla in och spåra användarbeteende via Adobe Analytics för Adaptive Forms för att få information om slutanvändarna. Det hjälper er att fatta välgrundade beslut som baseras på data för att förbättra slutanvändarens upplevelse.
+* **Anslut enkelt Experience Manager Forms med Microsoft® Dynamics och Salesforce.com** - Tjänsten tillhandahåller färdig datakällkonfiguration och datamodeller för Microsoft® Dynamics och [Salesforce.com](https://www.salesforce.com/?bc=DF). Den här möjligheten gör det [snabbare och enklare för utvecklare att konfigurera molntjänsterna Microsoft® Dynamics 365 och Salesforce för ett adaptivt formulär](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+
+### Experience Manager Screens as a Cloud Service
+
+_Nya funktioner_
+
+* as a Cloud Service skärmar har nu stöd för grundläggande uppspelningsövervakning. Spelaren rapporterar nu olika uppspelningsmått för varje ping (standard är 30 sekunder). Baserat på mätvärden kan programmet identifiera olika kantfall (fastnålade upplevelser, tom skärm, schemaläggningsproblem osv.). Med den här funktionen kan teamet fjärrövervaka om en spelare spelar upp innehåll på rätt sätt. Det förbättrar också reaktiviteten till tomma skärmar eller trasiga upplevelser på fältet och minskar risken för att slutanvändaren får en trasig upplevelse.
+Se [Grundläggande uppspelningsövervakning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring) för mer information.
+* Miniatyrbildsstöd för videor i stöds nu i as a Cloud Service skärmar. En innehållsförfattare kan definiera en miniatyrbild för videoklipp så att bilden används som platshållare. De kan testa uppspelning och målgruppsanpassning av innehåll på rätt sätt, medan själva videon färdigställs av rätt team. Bilden kan också användas om videouppspelningen misslyckas.
+Se [Stöd för miniatyrbilder för videoklipp](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html) för mer information.
+
+### [!DNL Cloud Manager]
+
+_Nya funktioner_
+
+* Den version av det AEM Archetype-projekt som används av Cloud Manager uppdateras nu till version 30.
+* Programkorten på landningssidan för Cloud Manager och tillhörande upplevelser har uppdaterats.
+* Kodkvalitetsstegloggen innehåller nu utförlig loggningsinformation om OakPal-skanningen.
+* Menyalternativen på sidan Aktivitet innehåller nu ett alternativ för att hämta logg för slutförda kodgeneratorkörningar. Om du väljer det här alternativet hämtas loggen för byggsteget.
+* Om du klickar direkt på programkortet navigeras nu till sidan Översikt över Cloud Manager.
+* Cloud Service kan nu visa SLA-rapporter (Service Level Agreement) i Cloud Manager. Den här funktionen kommer att göras tillgänglig stegvis under de kommande månaderna.
+Se [SLA-rapportering](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/sla-reporting.html) om du vill veta mer.
+* Typen och allvarlighetsgraden för kvalitetsreglerna IndexType och IndexDamAssetLucene har ändrats. De här är nu båda Buggar av blockerarallvarlighetsgrad.
+* Nya kvalitetsregler för Oak-index har införts för att omfatta asynkrona och Tika-konfigurationer.
+* Öka det högsta antalet SSL-certifikat per program till 50.
+* Självbetjäning för att låta användare skapa och hantera flera databaser via användargränssnittet i Cloud Manager.
+* SonarQube läste historikdata för Git i onödan. På stora kodbaser kan detta leda till en onödig prestandaförbättring.
+* Det finns nu ett API för att göra Maven-beroendecachen ogiltig per pipeline.
+* Den version av det AEM Archetype-projekt som används av Cloud Manager uppdateras nu till version 29.
+
+### Community
+
+* En omfattande lista över [senaste Experience Manager-innehåll på Experience League finns här](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) communityn är den pulsslag som kopplar samman, engagerar och ger våra användare möjlighet att skapa omvälvande digitala upplevelser för sina kunder.
+Om du vill se en lista över alla gemenskapens rådgivare kan du läsa detta [Adobe blogg](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
+* Hur man skickar in en begäran om nya funktioner eller ett förslag för Experience Manager
+   * Nu pågår en ny process för att skicka in förslag på nya funktioner i Experience Manager. [Skapa en idé](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
+   * Se [information här](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
+   * [Riktlinjer för att skicka in en ny Experience Manager-idé](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
 
 ### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
 
@@ -220,7 +294,7 @@ All versionsinformation för Experience Manager finns på följande sidor:
 * [Experience Manager 6.5 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
-* [Experience Manager 6.2 - utbildning och support - startsida](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)html
+* [Experience Manager 6.2 - utbildning och support - startsida](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Äldre versioner av Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic – startsida för hjälp](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Dokumentation för Experience Manager: Senaste uppdateringar](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
