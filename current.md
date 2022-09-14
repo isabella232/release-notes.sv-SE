@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
+source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
 workflow-type: tm+mt
-source-wordcount: '6429'
+source-wordcount: '6364'
 ht-degree: 5%
 
 ---
@@ -247,13 +247,9 @@ Se [SLA-rapportering](https://experienceleague.adobe.com/docs/experience-manager
 
 ### Community
 
-* En omfattande lista över [senaste Experience Manager-innehåll på Experience League finns här](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) communityn är den pulsslag som kopplar samman, engagerar och ger våra användare möjlighet att skapa omvälvande digitala upplevelser för sina kunder.
-Om du vill se en lista över alla gemenskapens rådgivare kan du läsa detta [Adobe blogg](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* Hur man skickar in en begäran om nya funktioner eller ett förslag för Experience Manager
-   * Nu pågår en ny process för att skicka in förslag på nya funktioner i Experience Manager. [Skapa en idé](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
-   * Se [information här](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
-   * [Riktlinjer för att skicka in en ny Experience Manager-idé](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEM as a Cloud Service 2022.7.0 - [Versionsuppdatering](https://adobe.ly/3paYDAo).
+* **Experience League Showcase** - Visa oss - och hela världen - vad du kan göra med flera Adobe Experience Cloud-produkter. [Skicka in din berättelse idag!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* AEM gruppmöte | Adobe PTP, Bangalore | 30 september 2022 | [Registrera dig här](https://adobe.ly/3DlsUos) | [Tala om Community-tråd](https://adobe.ly/3DhQwub).
 
 ### Nya Experience Manager-kurser och självstudiekurser {#tutorials-aem}
 
