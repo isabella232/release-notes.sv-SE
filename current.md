@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6364'
+source-wordcount: '6352'
 ht-degree: 5%
 
 ---
@@ -488,7 +488,7 @@ Senast uppdaterad: **9 september 2022** för version 10 september
 |  | ([!DNL Google Ads] konton) Kampanjerna > Annonsvyn innehåller nu ett valfritt [!UICONTROL Ad Strength] kolumn, som anger hur bra varje responsiv sökannons (RSA) följer [!DNL Google Ads] bästa metoderna för prestanda.<br><br>[!DNL Microsoft® Advertising] aktiverar ännu inte liknande stöd via deras API. |
 |  | ([!DNL Microsoft® Advertising] konton) Synkronisering, skrivskydd och rapportstöd (inklusive genomskinliga data) finns nu tillgängliga för era befintliga annonskampanjer på [!DNL Microsoft® Audience Network], inklusive de med [!DNL Microsoft®] målgruppsannonser. |
 | [!UICONTROL Campaigns], [!UICONTROL Reports] | Fler mätvärden för utgivarens visningsdelning blir tillgängliga under de följande veckorna som kolumner i kampanjhanteringsvyer och rapporter. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; betafunktion) Nu kan du visa dina befintliga regler för konverteringsvärde från [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Annonsörer med [!DNL Google Ads] konverteringsspårning på nivån för enskilda konton eller lägre kan också skapa och hantera regler.<br><br>Automatisk optimering av konverteringsvärdesregler kommer att vara tillgängligt i en framtida version. |
+| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; betafunktion) Nu kan du visa dina befintliga regler för konverteringsvärde från [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Annonsörer med [!DNL Google Ads] konverteringsspårning på nivån för enskilda konton eller lägre kan också skapa och hantera regler. |
 | [!UICONTROL Portfolios] | (Opt-in beta feature; [!DNL Google Ads] konton) [!DNL YouTube] kampanjer med [!UICONTROL Maximize Conversions] anbudsstrategi i hybridportföljer ingår nu i anpassade simuleringsresultat. Hybridportföljen får endast innehålla [!DNL YouTube] kampanjer.<br><br>Kontakta ditt kontoteam om du vill delta i betaprogrammet. |
 | [!UICONTROL Advertising Insights] | The [!UICONTROL Advertising Insights] vyn har ett nytt utseende och arbetsflöde som bygger på en ny infrastruktur som förbättrar prestanda och tillförlitlighet. Klicka nu bara på ett namn, markera eller ange inställningarna och klicka sedan på [!UICONTROL Generate Insight].<br><br>Om du tillfälligt vill återgå till den äldre vyn aktiverar du [!UICONTROL Switch to old UI] i det övre högra hörnet. Den äldre vyn kommer att tas bort i slutet av september. |
 |  | The [!UICONTROL Query Cross Matching Beta] Nu finns analyser. |
