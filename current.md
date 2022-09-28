@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
+source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
 workflow-type: tm+mt
 source-wordcount: '6394'
 ht-degree: 5%
@@ -377,7 +377,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| September 2022 | [Komma igång med beslutshantering för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Video | Läs om Adobe Journey Optimizer funktioner för beslutshantering. Kursen är utformad för marknadsförare som vill öka intäkterna, kundupplevelsen och lojaliteten genom att leverera de bästa erbjudandena till sina kunder |
+| September 2022 | [Komma igång med beslutshantering för marknadsförare](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Kurs | Läs om Adobe Journey Optimizer funktioner för beslutshantering. Kursen är utformad för marknadsförare som vill öka intäkterna, kundupplevelsen och lojaliteten genom att leverera de bästa erbjudandena till sina kunder |
 | September 2022 | [Skapa en kampanj](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en) | Video | Lär dig hur du levererar engångsinnehåll till en viss målgrupp genom att köra åtgärder direkt eller enligt ett angivet schema. |
 
 {style=&quot;table-layout:auto&quot;}
