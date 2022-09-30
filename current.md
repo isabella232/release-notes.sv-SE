@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94c4f698be83ab2820d3b352c3c40c67a6c1dce3
+source-git-commit: d7ece438ac9e0dcc5cbdcdecbc914daa43010aeb
 workflow-type: tm+mt
-source-wordcount: '6394'
+source-wordcount: '6397'
 ht-degree: 5%
 
 ---
@@ -351,7 +351,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | September 2022 | [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | Kurs | Lär dig hur du ansluter Campaign-instansen till SMTP-leverantören och hur du analyserar och felsöker konfigurationen. | Campaign Classic v7 |
-| September 2022 | [Konfigurera SMS för Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301) | Kurs | Lär dig hur du ansluter Campaign-instansen till SMTP-leverantören och hur du analyserar och felsöker konfigurationen. | Campaign v8 |
+| September 2022 | [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en) | Kurs | Lär dig hur du ansluter Campaign-instansen till SMTP-leverantören och hur du analyserar och felsöker konfigurationen. | Campaign v8 |
 | September 2022 | [Djupdykning och felsökning för SMPP-protokollet](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=sv) | Video | Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Förstå hur du felsöker anslutningar. | Campaign v8 |
 
 {style=&quot;table-layout:auto&quot;}
