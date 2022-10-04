@@ -6,7 +6,7 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e9a58cfb7742eb9326a02b4992e3c73aab9f5682
+source-git-commit: a1db402fe3fdb8aa8d603c32785f7026dc7fb5d0
 workflow-type: tm+mt
 source-wordcount: '6687'
 ht-degree: 6%
@@ -540,7 +540,7 @@ Nya självstudiekurser och kurser publicerade för Adobe Document Cloud, inklusi
 | September 2022 | [Lägg till anpassad sida](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html) | Video | Lär dig hur du lägger till anpassade Adobe Expresser på PDF med den inbyggda appen som innehåller tusentals mallar att välja bland. | Acrobat |
 | September 2022 | [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en) | Video | Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär. | Acrobat Sign |
 | September 2022 | [Skapa en rapport](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en) | Video | Lär dig hur du skapar egna rapporter för att få synlighet i dokumentsigneringsprocessen eller hur enskilda grupper eller användare gör. | Acrobat Sign |
-| September 2022 | [Skapa ett rapportdiagram](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | Video (uppdaterad) | Lär dig att skapa, spara och hantera egna anpassade rapporter och dataexporter i en anpassad vy med den nya rapportupplevelsen. | Acrobat Sign |
+| September 2022 | [Skapa ett rapportdiagram](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | Uppdaterad video | Lär dig att skapa, spara och hantera egna anpassade rapporter och dataexporter i en anpassad vy med den nya rapportupplevelsen. | Acrobat Sign |
 | September 2022 | [Bygga ett anpassat arbetsflöde](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en) | Uppdaterad video | Lär dig att skräddarsy och automatisera dokumentflöden för att få elektroniska signaturer, samla in formulärdata och bekräfta leveransen av ett viktigt dokument för att effektivisera arbetsflödeshanteringen. | Acrobat Sign |
 | September 2022 | [Skicka för signering i Microsoft Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en) | Uppdaterad video | Lär dig hur du skickar avtal för signering, kontrollerar status för avtal och skickar påminnelser inifrån Microsoft Teams. | Acrobat Sign |
 | September 2022 | [Lägga till fält i dokument](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en) | Uppdaterad video | Lär dig hur du automatiskt placerar fält i dokumentet eller använder dra och släpp-redigeringsmiljön i Acrobat Sign. | Acrobat Sign |
