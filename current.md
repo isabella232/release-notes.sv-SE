@@ -6,7 +6,7 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: de329edd996f1afa4bdd3633817b3cd3cd631a48
+source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
 workflow-type: tm+mt
 source-wordcount: '5182'
 ht-degree: 7%
@@ -92,7 +92,7 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 
 Senaste versionsinformation och ny dokumentation för [!DNL Experience Platform] och [!UICONTROL Mobile SDK]:
 
-Senaste versionen: **28 september 2022**
+Senaste versionen: **26 oktober 2022**
 
 * [Versionsinformation om Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
