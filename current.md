@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
+source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
 workflow-type: tm+mt
-source-wordcount: '5182'
+source-wordcount: '5194'
 ht-degree: 7%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 7%
 
 Som Experience Maker börjar er väg till framgång med [Experience League](https://experienceleague.adobe.com/?lang=en#home). Hitta ett omfattande bibliotek med självstudiekurser, självstudiekurser, självstudiekurser och kurser för alla nivåer och roller, en online-community med kollegor och expertsupport när du behöver det.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League.
+>Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering för Adobe Prioritet](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Experience League. Nästa prioriterade produktuppdatering distribueras i **Januari 2023**, efter semestersäsongen. Stanna kvar på kanalen!
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Releasamånad: **November 2022**
-
-Senaste uppdatering: **26 oktober 2022**
+Senaste uppdatering: **14 november 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
