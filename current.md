@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+source-git-commit: ece304539959b8aa223e378f365852277213822f
 workflow-type: tm+mt
-source-wordcount: '5194'
+source-wordcount: '4897'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **14 november 2022**
+Senaste uppdatering: **17 november 2022**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,9 @@ Se [[!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/docs/wo
 Versionsinformation för [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [Nya funktioner i [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [Nya funktioner i [!DNL Advertising Cloud Search]](#adcloud-search)
+
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -466,30 +467,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-### Nya funktioner i [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+<!--
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Senast uppdaterad: **6 oktober 2022**
+Last updated: **October 6, 2022**
 
-| Funktion | Beskrivning |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (6 oktober-versionen) Nya mellanrumsrelaterade måttkolumner är tillgängliga för [!UICONTROL Campaigns] vyer: **[!UICONTROL Yesterday's OTS]** (målutgifter), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (målutgifter), **[!UICONTROL Today's delivery]** och **[!UICONTROL Today's Goal]**. |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **14 oktober 2022** för version 15 oktober
+Senast uppdaterad: **17 november 2022** för 15 november-utgåvan
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Portfolios], [!UICONTROL Campaigns] | (Opt-in beta feature) A new **[!UICONTROL Network Spend Constraints]** gör det möjligt att definiera gränser för budgetallokeringar för specifika annonsnätverk i portföljer med flera nätverk. Alternativet är tillgängligt för portföljer med dagliga, veckovisa och månatliga utgiftsstrategier, och endast när **[!UICONTROL Enable campaign max spend target %]** alternativet är inte aktiverat. När **[!UICONTROL Auto adjust campaign budget limits]** om du väljer det här alternativet fungerar begränsningarna inom de värden som har konfigurerats för inställningarna för kampanjbudgeten för flera och minimala kampanjer.<br><br>En ny rapport om nätverksbegränsningar i [!UICONTROL Basic Reports] visar alla specificerade minimi- och maximibudgetar för sökmotorer och den faktiska kostnaden för dina portföljer.<br><br>Kontakta ditt kontoteam om du vill delta i betaprogrammet. |
-| Kampanjer, faktablad, rapporter | (Betafunktion för [!DNL Microsoft® Advertising] konton) Följande support är nu tillgänglig för kampanjer på [!DNL Microsoft® Audience Network]:<ul><li>Nu kan du skapa, redigera och ändra status för målgruppskampanjer (kampanjtyp) **[!UICONTROL Audience (image)]** eller **[!UICONTROL Audience (feed)]**), annonsgrupper (annonsgruppstyp) **[!UICONTROL Audience]**) och annonser (kreativ typografi) **[!UICONTROL Responsive Ad]**) från [!UICONTROL Campaigns] vyer och användning av kalkylblad.</li><li>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i Adobe Analytics (för annonsörer med en [!DNL Analytics] integration).</li></ul>Optimeringsstöd kommer att finnas i en kommande version. |
-|  | (Betafunktion för [!DNL Microsoft® Advertising] konton) Du kan nu skapa och hantera multimediaannonser i sökkampanjer via [!UICONTROL Campaigns] visa och använda kalkylblad. Annonserna har den kreativa typen **[!UICONTROL Multimedia ad]**.<br><br>Ni kan inkludera kampanjer med multimediereklam i antingen standardportfolior eller hybridportfolior med vilken utgiftsstrategi som helst, förutom för [!UICONTROL Target Impression Share] (som ännu inte stöds i hybridportföljer).<br><br>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i [!DNL Analytics] (för annonsörer med [!DNL Analytics] integration). |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | (Betafunktion för [!DNL Google Ads] och [!DNL Microsoft® Advertising] konton) Mätvärden för utgivarvisningsdelning är nu tillgängliga som kolumner i följande kampanjhanteringsvyer och rapporter:<ul><li>Vyer för kampanjhantering: Alla kampanjentitetsvyer förutom [!UICONTROL Ads]. <b>Obs!</b> Data på annonsnivå är inte tillgängliga från annonsnätverken.</li><li>Grundläggande rapporter: Alla rapporter utom [!UICONTROL Ad Variation], [!UICONTROL Campaign Hourly]och [!UICONTROL Network Constraints] rapporter. <b>Obs!</b> Data på annonsnivå är inte tillgängliga från annonsnätverken.</li><li>Specialrapporter: [!UICONTROL Adwords and Bing Audience Target], [!UICONTROL Campaign Daily Impression Share]och [!UICONTROL Keyword Daily Impression Share] rapporter.</li></ul><b>Obs!</b> På grund av [!UICONTROL Campaign Daily Impression Share] och [!UICONTROL Keyword Daily Impression Share] rapporter är nu överflödiga, de kommer att tas bort i en framtida version. Om du använder dessa rapporttyper för schemalagda rapporter, mallar eller kalkylbladsflöden går du över till [!UICONTROL Campaign] och [!UICONTROL Keyword] rapporter istället. Under tiden dupliceras vissa befintliga mätvärden i dessa rapporttyper. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts])  [!UICONTROL Conversion Value Rules] är nu inte längre betaversionen och är allmänt tillgänglig. Använd den för att visa dina befintliga [!DNL Google Ads] regler för konverteringsvärde. Annonsörer med [!DNL Google Ads] konverteringsspårning på nivån för enskilda konton eller lägre kan också skapa och hantera regler. |
-| [!UICONTROL Advertising Insights] | The [!UICONTROL Impression Share Lost] och [!UICONTROL Query Cross Matching] analyserna är nu inte längre betaversioner och är allmänt tillgängliga. |
-| [!UICONTROL Recommendations] | ([!DNL Google Ads] endast konton) [!UICONTROL Recommendations] är nu inte längre betaversionen och är allmänt tillgänglig.<ul><li>Se i korthet allt [!DNL Google Ads] rekommendationer som inte har aktiverats för ett konto.</li><li>Använd och avvisa rekommendationer för ett konto.</li><li>Visa loggar för varje rekommendation som har tillämpats för ett konto.</li></ul> |
-| **[!UICONTROL Import Campaigns]** | (Betafunktion) Du kan importera [!DNL Google Ads] max-kampanjer, inklusive lokala annonser, i [!DNL Microsoft® Advertising] smarta shoppingkampanjer från **[!UICONTROL Tools]** > **[!UICONTROL Import Campaigns]**. När du har importerat kampanjer kan du kontrollera status för importjobbet, granska felloggar och redigera, pausa eller ta bort importschemat. |
+| Kampanjer, faktablad, rapporter | ([!DNL Microsoft® Advertising] konton) Stöd för kampanjer på [!DNL Microsoft® Audience Network] är nu slut på betaversion.<ul><li>Du kan skapa, redigera och ändra status för målgruppskampanjer (kampanjtyp)[!UICONTROL Audience (image)]&quot; eller &quot;[!UICONTROL Audience (feed)]&quot;), annonsgrupper (annonsgruppstyp &quot;[!UICONTROL Audience]&quot;), och reklam (creative type &quot;[!UICONTROL Responsive Ad]&quot;) från [!UICONTROL Campaigns] vyer och användning av kalkylblad.</li><li>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i Adobe Analytics (för annonsörer med en [!DNL Analytics] integration).</li></ul>Optimeringsstöd kommer att finnas i en kommande version. |
+|  | ([!DNL Microsoft® Advertising] konton) Stödet för multimediereklam är nu inte längre betaversion. Du kan skapa och hantera multimediaannonser i sökkampanjer via [!UICONTROL Campaigns] visa och använda kalkylblad. Annonserna har den kreativa typen &quot;[!UICONTROL Multimedia ad].&quot;<br><br>Ni kan inkludera kampanjer med multimediereklam i antingen standardportfolior eller hybridportfolior med vilken utgiftsstrategi som helst, förutom för [!UICONTROL Target Impression Share] (som ännu inte stöds i hybridportföljer).<br><br>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i [!DNL Analytics] (för annonsörer med [!DNL Analytics] integration). |
+| [!UICONTROL Audiences], [!UICONTROL Reports] | (Betafunktion för [!DNL Microsoft® Advertising] dina konton) [!DNL Microsoft® Advertising] målgrupper för dynamisk återmarknadsföring är nu synkade och tillgängliga i [!UICONTROL Campaigns] > [!UICONTROL Audiences] med [!UICONTROL Audience Type] &quot;[!UICONTROL Dynamic Remarketing] &lt;*VisitorType*>&quot; (t.ex.&quot;Dynamic Remarketing Past Buyers&quot;). Ni kan också skapa, uppdatera och ta bort dynamiska marknadsföringsmålgrupper.<br><br>Ni kan använda målgrupperna som annonsmål och undantag på kampanjnivå och annonsnivå. Målen kan innehålla budmodifierare. **Obs!** Anbudsmodifierare för dynamiska målgruppsmål för återmarknadsföring optimeras inte i portföljer med &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot;.<br><br>Data för dynamisk återmarknadsföring finns i [!UICONTROL Audience Target Report]. |
 
 {style=&quot;table-layout:auto&quot;}
 
