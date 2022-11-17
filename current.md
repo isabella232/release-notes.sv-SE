@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4897'
+source-wordcount: '4955'
 ht-degree: 7%
 
 ---
@@ -27,7 +27,7 @@ På den här sidan finns information om Experience Cloud produktreleaser och de 
 
 Senaste uppdatering: **17 november 2022**
 
-* [[!DNL Experience League] händelser](#events)
+* [[!DNL Experience League] händelser](#events) (Uppdaterat **17 november**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,14 +57,11 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 
 Kommande event:
 
-* **[!DNL Journey Optimizer]:** 25 oktober - _Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd_
-* **[!DNL Workfront]:** 25 oktober - _Fråga experterna: Uppföljning av webbinarium för arbetsflöden och processdesign_
-* **[!DNL Analytics]:** 3 november - _Adobe Analytics Champions tips och tricks_
-* **[!DNL Workfront]:** 4 november - _Adobe Workfront Admin Chat: Marknadsföring och kreativitet_
-* **[!DNL Experience Manager]:** 9 november - _Adobe Developers Live: Headless_
-* **[!DNL Workfront]:** 9 november - _Workfront onsdag - community-chatt_
+* [Adobe Target Coffee Break](https://adobe.ly/3WoLYth) - **29 november** - _Community Q&amp;A Coffee Break with Cristinel Anastasoaie_
+* [Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 december** - _Fråga experterna - Uppföljning av webbinarium om lyckat godkännande av slutanvändare_
+* [Frågor och svar - chatt](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **5 december** - _CS Connections - Sharing Strategic Best Practices_
 
-Information om hur du håller dig uppdaterad finns på [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en) för kommande och tidigare händelser.
+Ett komplett händelseschema finns på [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Ikon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
