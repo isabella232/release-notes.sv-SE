@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
+source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
 workflow-type: tm+mt
-source-wordcount: '5080'
+source-wordcount: '5091'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **17 november 2022**
+Senaste uppdatering: **29 november 2022**
 
 * [[!DNL Experience League] händelser](#events) (Uppdaterat **17 november**)
 * [[!DNL Adobe System Status]](#status)
@@ -475,14 +475,14 @@ Senast uppdaterad: **23 november 2022**
 
 ### Nya funktioner i [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Senast uppdaterad: **23 november 2022** för 15 november-utgåvan
+Senast uppdaterad: **30 november 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Kampanjer, faktablad, rapporter | ([!DNL Microsoft® Advertising] konton) Stöd för kampanjer på [!DNL Microsoft® Audience Network] är nu slut på betaversion.<ul><li>Du kan skapa, redigera och ändra status för målgruppskampanjer (kampanjtyp)[!UICONTROL Audience (image)]&quot; eller &quot;[!UICONTROL Audience (feed)]&quot;), annonsgrupper (annonsgruppstyp &quot;[!UICONTROL Audience]&quot;), och reklam (creative type &quot;[!UICONTROL Responsive Ad]&quot;) från [!UICONTROL Campaigns] vyer och användning av kalkylblad.</li><li>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i Adobe Analytics (för annonsörer med en [!DNL Analytics] integration).</li></ul>Optimeringsstöd kommer att finnas i en kommande version. |
-|  | ([!DNL Microsoft® Advertising] konton) Stödet för multimediereklam är nu inte längre betaversion. Du kan skapa och hantera multimediaannonser i sökkampanjer via [!UICONTROL Campaigns] visa och använda kalkylblad. Annonserna har den kreativa typen &quot;[!UICONTROL Multimedia ad].&quot;<br><br>Ni kan inkludera kampanjer med multimediereklam i antingen standardportfolior eller hybridportfolior med vilken utgiftsstrategi som helst, förutom för [!UICONTROL Target Impression Share] (som ännu inte stöds i hybridportföljer).<br><br>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i [!DNL Analytics] (för annonsörer med [!DNL Analytics] integration). |
-| [!UICONTROL Audiences], [!UICONTROL Reports] | (Betafunktion för [!DNL Microsoft® Advertising] dina konton) [!DNL Microsoft® Advertising] målgrupper för dynamisk återmarknadsföring är nu synkade och tillgängliga i [!UICONTROL Campaigns] > [!UICONTROL Audiences] med [!UICONTROL Audience Type] &quot;[!UICONTROL Dynamic Remarketing] &lt;*VisitorType*>&quot; (t.ex.&quot;Dynamic Remarketing Past Buyers&quot;). Ni kan också skapa, uppdatera och ta bort dynamiska marknadsföringsmålgrupper.<br><br>Ni kan använda målgrupperna som annonsmål och undantag på kampanjnivå och annonsnivå. Målen kan innehålla budmodifierare. **Obs!** Anbudsmodifierare för dynamiska målgruppsmål för återmarknadsföring optimeras inte i portföljer med &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot;.<br><br>Data för dynamisk återmarknadsföring finns i [!UICONTROL Audience Target Report]. |
-| [!UICONTROL Import Campaigns] | Alla alternativ för att importera [!DNL Google Ads] kampanjer [!DNL Microsoft Advertising] är nu inte längre betaversioner:<ul><li>Importera [!DNL Google Display Network] kampanjer [!DNL Microsoft Advertising] målgruppskampanjer på [!DNL Microsoft Audience Network].</li><li>Importera [!DNL Google Ads] max-kampanjer, inklusive lokala annonser, i [!DNL Microsoft Advertising] smarta shoppingkampanjer.</li><li>(Redan utanför betaversionen) Import [!DNL Google Ads] sök- och webbkampanjer i [!DNL Microsoft Advertising] sök- och displaykampanjer.</li></ul>När ni har importerat kampanjer från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]kan du kontrollera status för importjobbet, granska felloggar och redigera, pausa eller ta bort importschemat. |
+| Kampanjer, faktablad, rapporter | ([!DNL Microsoft® Advertising] Konton. 15 november) Stöd för kampanjer på [!DNL Microsoft® Audience Network] är nu slut på betaversion.<ul><li>Du kan skapa, redigera och ändra status för målgruppskampanjer (kampanjtyp)[!UICONTROL Audience (image)]&quot; eller &quot;[!UICONTROL Audience (feed)]&quot;), annonsgrupper (annonsgruppstyp &quot;[!UICONTROL Audience]&quot;), och reklam (creative type &quot;[!UICONTROL Responsive Ad]&quot;) från [!UICONTROL Campaigns] vyer och användning av kalkylblad.</li><li>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i Adobe Analytics (för annonsörer med en [!DNL Analytics] integration).</li></ul>Optimeringsstöd kommer att finnas i en kommande version. |
+|  | ([!DNL Microsoft® Advertising] Konton. 15 november) Stödet för multimediereklam är nu inte längre betaversion. Du kan skapa och hantera multimediaannonser i sökkampanjer via [!UICONTROL Campaigns] visa och använda kalkylblad. Annonserna har den kreativa typen &quot;[!UICONTROL Multimedia ad].&quot;<br><br>Ni kan inkludera kampanjer med multimediereklam i antingen standardportfolior eller hybridportfolior med vilken utgiftsstrategi som helst, förutom för [!UICONTROL Target Impression Share] (som ännu inte stöds i hybridportföljer).<br><br>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i [!DNL Analytics] (för annonsörer med [!DNL Analytics] integration). |
+| [!UICONTROL Audiences], [!UICONTROL Reports] | ([!DNL Microsoft® Advertising] Konton. 29 november) Stöd för dynamiska marknadsföringsgrupper finns nu inte längre i betaversionen:<ul><li>Era dynamiska ommarknadsföringsmålgrupper är synkroniserade och tillgängliga i [!UICONTROL Campaigns] > [!UICONTROL Audiences] med [!UICONTROL Audience Type] &quot;[!UICONTROL Dynamic Remarketing] &lt;*VisitorType*>&quot; (t.ex.&quot;Dynamic Remarketing Past Buyers&quot;). Ni kan också skapa, uppdatera och ta bort dynamiska marknadsföringsmålgrupper.</li><li>Ni kan använda målgrupperna som annonsmål och undantag på kampanjnivå och annonsnivå. Målen kan innehålla budmodifierare. **Obs!** Anbudsmodifierare för dynamiska målgruppsmål för återmarknadsföring optimeras inte i portföljer med &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot;.</li><li>Data för dynamisk återmarknadsföring finns i [!UICONTROL Audience Target Report].</li></ul> |
+| [!UICONTROL Import Campaigns] | (15 november) Alla alternativ för import av [!DNL Google Ads] kampanjer [!DNL Microsoft Advertising] är nu inte längre betaversioner:<ul><li>Importera [!DNL Google Display Network] kampanjer [!DNL Microsoft Advertising] målgruppskampanjer på [!DNL Microsoft Audience Network].</li><li>Importera [!DNL Google Ads] max-kampanjer, inklusive lokala annonser, i [!DNL Microsoft Advertising] smarta shoppingkampanjer.</li><li>(Redan utanför betaversionen) Import [!DNL Google Ads] sök- och webbkampanjer i [!DNL Microsoft Advertising] sök- och displaykampanjer.</li></ul>När ni har importerat kampanjer från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]kan du kontrollera status för importjobbet, granska felloggar och redigera, pausa eller ta bort importschemat. |
 
 {style=&quot;table-layout:auto&quot;}
 
