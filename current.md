@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
+source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
 workflow-type: tm+mt
-source-wordcount: '5104'
+source-wordcount: '4841'
 ht-degree: 7%
 
 ---
@@ -124,10 +124,12 @@ Nya videokurser, artiklar och kurser publicerade för Adobe Analytics.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| December 2022 | [Förbättra säkerheten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Uppdaterad video | Läs mer om säkerhetshanterarens inställningar i företagsinställningarna för att styra åtkomsten till Adobe Analytics. Detta inkluderar starka lösenord, förfallodatum för lösenord och återställningsfunktioner samt e-postdomänbegränsningar. |
+| December 2022 | [Ange ett Analysis Workspace-projekt som landningssida](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Uppdaterad video | Lär dig mer om ett effektivt sätt att enkelt få nybörjare till projektdata för arbetsyteanalys. |
+| December 2022 | [Anpassa menyn i Rapporter och analyser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Uppdaterad video | Lär dig hur du anpassar rapporter och analyser-menyn för användare i din organisation. Detta hjälper användarna att hitta rapporter som de använder oftast. |
 | November 2022 | [Vad är Analytics?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=en) | Artikel | Läs om grunderna i analys innan du lär dig Adobe Analytics. |
 | November 2022 | [Skapa anpassade detaljvyer för instrumentpaneler](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | Video | Lär dig anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill berätta för dina intressenter via mobila styrkortsprojekt. |
 | November 2022 | [Visualisering av nyckelmätvärden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | Video | Lär dig mer om den viktiga mätningssammanfattningen i Analysis Workspace, där du kan se hur ett viktigt mätresultat trendar inom en enda tidsram. Du kan också jämföra mätprestanda över två tidsramar. |
-| Oktober 2022 | [Kombinationsdiagram i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | Video | Lär dig mer om visualisering av kombinationsdiagram i Analysis Workspace. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -488,19 +490,9 @@ Nya självstudiekurser och kurser publicerade för Adobe Document Cloud, inklusi
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| December 2022 | [Ange deadlines och påminnelser](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | Video | Lär dig hur du skickar påminnelser och deadlines via e-post så att du snabbt kan få dina dokument signerade. | Acrobat Sign |
 | November 2022 | [Registrera och signera med D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | Video | Lär dig hur du registrerar din identitet med D-Trust och sedan använder du den digitala signaturen D-Trust i ett dokument. | Acrobat Sign |
 | November 2022 | [Kom igång med nya administratörer](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | Video | I den här omfattande videoguiden får du lära dig mer om alla verktyg som krävs för att din organisation ska komma igång. | Acrobat Sign |
-| Oktober 2022 | [Skanna vad som helst till PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html) | Video | Lär dig hur du förvandlar pappersdokument till PDF med den kostnadsfria Adobe Scan-mobilappen. | Acrobat |
-| Oktober 2022 | [Ordna sidor](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html) | Uppdaterad video | Lär dig hur du ordnar om sidorna precis som du vill - på bara några sekunder. Infoga, ersätt, dela, sortera om, rotera och till och med extrahera icke-kontinuerliga sidor för att skapa en proffsig PDF. | Acrobat |
-| Oktober 2022 | [Arbeta med filer från Dropbox](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=en) | Video | Lär dig hur du öppnar, skapar, redigerar, signerar och sparar ändringar i dina Dropbox-filer inifrån Acrobat. | Acrobat |
-| Oktober 2022 | [Arkivera filer automatiskt i SharePoint med Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=en) | Video | Lär dig arkivera signerade dokument automatiskt i ett SharePoint-bibliotek med Power Automate. | Acrobat Sign |
-| Oktober 2022 | [Konfigurera datamappning i Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?) | Video | Lär dig hur du ställer in datamappning för Acrobat Sign i Salesforce. Med datamappning kan du hämta data tillbaka till Salesforce efter att ett avtal har signerats. | Acrobat Sign |
-| Oktober 2022 | [Konfigurera ett externt arkiv](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=en) | Video | Lär dig hur du skapar ett externt arkiv för säkerhetskopior av avtal som har signerats. | Acrobat Sign |
-| Oktober 2022 | [Hantera och spåra dina avtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=en) | Uppdaterad video | Lär dig hantera och spåra dokument som skickats för signering i Acrobat Sign. | Acrobat Sign |
-| Oktober 2022 | [Ställ in kopplingsmappning i Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=en) | Uppdaterad video | Lär dig hur du sammanfogar data från Salesforce direkt i ett Acrobat Sign-dokument. | Acrobat Sign |
-| Oktober 2022 | [Document Builder för Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html) | Video | Lär dig hur du skapar en återanvändbar dokumentmall med Document Builder för Salesforce. | Acrobat Sign |
-| Oktober 2022 | [Hantera webbformulärdata](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=en) | Video | Lär dig spåra, hantera och exportera data från ett webbformulär. | Acrobat Sign |
-| Oktober 2022 | [Flytande läge i Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html) | Video | Lär dig hur flytande läge förbättrar den mobila signeringsupplevelsen. Nu behöver du inte längre nypa och zooma när du försöker läsa och signera dokument. | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
