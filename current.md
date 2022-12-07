@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
+source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
 workflow-type: tm+mt
-source-wordcount: '4841'
+source-wordcount: '4681'
 ht-degree: 7%
 
 ---
@@ -237,18 +237,14 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- | ------|
+| December 2022 | [Filtrera kodexempel för jQuery och Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Utforska AEM Headless GraphQL API:er för att filtrera data med en JavaScript-app som använder jQuery och Handlebars. Den här appen skapar en lista med WKND-äventyr som kan filtreras efter aktivitetstyp. | AEM CS (utan huvud) |
+| December 2022 | [URL-omdirigeringar](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Video | Lär dig mer om de olika alternativen för att utföra URL-omdirigering i AEM. | AEM |
 | November 2022 | [Inkludera tredjepartspaket i ditt AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | Video | Lär dig hur du inkluderar OSGi-paketet från tredje part i ditt AEM. | AEM Forms |
 | November 2022 | [Generera ett PDF-dokument med fragment med ECMA-skript](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | Video | Lär dig hur du använder utdatatjänsten för att generera en PDF-fil med XDP-fragment. | AEM Forms |
 | November 2022 | [Generera ett PDF-dokument med fragment](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | Video | Lär dig hur du använder utdatatjänsten för att generera PDF-filer med SDP-fragment. | AEM Forms |
 | November 2022 | [Extrahera bundna data och spara dem i en strängvariabel](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | Video | Lär dig hur du inkluderar skickade data i e-postmeddelandets brödtext. | AEM Forms |
 | November 2022 | [AEM-CIF-kärnkomponenter och integrering med Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | Video | Lär dig hur du skickar händelsedata för butiker från en AEM produktsida till Experience Platform med CIF-anslutningsprogrammet Experience Platform. | AEM CS |
 | Oktober 2022 | [Artikelinläsningsegenskap i AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | Video | Lär dig hur du konfigurerar och fyller i nedrullningsbar lista med objektets sökvägsegenskap. | AEM Forms CS |
-| Oktober 2022 | [Aktivera frontendpipeline för standardprojekttypen AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | Video | Lär dig hur du aktiverar AEM WKND Sites Project med AEM Project Archetype för att distribuera frontresurser som CSS, JavaScript, teckensnitt och ikoner, med hjälp av en frontpipeline för en snabbare utvecklingscykel. | AEM Sites |
-| Oktober 2022 | [Next.js App](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | Video | Lär dig hur du hämtar innehåll med hjälp AEM GraphQL API:er med beständiga frågor. Den AEM Headless-klienten för JavaScript används för att köra de GraphQL-beständiga frågor som stöder programmet. | AEM Sites |
-| Oktober 2022 | [Extrahera formulärbilagor från skickade formulärdata](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | Video | Lär dig hur du extraherar bilagor och skickar bilagor i ett e-postmeddelande i ett automatiserat arbetsflöde. | AEM Forms CS |
-| Oktober 2022 | [Skicka DoR som e-postbilaga](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | Video | Extrahera DoR och skicka som e-postbilaga i ett automatiserat arbetsflöde. | AEM Forms CS |
-| Oktober 2022 | [Konsol för innehållsfragment](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=en) | Video | Läs om de grundläggande funktionerna i AEM as a Cloud Service redigeringskonsol för innehållsfragment. | AEM CS |
-| Oktober 2022 | [Vanliga frågor om migrering av as a Cloud Service innehåll](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | Video | Få svar på vanliga frågor om innehållsmigrering till AEM as a Cloud Service. | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
