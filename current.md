@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c84c5cf8b04236f15c9abdc3330147360ab643d5
+source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
 workflow-type: tm+mt
-source-wordcount: '5091'
+source-wordcount: '5104'
 ht-degree: 7%
 
 ---
@@ -25,9 +25,9 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **29 november 2022**
+Senaste uppdatering: **7 december 2022**
 
-* [[!DNL Experience League] händelser](#events) (Uppdaterat **17 november**)
+* [[!DNL Experience League] händelser](#events) (Uppdaterat **7 december**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,9 +57,9 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 
 Kommande event:
 
-* [Adobe Target Coffee Break](https://adobe.ly/3WoLYth) - **29 november** - _Community Q&amp;A Coffee Break with Cristinel Anastasoaie_
-* [Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 december** - _Fråga experterna - Uppföljning av webbinarium om lyckat godkännande av slutanvändare_
-* [Frågor och svar - chatt](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **5 december** - _CS Connections - Sharing Strategic Best Practices_
+* [Adobe Target Webinar](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **8 december** - _Hur Automated Personalization tillhandahåller dynamiska personaliserade upplevelser vid varje besök_
+* [Adobe Workfront Q&amp;A Chatt](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 december** - _Fråga experterna: Navigera i webbinariet för ändringshantering - uppföljning_
+* [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **21 december** - _Gå med i Customer Success-teamet för en timmes diskussion där du kan se trendämnen från Workfront Community._
 
 Ett komplett händelseschema finns på [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
@@ -87,7 +87,7 @@ Experience Cloud [komponenter för centralt användargränssnitt](https://experi
 
 Senaste versionsinformation och ny dokumentation för [!DNL Experience Platform] och [!UICONTROL Mobile SDK]:
 
-Senaste versionen: **26 oktober 2022**
+Senaste versionen: **23 november 2022**
 
 * [Versionsinformation om Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -107,11 +107,7 @@ Uppdaterat: **19 oktober 2022** - Se [Versionsinformation och ändringsloggar](h
 
 ## ![Ikon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-November: **26 oktober 2022**
-
->[!NOTE]
->
->Versionsinformation från november kommer att finnas tillgänglig den **26 oktober 2022**.
+Senaste uppdatering: **18 november 2022**
 
 * Adobe Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/analytics.html)
