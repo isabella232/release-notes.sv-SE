@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4681'
+source-wordcount: '4760'
 ht-degree: 7%
 
 ---
@@ -237,7 +237,9 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- | ------|
-| December 2022 | [Filtrera kodexempel för jQuery och Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Utforska AEM Headless GraphQL API:er för att filtrera data med en JavaScript-app som använder jQuery och Handlebars. Den här appen skapar en lista med WKND-äventyr som kan filtreras efter aktivitetstyp. | AEM CS (utan huvud) |
+| December 2022 | [Filtrera React-programkodexempel](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Video | En enkel React-app som visar WKND-äventyr med Content Fragments. | AEM Headless Developer Portal |
+| December 2022 | [Basic React-app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Video | Lär dig hur du hämtar innehåll med hjälp AEM GraphQL API:er med beständiga frågor. Det här programmet återger en filterbar version av WKND Adventures, och när du väljer ett äventyr visas all information om äventyren. | AEM Headless Developer Portal |
+| December 2022 | [Filtrera kodexempel för jQuery och Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Utforska AEM Headless GraphQL API:er för att filtrera data med en JavaScript-app som använder jQuery och Handlebars. Den här appen skapar en lista med WKND-äventyr som kan filtreras efter aktivitetstyp. | AEM Headless Developer Portal |
 | December 2022 | [URL-omdirigeringar](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Video | Lär dig mer om de olika alternativen för att utföra URL-omdirigering i AEM. | AEM |
 | November 2022 | [Inkludera tredjepartspaket i ditt AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | Video | Lär dig hur du inkluderar OSGi-paketet från tredje part i ditt AEM. | AEM Forms |
 | November 2022 | [Generera ett PDF-dokument med fragment med ECMA-skript](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | Video | Lär dig hur du använder utdatatjänsten för att generera en PDF-fil med XDP-fragment. | AEM Forms |
