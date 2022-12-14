@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
+source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
 workflow-type: tm+mt
-source-wordcount: '4760'
+source-wordcount: '4999'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **7 december 2022**
+Senaste uppdatering: **14 december 2022**
 
 * [[!DNL Experience League] händelser](#events) (Uppdaterat **7 december**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,9 +57,10 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 
 Kommande event:
 
-* [Adobe Target Webinar](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **8 december** - _Hur Automated Personalization tillhandahåller dynamiska personaliserade upplevelser vid varje besök_
-* [Adobe Workfront Q&amp;A Chatt](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 december** - _Fråga experterna: Navigera i webbinariet för ändringshantering - uppföljning_
+* [Adobe Workfront kundworkshop - årsslutsrapportering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **15 december** - _Delta i en interaktiv diskussion om hur du bäst utnyttjar rapporter i Workfront för att dela med dig av berättelsen i slutet av året, inklusive en praktisk demo._
 * [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **21 december** - _Gå med i Customer Success-teamet för en timmes diskussion där du kan se trendämnen från Workfront Community._
+* [Administratörschatt: Marknadsföring och kreativitet](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Denna interaktiva session är inriktad på att knyta dig samman med andra administratörer, diskutera god praxis samt tips och tricks som hjälper dig att få ut så mycket som möjligt av Workfront för dig och dina användare._
+* [CS-anslutningar: Strategiska strategier för utbyte](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Söker du möjlighet att få kontakt med andra kunder och diskutera Workfront funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen._
 
 Ett komplett händelseschema finns på [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
@@ -237,6 +238,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- | ------|
+| December 2022 | [Beständiga GraphQL-frågor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | Video | Lär dig hur du bibehåller GraphQL-frågor i Adobe Experience Manager as a Cloud Service för att optimera prestandan. | AEM CS |
 | December 2022 | [Filtrera React-programkodexempel](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Video | En enkel React-app som visar WKND-äventyr med Content Fragments. | AEM Headless Developer Portal |
 | December 2022 | [Basic React-app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Video | Lär dig hur du hämtar innehåll med hjälp AEM GraphQL API:er med beständiga frågor. Det här programmet återger en filterbar version av WKND Adventures, och när du väljer ett äventyr visas all information om äventyren. | AEM Headless Developer Portal |
 | December 2022 | [Filtrera kodexempel för jQuery och Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Utforska AEM Headless GraphQL API:er för att filtrera data med en JavaScript-app som använder jQuery och Handlebars. Den här appen skapar en lista med WKND-äventyr som kan filtreras efter aktivitetstyp. | AEM Headless Developer Portal |
@@ -430,6 +432,7 @@ Nytt [!DNL Workfront] kurser och kollektioner av självstudiekurser på Experien
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| December 2022 | [Skapa ADDDAYS-, ADDWEEKDAY-, ADDMONTHS-, ADDYEARS-uttryck](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | Uppdaterad video | Lär dig hur du använder och skapar ADD-uttryck i ett beräkningsfält i Adobe Workfront. |
 | Oktober 2022 | [Lägga till och redigera kolumninställningar på en anslagstavla](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en) | Video | Lär dig hur du lägger till och redigerar kolumninställningar på en rityta. |
 | Oktober 2022 | [Avancerad rapportering](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) | Video | Lär dig hur du använder API-utforskaren och textläget för att skapa avancerade filter, vyer och grupperingar som går utöver funktionerna i rapportgränssnittet. |
 
