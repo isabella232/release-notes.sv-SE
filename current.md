@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
+source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
 workflow-type: tm+mt
-source-wordcount: '4999'
+source-wordcount: '4860'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **14 december 2022**
+Senaste uppdatering: **26 december 2022**
 
 * [[!DNL Experience League] händelser](#events) (Uppdaterat **7 december**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,8 +57,6 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 
 Kommande event:
 
-* [Adobe Workfront kundworkshop - årsslutsrapportering](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **15 december** - _Delta i en interaktiv diskussion om hur du bäst utnyttjar rapporter i Workfront för att dela med dig av berättelsen i slutet av året, inklusive en praktisk demo._
-* [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **21 december** - _Gå med i Customer Success-teamet för en timmes diskussion där du kan se trendämnen från Workfront Community._
 * [Administratörschatt: Marknadsföring och kreativitet](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Denna interaktiva session är inriktad på att knyta dig samman med andra administratörer, diskutera god praxis samt tips och tricks som hjälper dig att få ut så mycket som möjligt av Workfront för dig och dina användare._
 * [CS-anslutningar: Strategiska strategier för utbyte](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Söker du möjlighet att få kontakt med andra kunder och diskutera Workfront funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen._
 
@@ -108,7 +106,7 @@ Uppdaterat: **19 oktober 2022** - Se [Versionsinformation och ändringsloggar](h
 
 ## ![Ikon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Senaste uppdatering: **18 november 2022**
+Nästa version: **11 januari 2023**
 
 * Adobe Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/analytics.html)
@@ -136,7 +134,7 @@ Nya videokurser, artiklar och kurser publicerade för Adobe Analytics.
 
 ## ![Ikon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Nästa version: **26 oktober 2022**
+Nästa version: **11 januari 2023**
 
 >[!NOTE]
 >
@@ -360,7 +358,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 * Adobe Campaign v8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementeringsguider](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv) - [Frisläppningsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Dokumentation för Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Instruktionsvideor](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
-* Kontrollpanelen i Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - Instruktionsvideor för [Instruktionsvideor](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en)
+* Kontrollpanelen i Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - Instruktionsvideor för [Instruktionsvideor](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=sv)
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
