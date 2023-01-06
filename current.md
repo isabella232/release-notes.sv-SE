@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
+source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
 workflow-type: tm+mt
-source-wordcount: '4934'
+source-wordcount: '4927'
 ht-degree: 7%
 
 ---
@@ -329,9 +329,6 @@ Nya funktioner och nytt innehåll finns för [!DNL Adobe Commerce].
 
 ## ![Ikon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Senast uppdaterad: **19 oktober 2022**
-
-Nästa planerade version: **25-27 oktober**
 * Information om förhandsversioner finns i [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * Aktuell information finns i [Versionsinformation för Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
 
