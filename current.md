@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4860'
+source-wordcount: '4934'
 ht-degree: 7%
 
 ---
@@ -25,9 +25,9 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **26 december 2022**
+Senaste uppdatering: **6 januari 2022**
 
-* [[!DNL Experience League] händelser](#events) (Uppdaterat **7 december**)
+* [[!DNL Experience League] händelser](#events) (Uppdaterat **6 januari**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - centrala gränssnittskomponenter och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 
 Kommande event:
 
-* [Administratörschatt: Marknadsföring och kreativitet](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Denna interaktiva session är inriktad på att knyta dig samman med andra administratörer, diskutera god praxis samt tips och tricks som hjälper dig att få ut så mycket som möjligt av Workfront för dig och dina användare._
-* [CS-anslutningar: Strategiska strategier för utbyte](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Söker du möjlighet att få kontakt med andra kunder och diskutera Workfront funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen._
+* [Administratörschatt: Marknadsföring och kreativitet](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6 januari** - _Denna interaktiva session är inriktad på att knyta dig samman med andra administratörer, diskutera bästa praxis samt tips och tricks som hjälper dig att få ut så mycket som möjligt av [!DNL Workfront] för dig och dina användare._
+* [CS-anslutningar: Strategiska strategier för utbyte](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **9 januari** - _Letar efter en möjlighet att få kontakt med andra kunder och diskutera [!DNL Workfront] funktioner? Gå med i CS Connections-serien! En månatlig möjlighet att få kontakt med andra kunder för att diskutera er organisations aktuella ämnen._
+* [Nyheter i [!DNL Adobe Workfront] 23.1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **10 januari** - _Gå med i [!DNL Adobe Workfront] i vår senaste version om du vill veta mer om kommande funktioner och förbättringar._
+* [AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 januari** - _Läs om Adobe Experience Manager Best Practices Analyzer-verktyget som innehåller analys- och rapporteringsfunktioner för AEM på plats- och AMS-instanser. Observera att det inte gäller AEM as a Cloud Service._
 
 Ett komplett händelseschema finns på [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
