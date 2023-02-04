@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
 workflow-type: tm+mt
-source-wordcount: '5433'
+source-wordcount: '5441'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,7 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **18 januari 2023**
+Senaste uppdatering: **3 februari 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Nya funktioner i [!DNL Advertising DSP] {#advertising-dsp}
 
-Senast uppdaterad: **23 november 2022**
+Senast uppdaterad: **3 februari 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Erbjudanden | The [!UICONTROL Inventory] > [!UICONTROL Deals] vyn innehåller nu en[!UICONTROL Deal Health]&quot; kolumn, som anger varje enskild erbjudandes hälsostatus: &quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot; eller &quot;[!UICONTROL Unavailable].&quot; Du kan klicka på statusen för att se mer information, bland annat varför ett avtal inte fungerar eller spenderar som förväntat och hur du felsöker potentiella problem. |
+| [!UICONTROL Deals] | (25 januari) En ny utgiftskolumn i&quot;PG Impression Pacing&quot; i Inventory > Deals view visar rapporter om hur garanterade erbjudanden ska levereras. |
+| [!UICONTROL Campaigns] | (4 januari) En ändringslogg, som visar ändringar som gjorts under det valda datumintervallet, är nu tillgänglig för varje kampanj. Ändringsloggar var redan tillgängliga för paket och placeringar. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -513,7 +514,7 @@ Mer information om Document Cloud finns i:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
-* [Document Cloud studiematerial och support](https://helpx.adobe.com/support/document-cloud.html)
+* [Document Cloud – Läs mer och support](https://helpx.adobe.com/se/support/document-cloud.html)
 
 ## ![Ikon](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
 
