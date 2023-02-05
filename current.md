@@ -6,9 +6,9 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
 workflow-type: tm+mt
-source-wordcount: '5441'
+source-wordcount: '5351'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,9 @@ Som Experience Maker börjar er väg till framgång med [Experience League](http
 
 På den här sidan finns information om Experience Cloud produktreleaser och de senaste självstudiekurserna, kurserna och händelserna på Experience League.
 
-Senaste uppdatering: **3 februari 2023**
+Releasamånad: **Januari 2023**
+
+Senaste uppdatering: **5 februari 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -57,10 +59,13 @@ Experience League event är en utmärkt plats att lära sig, interagera och få 
 
 Kommande event:
 
-* [AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 januari** - _Läs om Adobe Experience Manager Best Practices Analyzer-verktyget som innehåller analys- och rapporteringsfunktioner för AEM på plats- och AMS-instanser. Den gäller inte AEM as a Cloud Service._
-* [Adobe Experience League Live: Markeringar av datainsamling och färdplan](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **26 januari** - _Datainsamling är viktig på Adobe! Ni måste kunna lita på de data ni arbetar med. Vi har haft en händelse förra året med releaser och stora saker på gång. I den här liveströmningshändelsen kan du gå med i datainsamlingsexperter för att få en sammanfattning av viktiga uppdateringar nyligen samt en glimt av kommande objekt på färdplanen._ [Detaljer och registrering](https://engage.adobe.com/ExpLeagueLive-230126.html).
+* [!DNL Workfront] - **7 februari** - _Lär dig Tio kommunikationstips som håller dig och dina användare uppdaterade_
 
-Ett komplett händelseschema finns på [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en).
+* [!DNL Campaign Classic] - **8 februari** - _Så där. Roliga priser driver kundengagemang_
+
+* [!DNL Campaign Standard] - **9 februari** - Community Coffee Break - _Adobe [!DNL Campaign] Community Q&amp;A Coffee Break - APAC_
+
+Information om händelseregistrering och ett fullständigt schema finns i [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Ikon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
