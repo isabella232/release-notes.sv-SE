@@ -1,15 +1,15 @@
 ---
 title: Senaste versionsinformation
-description: Läs den senaste versionsinformationen för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande evenemang och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
+description: Läs den senaste versionsinformationen för Adobe [!DNL Experience Cloud] produkter och tjänster. Lär dig mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
 doc-type: release notes
 last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7f360b3fcd35cc9ab8b52a9cc7e3ffaaff9e2ebc
+source-git-commit: a7eb01e1f3f7aa4cbfc881dc045c5319b0e721a2
 workflow-type: tm+mt
-source-wordcount: '5351'
-ht-degree: 5%
+source-wordcount: '5043'
+ht-degree: 6%
 
 ---
 
@@ -495,11 +495,8 @@ Senast uppdaterad: **18 januari 2022**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| Campaigns, Bulksheets, Advanced (ACM) | (5 januari-versionen) [!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) Om du har skapat annonsanpassare i annonsnätverkets redigerare kan du nu använda dem som attribut i textfälten för responsiva sökannonser i [!DNL Advertising Search]. I rubriker, beskrivningar och den första och andra sökvägarna i webbadresser kan du använda följande format för att inkludera en annonsanpassare:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exempel på en annonsanpassare i en annonsrubrik: &quot;Ett stort lager av regnbågar på en `{CUSTOMIZER.Discount:10%}` rabatt.&quot; |
-| Kampanjer, faktablad, rapporter | ([!DNL Microsoft® Advertising] Konton. 15 november) Stöd för kampanjer på [!DNL Microsoft® Audience Network] är nu slut på betaversion.<ul><li>Du kan skapa, redigera och ändra status för målgruppskampanjer (kampanjtyp)[!UICONTROL Audience (image)]&quot; eller &quot;[!UICONTROL Audience (feed)]&quot;), annonsgrupper (annonsgruppstyp &quot;[!UICONTROL Audience]&quot;), och reklam (creative type &quot;[!UICONTROL Responsive Ad]&quot;) från [!UICONTROL Campaigns] vyer och användning av kalkylblad.</li><li>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i Adobe Analytics (för annonsörer med en [!DNL Analytics] integration).</li></ul>Ni kan inkludera målgruppskampanjer i antingen standardportfolior eller hybridportfolior. |
-|  | ([!DNL Microsoft® Advertising] Konton. 15 november) Stödet för multimediereklam är nu inte längre betaversion. Du kan skapa och hantera multimediaannonser i sökkampanjer via [!UICONTROL Campaigns] visa och använda kalkylblad. Annonserna har den kreativa typen &quot;[!UICONTROL Multimedia ad].&quot;<br><br>Ni kan inkludera kampanjer med multimediereklam i antingen standardportfolior eller hybridportfolior med vilken utgiftsstrategi som helst, förutom för [!UICONTROL Target Impression Share] (som ännu inte stöds i hybridportföljer).<br><br>Ni kan se era befintliga målgruppskampanjer, med resultatdata i tabell- och trenddiagramformat, i [!UICONTROL Campaigns] vy. Prestandadata på annonsnivå finns även i rapporter och i [!DNL Analytics] (för annonsörer med [!DNL Analytics] integration). |
-| [!UICONTROL Audiences], [!UICONTROL Reports] | ([!DNL Microsoft® Advertising] Konton. 29 november) Stöd för dynamiska marknadsföringsgrupper finns nu inte längre i betaversionen:<ul><li>Era dynamiska ommarknadsföringsmålgrupper är synkroniserade och tillgängliga i [!UICONTROL Campaigns] > [!UICONTROL Audiences] med [!UICONTROL Audience Type] &quot;[!UICONTROL Dynamic Remarketing] &lt;*VisitorType*>&quot; (t.ex.&quot;Dynamic Remarketing Past Buyers&quot;). Ni kan också skapa, uppdatera och ta bort dynamiska marknadsföringsmålgrupper.</li><li>Ni kan använda målgrupperna som annonsmål och undantag på kampanjnivå och annonsnivå. Målen kan innehålla budmodifierare. **Obs!** Anbudsmodifierare för dynamiska målgruppsmål för återmarknadsföring optimeras inte i portföljer med &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot;.</li><li>Data för dynamisk återmarknadsföring finns i [!UICONTROL Audience Target Report].</li></ul> |
-| [!UICONTROL Import Campaigns] | (15 november) Alla alternativ för import av [!DNL Google Ads] kampanjer [!DNL Microsoft® Advertising] är nu inte längre betaversioner:<ul><li>Importera [!DNL Google Display Network] kampanjer [!DNL Microsoft® Advertising] målgruppskampanjer på [!DNL Microsoft® Audience Network].</li><li>Importera [!DNL Google Ads] max-kampanjer, inklusive lokala annonser, i [!DNL Microsoft® Advertising] smarta shoppingkampanjer.</li><li>(Redan utanför betaversionen) Import [!DNL Google Ads] sök- och webbkampanjer i [!DNL Microsoft® Advertising] sök- och displaykampanjer.</li></ul>När ni har importerat kampanjer från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]kan du kontrollera status för importjobbet, granska felloggar och redigera, pausa eller ta bort importschemat. |
+| [!UICONTROL Campaigns], [!UICONTROL Bulksheets], [!UICONTROL Advanced (ACM)] | (5 januari-versionen) [!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) Om du har skapat annonsanpassare i annonsnätverkets redigerare kan du nu använda dem som attribut i textfälten för responsiva sökannonser i [!DNL Advertising Search]. I rubriker, beskrivningar och den första och andra sökvägarna i webbadresser kan du använda följande format för att inkludera en annonsanpassare:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exempel på en annonsanpassare i en annonsrubrik: &quot;Ett stort lager av regnbågar på en `{CUSTOMIZER.Discount:10%}` rabatt.&quot; |
+| [!UICONTROL Import Campaigns] | (5 januari-versionen) [!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) Du kan återskapa [!DNL Google Ads] annonsanpassare för [!DNL Microsoft Advertising] kampanjer från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. De replikeras automatiskt om du inte anpassar importjobbet. Om du anpassar importjobbet genom att ange vad som ska importeras måste du se till att välja [!UICONTROL Feeds] > [!UICONTROL Ad customizer feeds.] |
 
 {style=&quot;table-layout:auto&quot;}
 
