@@ -3,12 +3,12 @@ cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Versionsinformation om Adobe Experience Cloud
 breadcrumb-title: Versionsinformation
-user-guide-description: Läs om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
+user-guide-description: Lär dig om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: c650711e94102535c2ed6ca3f6d34c7e37581547
+source-git-commit: c6aa019083b2f7deeaebdc55a5a9c5de0bdecea0
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 60%
+source-wordcount: '75'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 60%
 
 + [Aktuella versionsinformation](current.md)
 + Tidigare versionsinformation {#previous}
+   + 2023 {#2023}
+      + [Januari 2023](c-legacy-releases/2023/01112023.md)
    + 2022 {#2022}
       + [Oktober 2022](c-legacy-releases/2022/10052022.md)
       + [September 2022](c-legacy-releases/2022/09072022.md)
