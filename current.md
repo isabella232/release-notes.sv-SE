@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '4958'
+source-wordcount: '4936'
 ht-degree: 7%
 
 ---
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### Nya funktioner i [!DNL Advertising DSP] {#advertising-dsp}
 
-Senast uppdaterad: **3 februari 2023**
+Senast uppdaterad: **8 februari 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Deals] | (25 januari) En ny utgiftskolumn i&quot;PG Impression Pacing&quot; i Inventory > Deals view visar rapporter om hur garanterade erbjudanden ska levereras. |
-| [!UICONTROL Campaigns] | (4 januari) En ändringslogg, som visar ändringar som gjorts under det valda datumintervallet, är nu tillgänglig för varje kampanj. Ändringsloggar var redan tillgängliga för paket och placeringar. |
+| [!UICONTROL Campaigns] | (3 februari) betafunktioner) Nu kan du visa ändringsloggar i diagramformulär och du kan lägga till anteckningar i alla poster. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
 
-Senast uppdaterad: **18 januari 2022**
+Senast uppdaterad: **8 februari 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns], [!UICONTROL Bulksheets], [!UICONTROL Advanced (ACM)] | (5 januari: [!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) - Om du har skapat annonsanpassare i annonsnätverkets redigerare kan du nu använda dem som attribut i textfälten för responsiva sökannonser i [!DNL Advertising Search]. I rubriker, beskrivningar och den första och andra sökvägarna i webbadresser kan du använda följande format för att inkludera en annonsanpassare:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exempel på en annonsanpassare i en annonsrubrik: &quot;Ett stort lager av regnbågar på en `{CUSTOMIZER.Discount:10%}` rabatt.&quot; |
-| [!UICONTROL Import Campaigns] | (5 januari: [!DNL Google Ads] och [!DNL Microsoft Advertising] kampanjer) - Du kan replikera [!DNL Google Ads] annonsanpassare för [!DNL Microsoft Advertising] kampanjer från [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. De replikeras automatiskt om du inte anpassar importjobbet. Om du anpassar importjobbet genom att ange vad som ska importeras måste du se till att välja [!UICONTROL Feeds] > [!UICONTROL Ad customizer feeds.] |
+| [!UICONTROL Campaigns] | (6 februari-utgåvan) betafunktion) Stöd för skrivskyddad synkronisering finns nu för [!DNL Google Ads] identifieringskampanjer. Identifieringskampanjer har [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; och [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (för enbildsannonser) eller &quot;[!UICONTROL Discovery Carousel Ad]&quot; (för karusellannonser med flera bilder). Ni kan inkludera identifieringskampanjer i standard- och hybridportfolior.<br><br>Data på annonsnivå för era identifieringskampanjer finns tillgängliga i rapporter. För annonsörer med Adobe Analytics-integrering finns annonsnivådata i [!DNL Analytics]. På samma sätt [!DNL Analytics] data finns i [!DNL Search]; data skickas med den uppgraderade `s_kwcid` spårningsparameter, oavsett `s_kwcid` som du vanligtvis använder för kontot. Om du vanligtvis använder den äldre versionen av `s_kwcid`så spåras dina klick-/kostnadsdata och intäktsdata med olika `s_kwcids`, men båda datauppsättningarna är helt klassificerade och aggregerade under samma kampanj och konto. |
 
 {style=&quot;table-layout:auto&quot;}
 
