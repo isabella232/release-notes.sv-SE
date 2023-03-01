@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '4990'
+source-wordcount: '5047'
 ht-degree: 7%
 
 ---
@@ -26,6 +26,12 @@ På den här sidan kan du hålla dig uppdaterad om produktreleaser, evenemang oc
 **Behöver du hjälp?**
 
 Vägen till framgång börjar med [Experience League](https://experienceleague.adobe.com/?lang=en#home). Bläddra i vårt enorma bibliotek med självhjälp [produktdokumentation](https://experienceleague.adobe.com/docs/?lang=sv) och guidad [självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Sök [kurser](https://experienceleague.adobe.com/?lang=en#courses) för alla nivåer och roller, fråga frågor från vår webbsida [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) av andra och få expertis [support](https://experienceleague.adobe.com/?support-tab=home#support) när du behöver det.
+
+## Adobe Summit 2023
+
+Följ oss i Las Vegas för att utöka din kompetens, få inspiration och skapa kontakter som gör att du kan göra den digitala ekonomin personlig. För dem som inte kan delta i ett evenemang i världsklass i Vegas kan du gå med oss praktiskt taget var som helst utan kostnad.
+
+[!BADGE Anmäl dig till Summit]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Anmäl dig till Summit"}
 
 ## Uppdateringar och evenemang om produktreleaser - februari 2023
 
