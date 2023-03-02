@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5047'
+source-wordcount: '5139'
 ht-degree: 7%
 
 ---
@@ -35,7 +35,7 @@ Följ oss i Las Vegas för att utöka din kompetens, få inspiration och skapa k
 
 ## Uppdateringar och evenemang om produktreleaser - februari 2023
 
-Innehållet uppdaterades senast: **10 februari 2023**
+Innehållet uppdaterades senast: **2 mars 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### Nya funktioner i [!DNL Advertising DSP] {#advertising-dsp}
 
-Senast uppdaterad: **8 februari 2023**
+Senast uppdaterad: **2 mars 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (3 februari) betafunktioner) Nu kan du visa ändringsloggar i diagramformulär och du kan lägga till anteckningar i alla poster. |
+| [!UICONTROL Campaigns] | (15 februari) Du kan nu visa ändringsloggar i diagramformulär och lägga till anteckningar till alla poster. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
 
-Senast uppdaterad: **10 februari 2023**
+Senast uppdaterad: **2 mars 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (6 februari-utgåvan) betafunktion) Stöd för skrivskyddad synkronisering finns nu för [!DNL Google Ads] identifieringskampanjer. Identifieringskampanjer har [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; och [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (för enbildsannonser) eller &quot;[!UICONTROL Discovery Carousel Ad]&quot; (för karusellannonser med flera bilder). Ni kan inkludera identifieringskampanjer i standard- och hybridportfolior.<br><br>Data på annonsnivå för era identifieringskampanjer finns tillgängliga i rapporter. För annonsörer med Adobe Analytics-integrering finns annonsnivådata i [!DNL Analytics]. På samma sätt [!DNL Analytics] data finns i [!DNL Search]; data skickas med den uppgraderade `s_kwcid` spårningsparameter, oavsett `s_kwcid` som du vanligtvis använder för kontot. Om du vanligtvis använder den äldre versionen av `s_kwcid`så spåras dina klick-/kostnadsdata och intäktsdata med olika `s_kwcids`, men båda datauppsättningarna är helt klassificerade och aggregerade under samma kampanj och konto. |
+| [!UICONTROL Campaigns] | (Google Ads-konton) öppen betafunktion; 23 februari) Skrivskyddat synkroniseringsstöd för [!DNL Google Ads] identifieringskampanjer är i betaläge för alla annonsörer.  Identifieringskampanjer har [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; och [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (för enbildsannonser) eller &quot;[!UICONTROL Discovery Carousel Ad]&quot; (för karusellannonser med flera bilder). Ni kan inkludera identifieringskampanjer i standard- och hybridportfolior.<br><br>Data på annonsnivå för era identifieringskampanjer finns tillgängliga i rapporter. För annonsörer med Adobe Analytics-integrering finns annonsnivådata i [!DNL Analytics]. På samma sätt [!DNL Analytics] data finns i [!DNL Search]; data skickas med den uppgraderade `s_kwcid` spårningsparameter, oavsett `s_kwcid` som du vanligtvis använder för kontot. Om du vanligtvis använder den äldre versionen av `s_kwcid`så spåras dina klick-/kostnadsdata och intäktsdata med olika `s_kwcids`, men båda datauppsättningarna är helt klassificerade och aggregerade under samma kampanj och konto. |
 |  | ([!DNL Google Ads] Konton. 11 februari) Stöd för[!UICONTROL Target Impression Share]&quot;budstrategin är nu tillgänglig för kampanjer endast i söknätverket. För denna anbudsstrategi [!DNL Google Ads] (inte [!DNL Search]) optimerar offerterna för att uppnå en målvisningsandel och en annonsposition. Du kan också ange en [!UICONTROL Target Impression Share] som procent [!UICONTROL Target Ad Position]och en [!UICONTROL Max CPC] (kostnad per klick). Det här alternativet stöds ännu inte i hybridportföljer. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] kampanjer, 11 februari) Bulksheets innehåller nu &quot;[!UICONTROL Call to Action]&quot; och &quot;[!UICONTROL Call to Action Language]&quot;-kolumner för multimediaannonser (i responsivt annonsformat) som använder &quot;[!UICONTROL Creative (except RSA)]&quot;. |
+| Google Manager-konton | (23 februari) En ny [!UICONTROL Admin] > [!UICONTROL Manager Accounts] kan du ange autentisering för [!DNL Google Ads] chefskonton som [!DNL Search] kommer att överföra kontokonverteringar. Använd den här funktionen om du vill a) överföra [!DNL Adobe]-spårade, kontoövergripande konverteringsvärden till en [!DNL Google Ads] chefskonto eller b) överföra portföljmål som omfattar kontoövergripande konverteringar till [!DNL Google Ads] för hybridoptimering.<br><br>När du har lagt till autentiseringsuppgifter för ett hanterarkonto är det valfria alternativet[!UICONTROL Manager Account for Cross-Account Conversions]&quot; i [!UICONTROL Campaigns] > [!UICONTROL Accounts] vy anger hanterarkonto-ID:t för varje underordnat konto och kolumnen visar ett fel när hanterarkontot inte är autentiserat. |
 
 {style=&quot;table-layout:auto&quot;}
 
