@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 Följ oss i Las Vegas för att utöka din kompetens, få inspiration och skapa kontakter som gör att du kan göra den digitala ekonomin personlig. För dem som inte kan delta i ett evenemang i världsklass i Vegas kan du gå med oss praktiskt taget var som helst utan kostnad.
 
-[!BADGE Registrera]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Registrera dig för [!DNL Adobe Summit]&quot;}
+[!BADGE Registrera]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other" tooltip="Registrera dig för [!DNL Adobe Summit]"}
 
 ## Uppdateringar och evenemang om produktreleaser - februari 2023
 
