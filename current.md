@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cc637cf51aac23cf129fae75a7a7f63f9d678eb3
+source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
 workflow-type: tm+mt
-source-wordcount: '4588'
+source-wordcount: '4567'
 ht-degree: 8%
 
 ---
@@ -94,8 +94,6 @@ Releasedatum: **15 februari 2023**
 | API:er för Adobe-status | <ul><li>Adobe Status API:er ger detaljerad information och realtidsuppdateringar om driftstopp, avbrott och underhållshändelser för molnprodukter och -tjänster i Adobe.</li><li>API:erna måste konfigureras i [Adobe Developer Console](https://developer.adobe.com/konsol) innan de kan användas. Din organisation måste ha rättigheter för minst en Adobe-produkt för att få tillgång till Adobe API:er. Ett utvecklarkonsolkonto krävs med rätt behörigheter.</li><li>Läs dokumentationen [här](https://developer.adobe.com/adobe-status/) och följer instruktionerna för installationen.</li><li>När du är klar kan du använda [API-referensdokument](https://developer.adobe.com/adobe-status/api/) för att visa tillgängliga API:er och signaturerna för att anropa dem.</li></ul> |
 
 {style="table-layout:auto"}
-
-Den senaste versionsinformationen finns i Systemstatus för Adobe [versionsinformation](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=en#status).
 
 +++
 
