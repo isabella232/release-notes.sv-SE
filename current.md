@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
 workflow-type: tm+mt
-source-wordcount: '4567'
+source-wordcount: '4554'
 ht-degree: 8%
 
 ---
@@ -115,7 +115,7 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL E
 
 +++Information
 
-* [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - planerad release - **29 mars 2032**
+* [Versionsinformation för Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - planerad release - **29 mars 2023**
 
 ### Nytt [!DNL Experience Platform] självstudiekurser och kurser
 
@@ -481,7 +481,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Mars 2023 | [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | Självstudiekurs | Lär dig hur du konfigurerar en sandlåda för utbildningsändamål. Gå igenom stegen som krävs för att konfigurera scheman, importera exempeldata och skapa händelser. |
-| Mars 2023 | [Journey Optimizer utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Utmaningar | Utmaningarna är ett scenario och de krav som krävs för att öva det du lärt dig. Varje utmaning avser ett unikt användningsexempel som ni implementerar. <p>Nya utmaningar:<ul><li>[Skapa ett sommarsamlingsmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Skapa en orderbekräftelse](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[Skapa ett meddelande om produktpåfyllnad](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| Mars 2023 | [Journey Optimizer utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Utmaningar | Utmaningarna är ett scenario och de krav som krävs för att öva det du lärt dig. Varje utmaning avser ett unikt användningsexempel som ni implementerar. <p>Nya utmaningar:<ul><li>[Skapa ett sommarsamlingsmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Skapa en orderbekräftelse](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
 
 {style="table-layout:auto"}
 
