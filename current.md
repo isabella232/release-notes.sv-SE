@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4554'
+source-wordcount: '4451'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **15 mars 2023**
+Senaste uppdatering: **20 mars 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,13 +601,15 @@ Last updated: **August 9, 2022**
 
 Läs om de senaste funktionerna för Adobe-reklam.
 
-Senast uppdaterad: **2 mars 2023**
+<!--
+Last updated: **March 2, 2023**
 
-| Funktion | Beskrivning |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (15 februari) Du kan nu visa ändringsloggar i diagramformulär och lägga till anteckningar till alla poster. |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
 
@@ -615,10 +617,8 @@ Senast uppdaterad: **2 mars 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (Google Ads-konton) öppen betafunktion; 23 februari) Skrivskyddat synkroniseringsstöd för [!DNL Google Ads] identifieringskampanjer är i betaläge för alla annonsörer. Identifieringskampanjer har [!UICONTROL Campaign Type] &quot;[!UICONTROL Discovery],&quot; [!UICONTROL Ad Group Type] &quot;[!UICONTROL Discovery],&quot; och [!UICONTROL Creative Type] &quot;[!UICONTROL Discovery Ad]&quot; (för enbildsannonser) eller &quot;[!UICONTROL Discovery Carousel Ad]&quot; (för karusellannonser med flera bilder). Ni kan inkludera identifieringskampanjer i standard- och hybridportfolior.<br><br>Data på annonsnivå för era identifieringskampanjer finns tillgängliga i rapporter. För annonsörer med Adobe Analytics-integrering finns annonsnivådata i [!DNL Analytics]. På samma sätt [!DNL Analytics] data finns i [!DNL Search]; data skickas med den uppgraderade `s_kwcid` spårningsparameter, oavsett `s_kwcid` som du vanligtvis använder för kontot. Om du vanligtvis använder den äldre versionen av `s_kwcid`så spåras dina klick-/kostnadsdata och intäktsdata med olika `s_kwcids`, men båda datauppsättningarna är helt klassificerade och aggregerade under samma kampanj och konto. |
-|  | ([!DNL Google Ads] Konton. 11 februari) Stöd för[!UICONTROL Target Impression Share]&quot;budstrategin är nu tillgänglig för kampanjer endast i söknätverket. För denna anbudsstrategi [!DNL Google Ads] (inte [!DNL Search]) optimerar offerterna för att uppnå en målvisningsandel och en annonsposition. Du kan också ange en [!UICONTROL Target Impression Share] som procent [!UICONTROL Target Ad Position]och en [!UICONTROL Max CPC] (kostnad per klick). Det här alternativet stöds ännu inte i hybridportföljer. |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft] kampanjer, 11 februari) Bulksheets innehåller nu &quot;[!UICONTROL Call to Action]&quot; och &quot;[!UICONTROL Call to Action Language]&quot;-kolumner för multimediaannonser (i responsivt annonsformat) som använder &quot;[!UICONTROL Creative (except RSA)]&quot;. |
-| Google Manager-konton | (23 februari) En ny [!UICONTROL Admin] > [!UICONTROL Manager Accounts] kan du ange autentisering för [!DNL Google Ads] chefskonton som [!DNL Search] kommer att överföra kontokonverteringar. Använd den här funktionen om du vill a) överföra [!DNL Adobe]-spårade, kontoövergripande konverteringsvärden till en [!DNL Google Ads] chefskonto eller b) överföra portföljmål som omfattar kontoövergripande konverteringar till [!DNL Google Ads] för hybridoptimering.<br><br>När du har lagt till autentiseringsuppgifter för ett hanterarkonto är det valfria alternativet[!UICONTROL Manager Account for Cross-Account Conversions]&quot; i [!UICONTROL Campaigns] > [!UICONTROL Accounts] vy anger hanterarkonto-ID:t för varje underordnat konto och kolumnen visar ett fel när hanterarkontot inte är autentiserat. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] målgruppskampanjer, öppen betafunktion; 18 mars-utgåvan) Målgruppskampanjer kan nu använda den förbättrade anbudsstrategin för CPC (eCPC). Du kan ange bud i inställningarna för underordnade annonser.<br><br>Målgruppskampanjer med eCPC kan inkluderas i portföljer för optimering. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] och [!DNL Microsoft Advertising] Konton. 18 mars-utgåvan) Följande nya viktiga mätvärden finns i kampanjhanteringsvyer och rapporter:<ul><li><p>[!UICONTROL Content IS]: Antalet visningar du fått för annonser på skärmen/målgruppsnätverket dividerat med det uppskattade antalet visningar som du var berättigad att ta emot.</p><p>Den här och den andra &quot;[!UICONTROL Content]*&quot;-statistik finns i alla kampanjhanteringsvyer för företag som är relevanta för innehållsannonser och i de relaterade grundläggande rapporterna:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group]och [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: Den uppskattade procentandel av intryck som era annonser i nätverket för visning/målgrupper inte fick på grund av att er dagliga eller månadsvisa budget var för låg.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: Den uppskattade procentandel av visningar som era annonser i ert nätverk inte kunde visas på grund av dålig annonsrankning.</p></li><li><p>[!UICONTROL Search exact match IS]: Antalet visningar du fått för sökningar som exakt matchade ditt nyckelord delat med det uppskattade antalet exakta matchningsavbildningar som du var berättigad till.</p><p>Det här måttet är tillgängligt i alla kampanjhanteringsvyer för entiteter som är relevanta för sökannonser och i de relaterade grundläggande rapporterna:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group]och [!UICONTROL Portfolio]. De är också i [!UICONTROL Constraint], [!UICONTROL Label Classification]och [!UICONTROL Label Value] rapporter.</p></li></ul> |
 
 {style="table-layout:auto"}
 
