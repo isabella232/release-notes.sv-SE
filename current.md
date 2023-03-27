@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4451'
+source-wordcount: '4483'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **20 mars 2023**
+Senaste uppdatering: **27 mars 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -481,7 +481,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Mars 2023 | [Konfigurera en utbildningssandlåda](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | Självstudiekurs | Lär dig hur du konfigurerar en sandlåda för utbildningsändamål. Gå igenom stegen som krävs för att konfigurera scheman, importera exempeldata och skapa händelser. |
-| Mars 2023 | [Journey Optimizer utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Utmaningar | Utmaningarna är ett scenario och de krav som krävs för att öva det du lärt dig. Varje utmaning avser ett unikt användningsexempel som ni implementerar. <p>Nya utmaningar:<ul><li>[Skapa ett sommarsamlingsmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Skapa en orderbekräftelse](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
+| Mars 2023 | [Journey Optimizer utmaningar](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Utmaningar | Utmaningarna innehåller ett scenario och de nödvändiga kraven för att öva det du har lärt dig. Varje utmaning tar upp ett unikt användningsexempel som du implementerar. <p>Nya utmaningar:<ul><li>[Skapa ett sommarsamlingsmeddelande](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Skapa en orderbekräftelse](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
 
 {style="table-layout:auto"}
 
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
 
-Senast uppdaterad: **2 mars 2023**
+Senast uppdaterad: **27 mars 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
 | [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] målgruppskampanjer, öppen betafunktion; 18 mars-utgåvan) Målgruppskampanjer kan nu använda den förbättrade anbudsstrategin för CPC (eCPC). Du kan ange bud i inställningarna för underordnade annonser.<br><br>Målgruppskampanjer med eCPC kan inkluderas i portföljer för optimering. |
+| [!UICONTROL Campaigns], [!UICONTROL Portfolios] | ([!DNL Google Ads] Konton. betafunktion) Nu finns optimeringsstöd för [!DNL Google Ads] max-kampanjer och ni kan lägga till dem i hybridportfolior. Anbudsstrategiska mål och kampanjbudgetar fastställs på kampanjnivå. |
 | [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] och [!DNL Microsoft Advertising] Konton. 18 mars-utgåvan) Följande nya viktiga mätvärden finns i kampanjhanteringsvyer och rapporter:<ul><li><p>[!UICONTROL Content IS]: Antalet visningar du fått för annonser på skärmen/målgruppsnätverket dividerat med det uppskattade antalet visningar som du var berättigad att ta emot.</p><p>Den här och den andra &quot;[!UICONTROL Content]*&quot;-statistik finns i alla kampanjhanteringsvyer för företag som är relevanta för innehållsannonser och i de relaterade grundläggande rapporterna:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group]och [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: Den uppskattade procentandel av intryck som era annonser i nätverket för visning/målgrupper inte fick på grund av att er dagliga eller månadsvisa budget var för låg.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: Den uppskattade procentandel av visningar som era annonser i ert nätverk inte kunde visas på grund av dålig annonsrankning.</p></li><li><p>[!UICONTROL Search exact match IS]: Antalet visningar du fått för sökningar som exakt matchade ditt nyckelord delat med det uppskattade antalet exakta matchningsavbildningar som du var berättigad till.</p><p>Det här måttet är tillgängligt i alla kampanjhanteringsvyer för entiteter som är relevanta för sökannonser och i de relaterade grundläggande rapporterna:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group]och [!UICONTROL Portfolio]. De är också i [!UICONTROL Constraint], [!UICONTROL Label Classification]och [!UICONTROL Label Value] rapporter.</p></li></ul> |
 
 {style="table-layout:auto"}
