@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
+source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
 workflow-type: tm+mt
-source-wordcount: '4483'
+source-wordcount: '4420'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **27 mars 2023**
+Senaste uppdatering: **29 mars 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -59,17 +59,13 @@ Ta reda på vad som händer på Experience League. Evenemang är en utmärkt pla
 
 +++Kommande event
 
-* **[!DNL Analytics]** | _Snabbare insikt med Adobe Analytics_ | **9 mars kl. 8.00 PT** |  [Registrera](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Marketo]** | _Adobe Marketo Engage kan vara stort, lär dig hur ett litet team maximerar instansen_ | **30 mars kl. 8.00 PT** |  [Registrera](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas: Leverans (del 1)_ | **9 mars kl. 1:00 ET** | [Registrera](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Workfront]** | _Anslut: Admin Chat for Marketing &amp; Creative_ | **31 mars kl. 10.00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Anslut: Strategisk administratörschatt_ | **13 mars kl. 7:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas: Leverans (del 2)_ | **5 april klockan 13:00 ET** | [Registrera](https://register.gotowebinar.com/register/6818591002040103259)
 
-* **[!DNL Workfront]** | _Grundläggande om systemadministratörer: Förbättra användarupplevelsen med gränssnittsdesign_ | **15 mars kl. 8.00 PT** | [Registrera](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
-
-* **[!DNL Marketo Engage]** | _Marketo Community Q&amp;A Coffee Break_ | **15 mars kl. 08.00 PT** | [Registrera](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_ME&amp;utm_content=230315)
-
-* **[!DNL Adobe Summit]** |_Den ultimata upplevelsen är tillbaka. Följ oss i Vegas och bygg upp färdigheter, lär dig av världens ledande varumärken och få inspiration_ | **19 mars kl. 09.00 PT** | [Registrera](https://summit.adobe.com/na/?promoid=2K4PC9V3&amp;mv=other)
+* **[!DNL Adobe Summit]** |_Besök Summit hela året!_ | **On demand** | [Detaljer](https://business.adobe.com/summit/adobe-summit.html)
 
 Se [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) för ett komplett schema över kommande event och on demand-event.
 
