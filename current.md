@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4420'
+source-wordcount: '4529'
 ht-degree: 8%
 
 ---
@@ -31,9 +31,10 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **29 mars 2023**
+Senast uppdaterad: **6 april 2023**
 
-* [[!DNL Experience League] händelser](#events)
+* [[!DNL Experience League] händelser](#events) (**Uppdaterad 6 april 2023**)
+* [Certifiering](#certification) (**Nyhet! 6 april 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] gränssnitt och administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Ta reda på vad som händer på Experience League. Evenemang är en utmärkt pla
 
 +++Kommande event
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage kan vara stort, lär dig hur ett litet team maximerar instansen_ | **30 mars kl. 8.00 PT** |  [Registrera](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Anslut: Strategisk administratörschatt_ | **10 april kl. 8.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Anslut: Admin Chat for Marketing &amp; Creative_ | **31 mars kl. 10.00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break with Matthew Baillie and Georgia Frailey_ | **12 april kl. 8.00 PT** |  [Registrera](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas: Leverans (del 2)_ | **5 april klockan 13:00 ET** | [Registrera](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _Lär dig: Adobe Workfront 23.2, rund uppåt_ | **12 april klockan 12:30 CT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_Besök Summit hela året!_ | **On demand** | [Detaljer](https://business.adobe.com/summit/adobe-summit.html)
 
 Se [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) för ett komplett schema över kommande event och on demand-event.
+
++++
+
+## ![Ikon](/assets/certification-badge.png) Certifiering{#certification}
+
+Se till att alla Adobe är certifierade. Adobe är glada över att kunna meddela att nya Experience Cloud lanserats [Certifiering](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) webbplats på Experience League.
+
++++Information
+
+Certifieringssajten är er enda butik för alla [!DNL Experience Cloud] Certifieringsrelaterat innehåll, inklusive:
+
+* Tillgängliga certifieringar
+* Certifieringsförnyelser för Adobe-lösningar
+* Uppdateringar av certifieringsprogram
+
+Och mycket mer! Gå till [Adobe-certifiering](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) på Experience League och börja din certifieringsresa idag!
 
 +++
 
