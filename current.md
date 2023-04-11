@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
+source-git-commit: fe9ee338ec6803e4f9fb2dde4748d751c47e0e47
 workflow-type: tm+mt
-source-wordcount: '4529'
+source-wordcount: '4569'
 ht-degree: 8%
 
 ---
@@ -614,15 +614,13 @@ Last updated: **August 9, 2022**
 
 Läs om de senaste funktionerna för Adobe-reklam.
 
-<!--
-Last updated: **March 2, 2023**
+Senast uppdaterad: **10 april 2023**
 
-| Feature | Description |
+| Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL Reports] | (Mars-utgåvan) En ny [!UICONTROL Household] rapporten visar visningar, räckvidd och frekvens för olika dimensioner i ett hushåll baserat på IP-adressen, i stället för på enhets-/cookienivå. Rapporten innehåller nio dimensioner: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Device], [!UICONTROL Audience], [!UICONTROL Creative Length]och har skapats av användaren [!UICONTROL Tags]. |
 
 {style="table-layout:auto"}
--->
 
 ### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
 
