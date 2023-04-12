@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1901183db80b397aebd80187b0e03dc422342a93
+source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
 workflow-type: tm+mt
-source-wordcount: '5904'
+source-wordcount: '5750'
 ht-degree: 8%
 
 ---
@@ -90,25 +90,13 @@ Och mycket mer! Gå till [Adobe-certifiering](https://experienceleague.adobe.com
 
 ## ![Ikon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
->[!IMPORTANT]
->
->Läs om de senaste funktionerna och uppdateringarna i [!DNL Adobe System Status].
+Läs om de senaste funktionerna och uppdateringarna i [!DNL Adobe System Status].
 
 +++Information
 
 [!DNL Adobe System Status] ger detaljerad information, statusuppdateringar och e-postmeddelanden om avbrott i produkter och tjänster, avbrott och underhållshändelser i Adobe. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
-Releasedatum: **15 februari 2023**
-
-**Nyheter**
-
-* [!DNL Status] har lagt till API-stöd som gör att du direkt kan anropa Adobe-servrar för att fråga efter och visa händelser som på [status.adobe.com](https://status.adobe.com/) Gränssnitt. Du kan använda dessa API:er för att integrera dem i övervakningssystemet eller kontrollpanelerna för att visa realtidshändelser från Adobe Status. Händelser kan filtreras baserat på produkt-, produkt-, erbjudande-, region-, miljö- (om tillgängligt), språkområde och händelsetyp.
-
-| Funktion | Beskrivning |
-| ------- | -------|
-| API:er för Adobe-status | <ul><li>Adobe Status API:er ger detaljerad information och realtidsuppdateringar om driftstopp, avbrott och underhållshändelser för molnprodukter och -tjänster i Adobe.</li><li>API:erna måste konfigureras i [Adobe Developer Console](https://developer.adobe.com/konsol) innan de kan användas. Din organisation måste ha rättigheter för minst en Adobe-produkt för att få tillgång till Adobe API:er. Ett utvecklarkonsolkonto krävs med rätt behörigheter.</li><li>Läs dokumentationen [här](https://developer.adobe.com/adobe-status/) och följer instruktionerna för installationen.</li><li>När du är klar kan du använda [API-referensdokument](https://developer.adobe.com/adobe-status/api/) för att visa tillgängliga API:er och signaturerna för att anropa dem.</li></ul> |
-
-{style="table-layout:auto"}
+Se [versionsinformation](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=en#status) för Adobe Status för att se de senaste uppdateringarna.
 
 +++
 
