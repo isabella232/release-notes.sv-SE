@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
+source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
 workflow-type: tm+mt
-source-wordcount: '5751'
+source-wordcount: '5661'
 ht-degree: 8%
 
 ---
@@ -501,7 +501,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 | April 2023 | [Konfigurera schemaläggarens aktiviteter](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html) | Video | Lär dig hur du konfigurerar en schemaläggaraktivitet i ett arbetsflöde. | Campaign v8 |
 | April 2023 | [Skapa ett preferenscenter](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html) | Video | Lär dig hur du skapar ett inställningscenter med Adobe Campaign webbprogramsredigerare. | Campaign v8 |
 | April 2023 | [Hantera tidszoner](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html) | Video | Lär dig hur du tillämpar tidszoner för schemalagda arbetsflödesaktiviteter. | Campaign v8 |
-| April 2023 | [Förstå karantänhantering](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Video | Lär dig hur karantänhantering fungerar i Adobe Campaign och hur du hanterar adresser i karantän. | Campaign v8 |
+| April 2023 | [Förstå karantänhantering](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Video | Lär dig hur karantänhantering fungerar i Adobe Campaign och lär du hur du hanterar adresser i karantän. | Campaign v8 |
 | April 2023 | [Schemalägg meddelanden](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html) | Video | Lär dig hur du schemalägger en e-postleverans. | Campaign v8 |
 | April 2023 | [Skicka en korrektur för en e-postleverans](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html) | Video | Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna. | Campaign v8 |
 
@@ -676,13 +676,12 @@ Senast uppdaterad: **10 april 2023**
 
 ### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
 
-Senast uppdaterad: **27 mars 2023**
+Senast uppdaterad: **14 april 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, öppen betafunktion; 18 mars-utgåvan) Målgruppskampanjer kan nu använda den förbättrade anbudsstrategin för CPC (eCPC). Du kan ange bud i inställningarna för underordnade annonser.<br><br>Målgruppskampanjer med eCPC kan inkluderas i portföljer för optimering. |
-| [!UICONTROL Campaigns], [!UICONTROL Portfolios] | ([!DNL Google Ads] Konton. betafunktion) Nu finns optimeringsstöd för [!DNL Google Ads] max-kampanjer och ni kan lägga till dem i hybridportfolior. Anbudsstrategiska mål och kampanjbudgetar fastställs på kampanjnivå. |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] och [!DNL Microsoft® Advertising] Konton. 18 mars-utgåvan) Följande nya viktiga mätvärden finns i kampanjhanteringsvyer och rapporter:<ul><li><p>[!UICONTROL Content IS]: Antalet visningar som du har fått för annonser på skärmen/målgruppsnätverket dividerat med det beräknade antalet visningar som du har rätt att få.</p><p>Den här och den andra [!UICONTROL Content] Mätvärden finns tillgängliga i alla kampanjhanteringsvyer för entiteter som är relevanta för innehållsannonser och i de relaterade grundläggande rapporterna:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group]och [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: Den uppskattade procentandel av intryck som era annonser i nätverket för visning/målgrupper inte fick på grund av att er dagliga eller månadsvisa budget var för låg.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: Den uppskattade procentandel av visningar som era annonser i ert nätverk inte kunde visas på grund av dålig annonsrankning.</p></li><li><p>[!UICONTROL Search exact match IS]: Antalet visningar som du fått för sökningar som exakt matchade ditt nyckelord delat med det uppskattade antalet exakta matchningsavbildningar som du var berättigad till.</p><p>Det här måttet är tillgängligt i alla kampanjhanteringsvyer för entiteter som är relevanta för sökannonser och i de relaterade grundläggande rapporterna:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group]och [!UICONTROL Portfolio]. De är också i [!UICONTROL Constraint], [!UICONTROL Label Classification]och [!UICONTROL Label Value] rapporter.</p></li></ul> |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, 15 april) Målgruppskampanjer kan nu använda anbudsstrategin&quot;Manual CPM&quot;. Du kan ange bud i inställningarna för underordnade annonser.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Recommendations] | Sex nya ([!DNL Google Ads] rekommendationer är tillgängliga från [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Förslag för att förbättra annonsstyrkan för en responsiv sökannons</li><li>[!UICONTROL Upgrade local campaign to performance max]: Uppgradera en äldre lokal kampanj till en maximal resultatkampanj</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Uppgradera en äldre smart shoppingkampanj till en maximalt resultatanpassad kampanj</li><li>[!UICONTROL Forecasting set Target ROAS]: Öka budgeten före en säsongshändelse som beräknas öka trafiken och ändra budgivningsstrategin från [!DNL Maximize Conversion Value] till [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: Öka [!DNL Target CPA] med en rekommenderad mängd när den är för låg och det finns få eller inga konverteringar</li><li>[!UICONTROL Display expansion opt in]: Utvidga räckvidden genom att uppdatera en kampanj för att använda displayexpansion</li></ul>Eftersom det kan påverka resultatet om du lägger till och tar bort resurser, byter kampanjtyper och ändrar budgetar och budstrategier rekommenderar vi att du diskuterar för- och nackdelar med varje rekommendation med ditt Adobe-kontoteam så att du kan fatta ett välgrundat beslut. |
 
 {style="table-layout:auto"}
 
