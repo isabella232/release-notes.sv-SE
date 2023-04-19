@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5661'
+source-wordcount: '5709'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senast uppdaterad: **12 april 2023**
+Senast uppdaterad: **18 april 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [Certifiering i Adobe](#certification) (**Nyhet!**)
@@ -58,13 +58,23 @@ Senast uppdaterad: **12 april 2023**
 
 Ta reda på vad som händer på Experience League. Evenemang är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
+Uppdaterat: **19 april 2023**
+
 +++Kommande event
 
-* **[!DNL Workfront]** | _Anslut: Strategisk administratörschatt_ | **10 april kl. 8.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Fråga experterna: Avancerad rensning av arbetsflöden genom uppföljning av webbinarium för automatisering_ | **27 april kl. 10.30 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break with Matthew Baillie and Georgia Frailey_ | **12 april kl. 8.00 PT** |  [Registrera](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _AEM Sites Supercharger Workshop_ | **25 april kl. 8.00 PT** |  [Registrera](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Lär dig: Adobe Workfront 23.2, rund uppåt_ | **12 april klockan 12:30 CT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Få igång datainsamling och händelsehantering med bara några klick!_ | **25 april kl. 9.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive: E-poststruktur_ | **25 april kl. 10.00 PT** | [Registrera](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM kontorstider - AEM as a Cloud Service_ | **27 april kl. 7.30 PT** | [Registrera](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Skapa ett team med Adobe Analytics-experter_ | **27 april kl. 8.00 PT** | [Registrera](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Leverera personaliserade kundupplevelser varje gång!_ | **27 april kl. 9:00 BST** | [Registrera](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Besök Summit hela året!_ | **On demand** | [Detaljer](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Senast uppdaterad: **14 april 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, 15 april) Målgruppskampanjer kan nu använda anbudsstrategin&quot;Manual CPM&quot;. Du kan ange bud i inställningarna för underordnade annonser.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, 15 april) Målgruppskampanjer kan nu använda anbudsstrategin&quot;Manual CPM&quot;. Du kan ange bud i inställningarna för underordnade annonser.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Sex nya ([!DNL Google Ads] rekommendationer är tillgängliga från [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Förslag för att förbättra annonsstyrkan för en responsiv sökannons</li><li>[!UICONTROL Upgrade local campaign to performance max]: Uppgradera en äldre lokal kampanj till en maximal resultatkampanj</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Uppgradera en äldre smart shoppingkampanj till en maximalt resultatanpassad kampanj</li><li>[!UICONTROL Forecasting set Target ROAS]: Öka budgeten före en säsongshändelse som beräknas öka trafiken och ändra budgivningsstrategin från [!DNL Maximize Conversion Value] till [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: Öka [!DNL Target CPA] med en rekommenderad mängd när den är för låg och det finns få eller inga konverteringar</li><li>[!UICONTROL Display expansion opt in]: Utvidga räckvidden genom att uppdatera en kampanj för att använda displayexpansion</li></ul>Eftersom det kan påverka resultatet om du lägger till och tar bort resurser, byter kampanjtyper och ändrar budgetar och budstrategier rekommenderar vi att du diskuterar för- och nackdelar med varje rekommendation med ditt Adobe-kontoteam så att du kan fatta ett välgrundat beslut. |
 
 {style="table-layout:auto"}
