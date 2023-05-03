@@ -27,7 +27,7 @@ På den här sidan kan du hålla dig uppdaterad om produktreleaser, evenemang oc
 
 **Behöver du hjälp?**
 
-Vägen till framgång börjar med [Experience League](https://experienceleague.adobe.com/?lang=en#home). Bläddra i Adobe omfattande bibliotek med självhjälp [produktdokumentation](https://experienceleague.adobe.com/docs/?lang=sv) och guidad [självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Sök [kurser](https://experienceleague.adobe.com/?lang=en#courses) för alla nivåer och roller, fråga frågor från vår webbsida [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) av andra och få expertis [support](https://experienceleague.adobe.com/?support-tab=home#support) när du behöver det.
+Vägen till framgång börjar med [Experience League](https://experienceleague.adobe.com/?lang=en#home). Bläddra i Adobe omfattande bibliotek med självhjälp [produktdokumentation](https://experienceleague.adobe.com/docs/?lang=sv) och guidad [självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Sök [kurser](https://experienceleague.adobe.com/?lang=en#courses) för alla nivåer och roller, fråga frågor från vår webbsida [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) av andra och få expertis [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support) när du behöver det.
 
 ## Uppdateringar och händelser om produktreleaser
 
