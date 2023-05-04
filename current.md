@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
+source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
 workflow-type: tm+mt
-source-wordcount: '5709'
-ht-degree: 8%
+source-wordcount: '5696'
+ht-degree: 9%
 
 ---
 
@@ -31,10 +31,10 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senast uppdaterad: **18 april 2023**
+Senast uppdaterad: **4 maj 2023**
 
-* [[!DNL Experience League] händelser](#events)
-* [Certifiering i Adobe](#certification) (**Nyhet!**)
+* [[!DNL Experience League] händelser](#events) (Uppdaterat: **4 maj**)
+* [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] gränssnitt och administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,27 +58,19 @@ Senast uppdaterad: **18 april 2023**
 
 Ta reda på vad som händer på Experience League. Evenemang är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterat: **19 april 2023**
+Uppdaterat: **4 maj 2023**
 
 +++Kommande event
 
-* **[!DNL Workfront]** | _Fråga experterna: Avancerad rensning av arbetsflöden genom uppföljning av webbinarium för automatisering_ | **27 april kl. 10.30 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Anslut: Admin Chat for Marketing &amp; Creative_ | **5 maj klockan 10:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _AEM Sites Supercharger Workshop_ | **25 april kl. 8.00 PT** |  [Registrera](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign: Rätt e-postmarknadsföring, varje gång!_ | **11 maj kl. 9:00 BST** |  [Registrera](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _Få igång datainsamling och händelsehantering med bara några klick!_ | **25 april kl. 9.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _Lär dig: Beräknade anpassade fält i Workfront_ | **11 maj kl. 10.30 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive: E-poststruktur_ | **25 april kl. 10.00 PT** | [Registrera](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _Handel och kaffe: 7 sätt att bygga kundlojalitet och kundlojalitet_ | **11 maj kl. 13:00 PT** | [Registrera](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM kontorstider - AEM as a Cloud Service_ | **27 april kl. 7.30 PT** | [Registrera](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _Skapa ett team med Adobe Analytics-experter_ | **27 april kl. 8.00 PT** | [Registrera](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target - Leverera personaliserade kundupplevelser varje gång!_ | **27 april kl. 9:00 BST** | [Registrera](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]** |_Besök Summit hela året!_ | **On demand** | [Detaljer](https://business.adobe.com/summit/adobe-summit.html)
-
-Se [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) för ett komplett schema över kommande event och on demand-event.
+* **[!DNL Workfront]** | _Anslut: Strategisk administratörschatt_ | **15 maj kl. 8.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
