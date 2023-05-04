@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
+source-git-commit: f92a2fb6b52631169fcf61eb89789483ff124b49
 workflow-type: tm+mt
-source-wordcount: '5696'
+source-wordcount: '5715'
 ht-degree: 9%
 
 ---
@@ -71,6 +71,8 @@ Uppdaterat: **4 maj 2023**
 * **[!DNL Commerce]** | _Handel och kaffe: 7 sätt att bygga kundlojalitet och kundlojalitet_ | **11 maj kl. 13:00 PT** | [Registrera](https://register.gotowebinar.com/#register/4149787110381957724)
 
 * **[!DNL Workfront]** | _Anslut: Strategisk administratörschatt_ | **15 maj kl. 8.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Gå till [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att visa tidigare händelser och se vad som kommer härnäst.
 
 +++
 
