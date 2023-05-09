@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5427'
+source-wordcount: '5428'
 ht-degree: 7%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senast uppdaterad: **8 maj 2023**
+Senast uppdaterad: **9 maj 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [Certifiering i Adobe](#certification)
@@ -60,7 +60,7 @@ Senast uppdaterad: **8 maj 2023**
 
 Ta reda på vad som händer på Experience League. Evenemang är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterat: **10 maj 2023**
+Uppdaterat: **9 maj 2023**
 
 +++Kommande event
 
@@ -195,7 +195,7 @@ Hitta den senaste versionsinformationen för [!DNL Customer Journey Analytics]. 
 
 +++Information
 
-Nästa version: **10 maj 2023**
+Lanseringsdatum: **10 maj 2023**
 
 * Customer Journey Analytics [versionsinformation](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -217,7 +217,7 @@ Nya videor, självstudiekurser eller kurser publicerade för CJA.
 
 ## ![Ikon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Version: **10 maj 2023**
+Lanseringsdatum: **10 maj 2023**
 
 * [!DNL Streaming Media Analytics] [versionsinformation](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
