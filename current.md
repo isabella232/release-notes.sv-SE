@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5672'
+source-wordcount: '5659'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senast uppdaterad: **9 maj 2023**
+Senast uppdaterad: **10 maj 2023**
 
 * [[!DNL Experience League] händelser](#events)
 * [Certifiering i Adobe](#certification)
@@ -47,8 +47,8 @@ Senast uppdaterad: **9 maj 2023**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac) (Uppdaterat **10 maj**)
+* [[!DNL Journey Optimizer]](#journey-opt) (uppdaterad **10 maj**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Maj 2023 | [Skapa en undersökning](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i Adobe Campaign Classic. | Campaign v8 |
-| Maj 2023 | [Skapa en undersökning](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i Adobe Campaign Classic. | Campaign Classic |
-| Maj 2023 | [Designa e-postinnehåll](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Lär dig hur du konfigurerar, anpassar och testar innehåll för e-postleverans. Lär dig hur du använder mallar, överför bilder, lägger till uttryckssymboler och bäddar in streckkoder och QR-koder. | Campaign Classic |
-| Maj 2023 | [Övervaka en leverans](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Förstå meddelandeloggar, jobbloggar och leveransloggar. | Campaign Standard |
+| Maj 2023 | [Skapa en undersökning](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| Maj 2023 | [Skapa en undersökning](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| Maj 2023 | [Designa e-postinnehåll](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Lär dig hur du konfigurerar, anpassar och testar innehåll för e-postleverans. Lär dig hur du använder mallar, överför bilder, lägger till uttryckssymboler och bäddar in streckkoder och QR-koder. | [!DNL Campaign Classic] |
+| Maj 2023 | [Övervaka en leverans](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Förstå meddelandeloggar, jobbloggar och leveransloggar. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Maj 2023 | [Skapa en webbkampanj](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Lär dig hur du skapar en webbupplevelse med den visuella webbredigeraren i Journey Optimizer-kampanjer. |
+| Maj 2023 | [Skapa en webbkampanj](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Lär dig hur du skapar en webbupplevelse med den visuella webbredigeraren i [!DNL Journey Optimizer] kampanjer. |
 | Maj 2023 | [Skapa en webbkampanj](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Förstå vad en webbkampanj är. Lär dig hur du konfigurerar egenskaperna för webbkampanjer, granskar och publicerar dem. |
-| Maj 2023 | [Exportera datauppsättningar till molnlagringsplatser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Lär dig hur du exporterar en datauppsättning från Journey Optimizer till ett Amazon S3-mål. |
+| Maj 2023 | [Exportera datauppsättningar till molnlagringsplatser](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Lär dig hur du exporterar en datauppsättning från [!DNL Journey Optimizer] till [!DNL Amazon] S3-mål. |
 
 {style="table-layout:auto"}
 
