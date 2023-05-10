@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
+source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
 workflow-type: tm+mt
-source-wordcount: '5659'
+source-wordcount: '5653'
 ht-degree: 8%
 
 ---
@@ -472,9 +472,9 @@ Här finns de senaste funktionerna, förbättringarna och korrigeringarna i [!DN
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)och [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) versionsinformation.
 
-### Nytt [!DNL Campaign] självstudiekurser och kurser {#tutorials-campaign}
+### Nytt [!DNL Campaign] självstudiekurser {#tutorials-campaign}
 
-Nya videor, självstudiekurser eller kurser publicerade för Adobe Campaign.
+Nya videor, självstudiekurser eller kurser som publicerats för [!DNL Adobe Campaign].
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -516,7 +516,7 @@ Läs om den senaste releaseinformationen för [!DNL Journey Optimizer]. Se de se
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Versionsinformation för Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### Nytt [!DNL Journey Optimizer] självstudiekurser och kurser {#tutorials-ajo}
+### Nytt [!DNL Journey Optimizer] självstudiekurser {#tutorials-ajo}
 
 Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey Optimizer].
 
