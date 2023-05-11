@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5653'
+source-wordcount: '5651'
 ht-degree: 8%
 
 ---
@@ -368,7 +368,7 @@ Nya videor, självstudiekurser och kurser som publicerats under den senaste mån
 | Maj 2023 | [Anpassa textredigeraren i interaktiv kommunikation](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | Video | Anpassa textredigeraren i interaktiv kommunikation för att lägga till anpassade teckensnitt och storlekar. | AEM Forms |
 | Maj 2023 | [Reagera app med AEM Forms och Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | Video | Skapa ett interaktivt kommunikationsdokument med data som skickas från en intern svarsapp och presentera dem för slutanvändaren för signering med Acrobat signeringswidget | AEM Forms |
 | Maj 2023 | [Integrera Forms CS med Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | Video | Lär dig konfigurera och integrera AEM Forms CS med Microsoft® Sharepoint | AEM Forms CS |
-| Maj 2023 | [Spara formulärinlämning i en enhet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Konfigurera anpassningsbara formulär för att lagra formulärdata på en enhet. | AEM Forms CS |
+| Maj 2023 | [Spara formulärinlämning i OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Konfigurera anpassningsbara formulär för att lagra formulärdata i OneDrive. | AEM Forms CS |
 | Maj 2023 | [Använda optimerade bilder från AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html) | Video | Lär dig hur du använder optimerade bilder i AEM Headless. | AEM CS |
 | Maj 2023 | [Arbeta med stora resultat i AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | Video | Lär dig hur du arbetar med stora resultatuppsättningar med AEM Headless. | AEM CS |
 
@@ -478,9 +478,9 @@ Nya videor, självstudiekurser eller kurser som publicerats för [!DNL Adobe Cam
 
 | Publicerad | Namn | Typ | Beskrivning | Program |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Maj 2023 | [Skapa en undersökning](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
-| Maj 2023 | [Skapa en undersökning](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| Maj 2023 | [Designa e-postinnehåll](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Lär dig hur du konfigurerar, anpassar och testar innehåll för e-postleverans. Lär dig hur du använder mallar, överför bilder, lägger till uttryckssymboler och bäddar in streckkoder och QR-koder. | [!DNL Campaign Classic] |
+| Maj 2023 | [Skapa en enkät](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| Maj 2023 | [Skapa en enkät](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Lär dig hur du skapar en enkät i [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| Maj 2023 | [Designa innehåll för e-postleverans](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Lär dig hur du konfigurerar, anpassar och testar innehåll för e-postleverans. Lär dig hur du använder mallar, laddar upp bilder, lägger till uttryckssymboler och bäddar in streckkoder och QR-koder. | [!DNL Campaign Classic] |
 | Maj 2023 | [Övervaka en leverans](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Förstå meddelandeloggar, jobbloggar och leveransloggar. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -680,7 +680,7 @@ Senast uppdaterad: **14 april 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, 15 april) Målgruppskampanjer kan nu använda anbudsstrategin&quot;Manual CPM&quot;. Du kan ange bud i inställningarna för underordnade annonser.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, 15 april) Målgruppskampanjer kan nu använda anbudsstrategin&quot;Manual CPM&quot;. Du kan ange bud i inställningarna för underordnade annonser.<br><br>Optimeringsstöd är inte tillgängligt för CPM-kampanjer. |
 | [!UICONTROL Recommendations] | Sex nya ([!DNL Google Ads] rekommendationer är tillgängliga från [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Förslag för att förbättra annonsstyrkan för en responsiv sökannons</li><li>[!UICONTROL Upgrade local campaign to performance max]: Uppgradera en äldre lokal kampanj till en maximal resultatkampanj</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Uppgradera en äldre smart shoppingkampanj till en maximalt resultatanpassad kampanj</li><li>[!UICONTROL Forecasting set Target ROAS]: Öka budgeten före en säsongshändelse som planeras öka trafiken och ändra budgivningsstrategin från [!DNL Maximize Conversion Value] till [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: Öka [!DNL Target CPA] med en rekommenderad mängd när den är för låg och det finns få eller inga konverteringar</li><li>[!UICONTROL Display expansion opt in]: Utvidga räckvidden genom att uppdatera en kampanj för att använda displayexpansion</li></ul>Eftersom det kan påverka resultatet om du lägger till och tar bort resurser, byter kampanjtyper och ändrar budgetar och budstrategier rekommenderar vi att du diskuterar för- och nackdelar med varje rekommendation med ditt Adobe-kontoteam så att du kan fatta ett välgrundat beslut. |
 
 {style="table-layout:auto"}
