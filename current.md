@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
+source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
 workflow-type: tm+mt
-source-wordcount: '5653'
+source-wordcount: '5550'
 ht-degree: 9%
 
 ---
@@ -31,7 +31,7 @@ Vägen till framgång börjar med [Experience League](https://experienceleague.a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senast uppdaterad: **22 maj 2023**
+Senast uppdaterad: **30 maj 2023**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **22 maj**)
 * [Certifiering i Adobe](#certification)
@@ -52,7 +52,7 @@ Senast uppdaterad: **22 maj 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (uppdaterad **30 maj**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -60,7 +60,7 @@ Senast uppdaterad: **22 maj 2023**
 
 Ta reda på vad som händer på Experience League. Evenemang är en utmärkt plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-Uppdaterat: **22 maj 2023**
+Uppdaterat: **30 maj 2023**
 
 **Förbättrad innehållssökning på Experience League:** Du kan anpassa hur du filtrerar innehållssökresultat för de produkter du äger. Visa resultat baserat på:
 
@@ -75,17 +75,13 @@ Gå till [Experience League](https://experienceleague.adobe.com/?lang=en#home) o
 
 +++Kommande event
 
-* **[!DNL Experience Manager]** | _Developer&#39;s Live: Förmåga till upplevelser - Virtuell konferens en dag med livesessioner och möjligheter till nätverkande i communityn._ | **23 maj kl. 8.00 MDT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+* **[!DNL Experience Manager - Cloud Manager]** | _DEM Champion Office Hours - AEM Cloud Manager_ | **31 maj kl. 7.30 PT** | [Registrera](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]** | _Lär dig: Introduktion till Scrum med Adobe Workfront_ | **23 maj klockan 2:00 CT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _Adobe Journey Optimizer Community Q&amp;A Coffee Break with Ivan Mironchuk Peter Fransen, Jason Hickey &amp; Sandra Hausmann_ | **31 maj kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Target]** | _Ge er organisation överblick över datadriven personalisering_ | **24 maj kl. 8.00 PT** | [Registrera](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Audience Manager]** | _Maximera värdet med Adobe Audience Manager: Navigering branschförändringar och övergång till RTCDP_ | **1 juni kl. 10:00 PT** | [Registrera](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]** | _Fråga experterna: Foundations of Project Templates - uppföljning av webbinarium_ | **24 maj kl. 10.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Assets]** | _Espressos &amp; Experience Manager - AEM Assets migrering_ | **25 maj kl. 13:00 PT** | [Registrera](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
-
-Och mycket mer! Gå till [Händelser](https://experienceleague.adobe.com/events/?lang=en) på Experience League för att visa tidigare händelser och se vad som planeras.
+[Mer...](https://experienceleague.adobe.com/events/?lang=en)
 
 +++
 
@@ -671,11 +667,11 @@ Last updated: **August 9, 2022**
 
 Läs om de senaste funktionerna för Adobe-reklam.
 
-Senast uppdaterad: **10 april 2023**
+Senast uppdaterad: **30 maj 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Reports] | (Mars-utgåvan) En ny [!UICONTROL Household] rapporten visar visningar, räckvidd och frekvens för olika dimensioner i ett hushåll baserat på IP-adressen, i stället för på enhets-/cookienivå. Rapporten innehåller nio dimensioner: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Device], [!UICONTROL Audience], [!UICONTROL Creative Length]och har skapats av användaren [!UICONTROL Tags]. |
+| [!UICONTROL Campaigns] | (24 maj-utgåvan) Du kan nu pausa eller aktivera kampanjer, paket och annonser. Du kan redan pausa och aktivera placeringar. |
 
 {style="table-layout:auto"}
 
