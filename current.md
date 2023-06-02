@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5474'
 ht-degree: 9%
 
 ---
@@ -677,14 +677,14 @@ Senast uppdaterad: **30 maj 2023**
 
 {style="table-layout:auto"}
 
-### Nya funktioner i [!DNL Advertising Search] {#advertising-search}
+### Nya funktioner i [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Senast uppdaterad: **14 april 2023**
+Senast uppdaterad: **1 juni 2023**
 
 | Funktion | Beskrivning |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft® Advertising] målgruppskampanjer, 15 april) Målgruppskampanjer kan nu använda anbudsstrategin&quot;Manual CPM&quot;. Du kan ange bud i inställningarna för underordnade annonser.<br><br>Optimeringsstöd är inte tillgängligt för CPM-kampanjer. |
-| [!UICONTROL Recommendations] | Sex nya ([!DNL Google Ads] rekommendationer är tillgängliga från [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Förslag för att förbättra annonsstyrkan för en responsiv sökannons</li><li>[!UICONTROL Upgrade local campaign to performance max]: Uppgradera en äldre lokal kampanj till en maximal resultatkampanj</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Uppgradera en äldre smart shoppingkampanj till en maximalt resultatanpassad kampanj</li><li>[!UICONTROL Forecasting set Target ROAS]: Öka budgeten före en säsongshändelse som planeras öka trafiken och ändra budgivningsstrategin från [!DNL Maximize Conversion Value] till [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: Öka [!DNL Target CPA] med en rekommenderad mängd när den är för låg och det finns få eller inga konverteringar</li><li>[!UICONTROL Display expansion opt in]: Utvidga räckvidden genom att uppdatera en kampanj för att använda displayexpansion</li></ul>Eftersom det kan påverka resultatet om du lägger till och tar bort resurser, byter kampanjtyper och ändrar budgetar och budstrategier rekommenderar vi att du diskuterar för- och nackdelar med varje rekommendation med ditt Adobe-kontoteam så att du kan fatta ett välgrundat beslut. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports], [!UICONTROL Objectives] | (Open beta; 30 maj) Konverteringar spåras av [!DNL Microsoft Advertising] UET-taggen (Universal Event tracking) är ny i kampanjhanteringsvyer och rapporter. Du kan även optimera för dessa konverteringar genom att inkludera dem i mål för portföljer som innehåller [!DNL Microsoft Advertising] kampanjer. |
+| [!UICONTROL Reports] | (Open beta; 30 maj) Tre nya specialrapporter innehåller data för [!DNL Microsoft Advertising] annonstillägg: [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Ad Extension by Ad Report]och [!UICONTROL MSA Ad Extension by Keyword Report]. |
 
 {style="table-layout:auto"}
 
