@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6269'
 ht-degree: 8%
@@ -143,6 +143,8 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe Experience Pl
 | Juni 2023 | [Aktivera segment och profilattribut](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html) | Video | Lär dig hur du aktiverar segment och profilattribut från [!DNL Real-Time Customer Data Platform] till Adobe [!DNL Target]. Visa personaliserat innehåll i realtid på webbplatser, i mobilappar och andra digitala resurser. |
 | Juni 2023 | [Klassificera data med etiketter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | Video | Lär dig hur du använder etiketter i dina scheman och datauppsättningar. Tack vare etiketter för dataanvändning kan ni tagga och klassificera data för att återspegla företagets policyer, avtalsförpliktelser, efterlevnadskrav och regionala bestämmelser i [!DNL Experience Platform]. |
 | Juni 2023 | [Använd [!DNL Real-Time CDP] profilattribut i Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | Video | Lär dig använda [!DNL Real-Time Customer Data Platform] profilattribut i Adobe [!DNL Target] för att leverera personaliserade upplevelser på er webbplats och i era mobilappar. |
+
+{style="table-layout:auto"}
 
 +++
 
