@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
+source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
 workflow-type: tm+mt
 source-wordcount: '6269'
 ht-degree: 8%
@@ -620,7 +620,7 @@ Nya videor, självstudiekurser eller kurser som publicerats för Adobe Marketo.
 | -----------| ---------- | ---------- | ---------- |
 | Juni 2023 | [Standardprogram](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | Video | Lär dig hur du skapar och mäter din första [!UICONTROL Default Program]. |
 | Juni 2023 | [E-postprogram](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | Video | Titta på den här stegvisa självstudiekursen för att lära dig hur du skapar ett e-postprogram med ett A/B-test. |
-| Juni 2023 | [Engagement Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | Video | Följ den här stegvisa självstudiekursen för att skapa ditt första engagemangsprogram. |
+| Juni 2023 | [Engagement Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | Video | Följ den här stegvisa självstudiekursen för att skapa ditt första engagemangsprogram. |
 | Juni 2023 | [Händelseprogram](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | Video | Utveckla en grundläggande förståelse och bygg ditt första Event-program genom att titta på den här videon. |
 | Juni 2023 | [Skapa ett händelseprogram](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | Video | Lär dig hur du skapar ett evenemangsprogram som bygger på ett fördefinierat program i [!DNL Marketo]. |
 | Juni 2023 | [Rapportering och analys](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | Video | Lär dig navigera i [!DNL Analytics] och [!UICONTROL Database] för att dra igång olika färdiga rapporter i [!DNL Marketo Engage]. |
@@ -738,7 +738,7 @@ Nya självstudiekurser och kurser publicerade för [!DNL Document Cloud], inklus
 | Juni 2023 | [Konvertera en PDF till PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | Video | I den här 60-sekundersvideosjälvstudiekursen får du lära dig hur du konverterar en PDF-fil till ett fullt redigerbart Microsoft PowerPoint-dokument. | Acrobat |
 | Juni 2023 | [Samarbeta i realtid](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | Med fjärrarbete överallt är smidigt samarbete avgörande för att leverera innehåll snabbt och i stor skala. Flytta dina projekt framåt genom att samla in kommentarer, samarbeta om svar och följa upp förloppet för dina dokument i realtid, var du än är. | Acrobat Sign |
 | Juni 2023 | [Hantera formulärdata](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | Video | Lär dig hur du konsoliderar formulärdata från dina dokument, så att du kan visa och hantera dem i en rapport eller ett Excel-kalkylblad. | Acrobat Sign |
-| Juni 2023 | [Autentiseringsmetoder i Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Video | Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på den som signerar ett dokument. Identitetsautentisering hjälper till att minska antalet bedrägerier och lägger till ett extra säkerhetslager till dokument som signeras. |  |
+| Juni 2023 | [Autentiseringsmetoder i Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Video | Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på den som signerar ett dokument. Identitetsautentisering hjälper till att minska antalet bedrägerier och lägger till ett extra säkerhetslager till dokument som signeras. | |
 | Juni 2023 | [Lägga till användare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | Video | Lär dig hur du lägger till och hanterar användare för Acrobat Sign. Användarhantering sker i Admin Console. | Acrobat Sign |
 | Juni 2023 | [Rapportalternativ för användare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | Video | Som Acrobat Sign-administratör kan du lära dig hur du ställer in rapportalternativ för användare. | Acrobat Sign |
 
