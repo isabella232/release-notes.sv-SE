@@ -6,9 +6,9 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
+source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
 workflow-type: tm+mt
-source-wordcount: '6085'
+source-wordcount: '5985'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **7 juni 2023**
+Senaste uppdatering: **21 juni 2023**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -64,15 +64,13 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 +++Kommande event
 
-* **[!DNL Workfront]** | _Anslut: Admin Chat for Marketing &amp; Creative_ | **6 juni kl. 3:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _Handel och kaffe: B2B-samarbete lyckades_ | **22 juni kl. 13:00 ET** | [Registrera](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas - kundresehantering: Livscykelmodellering_ | **8 juni klockan 13:00 ET** | [Registrera](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _Överordnad the Art of Experience Manager Certification - Get Ready, Get Set, Get Certified!_ | **28 juni kl. 8.00 PT** | [Registrera](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]** | _Fråga experterna: Utnyttja den kostnadsfria integrationen mellan Adobe Workfront och Creative Cloud_ | **8 juni kl. 10.30 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Spåra, analysera och optimera era marknadsföringskampanjer med Marketo Engage_ | **28 juni kl. 8.00 PT** | [Registrera](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _Anslut: Workfront Strategic Admin Chatt_ | **12 juni kl. 8.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Fråga experterna: Resurshantering i Workfront kontorstider_ | **13 juni kl. 2:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Fråga experterna: Upprättande av uppföljning av Center of Excellence Webinar_ | **28 juni kl. 10.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [Mer...](https://experienceleague.adobe.com/events?lang=sv/)
 
