@@ -6,9 +6,9 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5d551af30eb02a07b87506775b8c9e5180a508
+source-git-commit: 35e5429a141ab07dbaac97d168197ffcdadbea2b
 workflow-type: tm+mt
-source-wordcount: '6072'
+source-wordcount: '6074'
 ht-degree: 8%
 
 ---
@@ -352,7 +352,7 @@ _Frigör högdagrar_
 
 >[!IMPORTANT]
 >
->Adobe rekommenderar att du [uppgradera till den senaste 1.9.10-versionen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html) för Workfront för Experience Manager förbättrade kontakter. <!-- NEW. LEAVE IN FOR JUNE 7 -->
+>Adobe rekommenderar att du [uppgradera till den senaste 1.9.10-versionen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets-view/integrations/workfront-connector-install.html?lang=en) för Workfront för Experience Manager förbättrade kontakter. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _Kända fel_
 
