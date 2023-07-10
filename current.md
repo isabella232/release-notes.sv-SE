@@ -6,9 +6,9 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
+source-git-commit: 1920ee48d086e95dfcfe608f6c17e0cbd197b99c
 workflow-type: tm+mt
-source-wordcount: '6074'
+source-wordcount: '6145'
 ht-degree: 8%
 
 ---
@@ -31,9 +31,9 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **21 juni 2023**
+Senaste uppdatering: **10 juli 2023** (Sidan Händelser)
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **10 juli**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] gränssnitt och administration](#ecloud)
@@ -65,15 +65,19 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 +++Kommande event
 
-* **[!DNL Commerce]** | _Handel och kaffe: B2B-samarbete lyckades_ | **22 juni kl. 13:00 ET** | [Registrera](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Anslut: Community Chat_ | **13 juli kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Överordnad the Art of Experience Manager Certification - Get Ready, Get Set, Get Certified!_ | **28 juni kl. 8.00 PT** | [Registrera](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _Mät marknadsföringen, på djupet_ | **13 juli kl. 9:00 BST** | [Registrera](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Spåra, analysera och optimera era marknadsföringskampanjer med Marketo Engage_ | **28 juni kl. 8.00 PT** | [Registrera](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Anslut: Admin Chat for Marketing &amp; Creative_ | **14 juli kl. 10.00 MT** | [Registrera](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _Fråga experterna: Upprättande av uppföljning av Center of Excellence Webinar_ | **28 juni kl. 10.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _Lås upp värdet för era marknadsföringskanaler_ | **18 juli kl. 8.00 PT** | [Registrera](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[Mer...](https://experienceleague.adobe.com/events?lang=sv/)
+* **[!DNL AEM as a Cloud Service]** | _Effektiva säkerhetsstrategier inom Cloud Service_ | **18 juli kl. 8.00 PT** | [Registrera](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _Lär dig: Adobe Workfront version 23.3, avrunda uppåt_ | **20 juli kl. 11.00 kl.** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Visa alla [kommande event](https://experienceleague.adobe.com/events?lang=sv/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). Du kan nu använda den vänstra navigeringen för att söka efter inspelade händelser baserat på serietyp eller program.
 
 +++
 
