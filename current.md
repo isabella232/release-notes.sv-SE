@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5753'
+source-wordcount: '5751'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **11 juli 2023**
+Senaste uppdatering: **12 juli 2023**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -424,19 +424,19 @@ Alla [!DNL Experience Manager] versionsinformationen finns på följande sidor:
 
 Nya videor, självstudiekurser eller kurser som publicerats för Experience Manager.
 
-| Publicerad | Namn | Typ | Beskrivning | Program |
+| Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Juli 2023 | [Snabb åtkomst](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Video | Lär dig mer [!UICONTROL Quick Access] kan öka din produktivitet och effektivisera arbetsflödet genom att fungera som din egen lins i [!DNL AEM Assets]. Med den här funktionen har du alla resurser du behöver för dina tilldelade uppgifter nära till hands. | [!DNL AEM Assets] |
-| Juli 2023 | [Visa _tack_ meddelande om att skicka formulär utan rubrik](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artikel | Visa en _tack_ meddelande om att formulär har skickats utan rubriker. | [!DNL AEM Forms] |
-| Juli 2023 | [Förhandsgranska bokmärke - kodexempel](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artikel | Lär dig hur du skapar en JavaScript-bokmärkesförhandsvisning av dina[!UICONTROL  App Builder Content Fragment] tillägg i samband med AEM [!UICONTROL Content Fragment] sidor. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Exportera innehållsfragment till XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artikel | Anpassade knappar kan läggas till i [!UICONTROL Content Fragment Editor] rubrikmeny med `headerMenu` tilläggspunkt. I det här exemplet visas hur du lägger till en knapp på rubrikmenyn och hur du hanterar click-händelsen för att exportera den aktiva [!UICONTROL Content Fragment] som XML eller CSV. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Visa formuläret på kortet genom att klicka](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artikel | Gå igenom formuläret från kortvyn. | [!DNL AEM Forms] |
-| Juli 2023 | [Lägga till widgetar i RTF-redigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Video | Lär dig hur du lägger till widgetar i textredigeraren i AEM [!UICONTROL Content Fragment Editor]. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Lägg till märken i RTF-redigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Video | Lär dig hur du lägger till märken i textredigeraren i AEM [!UICONTROL Content Fragment Editor]. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [Anpassade stödrasterkolumner](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Video | Lär dig hur du kan lägga till en anpassad stödrasterkolumn i [!UICONTROL Content Fragment Console]. | [!UICONTROL Content Fragments] |
-| Juli 2023 | [3D-resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Video | Läs mer om stöd för 3D-resurser i [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| Juli 2023 | [Referenser](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Lär dig hur AEM Content Fragment Console och Editor gör det enkelt att förstå och hantera refererat innehåll. | [!DNL AEM Sites] |
-| Juli 2023 | [Anpassa svar baserat på skickade data](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Video | Skapa en anpassad skicka-tjänst för att hantera headless adaptive form submit. | [!DNL AEM Forms] |
+| Juli 2023 | [!DNL AEM Assets] | [Snabb åtkomst](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Video | Lär dig mer [!UICONTROL Quick Access] kan öka din produktivitet och effektivisera arbetsflödet genom att fungera som din egen lins i [!DNL AEM Assets]. Med den här funktionen har du alla resurser du behöver för dina tilldelade uppgifter nära till hands. |
+| Juli 2023 | [!DNL AEM Assets] | [3D-resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Video | Läs mer om stöd för 3D-resurser i [!DNL AEM Assets as a Cloud Service]. |
+| Juli 2023 | [!DNL AEM Forms] | [Visa _tack_ meddelande om att skicka formulär utan rubrik](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artikel | Visa en _tack_ meddelande om att formulär har skickats utan rubriker. |
+| Juli 2023 | [!DNL AEM Forms] | [Visa formuläret på kortet genom att klicka](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artikel | Gå igenom formuläret från kortvyn. |
+| Juli 2023 | [!DNL AEM Forms] | [Anpassa svar baserat på skickade data](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Video | Skapa en anpassad skicka-tjänst för att hantera headless adaptive form submit. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Förhandsgranska bokmärkesdiagram](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artikel | Lär dig hur du skapar en JavaScript-bokmärkesförhandsvisning av dina[!UICONTROL  App Builder Content Fragment] tillägg i samband med AEM [!UICONTROL Content Fragment] sidor. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Exportera innehållsfragment till XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artikel | Anpassade knappar kan läggas till i [!UICONTROL Content Fragment Editor] rubrikmeny med `headerMenu` tilläggspunkt. I det här exemplet visas hur du lägger till en knapp på rubrikmenyn och hur du hanterar click-händelsen för att exportera den aktiva [!UICONTROL Content Fragment] som XML eller CSV. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Lägga till widgetar i RTF-redigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Video | Lär dig hur du lägger till widgetar i textredigeraren i AEM [!UICONTROL Content Fragment Editor]. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Lägg till märken i RTF-redigeraren](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Video | Lär dig hur du lägger till märken i textredigeraren i AEM [!UICONTROL Content Fragment Editor]. |
+| Juli 2023 | [!UICONTROL Content Fragments] | [Anpassade stödrasterkolumner](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Video | Lär dig hur du kan lägga till en anpassad stödrasterkolumn i [!UICONTROL Content Fragment Console]. |
+| Juli 2023 | [!DNL AEM Sites] | [Referenser](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Lär dig hur AEM Content Fragment Console och Editor gör det enkelt att förstå och hantera refererat innehåll. |
 
 {style="table-layout:auto"}
 
