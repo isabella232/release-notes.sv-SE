@@ -2,20 +2,22 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+role: User,Admin,Developer
+product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.sv-SE
 index: true
-source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
+source-git-commit: 61ddca8eea54372f44bbfd1e0e32e58cbb44e31c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 75%
 
 ---
 
 
 # Metadata för intern användning
 
-Filen metadata.md innehåller metadata på arkivnivå som skickas till användarhandbokens TOC.md-filer i arkivet. Om du vill ändra innehåll i metadata.md för någon användarhandbok gör du detta i en TOC.md-fil.
+Filen metadata.md innehåller metadata på lagringsplatsnivå som skickas till TOC.md-filer för användarhandboken i lagringsplatsen. Om du vill ändra innehållet för metadata.md för en användarhandbok gör du det i en TOC.md-fil.
 
 | metadata | vad gör den |
 |--- |--- |
