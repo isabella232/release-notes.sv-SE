@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5751'
 ht-degree: 6%
@@ -133,7 +133,7 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL E
 
 Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Experience Platform].
 
-| Typ | Funktioner | Beskrivning |
+| Publicerad | Funktioner | Beskrivning |
 | -----------| ---------- |---------- |
 | Juli 2023 | [Importera exempeldata till [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | Uppdaterad video | Lär dig hur du skapar en [!DNL Experience Platform] sandlådemiljö med exempeldata. Använda en [!UICONTROL Postman] samling kan du skapa fältgrupper, scheman, datamängder och sedan importera exempeldata till [!DNL Experience Platform]. |
 | Juli 2023 | [Autentisera och få åtkomst [!DNL Experience Platform] API:er](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html) | Uppdaterad video | Kom igång med Adobe [!DNL Experience Platform] API:er. Den här självstudiekursen vägleder dig genom processen att skapa inloggningsuppgifter och skapa [!DNL Experience Platform] API-begäranden. |
