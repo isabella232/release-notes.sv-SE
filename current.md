@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5751'
 ht-degree: 6%
@@ -31,7 +31,7 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **12 juli 2023**
+Senaste uppdatering: **18 juli 2023**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -176,7 +176,7 @@ Hitta den senaste versionsinformationen för [!DNL Adobe Analytics] och [!DNL Ap
 
 ### AppMeasurement {#appm}
 
-Version: **2.23.0**
+Version: **2.24.0**
 
 * [Versionsinformation om AppMeasurement for JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
