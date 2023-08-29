@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94e567e767551992e794b8c8476307d441d77953
+source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
 workflow-type: tm+mt
-source-wordcount: '5489'
+source-wordcount: '5407'
 ht-degree: 6%
 
 ---
@@ -31,9 +31,9 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **9 augusti 2023**
+Senaste uppdatering: **29 augusti 2023**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **29 augusti**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] gränssnitt och administration](#ecloud)
@@ -72,20 +72,17 @@ Lär dig mer om de vanligaste integreringarna med Experience Cloud-program. Blä
 
 +++Kommande event på Experience League
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Connect - Workfront Strategic Admin Chatt_ |**14 augusti kl. 7:00 kl. 14** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** | Webbseminarium | Community Q&amp;A Coffee Break with Adobe Journey Optimizer expert Siddharth Jain, Chetan Prasad &amp; Nikhil Sharma_ | **30 augusti kl. 8.00** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE MANAGER]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Experience Manager_ | **17 augusti kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE CLOUD]** | Webbseminarium | _Den perfekta blandningen: Marketo + Workfront_ | **31 augusti kl. 13:00 ET** | [Registrera](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Workfront_ | **16 augusti kl. 9:00 PT** | [Registrera](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
-* **[!DNL ANALYTICS]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Analytics_ | **17 augusti kl. 9:00 PT** | [Registrera](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
+* **[!DNL WORKFRONT]** | Community-event | _Adobe Workfront Connect: Admin Chat for Marketing &amp; Creative_ | **1 september klockan 10:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL TARGET]** | Webbseminarium | _Strategiera för maximal ROI-påverkan med beredskap för högsäsong_ | **17 augusti kl. 8.00 PT** | [Registrera](https://adobepeakseasonreadiness2023.experienceleague.adobeevents.com/)
+* **[!DNL MARKETO ENGAGE]** | Community-event | _Öka e-postleveransen med[!DNL Marketo Engage]_ | **7 september kl. 8.00 PT** | [Registrera](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig med Workfront - Begärda köer_ | **22 augusti kl. 9:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **ALLMÄNT** | Livesream | _App Builder Live - migrerar till OAuth_ | **7 september kl. 9:00 PT** | [Registrera](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL EXPERIENCE CLOUD]** | Webbseminarium | _Den perfekta blandningen: Adobe Analytics + Adobe Commerce_ | **22 augusti kl. 11.00 MT** | [Registrera](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
-
-* **[!DNL EXPERIENCE CLOUD]** | Webbseminarium | _Den perfekta blandningen: Marketo + Workfront_ | **31 augusti kl. 11.00 MT** | [Registrera](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Handla som systemadministratör för heltid_ | **7 september klockan 12:00 CT** | [Registrera](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 Visa alla [kommande event](https://experienceleague.adobe.com/events?lang=sv/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). Du kan nu använda den vänstra navigeringen för att söka efter inspelade händelser baserat på serietyp eller program.
 
@@ -324,7 +321,7 @@ _Ny funktion i prerelease channel_
 _Nya funktioner_
 
 * **Förbättrat ramverk för artificiell intelligens för smarta taggar i bilder** - Experience Manager Assets använder nu ett förbättrat ramverk för artificiell intelligens för smarta taggar i bilder. Den här innehållsintelligensen ger bättre relevans och precision för smarta taggar som är tillgängliga för alla bildresurser vid förtäring.
-* **Konfigurera visning av kolumner för resurslista-vyn** - I Assets Essentials kan du nu välja de kolumner som ska visas i resurslista, till exempel Namn, Status, Format, Dimensioner, Storlek och Ändrad.
+* **Konfigurera visning av kolumner för resurslista-vyn** - Assets Essentials kan nu välja vilka kolumner som ska visas i resurslista, till exempel Namn, Status, Format, Dimensioner, Storlek och Ändrad.
 * **Sortera sökresultat baserat på relevans** - Assets Essentials sorterar nu sökresultaten baserat på relevans som standard. Du kan sortera de sökda resurserna i stigande eller fallande ordning efter `Name`, `Relevance`, `Size`, `Modified`och `Created`.
 
 ### [!DNL Experience Manager Forms] som [!DNL Cloud Service]
@@ -402,7 +399,7 @@ _Kända fel_
 ### Community
 
 * [!DNL Experience Manager as a Cloud Service] 2023.7.0 - Versionsuppdatering: [https://adobe.ly/3Y6CC6J](https://adobe.ly/3Y6CC6J)
-* AEM GEM:er, 28 juni 2023 - Inspelning finns för&quot;Överordnad the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!&quot;: [https://adobe.ly/3p2CmbA](https://adobe.ly/3p2CmbA)
+* AEM GEM:er, 28 juni 2023 - Inspelning finns för&quot;Master the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!&quot;: [https://adobe.ly/3p2CmbA](https://adobe.ly/3p2CmbA)
 
 ### [!DNL Experience Manager] versionsinformation
 
@@ -504,7 +501,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för Adobe Commerce.
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|--------|---------|---------|
-| Juli 2023 | [QPT (Quality Patches Tool)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | Nya artiklar | Nya artiklar om hur du tillämpar plåster som finns i QPT 1.1.32, QPT 1.1.33 och QPT 1.1.34 har publicerats och finns i respektive avsnitt. |
+| Juli 2023 | [QPT (Quality Patches Tool)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html) | Nya artiklar | Nya artiklar om hur du tillämpar plåster som finns i QPT 1.1.32, QPT 1.1.33 och QPT 1.1.34 publicerades och finns i respektive avsnitt. |
 | Juli 2023 | [_Det går inte att ta bort filen. Varning!unlink: Det finns inget sådant fil- eller katalogfel från administratören_](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/file-cannot-be-deleated-no-file-or-directory.html) | Nya artiklar | Lär dig lösningen på problemet där användaren ser ett fel _Det går inte att ta bort filen. Varning!unlink: Det finns inget sådant fil- eller katalogfel_ från Commerce Admin när du tömmer JavaScript/CSS. |
 
 {style="table-layout:auto"}
@@ -568,7 +565,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Campaign].
 
 * [!DNL Campaign] v8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementeringsguider](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
 * [!DNL Campaign] Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Instruktionsfilmer](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv) - [Frisläppningsplanering](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
-* [!DNL Campaign] Klassisk: [Dokumentation för Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Instruktionsfilmer](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
+* [!DNL Campaign] Klassisk: [Campaign Classic v7 - Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Instruktionsfilmer](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * [!DNL Campaign] Kontrollpanelen: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv) - [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html) - [Instruktionsfilmer](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=sv)
 
 +++
