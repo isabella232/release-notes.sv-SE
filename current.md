@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 18f0dfbf87fbd168537caa313c03b27e94c8203e
+source-git-commit: 3543720e4e115c18473596f4953f3a2cad88f997
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7847'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| September 2023 | Experience Cloud | Customer Success Webinar | [Att fastställa en effektiv Audience Activation-strategi](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | Detta seminarium behandlar vikten av en datahanteringsstrategi, Adobe Audience Manager Översikt och funktioner, Adobe Audience Manager Användningsexempel, Action Plan for Setting Up a Data Management Strategy |
+| September 2023 | Experience Cloud | [Att fastställa en effektiv Audience Activation-strategi](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | Customer Success Webinar | Läs om vikten av en datahanteringsstrategi, Adobe Audience Manager Overview &amp; Capabilities, Adobe Audience Manager Use Case, Action Plan for Setting Up a Data Management Strategy |
 | Sommaren 2023 | Experience Cloud | [Självstudiekurser för integrering av Experience Cloud-program](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | Videor | Läs mer om de vanligaste integreringarna med Experience Cloud. Bläddra bland självstudiekurser för integrering med [lösning](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) eller [program](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en). Det här innehållet uppdateras ofta, så du bör kontrollera det ofta. |
 
 {style="table-layout:auto"}
@@ -655,9 +655,9 @@ Få de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självstudi
 
 * Campaign Standard: [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
-* Campaign Classic v7: [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* Campaign Classic v7.3.4: [Versionsinformation](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
-* Nyhet! Kontrollpanelen: [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* Kontrollpanelen: [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 
 Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html)och [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) versionsinformation.
 
