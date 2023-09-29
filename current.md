@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7036'
+source-wordcount: '7175'
 ht-degree: 5%
 
 ---
@@ -647,6 +647,11 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| September 2023 | [Hantera, redigera och använda fragment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html) | Video | Lär dig hur du hanterar, redigerar och använder fragment i Adobe Journey Optimizer. |
+| September 2023 | [Stöd för ensidiga program (SPA) i webbredigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Lär dig hur du skapar single-page-program (SPA) i Journey Optimizer webbredigerare. |
+| September 2023 | [Kanalnivårapporter](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Video | Lär dig hur du får åtkomst till, navigerar och exporterar rapporter på kanalnivå. |
+| September 2023 | [Exportera rapporter i CSV-format](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Video | Lär dig hur du hämtar en CSV-rapport för en rapport och för en enskild widget. |
+| September 2023 | [Stöd för ensidiga program (SPA) i webbredigeraren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Lär dig hur du skapar single-page-program (SPA) i Journey Optimizer webbredigerare. |
 | September 2023 | [Skapa ett meddelande i appen under en resa](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html) | Video | Förstå vad ett meddelande i appen är och hur det kan användas under en resa. Lär dig hur du skapar ett meddelande i appen under en resa och hur du testar och publicerar din resa. |
 
 {style="table-layout:auto"}
