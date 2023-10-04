@@ -6,7 +6,7 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b3412fc88c958976a09a92056b29f55bc0cd2351
+source-git-commit: 5cae1d473da0a27eed20018de5545af7d76f0953
 workflow-type: tm+mt
 source-wordcount: '7455'
 ht-degree: 6%
@@ -79,9 +79,9 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 * **[!DNL ANALYTICS]** | Webbseminarium | _Upptäck och leverera användbara insikter med Adobe Analytics_ | **5 oktober kl. 9:00 BST** | [Registrera](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** | Webbseminarium | _Nyheter i Adobe Workfront 23.10_ | **5 oktober kl. 7:00 PT** | [Registrera](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | Webbseminarium | _Nyheter i Adobe Workfront 23.10_ | **5 oktober klockan 10:00 ET** | [Registrera](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** | Webbseminarium | _Espressos &amp; Experience Manager: uppgradera till Dynamic Media_ | **5 oktober klockan 13:00 ET** | [Registrera](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** | Webbseminarium | _Espressos &amp; Experience Manager: uppgradera till Dynamic Media_ | **5 oktober kl. 11.00 MDT** | [Registrera](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** | Customer Workshop | _Fråga experterna: Automatisera arbetsprocesserna med Workfront Fusion_ | **5 oktober klockan 11:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -89,7 +89,7 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Få användarna att använda Workfront_ | **17 oktober klockan 9:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** och **[!DNL COMMERCE]** | Utvecklare live | _Innehåll och handel: En djupdykning i [!UICONTROL Edge Delivery Services], headless-funktioner, utbyggbarhet, sammansättningsbarhet och produktivitetsverktyg_ | **6 november kl. 9:00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** och **[!DNL COMMERCE]** | Utvecklare live | _Innehåll och handel: En djupdykning i [!UICONTROL Edge Delivery Services], headless-funktioner, utbyggbarhet, sammansättningsbarhet och produktivitetsverktyg_ | **6 november kl. 8.00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Visa alla [kommande event](https://experienceleague.adobe.com/events?lang=sv/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). Du kan nu använda den vänstra navigeringen för att söka efter inspelade händelser baserat på serietyp eller program.
 
