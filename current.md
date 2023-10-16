@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 230040e579ffeedd77e493036bf23f0c1ea33d63
 workflow-type: tm+mt
-source-wordcount: '7485'
+source-wordcount: '7468'
 ht-degree: 6%
 
 ---
@@ -21,19 +21,13 @@ ht-degree: 6%
 
 **Oktober 2023**
 
-På den här sidan kan du hålla dig uppdaterad om produktreleaser, evenemang och utbildningsmöjligheter på Experience League.
-
->[!TIP]
->
->Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html). Kolla in det som händer i Adobe företagsapplikationer.
-
-**Behöver du hjälp?**
-
-Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i hela Adobe bibliotek med självhjälpsresurser. Bläddra [produktdokumentation](https://experienceleague.adobe.com/docs/), [självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html), [kurser](https://experienceleague.adobe.com/?lang=sv#courses)och [händelser](https://experienceleague.adobe.com/events?lang=sv/) för alla nivåer och roller. Ställ frågor på webben [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) av andra och få expertis [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support) när du behöver det som mest.
+På den här sidan kan du hålla dig uppdaterad om produktreleaser, evenemang och utbildningsmöjligheter på Experience League. Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Uppdateringar och händelser om produktreleaser
 
-Senaste uppdatering: **9 oktober 2023**
+Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i hela Adobe bibliotek med självhjälpsresurser. Bläddra [produktdokumentation](https://experienceleague.adobe.com/docs/), [självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html), [kurser](https://experienceleague.adobe.com/?lang=sv#courses)och [händelser](https://experienceleague.adobe.com/events?lang=sv/) för alla nivåer och roller. Ställ frågor på webben [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) av andra och få expertis [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support) när du behöver det som mest.
+
+Uppdaterat: **9 oktober 2023**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
