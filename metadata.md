@@ -4,12 +4,11 @@ type: Documentation
 solution: Experience Cloud
 feature-set: Experience Cloud
 feature: Release Notes
-role: User,Admin,Developer
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.sv-SE
 index: true
-source-git-commit: af038757181530a07c2f09bf50debb776c21de35
+source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 75%
@@ -28,10 +27,10 @@ Filen metadata.md innehåller metadata på lagringsplatsnivå som skickas till T
 | solution-icon | Visar lösningsikonen bredvid lösningstiteln Inte implementerat ännu |
 | getting-started-title | Används sällan när Tutorials inte är lämpligt |
 | getting-started-url | Länk till startsidan i helpx |
-| självstudiekurser-titel | Används sällan när Tutorials inte är lämpligt |
+| tutorials-title | Används sällan när Tutorials inte är lämpligt |
 | tutorials-url | Länk till videosjälvstudiekurser – antingen helpx-självstudiekurser eller KT-självstudiekurser |
 | mini-toc-levels | Anger antalet rubriknivåer som visas i det högra fältet. standard är två |
-| git-repo | Anger platsen för samarbetssvaret. Använd github.com-spegeln för offentliga dokument |
+| git-repo | Anger platsen för samarbetssvaret. Använd github.com spegling för offentliga dokument |
 
 I filen TOC.md
 
