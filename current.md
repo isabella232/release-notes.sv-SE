@@ -1,14 +1,14 @@
 ---
 title: Senaste versionsinformation
-description: Läs den senaste versionsinformation om produkter och tjänster i Adobe  [!DNL Experience Cloud] . Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för programmen i  [!DNL Experience Cloud] .
+description: Hitta den senaste versionsinformationen för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för programmen i  [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
+source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
 workflow-type: tm+mt
-source-wordcount: '6750'
+source-wordcount: '6916'
 ht-degree: 5%
 
 ---
@@ -17,28 +17,35 @@ ht-degree: 5%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-
 <!-- ![Banner](assets/release-notes-header.png) -->
 
+På den här sidan hittar du versionsinformation för företagsapplikationer för Experience Cloud och Adobe. Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i hela Adobe kostnadsfria bibliotek med självhjälpsresurser, inklusive:
 
-Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i hela Adobe bibliotek med självhjälpsresurser. Bläddra [produktdokumentation](https://experienceleague.adobe.com/docs/), [självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html), [kurser](https://experienceleague.adobe.com/?lang=sv#courses)och [händelser](https://experienceleague.adobe.com/events?lang=sv/) för alla nivåer och roller. Ställ frågor på webben [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) av andra och få expertis [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support) när du behöver det som mest.
+* [Produktdokumentation](https://experienceleague.adobe.com/docs/)
+* [Självstudievideor](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [Kurser](https://experienceleague.adobe.com/?lang=sv#courses)
+* [Händelser på Experience League](https://experienceleague.adobe.com/events?lang=sv/)
+* [Communities per produkt](https://experienceleaguecommunities.adobe.com/?profile.language=en)
+* [Programstöd](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support)
 
 Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
-**November 2023**
+<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
-Senaste uppdatering: **25 oktober 2023**
+## November 2023
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+Senaste uppdatering: **27 oktober 2023**
+
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **27 oktober**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Experience Platform]](#platform) (släppt **25 oktober**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Analytics]](#analytics) (släppt **25 oktober**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (släppt **25 oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (släppt **26 oktober**)
 * [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -64,15 +71,23 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 +++Kommande event på Experience League
 
-* **[!DNL WORKFRONT]** | Kaffebrytning | _Workfront Coffee Break: Communication Methods for Adoption_ | **26 oktober kl. 8.30 PTT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
-
-* **[!DNL WORKFRONT]** | EXPERIENCE LEAGUE LIVE | _Workfront Release Deep Dive - Nya Workfront Home_ | **26 oktober kl. 9.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-231026.html)
-
 * **[!DNL WORKFRONT]** | Kundworkshop | _Läs mer: Adobe Workfront Q4-2023 Release Roundup_ | **31 oktober kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE PLATFORM]** | Webbseminarium | _Övervinn flerkanalsutmaningar inom detaljhandeln_ | **1 november kl. 9:00 PT** | [Registrera](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
+* **[!DNL CAMPAIGN]** | Webbseminarium | _Adobe Campaign: Samordna, lansera och mät flerkanalskampanjer smidigt_ | **2 november kl. 9:00 BST** | [Registrera](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+
+* **[!DNL MARKETO]** och **[!DNL MARKETO ENGAGE]** | Lär dig av andra | _Hantera isolerade kanaler och data med Marketo Engage och Dynamic Chat_ | **2 november kl. 8.00** | [Registrera](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+
+* **[!DNL ANALYTICS]** | Lär dig av andra | _The Art and Science of Impact Data Visualizations in Adobe Analytics_ | **2 november klockan 11:00 ET** | [Registrera](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+
+* **[!DNL WORKFRONT]** | Lär dig av andra | _Fråga kundpanelen - Komma igång med gruppadministratörer_ | **2 november kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Admin Chat for Marketing &amp; Creative_ | **3 november kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL AEM]** och **[!DNL COMMERCE]** | Utvecklare live | _Innehåll och handel: En djupdykning i [!UICONTROL Edge Delivery Services], headless-funktioner, utbyggbarhet, sammansättningsbarhet och produktivitetsverktyg_ | **6 november kl. 8.00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webbseminarium | _Öka effektiviteten när det gäller framtagning och hantering av innehåll_ | **7 november kl. 8.00 PT** | [Registrera](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
 Visa mer [kommande event](https://experienceleague.adobe.com/events?lang=sv/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
@@ -141,7 +156,7 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL E
 
 +++Information
 
-* Versionsinformation om [[!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [[!DNL Experience Platform] versionsinformation](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (**25 oktober**)
 
 * [[!DNL Experience Platform] Versionsinformation för Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
