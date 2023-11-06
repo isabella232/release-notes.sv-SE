@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
+source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
 workflow-type: tm+mt
-source-wordcount: '6916'
+source-wordcount: '6935'
 ht-degree: 5%
 
 ---
@@ -560,6 +560,7 @@ Få tillgång till versionsinformation, nya självstudiekurser och kunskapsbasar
 +++Information
 
 * Se [Versionsinformation för [!DNL Adobe Commerce] och [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) för att hålla dig uppdaterad.
+* Se [Adobe Commerce Services Guides](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) för att se information och dokumentation om lanseringen av Commerce Services.
 * Se [Produkttillgänglighet](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) för att få tillgång till enskilda versionsinformation och verifiera tillgängligheten.
 
 >[!NOTE]
