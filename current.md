@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6935'
+source-wordcount: '6896'
 ht-degree: 5%
 
 ---
@@ -514,7 +514,6 @@ Nya videor, självstudiekurser eller kurser som publicerats för Experience Mana
 | Oktober 2023 | AEM CS | [[!DNL AEM as a Cloud Service] videor och självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | Uppdaterad video | Se en uppdaterad översiktsvideo som innehåller Edge Delivery Services i Adobe Experience Manager as a Cloud Service. |
 | Oktober 2023 | AEM CS | [Anropa interna API:er med privata certifikat](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | Video | Lär dig hur du gör HTTPS-anrop från AEM till webb-API:er med privata eller självsignerade certifikat. |
 | Oktober 2023 | AEM CS | [Vad är AEM Cloud Service?](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html) | Uppdaterad video | Se vad Experience Manager as a Cloud Service är och hur det skiljer sig från andra versioner av Adobe Experience Manager. |
-| Oktober 2023 | AEM CS | [AEM utveckling](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | Uppdaterad video | Lär dig mer om AEM utveckling och det värde den ger, från AEM 6.5 till AEM as a Cloud Service och slutligen till Edge Delivery Services. |
 | Oktober 2023 | Innehållsfragment | [Videor om Content Fragments Console](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | Uppdaterad video | Beskrivning |
 | Oktober 2023 | Säkerhet | [mTLS-autentisering (Mutual Transport Layer Security) från AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | Video | Lär dig hur du gör HTTPS-anrop från AEM till webb-API:er som kräver mTLS-autentisering. |
 
