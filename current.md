@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
+source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
 workflow-type: tm+mt
-source-wordcount: '6896'
+source-wordcount: '6881'
 ht-degree: 5%
 
 ---
@@ -34,9 +34,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## November 2023
 
-Senaste uppdatering: **27 oktober 2023**
+Senaste uppdatering: **16 november 2023**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **27 oktober**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **16 november**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
@@ -71,23 +71,17 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 +++Kommande event på Experience League
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Läs mer: Adobe Workfront Q4-2023 Release Roundup_ | **31 oktober kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** | Webbseminarium | _Optimera flerkanalskampanjer_ | **28 november kl. 8.00 PT** | [Registrera](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE PLATFORM]** | Webbseminarium | _Övervinn flerkanalsutmaningar inom detaljhandeln_ | **1 november kl. 9:00 PT** | [Registrera](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Frågor och svar | _Fråga experterna: Workfront for Training &amp; Enablement - uppföljning_ | **29 november kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL CAMPAIGN]** | Webbseminarium | _Adobe Campaign: Samordna, lansera och mät flerkanalskampanjer smidigt_ | **2 november kl. 9:00 BST** | [Registrera](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Community-event | _Connect: Adobe Workfront Community Chat_ | **5 december kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO]** och **[!DNL MARKETO ENGAGE]** | Lär dig av andra | _Hantera isolerade kanaler och data med Marketo Engage och Dynamic Chat_ | **2 november kl. 8.00** | [Registrera](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | Community-event | _Connect: Workfront Strategic Admin Chat_ | **11 december kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | Lär dig av andra | _The Art and Science of Impact Data Visualizations in Adobe Analytics_ | **2 november klockan 11:00 ET** | [Registrera](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101 - Ta med dina Workfront-frågor!_ | **12 december kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Lär dig av andra | _Fråga kundpanelen - Komma igång med gruppadministratörer_ | **2 november kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Admin Chat for Marketing &amp; Creative_ | **3 november kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL AEM]** och **[!DNL COMMERCE]** | Utvecklare live | _Innehåll och handel: En djupdykning i [!UICONTROL Edge Delivery Services], headless-funktioner, utbyggbarhet, sammansättningsbarhet och produktivitetsverktyg_ | **6 november kl. 8.00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webbseminarium | _Öka effektiviteten när det gäller framtagning och hantering av innehåll_ | **7 november kl. 8.00 PT** | [Registrera](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig: Årsslutsrapportering_ | **19 december kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa mer [kommande event](https://experienceleague.adobe.com/events?lang=sv/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
