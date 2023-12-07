@@ -1,15 +1,15 @@
 ---
 title: Senaste versionsinformation
-description: Hitta den senaste versionsinformation om produkter och tjänster i Adobe  [!DNL Experience Cloud] . Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för programmen i  [!DNL Experience Cloud] .
+description: Hitta den senaste versionsinformationen för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6867'
-ht-degree: 5%
+source-wordcount: '5561'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-På den här sidan hittar du versionsinformation för företagsapplikationer för Experience Cloud och Adobe. Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i Adobe kostnadsfria bibliotek med [dokumentation](https://experienceleague.adobe.com/docs/), [kurser](https://experienceleague.adobe.com/?lang=sv#courses), [händelser](https://experienceleague.adobe.com/events?lang=sv/), [communityforum](https://experienceleaguecommunities.adobe.com/?profile.language=en)och [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support).
+På den här sidan hittar du versionsinformation för företagsapplikationer för Experience Cloud och Adobe. Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i Adobe kostnadsfria bibliotek med [dokumentation](https://experienceleague.adobe.com/docs/), [kurser](https://experienceleague.adobe.com/?lang=sv#courses), [händelser](https://experienceleague.adobe.com/events/), [communityforum](https://experienceleaguecommunities.adobe.com/?profile.language=en)och [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support).
 
 Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [Produktuppdatering Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
@@ -37,7 +37,6 @@ Senaste uppdatering: **16 november 2023**
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) (släppt **26 oktober**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -62,19 +61,13 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 +++Kommande event på Experience League
 
-* **[!DNL JOURNEY OPTIMIZER]** | Webbseminarium | _Optimera flerkanalskampanjer_ | **28 november kl. 8.00 PT** | [Registrera](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** | Frågor och svar | _Fråga experterna: Workfront for Training &amp; Enablement - uppföljning_ | **29 november kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Community-event | _Connect: Adobe Workfront Community Chat_ | **5 december kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Community-event | _Connect: Workfront Strategic Admin Chat_ | **11 december kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101 - Ta med dina Workfront-frågor!_ | **12 december kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig: Årsslutsrapportering_ | **19 december kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Visa mer [kommande event](https://experienceleague.adobe.com/events?lang=sv/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
+Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
 +++
 
@@ -258,7 +251,7 @@ Hitta den senaste versionsinformationen för [!DNL Streaming Media Analytics]. S
 
 +++
 
-## ![Ikonen](/assets/audience-manager.png) Audience Manager {#aam}
+## ![Ikon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Uppdateringar och nytt innehåll för [!DNL Audience Manager].
 
@@ -287,7 +280,7 @@ Självhjälp finns på [Audience Manager dokumentation och självstudiekurser](h
 {style="table-layout:auto"}
  -->
 
-## ![Ikon](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![Ikon](/assets/aem.png) Adobe Experience Manager {#aem}
 
 Nya funktioner, korrigeringar och uppdateringar i Experience Manager. Adobe rekommenderar att kunder med lokal driftsättning driftsätter de senaste patcharna för att säkerställa högre stabilitet, säkerhet och prestanda.
 
@@ -436,7 +429,7 @@ Den senaste versionen av den förbättrade anslutningen Workfront för Experienc
 
 >[!NOTE]
 >
->AEM 6.4 upphör nu med utökat stöd. Mer information finns i Adobe [teknisk supportperiod](https://helpx.adobe.com/se/support/programs/eol-matrix.html). Hitta [versioner som stöds här](https://experienceleague.adobe.com/docs/?lang=sv).
+>AEM 6.4 upphör nu med utökat stöd. Mer information finns i Adobe [teknisk supportperiod](https://helpx.adobe.com/se/support/programs/eol-matrix.html). Hitta [versioner som stöds här](https://experienceleague.adobe.com/docs/?lang=en).
 
 >[!IMPORTANT]
 >
@@ -516,7 +509,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Mana
 
 ### Andra hjälpresurser för [!DNL Experience Manager]
 
-* [Handböcker om Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
+* [as a Cloud Service stödlinjer för Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
 * [Användarhandbok för Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en)
 * [Experience Manager 6.5 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 - startsida för utbildning och support](https://experienceleague.adobe.com/docs/experience-manager-64.html)
