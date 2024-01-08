@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
+source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
 workflow-type: tm+mt
 source-wordcount: '5856'
 ht-degree: 4%
@@ -713,7 +713,7 @@ Läs den senaste versionsinformationen och releasematerialet för [!DNL Marketo 
 
 ### Uppdateringar om Core Marketo Engage
 
-* Se [Oktober 2023 - aktuell versionsinformation](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) för den senaste informationen
+* Se [Januari 2024 - aktuell versionsinformation](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) för den senaste informationen
 * Se [!DNL Marketo Engage] [publiceringsschema](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) för information om senaste releaseschemat och versionsinformation.
 
 ### Självstudiekurser och kurser i nya Marketo Engage {#tutorials-marketo}
@@ -746,7 +746,7 @@ Nytt [!DNL Workfront] självstudiekurser på Experience League.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2023 | [Nyheter i Workfront självstudiekurser](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F) | Flera videor | Se de senaste självstudiekurserna som släppts den senaste månaden. |
+| Januari 2024 | [Nyheter i Workfront självstudiekurser](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F) | Flera videor | Se de senaste självstudiekurserna som släppts den senaste månaden. |
 
 {style="table-layout:auto"}
 
