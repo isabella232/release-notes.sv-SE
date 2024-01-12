@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
+source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
 workflow-type: tm+mt
-source-wordcount: '5856'
+source-wordcount: '5820'
 ht-degree: 4%
 
 ---
@@ -25,9 +25,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## November/december 2023
 
-Senaste uppdatering: **5 januari 2024**
+Senaste uppdatering: **12 januari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **5 januari**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **12 januari**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
@@ -59,15 +59,11 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **5 januari 2024**
+Uppdaterat **12 januari 2024**
 
 +++Kommande event på Experience League
 
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **5 januari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **8 januari kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Webbinarium | _Nyheter i Workfront 24.1_ | Workfront 24.1, webbinarium med kundkontakt | **11 januari kl. 8:00 MT** | [Registrera](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics_ | Lär dig hur du använder automatiserade processer för att flytta data och analyser från Adobe Analytics till Customer Journey Analytics, samt hur du kan tänka efter under resans gång. | **17 januari kl. 10:00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101 - Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Den här händelsen ger nya systemadministratörer tillgång till resurser, en rundown av systemnavigering och bästa metoder för den första konfigurationen. | **17 januari kl. 8:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -77,9 +73,9 @@ Uppdaterat **5 januari 2024**
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **2 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Branschcirkel - högre utbildning_ | Den första cirkeln är helt ny 2024 och är en informell, rundabordsbar diskussion som utformats för att föra samman Workfront-administratörer inom högre utbildning med nätverk, dela erfarenheter, inlärning och bästa metoder. | **8 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Branschcirkel - högre utbildning_ | Den första cirkeln är helt ny 2024 och är en informell, rundabordsbar diskussion som utformats för att föra samman Workfront-administratörer inom högre utbildning med nätverk, dela erfarenheter, inlärning och bästa praxis. | **8 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Få användarna att använda Workfront_ | Har du inte använt Workfront tidigare? Gå med i vårt månatliga möte för nya administratörer! Den här månaden kommer vi att diskutera de bästa sätten att implementera användare. | **14 februari kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Få användarna att använda Workfront_ | Har du inte använt Workfront tidigare? Gå med i vårt månatliga möte för nya administratörer! Den här månaden diskuterar vi de bästa sätten att implementera användare. | **14 februari kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
