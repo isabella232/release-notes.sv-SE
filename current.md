@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5820'
+source-wordcount: '6102'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 Senaste uppdatering: **12 januari 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **12 januari**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **Nyhet!**
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
@@ -80,6 +81,23 @@ Uppdaterat **12 januari 2024**
 Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
 +++
+
+## ![Ikon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) är en totallösning för att snabba upp och förenkla innehållsleveranskedjan med generativ AI och intelligent automatisering.
+
++++Information
+
+| Publicerad | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |
+| Januari 2024 | [GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | Videor | Visa självstudiekurser för Experience League på nya [!DNL Adobe GenStudio]. GenStudio är en totallösning som snabbar upp och förenklar innehållsförsörjningskedjan med generativ AI och intelligent automatisering. |
+| Januari 2024 | [Arbetsflöde och planering: Effektivisera och snabba upp arbetet](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | Videor | För det företag som kämpar med att knyta samman och spåra sina innehållskrav genom planeringsprocessen till innehållsproduktion och färdigställande. Brist på effektiva processer, planering, godkännanden och enhetlighet i projektövergripande data ger företagets innehållsleveranskedja både produktivitet och effektivitet. |
+| Januari 2024 | [Kreativ produktivitet: Överlägsna kreativa team](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | Videor | För det företag som har rockstjärnor men behöver kunna skapa innehåll. GenStudio har verktyg som är superladdade med GenAI och som hjälper teamet att öka sin innehållsproduktion, leverans och upptäckbarhet. |
+| Januari 2024 | [Marknadsföringsflexibilitet: Ge icke-kreativa möjlighet att skala](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | Videor | Med Adobe GenStudio kan ibland en innehållsförfrågan besvaras utan att det fullständiga teamet/studion behöver behandlas. Adobe förser marknadsförare och andra potentiella kreatörer med verktyg. Med de här verktygen kan du snabbt aktivera skapande av innehållsvariationer. Uppdateringarna kan utföras av en bredare grupp individer som är anslutna till innehållsförsörjningskedjan, vilket dramatiskt ökar innehållsflödet och time-to-market. |
+| Januari 2024 | [Leverans och aktivering: energiupplevelser och prestanda](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | Videor | För det företag som behöver stöd för att få rätt innehåll framför rätt person i rätt kanal. GenStudio gör anslutningen bättre än någon annan lösning, samtidigt som den ger analyser som säkerställer innehållets övergripande prestanda. |
+
+{style="table-layout:auto"}
+
 
 ## ![Ikon](/assets/certification-badge.png) Certifiering{#certification}
 
