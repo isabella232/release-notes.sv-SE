@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6102'
+source-wordcount: '6147'
 ht-degree: 4%
 
 ---
@@ -64,7 +64,9 @@ Uppdaterat **12 januari 2024**
 
 +++Kommande event på Experience League
 
-* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics_ | Lär dig hur du använder automatiserade processer för att flytta data och analyser från Adobe Analytics till Customer Journey Analytics, samt hur du kan tänka efter under resans gång. | **17 januari kl. 10:00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | Webbinarium | _Adobe Target Maturity Series för personalisering_ | Varumärken letar efter en plan för intelligent optimering för att öka effekten av verksamheten och utveckla sina personaliseringsstrategier. Följ oss när vi utforskar AI och automatisering i en tredelad webbinärserie! | **16 januari kl. 8:00 PT** | [Registrera](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]och CJA** | EXPERIENCE LEAGUE LIVE | _Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics_ | Lär dig hur du använder automatiserade processer för att flytta data och analyser från Adobe Analytics till Customer Journey Analytics, samt hur du kan tänka efter under resans gång. | **17 januari kl. 10:00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101 - Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Den här händelsen ger nya systemadministratörer tillgång till resurser, en rundown av systemnavigering och bästa metoder för den första konfigurationen. | **17 januari kl. 8:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
