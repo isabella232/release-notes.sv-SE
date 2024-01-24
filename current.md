@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
 workflow-type: tm+mt
-source-wordcount: '6145'
+source-wordcount: '6184'
 ht-degree: 7%
 
 ---
@@ -827,6 +827,10 @@ För [!DNL Document Cloud] självstudier, se:
 Nya videoklipp, självstudiekurser eller kurser som publicerats för program i [!DNL Adobe Creative Cloud for enterprise].
 
 +++Information
+
+| Publicerad | Program | Namn | Typ | Beskrivning |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Januari 2024 | Adobe Express | [Tutorials för Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Kom igång med att skapa fantastiskt material som sticker ut med generativ AI från Adobe Firefly. Designa flygblad, TikToks, resumes och Reels med Adobe Express. |
 
 Se [Självstudiekurser för Creative Cloud for enterprise](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) för de senaste självstudiekurserna.
 
