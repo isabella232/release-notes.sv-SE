@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6184'
+source-wordcount: '6186'
 ht-degree: 7%
 
 ---
@@ -34,7 +34,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 Senaste uppdatering: **24 januari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **24 januari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nyhet!**
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Senaste uppdatering: **24 januari 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Uppdaterat **24 januari**)
 * [Kunddatahantering - Voices](#voices)
 * [Digital Experience-utkast](#blueprints)
 * [Adobe produktsäkerhetsrisk](https://helpx.adobe.com/se/security.html)
@@ -826,11 +826,13 @@ För [!DNL Document Cloud] självstudier, se:
 
 Nya videoklipp, självstudiekurser eller kurser som publicerats för program i [!DNL Adobe Creative Cloud for enterprise].
 
+Uppdaterat **24 januari 2024**
+
 +++Information
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Januari 2024 | Adobe Express | [Tutorials för Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Kom igång med att skapa fantastiskt material som sticker ut med generativ AI från Adobe Firefly. Designa flygblad, TikToks, resumes och Reels med Adobe Express. |
+| Januari 2024 | [!DNL Adobe Express] | [Tutorials för Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videor | Kom igång med att skapa fantastiskt material som sticker ut med genererande AI med [!DNL Adobe Firefly]. Designa flygblad, TikToks, resumes och Reels med [!DNL Adobe Express]. |
 
 Se [Självstudiekurser för Creative Cloud for enterprise](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) för de senaste självstudiekurserna.
 
