@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
+source-git-commit: dff2ca5ce3e8a0dbe3e12e9e81a37da784a4d1f9
 workflow-type: tm+mt
-source-wordcount: '6186'
+source-wordcount: '6185'
 ht-degree: 7%
 
 ---
@@ -346,7 +346,7 @@ Adobe rekommenderar att du besöker följande resurser för att hålla dig uppda
 
 ### Video om den senaste versionsöversikten
 
-Titta på [Video om versionsöversikt för november 2023](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-11-0.html?lang=en) för en sammanfattning av funktioner som lagts till i version 2023.11.0 (november 2023).
+Titta på [Video om versionsöversikt, januari 2024](https://video.tv.adobe.com/v/3427041?quality=12") för en sammanfattning av funktioner som lagts till i version 2024.01.0 (januari 2024).
 
 ### [!DNL Experience Manager Sites] som [!DNL Cloud Service]
 
