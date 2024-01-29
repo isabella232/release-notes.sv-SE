@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dff2ca5ce3e8a0dbe3e12e9e81a37da784a4d1f9
+source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
 workflow-type: tm+mt
-source-wordcount: '6185'
-ht-degree: 7%
+source-wordcount: '6367'
+ht-degree: 6%
 
 ---
 
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Januari 2024
 
-Senaste uppdatering: **24 januari 2024**
+Senaste uppdatering: **29 januari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **24 januari**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **29 januari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nyhet!**
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ Senaste uppdatering: **24 januari 2024**
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (Uppdaterat **29 januari**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -68,11 +68,9 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **24 januari 2024**
+Uppdaterat **29 januari 2024**
 
 +++Kommande event på Experience League
-
-* **[!DNL WORKFRONT]** | Webbinarium | _Marketo &amp; Mochas: Fundamentals of Attribution Dashboards_ | Är era attribueringsmodeller och MPI-kontrollpaneler konfigurerade att utnyttja de kritiska prestandamätningarna nära till hands? Delta i våra Adobe-experter och lär dig hur ni kan använda dessa verktyg för att driva marknadsföringsteamets framgång. | **25 januari kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
 * **[!DNL EXPERIENCE MANAGER SITES]** | Webbinarium | _Öka effektiviteten när det gäller framtagning och hantering av innehåll._ | Upptäck hur ni kan förbättra innehållets hastighet med Adobe Experience Manager Sites upplevelsefragment. Få tips om hur ni kan leverera olika och personaliserade upplevelser i stor skala över alla kanaler. | **1 februari kl. 9.00 GMT** | [Registrera](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
@@ -82,7 +80,19 @@ Uppdaterat **24 januari 2024**
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Branschcirkel - högre utbildning_ | Den första branschcirkeln är helt ny 2024 och är en informell rundabordsdiskussion som utformats för att sammanföra [!DNL Workfront] Administratörer inom högre utbildning kan nätverka, dela erfarenheter, inlärning och bästa metoder. | **8 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL ANALYTICS]** | Webbinarium | _Datadripp: Marknadskanaler och attribueringsmodellering_ | Vet ni vilken påverkan era kundinteraktioner har på konverteringarna? Följ våra Adobe-experter när de visar hur vi konfigurerar marknadsföringskanaler och använder AI i Adobe Analytics för att skapa anpassade attribueringsmodeller. | **8 februari kl. 1:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Community-händelse | _Workfront Collections_ | Delta med andra Workfront-kunder i vår månatliga gemensamma problemlösning och session med andra! | **12 februari kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL DATA COLLECTION]** | Webbinarium | _Prioritering för dataström_ | Lär dig hantera prioriteringen av dataströmmar för kampanjsamordning för att öka er organisations förmåga att utföra datadriven personalisering. | **13 februari kl. 9.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Förbereda användarna för användning[!DNL Workfront]_ | Ny på [!DNL Workfront]? Gå med i vårt månatliga möte för nya administratörer! Den här månaden diskuterar vi de bästa sätten att implementera användare. | **14 februari kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | Webbinarium | _Strategiskt ledarskap i ett oöverträffat EU: Chefssponsorns styrka_ | Förvärva taktiker för att effektivt uppnå organisatoriska mål genom strategisk påverkan. Mötet är utformat för att ge chefer möjlighet att lyfta fram sin chefssponsring. | **15 februari kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | Webbinarium | _Lean Team Advantages: Lås upp möjligheterna för smidiga framgångar_ | Upptäck hur produktintegreringar kan effektivisera digitala arbetsflöden, förbättra teamets effektivitet och skala affärsprocesser. Lär dig tekniker som förbättrar samarbetet inom resurssnåla team för maximal produktivitet. | **20 februari kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Q &amp; A Chatt | _Fråga kundsupport - Felsöka vanliga layoutmallar och visa problem_ | Gå med i Workfront kundsupport för en&quot;Ask the Expert&quot;-session där du får lära dig bästa praxis och felsökningstips om layoutmallar och vyer. | **22 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
