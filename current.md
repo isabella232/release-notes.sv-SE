@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
+source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
 workflow-type: tm+mt
-source-wordcount: '6367'
-ht-degree: 6%
+source-wordcount: '6280'
+ht-degree: 7%
 
 ---
 
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Januari 2024
 
-Senaste uppdatering: **29 januari 2024**
+Senaste uppdatering: **1 februari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **29 januari**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **1 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nyhet!**
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,13 +68,9 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **29 januari 2024**
+Uppdaterat **1 februari 2024**
 
 +++Kommande event på Experience League
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webbinarium | _Öka effektiviteten när det gäller framtagning och hantering av innehåll._ | Upptäck hur ni kan förbättra innehållets hastighet med Adobe Experience Manager Sites upplevelsefragment. Få tips om hur ni kan leverera olika och personaliserade upplevelser i stor skala över alla kanaler. | **1 februari kl. 9.00 GMT** | [Registrera](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | Webbinarium | _Handel och kaffe: personalisera e-handelsupplevelser med AI_ | Det har aldrig varit enklare att personalisera e-handelsupplevelser för den enskilda kunden. Gå med i Adobe egen Corey Gelato och lär dig hur AI enkelt kan skräddarsy produkter, mejl och webbplatser i Adobe Commerce. | **1 februari klockan 1:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session kopplar samman er med andra administratörer för att diskutera bästa praxis och tips och tricks. | **2 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
