@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6280'
+source-wordcount: '6279'
 ht-degree: 7%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Januari 2024
 
-Senaste uppdatering: **1 februari 2024**
+Senaste uppdatering: **7 februari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **1 februari**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **7 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nyhet!**
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **1 februari 2024**
+Uppdaterat **7 februari 2024**
 
 +++Kommande event på Experience League
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session kopplar samman er med andra administratörer för att diskutera bästa praxis och tips och tricks. | **2 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Använd fallspelningsböcker: självbetjäningsmallar för att distribuera användningsexempel med bara några klick_ | Läs om hur Use Case Playbooks kan omvandla era marknadsföringsmål till implementeringsobjekt med bara några klick! | **8 februari kl. 9:00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Branschcirkel - högre utbildning_ | Den första branschcirkeln är helt ny 2024 och är en informell rundabordsdiskussion som utformats för att sammanföra [!DNL Workfront] Administratörer inom högre utbildning kan nätverka, dela erfarenheter, inlärning och bästa metoder. | **8 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
