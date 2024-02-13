@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6279'
+source-wordcount: '6093'
 ht-degree: 7%
 
 ---
@@ -70,17 +70,7 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 Uppdaterat **7 februari 2024**
 
-+++Kommande event på Experience League
-
-* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Använd fallspelningsböcker: självbetjäningsmallar för att distribuera användningsexempel med bara några klick_ | Läs om hur Use Case Playbooks kan omvandla era marknadsföringsmål till implementeringsobjekt med bara några klick! | **8 februari kl. 9:00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | Kundworkshop | _Connect: Branschcirkel - högre utbildning_ | Den första branschcirkeln är helt ny 2024 och är en informell rundabordsdiskussion som utformats för att sammanföra [!DNL Workfront] Administratörer inom högre utbildning kan nätverka, dela erfarenheter, inlärning och bästa metoder. | **8 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webbinarium | _Datadripp: Marknadskanaler och attribueringsmodellering_ | Vet ni vilken påverkan era kundinteraktioner har på konverteringarna? Följ våra Adobe-experter när de visar hur vi konfigurerar marknadsföringskanaler och använder AI i Adobe Analytics för att skapa anpassade attribueringsmodeller. | **8 februari kl. 1:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Community-händelse | _Workfront Collections_ | Delta med andra Workfront-kunder i vår månatliga gemensamma problemlösning och session med andra! | **12 februari kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | Webbinarium | _Prioritering för dataström_ | Lär dig hantera prioriteringen av dataströmmar för kampanjsamordning för att öka er organisations förmåga att utföra datadriven personalisering. | **13 februari kl. 9.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++Information
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Förbereda användarna för användning[!DNL Workfront]_ | Ny på [!DNL Workfront]? Gå med i vårt månatliga möte för nya administratörer! Den här månaden diskuterar vi de bästa sätten att implementera användare. | **14 februari kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
