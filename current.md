@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
 workflow-type: tm+mt
-source-wordcount: '5484'
+source-wordcount: '5403'
 ht-degree: 6%
 
 ---
@@ -70,10 +70,6 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 Uppdaterat **14 februari 2024**
 
 +++Information
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webbinarium | _Strategiskt ledarskap i ett oöverträffat EU: Chefssponsorns styrka_ | Förvärva taktiker för att effektivt uppnå organisatoriska mål genom strategisk påverkan. Mötet är utformat för att ge chefer möjlighet att lyfta fram sin chefssponsring. | **15 februari kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webbinarium | _Lean Team Advantages: Lås upp möjligheterna för smidiga framgångar_ | Upptäck hur produktintegreringar kan effektivisera digitala arbetsflöden, förbättra teamets effektivitet och skala affärsprocesser. Lär dig tekniker som förbättrar samarbetet inom resurssnåla team för maximal produktivitet. | **20 februari kl. 10.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Q &amp; A Chatt | _Fråga kundsupport - Felsöka vanliga layoutmallar och visa problem_ | Gå med i Workfront kundsupport för en&quot;Ask the Expert&quot;-session där du får lära dig bästa praxis och felsökningstips om layoutmallar och vyer. | **22 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
