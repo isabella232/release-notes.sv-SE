@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5403'
+source-wordcount: '5413'
 ht-degree: 6%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Februari 2024
 
-Senaste uppdatering: **14 februari 2024**
+Senaste uppdatering: **26 februari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events)  (uppdaterad **26 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **14 februari 2024**
+Uppdaterat **26 februari 2024**
 
 +++Information
 
-* **[!DNL WORKFRONT]** | Q &amp; A Chatt | _Fråga kundsupport - Felsöka vanliga layoutmallar och visa problem_ | Gå med i Workfront kundsupport för en&quot;Ask the Expert&quot;-session där du får lära dig bästa praxis och felsökningstips om layoutmallar och vyer. | **22 februari kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Frågor och svar - chatt | _Fråga kundpanelen: Öka din karriär med Workfront_ | Den första panelen 2024 ger dig tre inspirerande Workfront-kunder som har skapat en karriär med hjälp av sin Workfront-expertis. Träffa oss på en timmes diskussion och lär dig de färdigheter som krävs för att lyckas. | **27 februari kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
