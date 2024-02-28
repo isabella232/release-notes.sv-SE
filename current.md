@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
+source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
 workflow-type: tm+mt
-source-wordcount: '5413'
+source-wordcount: '5735'
 ht-degree: 6%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Februari 2024
 
-Senaste uppdatering: **26 februari 2024**
+Senaste uppdatering: **28 februari 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)  (uppdaterad **26 februari**)
+* [[!DNL Experience League] händelser och uppdateringar](#events)  (uppdaterad **28 februari**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,27 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **26 februari 2024**
+Uppdaterat **28 februari 2024**
 
 +++Information
 
-* **WORKFRONT** | Frågor och svar - chatt | _Fråga kundpanelen: Öka din karriär med Workfront_ | Den första panelen 2024 ger dig tre inspirerande Workfront-kunder som har skapat en karriär med hjälp av sin Workfront-expertis. Träffa oss på en timmes diskussion och lär dig de färdigheter som krävs för att lyckas. | **27 februari kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **EXPERIENCE MANAGER** | Webbinarium | _EMEA AEM Community_ | Vi kommer att ha ett mycket interaktivt seminarium om innehållsleveranskedjan för att diskutera era mål, era prestationer hittills, de utmaningar ni står inför och hur ni kan ta itu med dem. | **29 februari kl. 3:00 GMT** | [Registrera](https://registration.adobe.com/AdobeAEM24/)
+
+* **ADMIN and CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Ligger steget före med nya Adobe Campaign webbgränssnitt_ | Besök oss den 29 februari och lär dig att planera, lansera och mäta flerkanalsstrategier med nya Adobe Campaign webbanvändargränssnitt och få en förgranskning av nya generativa AI-funktioner. | **29 februari kl. 8.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **EXPERIENCE MANAGER** | Livesream | _App Builder blir 10.0_ | Gå med i utvecklingsteamet för App Builder och lär dig vad som är nytt i den senaste CLI-versionen, liksom vad som är på gång, inklusive några nya metoder för att göra felsökning mycket enklare och mer! | **29 februari kl. 9:00 PT** | [Registrera](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **WORKFRONT** | Kundworkshop | _Lär dig mer om Workfront för juridik och efterlevnad_ | Gå med i vårt seminarium om hur ni kan effektivisera era era processer, utöka er Workfront-plattform till en större publik i organisationen och öka er acceptans. | **29 februari kl. 9.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **1 mars kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Resurshantering_ | Utforska ett av Workfront mest effektiva användningsfall, Resource Management, när Adobe Workfront Business Advisor går igenom utkast för att enkelt skapa arbetsstyrningssystem som utvecklas efter dina behov. | **7 mars klockan 1:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER** | Webbinarium | _Espressos &amp; Experience Manager: Why AEM is More Power in the Cloud_ | Delta i Adobe experter som diskuterar hur ni ska få en smidig övergång till molnet genom innehållsbedömning och migreringsplanering med verktyg som Best Practice Analyzer och Cloud Acceleration Manager. | **14 mars kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
