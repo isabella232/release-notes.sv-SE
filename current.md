@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
+source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
 workflow-type: tm+mt
-source-wordcount: '5735'
+source-wordcount: '5727'
 ht-degree: 6%
 
 ---
@@ -73,21 +73,21 @@ Uppdaterat **28 februari 2024**
 
 * **EXPERIENCE MANAGER** | Webbinarium | _EMEA AEM Community_ | Vi kommer att ha ett mycket interaktivt seminarium om innehållsleveranskedjan för att diskutera era mål, era prestationer hittills, de utmaningar ni står inför och hur ni kan ta itu med dem. | **29 februari kl. 3:00 GMT** | [Registrera](https://registration.adobe.com/AdobeAEM24/)
 
-* **ADMIN and CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Ligger steget före med nya Adobe Campaign webbgränssnitt_ | Besök oss den 29 februari och lär dig att planera, lansera och mäta flerkanalsstrategier med nya Adobe Campaign webbanvändargränssnitt och få en förgranskning av nya generativa AI-funktioner. | **29 februari kl. 8.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240229.html)
+* **ADMIN and CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Ligger steget före med nya Adobe Campaign webbgränssnitt_ | Besök oss den 29 februari och lär dig att planera, lansera och mäta flerkanalsstrategier med nya Adobe Campaign Web User Interface och få en förhandsgranskning av nya generativa AI-funktioner. | **29 februari kl. 8.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
-* **EXPERIENCE MANAGER** | Livesream | _App Builder blir 10.0_ | Gå med i utvecklingsteamet för App Builder och lär dig vad som är nytt i den senaste CLI-versionen, liksom vad som är på gång, inklusive några nya metoder för att göra felsökning mycket enklare och mer! | **29 februari kl. 9:00 PT** | [Registrera](https://streamyard.com/watch/i7TEbhnR73h9)
+* **EXPERIENCE MANAGER** | Livesream | _App Builder blir 10.0_ | Gå med i utvecklingsteamet för App Builder och lär dig vad som är nytt i den senaste CLI-versionen och vad som är på gång, inklusive några nya metoder som gör felsökning enklare och mer därtill! | **29 februari kl. 9:00 PT** | [Registrera](https://streamyard.com/watch/i7TEbhnR73h9)
 
 * **WORKFRONT** | Kundworkshop | _Lär dig mer om Workfront för juridik och efterlevnad_ | Gå med i vårt seminarium om hur ni kan effektivisera era era processer, utöka er Workfront-plattform till en större publik i organisationen och öka er acceptans. | **29 februari kl. 9.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **1 mars kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session kopplar samman er med andra administratörer för att diskutera bästa praxis och tips och tricks. | **1 mars kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Resurshantering_ | Utforska ett av Workfront mest effektiva användningsfall, Resource Management, när Adobe Workfront Business Advisor går igenom utkast för att enkelt skapa arbetsstyrningssystem som utvecklas efter dina behov. | **7 mars klockan 1:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Resurshantering_ | Utforska ett av Workfront mest effektiva användningsfall, Resource Management, när Adobe Workfront Business Advisor går igenom utkast för att enkelt skapa arbetsstyrningssystem som utvecklas efter dina behov. | **7 mars klockan 1:00 ET** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Webbinarium | _Espressos &amp; Experience Manager: Why AEM is More Power in the Cloud_ | Delta i Adobe experter som diskuterar hur ni ska få en smidig övergång till molnet genom innehållsbedömning och migreringsplanering med verktyg som Best Practice Analyzer och Cloud Acceleration Manager. | **14 mars kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER** | Webbinarium | _Espressos &amp; Experience Manager: Why AEM is More Power in the Cloud_ | Delta i Adobe experter som diskuterar hur ni ska få en smidig övergång till molnet genom innehållsbedömning och migreringsplanering med verktyg som Best Practice Analyzer och Cloud Acceleration Manager. | **14 mars kl. 13:00 ET** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
@@ -658,7 +658,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 | Februari 2024 | [Förhandsgranska, granska och publicera](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html) | Video | Lär dig hur du testar e-poståtergivning i olika inkorgar med Litmus, hur du förhandsgranskar anpassade e-postmeddelanden mot testprofiler, skickar korrektur och publicerar e-postmeddelanden. |
 | Februari 2024 | [Publicera en rese- och resestatus](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/publish-a-journey.html) | Video | Förstå olika tillstånd för en resa och effekten av publicering. |
 | Februari 2024 | [Mobilfunktioner för marknadsförare](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/mobile-capabilities.html) | Video | Förstå vilka mobilfunktioner Adobe Journey Optimizer erbjuder marknadsförare. |
-| Februari 2024 | [Dubbel anmälan för Sinch och Infobip](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | Video | Lär dig hur du konfigurerar dubbel anmälan för SMS. |
+| Februari 2024 | [Dubbel anmälan för [!DNL Sinch] och [!DNL Infobip]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html) | Video | Lär dig hur du konfigurerar dubbel anmälan för SMS. |
 | Februari 2024 | [Viktiga funktioner och användargränssnittet](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface.html) | Video | Förstå Journey Optimizer nyckelfunktioner och personligheter. Lär dig navigera i användargränssnittet. |
 | Februari 2024 | [Introduktion till att skapa en resa](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Förstå grunderna för att skapa en resa på researbetsytan. |
 
