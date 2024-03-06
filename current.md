@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5727'
+source-wordcount: '5538'
 ht-degree: 6%
 
 ---
@@ -71,17 +71,9 @@ Uppdaterat **28 februari 2024**
 
 +++Information
 
-* **EXPERIENCE MANAGER** | Webbinarium | _EMEA AEM Community_ | Vi kommer att ha ett mycket interaktivt seminarium om innehållsleveranskedjan för att diskutera era mål, era prestationer hittills, de utmaningar ni står inför och hur ni kan ta itu med dem. | **29 februari kl. 3:00 GMT** | [Registrera](https://registration.adobe.com/AdobeAEM24/)
+* **KAMPANJ (V7, V8)** | Kaffebrytning | _Adobe Campaign Community Q&amp;A Coffee Break_ | Besök oss under en timmes lång chattsession runt Adobe Campaign nya webbanvändargränssnitt med vårt Adobe Campaign Product team. | **7 mars kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **ADMIN and CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Ligger steget före med nya Adobe Campaign webbgränssnitt_ | Besök oss den 29 februari och lär dig att planera, lansera och mäta flerkanalsstrategier med nya Adobe Campaign Web User Interface och få en förhandsgranskning av nya generativa AI-funktioner. | **29 februari kl. 8.00 PT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **EXPERIENCE MANAGER** | Livesream | _App Builder blir 10.0_ | Gå med i utvecklingsteamet för App Builder och lär dig vad som är nytt i den senaste CLI-versionen och vad som är på gång, inklusive några nya metoder som gör felsökning enklare och mer därtill! | **29 februari kl. 9:00 PT** | [Registrera](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **WORKFRONT** | Kundworkshop | _Lär dig mer om Workfront för juridik och efterlevnad_ | Gå med i vårt seminarium om hur ni kan effektivisera era era processer, utöka er Workfront-plattform till en större publik i organisationen och öka er acceptans. | **29 februari kl. 9.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session kopplar samman er med andra administratörer för att diskutera bästa praxis och tips och tricks. | **1 mars kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Resurshantering_ | Utforska ett av Workfront mest effektiva användningsfall, Resource Management, när Adobe Workfront Business Advisor går igenom utkast för att enkelt skapa arbetsstyrningssystem som utvecklas efter dina behov. | **7 mars klockan 1:00 ET** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Resurshantering_ | Utforska ett av Workfront mest effektiva användningsfall, Resource Management, när Adobe Workfront Business Advisor går igenom utkast för att enkelt skapa arbetsstyrningssystem som utvecklas efter dina behov. | **7 mars klockan 1:00 ET** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
