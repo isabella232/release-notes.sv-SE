@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5455'
+source-wordcount: '5528'
 ht-degree: 6%
 
 ---
@@ -73,9 +73,11 @@ Uppdaterat **28 februari 2024**
 
 * **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Kundworkshop | _Admin 101: Hämta Workfront-data_ | Har du inte använt Workfront tidigare? Delta i våra månatliga möten med&quot;Ny administratör&quot; för att ställa frågor, få resurser och rekommendationer, träffa andra nya administratörer och för den här sessionen lära dig de bästa metoderna för all rapportering i Workfront. | **13 mars kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Webbinarium | _Espressos &amp; Experience Manager: Why AEM is More Power in the Cloud_ | Delta i Adobe experter som diskuterar hur ni ska få en smidig övergång till molnet genom innehållsbedömning och migreringsplanering med verktyg som Best Practice Analyzer och Cloud Acceleration Manager. | **14 mars kl. 13:00 ET** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | AEM GEMS | _Kom igång med AEM och Edge Delivery Services_ | Gå med AEM GEM:s webbinarium för att komma igång med AEM med Edge Delivery Services. Lär dig hur du skapar en AEM projektutveckling tillsammans med WYSIWYG-redigering med AEM molntjänst. | **13 mars kl. 9:00 PT** | [Registrera](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **EXPERIENCE MANAGER** | Webbinarium | _Espressos &amp; Experience Manager: Why AEM is More Power in the Cloud_ | Delta i Adobe experter som diskuterar hur ni ska få en smidig övergång till molnet genom innehållsbedömning och migreringsplanering med verktyg som Best Practice Analyzer och Cloud Acceleration Manager. | **14 mars kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
