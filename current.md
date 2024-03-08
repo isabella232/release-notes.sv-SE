@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5538'
+source-wordcount: '5455'
 ht-degree: 6%
 
 ---
@@ -70,10 +70,6 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 Uppdaterat **28 februari 2024**
 
 +++Information
-
-* **KAMPANJ (V7, V8)** | Kaffebrytning | _Adobe Campaign Community Q&amp;A Coffee Break_ | Besök oss under en timmes lång chattsession runt Adobe Campaign nya webbanvändargränssnitt med vårt Adobe Campaign Product team. | **7 mars kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Resurshantering_ | Utforska ett av Workfront mest effektiva användningsfall, Resource Management, när Adobe Workfront Business Advisor går igenom utkast för att enkelt skapa arbetsstyrningssystem som utvecklas efter dina behov. | **7 mars klockan 1:00 ET** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Gå med i andra Workfront-kunder för en gemensam problemlösning och en session där de delar med sig av sina erfarenheter! | **11 mars kl. 6:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
