@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6123'
+source-wordcount: '6086'
 ht-degree: 6%
 
 ---
@@ -605,7 +605,6 @@ Nya eller uppdaterade videokurser publicerade för Adobe Campaign.
 | Februari 2024 | Webbanvändargränssnitt för Campaign | [Hantera och bygga målgrupper](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Lär dig hur du bygger och hanterar målgrupper, hur du väljer målgrupper för en leverans och definierar kontrollgrupper. |
 | Februari 2024 | Webbanvändargränssnitt för Campaign | [Skapa ett målinriktat arbetsflöde](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Lär dig hur arbetsflöden fungerar och hur du skapar ett arbetsflöde med målinriktning. |
 | Februari 2024 | Webbanvändargränssnitt för Campaign | [Skapa en e-postleverans](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Video | Lär dig hur du skapar en e-postleverans från grunden, definierar målgruppen, utformar innehållet, simulerar förhandsgranskning och skickar ett korrektur. |
-| Februari 2024 | Webbanvändargränssnitt för Campaign | [Designa e-postinnehåll från grunden](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Lär dig navigera i e-postdesignern. Lär dig strukturera och utforma ett e-postmeddelande från grunden, hur du anpassar och testar e-postmeddelandet. |
 | Februari 2024 | Campaign Web User Interface, Experience Platform | [Skapa en målgrupp med Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Lär dig hur du skapar en målgrupp där du kan använda Experience Platform i Adobe Campaign. |
 | Februari 2024 | Webbanvändargränssnitt för Campaign | [Skapa ett e-postmeddelande genom att överföra HTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Video | Lär dig hur du skapar ett e-postmeddelande genom att överföra HTML, hur du gör det kompatibelt med e-postdesignern och hur du konverterar det till en mall. |
 | Februari 2024 | Webbanvändargränssnitt för Campaign | [Avbeställ Dos and Don](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Artikel | Använd en lista över saker som du bör göra och saker som du inte bör göra när du hanterar avanmälan. |
