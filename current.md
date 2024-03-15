@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6086'
+source-wordcount: '5994'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Mars 2024
 
-Senaste uppdatering: **13 mars 2024**
+Senaste uppdatering: **15 mars 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -40,8 +40,8 @@ Senaste uppdatering: **13 mars 2024**
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (släppt **13 mars**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (släppt **13 mars**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **Mars 2024**
+Uppdaterat **15 mars 2024**
 
 +++Information
 
-* **WORKFRONT** | Kundworkshop | _Admin 101: Hämta Workfront-data_ | Har du inte använt Workfront tidigare? Delta i våra månatliga möten med&quot;Ny administratör&quot; för att ställa frågor, få resurser och rekommendationer, träffa andra nya administratörer och för den här sessionen lära dig de bästa metoderna för all rapportering i Workfront. | **13 mars kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | AEM GEMS | _Kom igång med AEM och Edge Delivery Services_ | Gå med AEM GEM:s webbinarium för att komma igång med AEM med Edge Delivery Services. Lär dig hur du skapar en AEM projektutveckling tillsammans med WYSIWYG-redigering med AEM molntjänst. | **13 mars kl. 9:00 PT** | [Registrera](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **EXPERIENCE MANAGER** | Webbinarium | _Espressos &amp; Experience Manager: Why AEM is More Power in the Cloud_ | Delta i Adobe experter som diskuterar hur ni ska få en smidig övergång till molnet genom innehållsbedömning och migreringsplanering med verktyg som Best Practice Analyzer och Cloud Acceleration Manager. | **14 mars kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | Kundworkshop | _Admin 101 - Ta med dina Workfront-frågor_ | Missade du tidigare Admin 101-sessioner eller har du fortfarande frågor? Följ oss en timlång uppföljning av serien där vi sammanfattar sessionerna och öppnar den för frågor och svar! | **20 mars kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
