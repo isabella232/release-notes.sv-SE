@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
+source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
 workflow-type: tm+mt
-source-wordcount: '5994'
+source-wordcount: '5945'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Mars 2024
 
-Senaste uppdatering: **15 mars 2024**
+Senaste uppdatering: **22 mars 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -70,8 +70,6 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 Uppdaterat **15 mars 2024**
 
 +++Information
-
-* **WORKFRONT** | Kundworkshop | _Admin 101 - Ta med dina Workfront-frågor_ | Missade du tidigare Admin 101-sessioner eller har du fortfarande frågor? Följ oss en timlång uppföljning av serien där vi sammanfattar sessionerna och öppnar den för frågor och svar! | **20 mars kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
@@ -538,7 +536,7 @@ Nya självstudiekurser för [!DNL Adobe Commerce] på Experience League.
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
 | Februari 2024 | [Ansluta och köra frågor mot Adobe Commerce-databasen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/remote-db-connection-execute-queries.html?lang=en) | Video | Lär dig hur du ansluter till ett Adobe Commerce-projekt i molnet, dumpar en databas för användning utanför webbplatsen och maskerar PII och tar bort den. |
-| Februari 2024 | [Teknisk introduktion och maskinvaruhantering från Commerce Cloud - Tidslinjen för startprocessen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/launch-process-timeline.html) | Video | Läs mer om Adobe Commerce Cloud tekniska introduktion till tidslinjen för startprocessen. |
+| Februari 2024 | [Teknisk introduktion och maskinvaruhantering från Commerce Cloud - Tidslinjen för startprocessen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/launch-process-timeline.html) | Video | Lär dig mer om Adobe Commerce Clouds tekniska registrering för lanseringsprocessens tidslinje. |
 
 {style="table-layout:auto"}
 
