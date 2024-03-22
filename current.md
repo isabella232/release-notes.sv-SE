@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
+source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
 workflow-type: tm+mt
-source-wordcount: '5945'
+source-wordcount: '5973'
 ht-degree: 6%
 
 ---
@@ -714,6 +714,12 @@ Läs om den senaste versionsinformationen för [!DNL Adobe Workfront]. Hitta nya
 
 +++Information
 
+### [!DNL Adobe Workfront] uppdateringar
+
+* Se [Adobe Workfront produktreleaser](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) sida för information om Workfront release schedule och versionsinformation.
+
+* Se [Översikt över publiceringsaktiviteten för Adobe Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) för den senaste informationen om Fusion.
+
 ### New Adobe [!DNL Workfront] kurser och självstudier {#tutorials-workfront}
 
 Nytt [!DNL Workfront] självstudiekurser på Experience League.
@@ -741,7 +747,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-Se [[!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) för att få en sammanfattning av den senaste informationen om alla produkter.
+Den senaste produktdokumentationen finns i [Adobe [!DNL Workfront] dokumentstartsida](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
